@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>29107</sentences><tokens>494163</tokens><words>501776</words><fused>7173</fused></total>
+    <train><sentences>26196</sentences><tokens>445587</tokens><words>452496</words><fused>6508</fused></train>
+    <dev><sentences>1456</sentences><tokens>24751</tokens><words>25147</words><fused>369</fused></dev>
+    <test><sentences>1455</sentences><tokens>23825</tokens><words>24133</words><fused>296</fused></test>
+  </size>
+  <lemmas unique="21614" /><!-- ., و, کرد#کن, را, به, در, از, که, ،, بود#باش, با, این, #است, خواست#خواه, شد#شو -->
+  <forms unique="33625" /><!-- ., و, را, به, در, از, که, ،, با, این, است, کرد, خود, آن, برای -->
+  <fusions unique="3308" /><!-- مرا, خودش, خودم, خودتان, خودمان, خودشان, برایش, دلم, پدرم, خودت, بدین, برایم, مادرم, بدان, پدرش -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">35350</tag><!-- دیگر, پیدا, بیش, بزرگ, زیاد, جدید, کم, اسلامی, به, مختلف -->
+    <tag name="ADP">71087</tag><!-- را, به, در, از, با, برای, بر, تا, روی, پس -->
+    <tag name="ADV">8263</tag><!-- هم, نیز, تنها, نه, حتی, فقط, بسیار, خیلی, چگونه, چرا -->
+    <tag name="AUX">20790</tag><!-- بود#باش, #است, خواست#خواه, #هست, بایست#باید, شد#شو, #توان, داشت#دار, بر#خواست#خواه, در#خواست#خواه -->
+    <tag name="CCONJ">22289</tag><!-- و, یا, اما, ولی, که, بلکه, لکن, -, ،, همچنین -->
+    <tag name="DET">10438</tag><!-- این, هر, آن, هیچ, چه, چند, همان, همین, برخی, چنین -->
+    <tag name="INTJ">697</tag><!-- یعنی, ای, کاش, انگار, ا, نه, مبادا, گویی, یا, گویا -->
+    <tag name="NOUN">168216</tag><!-- کس, سال, مردم, کار, روز, دست, کشور, همه, خدا, وقت -->
+    <tag name="NUM">6181</tag><!-- یک, دو, هزار, سه, میلیون, چهار, میلیارد, 10, 20, پنج -->
+    <tag name="PART">451</tag><!-- آیا, که, مگر, دیگر -->
+    <tag name="PRON">24140</tag><!-- او, من, خود, ما, آن, آنها, شما, تو, این, هم -->
+    <tag name="PROPN">23733</tag><!-- ایران, امام, آمریکا, قرآن, علی, جهان, تهران, پیامبر, اسلامی, حسین -->
+    <tag name="PUNCT">44336</tag><!-- ., ،, ؟, (, ), ", !, «, », : -->
+    <tag name="SCONJ">13777</tag><!-- که, اگر, تا, چون, زیرا, چنانچه, چرا, اگرچه, گرچه, وگرنه -->
+    <tag name="VERB">52027</tag><!-- کرد#کن, شد#شو, داد#ده, داشت#دار, زد#زن, گرفت#گیر, توانست#توان, گفت#گو, آمد#آ, رفت#رو -->
+    <tag name="X">1</tag><!-- ی -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="16">
+    <feat name="Mood" value="Imp" upos="VERB">2549</feat><!-- کنید, کن, نکنید, بکنید, بزنید, بدهید, دهید, بگیرید, نکن, بگذارید -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">1412</feat><!-- باشد, باشند, باشم, باشید, باشیم, شود, باشی, شوند, نشود, بشود -->
+    <feat name="Number" value="Plur" upos="AUX,NOUN,NUM,PRON,PROPN,VERB">57805</feat><!-- ما, شما, خواهند, آنها, کنید, مردم, می‌کنند, بودند, شان, کرده‌اند -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,NOUN,NUM,PRON,PROPN,PUNCT,SCONJ,VERB">223966</feat><!-- است, کرد, کرده, بود, او, آن, ش, خواهد, من, م -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">15506</feat><!-- ما, من, م, خواهم, مان, می‌کنیم, خواهیم, کردم, بودم, کنیم -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">10128</feat><!-- شما, کنید, تو, تان, ت, می‌کنید, نکنید, بکنید, کن, باشید -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">62223</feat><!-- است, کرد, کرده, بود, او, ش, خواهد, می‌کند, شد, خواهند -->
+    <feat name="Polarity" value="Neg" upos="AUX,VERB">4461</feat><!-- نیست, نکنید, نباید, ندارد, نبود, نخواهد, نمی‌تواند, نکرده, نمی‌شود, نمی‌توان -->
+    <feat name="PronType" value="Prs" upos="PRON">5697</feat><!-- ش, م, شان, تان, مان, ت, اش, ام, یش, ات -->
+    <feat name="Tense" value="Fut" upos="AUX">4613</feat><!-- خواهد, خواهند, خواهم, خواهیم, خواهید, نخواهد, خواهی, نخواهم, نخواهند, نخواهیم -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">25007</feat><!-- کرد, کرده, بود, شد, بودند, شده, داد, کردند, داشت, داده -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">17879</feat><!-- است, می‌کند, می‌کنند, می‌شود, باشد, کنید, دارد, می‌کنیم, باشند, می‌کنید -->
+    <feat name="VerbForm" value="Fin" upos="AUX">4613</feat><!-- خواهد, خواهند, خواهم, خواهیم, خواهید, نخواهد, خواهی, نخواهم, نخواهند, نخواهیم -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">5642</feat><!-- کرده, کرده‌اند, شده, داده, کرده‌ام, کرده‌ایم, داشته, کرده‌اید, آمده, شده‌اند -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">51138</feat><!-- کرد, کرده, می‌کند, شد, کنید, می‌کنند, کند, می‌کرد, شده, کرده‌اند -->
+    <feat name="Voice" value="Pass" upos="AUX,VERB">1081</feat><!-- داده, شده, زده, گرفته, دیده, گفته, گذاشته, ساخته, کشیده, برده -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="35">
+    <dep name="acl">10034</dep>
+    <dep name="advcl">4228</dep>
+    <dep name="advmod">9158</dep>
+    <dep name="amod">22576</dep>
+    <dep name="appos">1056</dep>
+    <dep name="aux">12884</dep>
+    <dep name="aux:pass">822</dep>
+    <dep name="case">71118</dep>
+    <dep name="cc">21300</dep>
+    <dep name="ccomp">6945</dep>
+    <dep name="compound">42</dep>
+    <dep name="compound:lvc">32778</dep>
+    <dep name="conj">23739</dep>
+    <dep name="cop">6366</dep>
+    <dep name="csubj">682</dep>
+    <dep name="dep">2035</dep>
+    <dep name="det">10273</dep>
+    <dep name="fixed">144</dep>
+    <dep name="flat:name">7899</dep>
+    <dep name="flat:num">607</dep>
+    <dep name="goeswith">2</dep>
+    <dep name="iobj">6</dep>
+    <dep name="mark">11982</dep>
+    <dep name="nmod">61062</dep>
+    <dep name="nsubj">27181</dep>
+    <dep name="nsubj:pass">533</dep>
+    <dep name="nummod">5459</dep>
+    <dep name="obj">19999</dep>
+    <dep name="obl">30737</dep>
+    <dep name="obl:arg">21510</dep>
+    <dep name="parataxis">82</dep>
+    <dep name="punct">44336</dep>
+    <dep name="root">29107</dep>
+    <dep name="vocative">174</dep>
+    <dep name="xcomp">4920</dep>
+  </deps>
+</treebank>
