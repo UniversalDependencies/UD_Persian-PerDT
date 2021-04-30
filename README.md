@@ -48,6 +48,12 @@ For feedback and bug reports, please contact rasooli@seas.upenn.edu and pegh.saf
 
 *  Mohammad Sadegh Rasooli, Pegah Safari, Amirsaeid Moloodi, and Alireza Nourian. "The Persian Dependency Treebank Made Universal". 2020 (to appear).
 
+# Change Log
+
+* 2021-05-15 v2.8
+  * Undocumented relation compound:lv changed to compound:lvc to pass validation.
+* 2020-11-15 v2.7
+  * Initial release in Universal Dependencies.
 
 
 # Metadata
