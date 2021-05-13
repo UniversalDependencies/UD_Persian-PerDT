@@ -720,7 +720,7 @@
 84	چنین	چنین	DET	PREM_DEMAJ	_	85	det	_	_
 85	جامعه‌ای	جامعه	NOUN	N_IANM	Number=Sing	88	obl:arg	_	_
 86	سلطه	سلطه	NOUN	N_IANM	Number=Sing	88	compound:lvc	_	_
-87	پیدا	پیدا	ADJ	ADJ_AJP	_	88	compound:lv	_	_
+87	پیدا	پیدا	ADJ	ADJ_AJP	_	88	compound:lvc	_	_
 88	می‌کنند	کرد#کن	VERB	V_ACT	Number=Plur|Person=3|Tense=Pres|Voice=Act	25	conj	_	SpaceAfter=No
 89	.	.	PUNCT	PUNC	_	88	punct	_	_
 
@@ -4447,7 +4447,7 @@
 7	منابع	منبع	NOUN	N_IANM	Number=Plur	5	conj	_	_
 8	آن	آن	PRON	PR_DEMON	Number=Sing	7	nmod	_	_
 9	تسلط	تسلط	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	_
-10	پیدا	پیدا	ADJ	ADJ_AJP	_	11	compound:lv	_	_
+10	پیدا	پیدا	ADJ	ADJ_AJP	_	11	compound:lvc	_	_
 11	کنند	کرد#کن	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	3	ccomp	_	_
 12	و	و	CCONJ	CONJ	_	22	cc	_	_
 13	به	به	ADP	PREP	_	14	case	_	_
@@ -6082,7 +6082,7 @@
 8	به	به	ADP	PREP	_	9	case	_	_
 9	چیزی	چیز	NOUN	N_IANM	Number=Sing	12	obl:arg	_	_
 10	یقین	یقین	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	_
-11	پیدا	پیدا	ADJ	ADJ_AJP	_	12	compound:lv	_	_
+11	پیدا	پیدا	ADJ	ADJ_AJP	_	12	compound:lvc	_	_
 12	کرد	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	18	advcl	_	_
 13	قطعاً	قطعاً	ADV	ADV_SADV	_	18	advmod	_	_
 14	روی	روی	ADP	PREP	_	15	case	_	_
@@ -6697,7 +6697,7 @@
 8	طبقهٔ	طبقه	NOUN	N_IANM	Number=Sing	6	nmod	_	_
 9	ثروتمندان	ثروتمند	NOUN	N_ANM	Number=Plur	8	nmod	_	_
 10	تنزل	تنزل	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	_
-11	پیدا	پیدا	ADJ	ADJ_AJP	_	12	compound:lv	_	_
+11	پیدا	پیدا	ADJ	ADJ_AJP	_	12	compound:lvc	_	_
 12	کرد	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	PUNC	_	12	punct	_	_
 
@@ -22689,7 +22689,7 @@
 24	سنهٔ	سنه	NOUN	N_IANM	Number=Sing	22	nmod	_	_
 25	ثالثه	ثالثه	ADJ	ADJ_AJP	_	24	amod	_	_
 26	تحقق	تحقق	NOUN	N_IANM	Number=Sing	28	compound:lvc	_	_
-27	پیدا	پیدا	ADJ	ADJ_AJP	_	28	compound:lv	_	_
+27	پیدا	پیدا	ADJ	ADJ_AJP	_	28	compound:lvc	_	_
 28	می‌کند	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	17	acl	_	SpaceAfter=No
 29	،	،	PUNCT	PUNC	_	28	punct	_	_
 30	این	این	PRON	PR_DEMON	Number=Sing	32	nsubj	_	_
@@ -27114,7 +27114,7 @@
 3	دل	دل	NOUN	N_IANM	Number=Sing	7	obl:arg	_	_
 4	دشمن	دشمن	NOUN	N_ANM	Number=Sing	3	nmod	_	_
 5	رسوخ	رسوخ	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
-6	پیدا	پیدا	ADJ	ADJ_AJP	_	7	compound:lv	_	_
+6	پیدا	پیدا	ADJ	ADJ_AJP	_	7	compound:lvc	_	_
 7	کردند	کرد#کن	VERB	V_ACT	Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	PUNC	_	7	punct	_	_
 
@@ -27136,7 +27136,7 @@
 14	بخشیم	بخشید#بخش	VERB	V_ACT	Number=Plur|Person=1|Voice=Act	9	ccomp	_	_
 15	خود	خود	PRON	PR_CREFX	_	18	nsubj	_	_
 16	رونق	رونق	NOUN	N_IANM	Number=Sing	18	compound:lvc	_	_
-17	پیدا	پیدا	ADJ	ADJ_AJP	_	18	compound:lv	_	_
+17	پیدا	پیدا	ADJ	ADJ_AJP	_	18	compound:lvc	_	_
 18	می‌کنیم	کرد#کن	VERB	V_ACT	Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
 19	.	.	PUNCT	PUNC	_	18	punct	_	_
 
@@ -27152,7 +27152,7 @@
 8	چهار	چهار	NUM	PRENUM	_	9	nummod	_	_
 9	ناحیه	ناحیه	NOUN	N_IANM	Number=Sing	7	nmod	_	_
 10	سازماندهی	سازماندهی	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	_
-11	پیدا	پیدا	ADJ	ADJ_AJP	_	12	compound:lv	_	_
+11	پیدا	پیدا	ADJ	ADJ_AJP	_	12	compound:lvc	_	_
 12	کردند	کرد#کن	VERB	V_ACT	Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	PUNC	_	12	punct	_	_
 
@@ -27175,7 +27175,7 @@
 15	ولت	ولت	NOUN	N_IANM	Number=Sing	12	nmod	_	SpaceAfter=No
 16	،	،	PUNCT	PUNC	_	15	punct	_	_
 17	شتاب	شتاب	NOUN	N_IANM	Number=Sing	19	compound:lvc	_	_
-18	پیدا	پیدا	ADJ	ADJ_AJP	_	19	compound:lv	_	_
+18	پیدا	پیدا	ADJ	ADJ_AJP	_	19	compound:lvc	_	_
 19	می‌کنند	کرد#کن	VERB	V_ACT	Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
 20	.	.	PUNCT	PUNC	_	19	punct	_	_
 
@@ -27235,7 +27235,7 @@
 13	مرحلهٔ	مرحله	NOUN	N_IANM	Number=Sing	17	obl:arg	_	_
 14	بعد	بعد	ADJ	ADJ_AJP	_	13	amod	_	_
 15	صعود	صعود	NOUN	N_IANM	Number=Sing	17	compound:lvc	_	_
-16	پیدا	پیدا	ADJ	ADJ_AJP	_	17	compound:lv	_	_
+16	پیدا	پیدا	ADJ	ADJ_AJP	_	17	compound:lvc	_	_
 17	کردید	کرد#کن	VERB	V_ACT	Number=Plur|Person=2|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	PUNC	_	17	punct	_	_
 
@@ -27288,7 +27288,7 @@
 15	بیستم	بیستم	ADJ	POSNUM	_	14	amod	_	SpaceAfter=No
 16	،	،	PUNCT	PUNC	_	15	punct	_	_
 17	عمومیت	عمومیت	NOUN	N_IANM	Number=Sing	19	compound:lvc	_	_
-18	پیدا	پیدا	ADJ	ADJ_AJP	_	19	compound:lv	_	_
+18	پیدا	پیدا	ADJ	ADJ_AJP	_	19	compound:lvc	_	_
 19	کردند	کرد#کن	VERB	V_ACT	Number=Plur|Person=3|Tense=Past|Voice=Act	6	conj	_	SpaceAfter=No
 20	.	.	PUNCT	PUNC	_	6	punct	_	_
 
@@ -27315,7 +27315,7 @@
 16	نیروهای	نیرو	NOUN	N_IANM	Number=Plur	20	obl:arg	_	_
 17	اهریمنی	اهریمنی	ADJ	ADJ_AJP	_	16	amod	_	_
 18	غلبه	غلبه	NOUN	N_IANM	Number=Sing	20	compound:lvc	_	_
-19	پیدا	پیدا	ADJ	ADJ_AJP	_	20	compound:lv	_	_
+19	پیدا	پیدا	ADJ	ADJ_AJP	_	20	compound:lvc	_	_
 20	کردی	کرد#کن	VERB	V_ACT	Number=Sing|Person=2|Tense=Past|Voice=Act	3	conj	_	SpaceAfter=No
 21	.	.	PUNCT	PUNC	_	20	punct	_	_
 
@@ -27353,7 +27353,7 @@
 16	می‌شد	شد#شو	AUX	AUX	Number=Sing|Person=3|Tense=Past	15	aux:pass	_	SpaceAfter=No
 17	،	،	PUNCT	PUNC	_	15	punct	_	_
 18	قطعیت	قطعیت	NOUN	N_IANM	Number=Sing	20	compound:lvc	_	_
-19	پیدا	پیدا	ADJ	ADJ_AJP	_	20	compound:lv	_	_
+19	پیدا	پیدا	ADJ	ADJ_AJP	_	20	compound:lvc	_	_
 20	کرد	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 21	.	.	PUNCT	PUNC	_	20	punct	_	_
 
@@ -27381,7 +27381,7 @@
 7	این	این	DET	PREM_DEMAJ	_	8	det	_	_
 8	انقلاب	انقلاب	NOUN	N_IANM	Number=Sing	6	nmod	_	_
 9	گسترش	گسترش	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	_
-10	پیدا	پیدا	ADJ	ADJ_AJP	_	11	compound:lv	_	_
+10	پیدا	پیدا	ADJ	ADJ_AJP	_	11	compound:lvc	_	_
 11	می‌کنیم	کرد#کن	VERB	V_ACT	Number=Plur|Person=1|Tense=Pres|Voice=Act	4	acl	_	SpaceAfter=No
 12	،	،	PUNCT	PUNC	_	11	punct	_	_
 13	بر	بر	ADP	PREP	_	14	case	_	_
@@ -27415,7 +27415,7 @@
 17	دور	دور	NOUN	N_IANM	Number=Sing	21	obl	_	_
 18	رسالت	رسالت	NOUN	N_IANM	Number=Sing	17	nmod	_	_
 19	لزوم	لزوم	NOUN	N_IANM	Number=Sing	21	compound:lvc	_	_
-20	پیدا	پیدا	ADJ	ADJ_AJP	_	21	compound:lv	_	_
+20	پیدا	پیدا	ADJ	ADJ_AJP	_	21	compound:lvc	_	_
 21	کرده	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	8	conj	_	_
 22	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	21	aux	_	SpaceAfter=No
 23	.	.	PUNCT	PUNC	_	21	punct	_	_
@@ -27464,7 +27464,7 @@
 5	به	به	ADP	PREP	_	6	case	_	_
 6	آرامی	آرامی	NOUN	N_IANM	Number=Sing	9	obl	_	_
 7	نفوذ	نفوذ	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	_
-8	پیدا	پیدا	ADJ	ADJ_AJP	_	9	compound:lv	_	_
+8	پیدا	پیدا	ADJ	ADJ_AJP	_	9	compound:lvc	_	_
 9	می‌کنند	کرد#کن	VERB	V_ACT	Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	PUNC	_	9	punct	_	_
 
@@ -27497,7 +27497,7 @@
 25	بنفش	بنفش	ADJ	ADJ_AJP	_	23	conj	_	SpaceAfter=No
 26	)	)	PUNCT	PUNC	_	23	punct	_	_
 27	شکست	شکست	NOUN	N_IANM	Number=Sing	29	compound:lvc	_	_
-28	پیدا	پیدا	ADJ	ADJ_AJP	_	29	compound:lv	_	_
+28	پیدا	پیدا	ADJ	ADJ_AJP	_	29	compound:lvc	_	_
 29	می‌کنند	کرد#کن	VERB	V_ACT	Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
 30	.	.	PUNCT	PUNC	_	29	punct	_	_
 
@@ -27510,7 +27510,7 @@
 5	دلایل	دلیل	NOUN	N_IANM	Number=Plur	9	obl	_	_
 6	مختلف	مختلف	ADJ	ADJ_AJP	_	5	amod	_	_
 7	نقصان	نقصان	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	_
-8	پیدا	پیدا	ADJ	ADJ_AJP	_	9	compound:lv	_	_
+8	پیدا	پیدا	ADJ	ADJ_AJP	_	9	compound:lvc	_	_
 9	کرد	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	PUNC	_	9	punct	_	_
 
@@ -27530,7 +27530,7 @@
 12	نصف	نصف	NOUN	N_IANM	Number=Sing	11	nmod	_	_
 13	جهان	جهان	PROPN	N_IANM	Number=Sing	12	nmod	_	_
 14	وسعت	وسعت	NOUN	N_IANM	Number=Sing	16	compound:lvc	_	_
-15	پیدا	پیدا	ADJ	ADJ_AJP	_	16	compound:lv	_	_
+15	پیدا	پیدا	ADJ	ADJ_AJP	_	16	compound:lvc	_	_
 16	کردم	کرد#کن	VERB	V_ACT	Number=Sing|Person=1|Tense=Past|Voice=Act	2	acl	_	SpaceAfter=No
 17	.	.	PUNCT	PUNC	_	16	punct	_	_
 
@@ -27554,7 +27554,7 @@
 16	پیدا	پیدا	ADJ	ADJ_AJP	_	17	compound:lvc	_	_
 17	کند	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	20	advcl	_	_
 18	وقوع	وقوع	NOUN	N_IANM	Number=Sing	20	compound:lvc	_	_
-19	پیدا	پیدا	ADJ	ADJ_AJP	_	20	compound:lv	_	_
+19	پیدا	پیدا	ADJ	ADJ_AJP	_	20	compound:lvc	_	_
 20	کرده	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	9	ccomp	_	_
 21	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	20	aux	_	_
 22	و	و	CCONJ	CONJ	_	32	cc	_	_
@@ -27582,7 +27582,7 @@
 4	انسان	انسان	NOUN	N_ANM	Number=Sing	8	nsubj	_	_
 5	نو	نو	ADJ	ADJ_AJP	_	4	amod	_	_
 6	ولادت	ولادت	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
-7	پیدا	پیدا	ADJ	ADJ_AJP	_	8	compound:lv	_	_
+7	پیدا	پیدا	ADJ	ADJ_AJP	_	8	compound:lvc	_	_
 8	کرده	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 9	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	SpaceAfter=No
 10	.	.	PUNCT	PUNC	_	8	punct	_	_
@@ -28505,7 +28505,7 @@
 7	حوزهٔ	حوزه	NOUN	N_IANM	Number=Sing	11	obl:arg	_	_
 8	خاصی	خاص	ADJ	ADJ_AJP	_	7	amod	_	_
 9	اختصاص	اختصاص	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	_
-10	پیدا	پیدا	ADJ	ADJ_AJP	_	11	compound:lv	_	_
+10	پیدا	پیدا	ADJ	ADJ_AJP	_	11	compound:lvc	_	_
 11	می‌کنند	کرد#کن	VERB	V_ACT	Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 12	و	و	CCONJ	CONJ	_	29	cc	_	_
 13	در	در	ADP	PREP	_	14	case	_	_
@@ -28539,7 +28539,7 @@
 8	29	29	NUM	PRENUM	_	9	nummod	_	_
 9	رشته	رشته	NOUN	N_IANM	Number=Sing	12	obl:arg	_	_
 10	ارتقا	ارتقا	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	_
-11	پیدا	پیدا	ADJ	ADJ_AJP	_	12	compound:lv	_	_
+11	پیدا	پیدا	ADJ	ADJ_AJP	_	12	compound:lvc	_	_
 12	کرد	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	PUNC	_	12	punct	_	_
 
@@ -28549,7 +28549,7 @@
 2	مسجد	مسجد	PROPN	N_IANM	Number=Sing	6	obl:arg	_	_
 3	جامع	جامع	PROPN	ADJ_AJP	_	2	flat:name	_	_
 4	استقرار	استقرار	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	_
-5	پیدا	پیدا	ADJ	ADJ_AJP	_	6	compound:lv	_	_
+5	پیدا	پیدا	ADJ	ADJ_AJP	_	6	compound:lvc	_	_
 6	کرده	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 7	بود	بود#باش	AUX	AUX	Number=Sing|Person=3|Tense=Past	6	aux	_	_
 8	و	و	CCONJ	CONJ	_	11	cc	_	_
@@ -28580,7 +28580,7 @@
 12	سراسر	سراسر	NOUN	N_IANM	Number=Sing	16	obl:arg	_	_
 13	دنیا	دنیا	PROPN	N_IANM	Number=Sing	12	nmod	_	_
 14	اشاعه	اشاعه	NOUN	N_IANM	Number=Sing	16	compound:lvc	_	_
-15	پیدا	پیدا	ADJ	ADJ_AJP	_	16	compound:lv	_	_
+15	پیدا	پیدا	ADJ	ADJ_AJP	_	16	compound:lvc	_	_
 16	کرده	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	4	conj	_	_
 17	بود	بود#باش	AUX	AUX	Number=Sing|Person=3|Tense=Past	16	aux	_	SpaceAfter=No
 18	.	.	PUNCT	PUNC	_	16	punct	_	_
@@ -28596,7 +28596,7 @@
 7	آیندهٔ	آینده	NOUN	N_IANM	Number=Sing	6	nmod	_	_
 8	خود	خود	PRON	PR_CREFX	_	7	nmod	_	_
 9	اطلاع	اطلاع	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	_
-10	پیدا	پیدا	ADJ	ADJ_AJP	_	11	compound:lv	_	_
+10	پیدا	پیدا	ADJ	ADJ_AJP	_	11	compound:lvc	_	_
 11	می‌کند	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	PUNC	_	11	punct	_	_
 
@@ -28607,7 +28607,7 @@
 3	خیلی	خیلی	ADV	ADV_SADV	_	4	advmod	_	_
 4	سریع	سریع	ADJ	ADJ_AJP	_	7	advmod	_	_
 5	التیام	التیام	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
-6	پیدا	پیدا	ADJ	ADJ_AJP	_	7	compound:lv	_	_
+6	پیدا	پیدا	ADJ	ADJ_AJP	_	7	compound:lvc	_	_
 7	کرد	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 8	و	و	CCONJ	CONJ	_	13	cc	_	_
 9	دوباره	دوباره	ADJ	ADJ_AJP	_	13	advmod	_	_
@@ -28662,7 +28662,7 @@
 13	سال	سال	NOUN	N_IANM	Number=Sing	17	obl:arg	_	_
 14	1391	1391	NOUN	N_IANM	Number=Sing	13	nmod	_	_
 15	انتشار	انتشار	NOUN	N_IANM	Number=Sing	17	compound:lvc	_	_
-16	پیدا	پیدا	ADJ	ADJ_AJP	_	17	compound:lv	_	_
+16	پیدا	پیدا	ADJ	ADJ_AJP	_	17	compound:lvc	_	_
 17	کرد	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	6	acl	_	SpaceAfter=No
 18	.	.	PUNCT	PUNC	_	17	punct	_	_
 
@@ -28707,7 +28707,7 @@
 4	ادبیاتی	ادبیات	NOUN	N_IANM	Number=Sing	10	nsubj	_	_
 5	که	که	SCONJ	SUBR	_	8	mark	_	_
 6	انعکاس	انعکاس	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
-7	پیدا	پیدا	ADJ	ADJ_AJP	_	8	compound:lv	_	_
+7	پیدا	پیدا	ADJ	ADJ_AJP	_	8	compound:lvc	_	_
 8	کرده	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	_
 9	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	_
 10	قابل	قابل	ADJ	ADJ_AJP	_	0	root	_	_
@@ -28749,7 +28749,7 @@
 7	طور	طور	NOUN	N_IANM	Number=Sing	11	obl	_	_
 8	گسترده	گسترده	ADJ	ADJ_AJP	_	7	amod	_	_
 9	بازتاب	بازتاب	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	_
-10	پیدا	پیدا	ADJ	ADJ_AJP	_	11	compound:lv	_	_
+10	پیدا	پیدا	ADJ	ADJ_AJP	_	11	compound:lvc	_	_
 11	کرد	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	PUNC	_	11	punct	_	_
 
@@ -28771,7 +28771,7 @@
 14	مصرف	مصرف	NOUN	N_IANM	Number=Sing	18	obl	_	_
 15	بابونه	بابونه	NOUN	N_IANM	Number=Sing	14	nmod	_	_
 16	بهبود	بهبود	NOUN	N_IANM	Number=Sing	18	compound:lvc	_	_
-17	پیدا	پیدا	ADJ	ADJ_AJP	_	18	compound:lv	_	_
+17	پیدا	پیدا	ADJ	ADJ_AJP	_	18	compound:lvc	_	_
 18	می‌کند	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
 19	.	.	PUNCT	PUNC	_	18	punct	_	_
 

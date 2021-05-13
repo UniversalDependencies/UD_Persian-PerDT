@@ -5,7 +5,6 @@ not-to-release/UD_Dadegan-nt
 not-to-release/parser_data
 Universal\ Dependency\ Dadegan
 *multi*
-*.xml
 *.pyc
 *.iml
 .idea
