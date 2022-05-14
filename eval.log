@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Persian-PerDT:
-commit 832f0cf554af4a244e871b1aa1cd930b06c42284
+commit 2a677f738744e09b1deee8f6620c89334917b9de
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 13 09:44:46 2021 +0200
+Date:   Wed Nov 3 16:49:44 2021 +0100
 Size: counted 501776 of 501776 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.4363076099374.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -70,9 +70,9 @@ validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-test.conllu
 [Line 930 Sent test-s43 Node 9]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
 [Line 1030 Sent test-s49 Node 12]: [L5 Syntax cop-lemma] 'بود#باش' is not a copula in language [fa]
 ...suppressing further errors regarding Syntax
-Morpho errors: 1004
+Morpho errors: 1008
 Syntax errors: 268
-*** FAILED *** with 1272 errors
+*** FAILED *** with 1276 errors
 Exit code: 1
 validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-train.conllu
 [Line 169 Sent train-s6 Node 12]: [L5 Morpho aux-lemma] '#است' is not an auxiliary verb in language [fa]
@@ -95,9 +95,9 @@ validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-train.conllu
 [Line 845 Sent train-s28 Node 3]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
 [Line 967 Sent train-s31 Node 15]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
 ...suppressing further errors regarding Syntax
-Morpho errors: 18755
+Morpho errors: 18759
 Syntax errors: 5761
-*** FAILED *** with 24516 errors
+*** FAILED *** with 24520 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
