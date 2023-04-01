@@ -85,7 +85,7 @@
 9	صدرالمتألهین	صدرالمتألهین	PROPN	N_ANM	Number=Sing	5	conj	_	_
 10	پیشوایی	پیشوایی	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	_
 11	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-12	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	SpaceAfter=No
+12	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	OrigLemma=#است|SpaceAfter=No
 13	.	.	PUNCT	PUNC	_	11	punct	_	_
 
 # sent_id = test-s6
@@ -158,7 +158,7 @@
 # text = چه خوب است که به جای پوشش‌های مبتذل غرب، مردم کشورمان پوشش‌های سنتی و اصیل ترکمن را پسند کرده‌اند.
 1	چه	چه	DET	PREM_EXAJ	_	2	det	_	_
 2	خوب	خوب	ADJ	ADJ_AJP	_	0	root	_	_
-3	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 4	که	که	SCONJ	SUBR	_	2	csubj	_	_
 5	به	به	ADP	PREP	_	6	case	_	_
 6	جای	جا	NOUN	N_IANM	Number=Sing	21	obl	_	_
@@ -259,7 +259,7 @@
 6	اهل‌البیت	اهل‌البیت	NOUN	N_ANM	Number=Sing	5	nmod	_	_
 7	پیمان	پیمان	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
 8	گرفته	گرفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=گرفت#گیر
-9	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	SpaceAfter=No
+9	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	OrigLemma=#است|SpaceAfter=No
 10	.	.	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = test-s15
@@ -270,7 +270,7 @@
 3	ام	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 4	پینه	پینه	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	_
 5	بسته	بست	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=بست#بند
-6	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	SpaceAfter=No
+6	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	OrigLemma=#است|SpaceAfter=No
 7	.	.	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = test-s16
@@ -304,7 +304,7 @@
 27	نوجویی	نوجویی	NOUN	N_IANM	Number=Sing	25	nmod	_	_
 28	و	و	CCONJ	CONJ	_	29	cc	_	_
 29	نوگویی	نوگویی	NOUN	N_IANM	Number=Sing	27	conj	_	_
-30	هست	#هست	AUX	AUX	Number=Sing|Person=3	21	cop	_	SpaceAfter=No
+30	هست	هست	AUX	AUX	Number=Sing|Person=3	21	cop	_	OrigLemma=#هست|SpaceAfter=No
 31	،	،	PUNCT	PUNC	_	21	punct	_	_
 32	ارزش	ارزش	NOUN	N_IANM	Number=Sing	36	obj	_	_
 33	زیبایی‌شناختی	زیبایی‌شناختی	NOUN	N_IANM	Number=Sing	32	nmod	_	_
@@ -363,7 +363,7 @@
 # sent_id = test-s19
 # text = چگونه می‌توان با جاماسپ در نقشه‌ها پیمایش کرد؟
 1	چگونه	چگونه	ADV	ADV_SADV	_	8	advmod	_	_
-2	می‌توان	#توان	AUX	V_MODL	_	8	aux	_	_
+2	می‌توان	توان	AUX	V_MODL	_	8	aux	_	OrigLemma=#توان
 3	با	با	ADP	PREP	_	4	case	_	_
 4	جاماسپ	جاماسپ	NOUN	N_IANM	Number=Sing	8	obl	_	_
 5	در	در	ADP	PREP	_	6	case	_	_
@@ -381,7 +381,7 @@
 5	نظر	نظر	NOUN	N_IANM	Number=Sing	4	nmod	_	_
 6	dsm4	dsm4	PROPN	N_IANM	Number=Sing	5	nmod	_	_
 7	صحیح	صحیح	ADJ	ADJ_AJP	_	0	root	_	_
-8	است	#است	AUX	AUX	Number=Sing|Person=3	7	cop	_	_
+8	است	است	AUX	AUX	Number=Sing|Person=3	7	cop	_	OrigLemma=#است
 9	و	و	CCONJ	CONJ	_	22	cc	_	_
 10	اتفاقاً	اتفاقاً	ADV	ADV_SADV	_	22	advmod	_	_
 11	در	در	ADP	PREP	_	13	case	_	_
@@ -396,7 +396,7 @@
 20	بودم	بود	AUX	AUX	Number=Sing|Person=1|Tense=Past	19	aux	_	OrigLemma=بود#باش
 21	هم	هم	ADV	ADV_SADV	_	13	dep	_	_
 22	آمده	آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	7	conj	_	OrigLemma=آمد#آ
-23	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	22	aux	_	SpaceAfter=No
+23	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	22	aux	_	OrigLemma=#است|SpaceAfter=No
 24	.	.	PUNCT	PUNC	_	22	punct	_	_
 
 # sent_id = test-s21
@@ -513,7 +513,7 @@
 20	و	و	CCONJ	CONJ	_	21	cc	_	_
 21	پراهمیتی	پراهمیت	ADJ	ADJ_AJP	_	19	conj	_	_
 22	بوده	بود	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=بود#باش
-23	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	22	aux	_	_
+23	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	22	aux	_	OrigLemma=#است
 24	که	که	SCONJ	SUBR	_	39	mark	_	_
 25	به	به	ADP	PREP	_	26	case	_	_
 26	خاطر	خاطر	NOUN	N_IANM	Number=Sing	39	obl	_	_
@@ -559,11 +559,11 @@
 3	چاهی	چاه	NOUN	N_IANM	Number=Sing	5	nsubj	_	_
 4	روی	روی	ADP	PREP	_	5	case	_	_
 5	زمین	زمین	NOUN	N_IANM	Number=Sing	7	advcl	_	_
-6	است	#است	AUX	AUX	Number=Sing|Person=3	5	cop	_	_
+6	است	است	AUX	AUX	Number=Sing|Person=3	5	cop	_	OrigLemma=#است
 7	بخرند	خرید	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	0	root	_	OrigLemma=خرید#خر|SpaceAfter=No
 8	،	،	PUNCT	PUNC	_	7	punct	_	_
 9	اگر	اگر	SCONJ	SUBR	_	10	mark	_	_
-10	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	13	advcl	_	SpaceAfter=No
+10	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	13	advcl	_	OrigLemma=#هست|SpaceAfter=No
 11	،	،	PUNCT	PUNC	_	10	punct	_	_
 12	آب‌رسانی	آب‌رسانی	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	_
 13	بکنند	کرد	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	7	conj	_	OrigLemma=کرد#کن|SpaceAfter=No
@@ -613,7 +613,7 @@
 1	مشکل	مشکل	NOUN	N_IANM	Number=Sing	3	nsubj	_	_
 2	دیگر	دیگر	ADJ	ADJ_AJP	_	1	amod	_	_
 3	این	این	PRON	PR_DEMON	Number=Sing	0	root	_	_
-4	هست	#هست	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+4	هست	هست	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#هست
 5	که	که	SCONJ	SUBR	_	20	mark	_	_
 6	اکثر	اکثر	NOUN	N_IANM	Number=Sing	20	nsubj	_	_
 7	کسانی	کس	NOUN	N_ANM	Number=Plur	6	nmod	_	_
@@ -736,7 +736,7 @@
 8	قدرت	قدرت	NOUN	N_IANM	Number=Sing	10	obl:arg	_	_
 9	پنجه	پنجه	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
 10	انداخته	انداخت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	OrigLemma=انداخت#انداز
-11	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	_
+11	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	OrigLemma=#است
 12	از	از	ADP	PREP	_	14	case	_	_
 13	این	این	DET	PREM_DEMAJ	_	14	det	_	_
 14	رو	رو	NOUN	N_IANM	Number=Sing	19	obl	_	_
@@ -748,7 +748,7 @@
 20	از	از	ADP	PREP	_	21	case	_	_
 21	انجمن	انجمن	PROPN	N_IANM	Number=Sing	19	obl:arg	_	_
 22	حجتیه	حجتیه	PROPN	N_IANM	Number=Sing	21	flat:name	_	_
-23	است	#است	AUX	AUX	Number=Sing|Person=3	19	cop	_	SpaceAfter=No
+23	است	است	AUX	AUX	Number=Sing|Person=3	19	cop	_	OrigLemma=#است|SpaceAfter=No
 24	.	.	PUNCT	PUNC	_	23	punct	_	_
 
 # sent_id = test-s35
@@ -800,7 +800,7 @@
 # sent_id = test-s37
 # text = چگونه می‌توان سیم‌کارت اپراتور سوم را پیش‌خرید کرد؟
 1	چگونه	چگونه	ADV	ADV_SADV	_	8	advmod	_	_
-2	می‌توان	#توان	AUX	V_MODL	_	8	aux	_	_
+2	می‌توان	توان	AUX	V_MODL	_	8	aux	_	OrigLemma=#توان
 3	سیم‌کارت	سیم‌کارت	NOUN	N_IANM	Number=Sing	8	obj	_	_
 4	اپراتور	اپراتور	NOUN	N_IANM	Number=Sing	3	nmod	_	_
 5	سوم	سوم	ADJ	POSNUM	_	4	amod	_	_
@@ -927,7 +927,7 @@
 6	،	،	PUNCT	PUNC	_	5	punct	_	_
 7	علامت	علامت	NOUN	N_IANM	Number=Sing	0	root	_	_
 8	آن	آن	PRON	PR_DEMON	Number=Sing	7	nmod	_	_
-9	است	#است	AUX	AUX	Number=Sing|Person=3	7	cop	_	_
+9	است	است	AUX	AUX	Number=Sing|Person=3	7	cop	_	OrigLemma=#است
 10	که	که	SCONJ	SUBR	_	17	mark	_	_
 11	شخصی	شخص	NOUN	N_ANM	Number=Sing	17	nsubj	_	_
 12	نسبت	نسبت	ADP	PREP	_	14	case	_	_
@@ -1117,7 +1117,7 @@
 11	از	از	ADP	PREP	_	12	case	_	_
 12	حد	حد	NOUN	N_IANM	Number=Sing	10	obl:arg	_	_
 13	حساس	حساس	ADJ	ADJ_AJP	_	10	xcomp	_	_
-14	هستند	#هست	AUX	AUX	Number=Plur|Person=3	10	cop	_	SpaceAfter=No
+14	هستند	هست	AUX	AUX	Number=Plur|Person=3	10	cop	_	OrigLemma=#هست|SpaceAfter=No
 15	،	،	PUNCT	PUNC	_	10	punct	_	_
 16	بیشتر	بیش	ADJ	ADJ_AJCM	_	19	advmod	_	_
 17	بهانه	بهانه	NOUN	N_IANM	Number=Sing	19	compound:lvc	_	_
@@ -1158,7 +1158,7 @@
 29	خویش	خویش	PRON	PR_CREFX	_	28	nmod	_	_
 30	باقی	باقی	NOUN	N_IANM	Number=Sing	31	compound:lvc	_	_
 31	مانده	ماند	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=ماند#مان
-32	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	31	aux	_	SpaceAfter=No
+32	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	31	aux	_	OrigLemma=#است|SpaceAfter=No
 33	!	!	PUNCT	PUNC	_	31	punct	_	_
 
 # sent_id = test-s56
@@ -1289,7 +1289,7 @@
 19	بوکس	بوکس	NOUN	N_IANM	Number=Sing	18	nmod	_	_
 20	ایران	ایران	PROPN	N_IANM	Number=Sing	19	nmod	_	_
 21	مناسب	مناسب	ADJ	ADJ_AJP	_	16	ccomp	_	_
-22	نیست	#است	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	21	cop	_	SpaceAfter=No
+22	نیست	است	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	21	cop	_	OrigLemma=#است|SpaceAfter=No
 23	.	.	PUNCT	PUNC	_	16	punct	_	_
 
 # sent_id = test-s63
@@ -1396,7 +1396,7 @@
 7	دیگر	دیگر	ADJ	ADJ_AJP	_	6	amod	_	_
 8	جان	جان	NOUN	N_IANM	Number=Sing	9	obj	_	_
 9	گرفته	گرفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=گرفت#گیر
-10	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	SpaceAfter=No
+10	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	OrigLemma=#است|SpaceAfter=No
 11	.	.	PUNCT	PUNC	_	9	punct	_	_
 
 # sent_id = test-s70
@@ -1405,7 +1405,7 @@
 2	مردم	مردم	NOUN	N_ANM	Number=Plur	4	obl	_	_
 3	ایران	ایران	PROPN	N_IANM	Number=Sing	2	nmod	_	_
 4	زجرآور	زجرآور	ADJ	ADJ_AJP	_	0	root	_	_
-5	است	#است	AUX	AUX	Number=Sing|Person=3	4	cop	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3	4	cop	_	OrigLemma=#است
 6	که	که	SCONJ	SUBR	_	4	csubj	_	_
 7	مردان	مرد	NOUN	N_ANM	Number=Plur	14	nsubj	_	_
 8	بزرگ	بزرگ	ADJ	ADJ_AJP	_	7	amod	_	_
@@ -1506,7 +1506,7 @@
 5	غرب	غرب	NOUN	N_IANM	Number=Sing	4	nmod	_	_
 6	توطئه	توطئه	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
 7	نکرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-8	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No
+8	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	OrigLemma=#است|SpaceAfter=No
 9	.	.	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = test-s77
@@ -1596,7 +1596,7 @@
 5	انسان	انسان	NOUN	N_ANM	Number=Sing	2	nmod	_	_
 6	همان	همان	DET	PREM_DEMAJ	_	7	det	_	_
 7	نگاهی	نگاه	NOUN	N_IANM	Number=Sing	0	root	_	_
-8	است	#است	AUX	AUX	Number=Sing|Person=3	7	cop	_	_
+8	است	است	AUX	AUX	Number=Sing|Person=3	7	cop	_	OrigLemma=#است
 9	که	که	SCONJ	SUBR	_	13	mark	_	_
 10	در	در	ADP	PREP	_	11	case	_	_
 11	اثر	اثر	NOUN	N_IANM	Number=Sing	13	obl	_	_
@@ -1618,7 +1618,7 @@
 # text = چون ممکن است طرف مقابل برای به نمایش گذاشتن پاچه‌اش، شلوار خود را تا زده باشد.
 1	چون	چون	SCONJ	SUBR	_	2	obl	_	_
 2	ممکن	ممکن	ADJ	ADJ_AJP	_	0	root	_	_
-3	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 4	طرف	طرف	NOUN	N_IANM	Number=Sing	17	nsubj	_	_
 5	مقابل	مقابل	ADJ	ADJ_AJP	_	4	amod	_	_
 6	برای	برای	ADP	PREP	_	9	case	_	_
@@ -1746,7 +1746,7 @@
 10	کتاب	کتاب	NOUN	N_IANM	Number=Sing	12	obj	_	_
 11	تألیف	تألیف	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	_
 12	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-13	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	12	aux	_	SpaceAfter=No
+13	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	12	aux	_	OrigLemma=#است|SpaceAfter=No
 14	.	.	PUNCT	PUNC	_	12	punct	_	_
 
 # sent_id = test-s91
@@ -2065,7 +2065,7 @@
 12	داخل	داخل	NOUN	N_IANM	Number=Sing	11	nmod	_	_
 13	بدن	بدن	NOUN	N_IANM	Number=Sing	12	nmod	_	_
 14	آنها	آنها	PRON	PR_DEMON	Number=Plur	13	nmod	_	_
-15	است	#است	AUX	AUX	Number=Sing|Person=3	11	cop	_	_
+15	است	است	AUX	AUX	Number=Sing|Person=3	11	cop	_	OrigLemma=#است
 16	که	که	SCONJ	SUBR	_	22	mark	_	_
 17	بر	بر	ADP	PREP	_	19	case	_	_
 18	روی	رو	NOUN	N_IANM	Number=Sing	19	nmod	_	_
@@ -2073,7 +2073,7 @@
 20	خارجی	خارجی	ADJ	ADJ_AJP	_	19	amod	_	_
 21	بازتاب	بازتاب	NOUN	N_IANM	Number=Sing	22	compound:lvc	_	_
 22	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	OrigLemma=کرد#کن
-23	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	22	aux	_	SpaceAfter=No
+23	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	22	aux	_	OrigLemma=#است|SpaceAfter=No
 24	.	.	PUNCT	PUNC	_	11	punct	_	_
 
 # sent_id = test-s109
@@ -2163,7 +2163,7 @@
 12	آن	آن	PRON	PR_DEMON	Number=Sing	9	nmod	_	_
 13-15	چیست.	_	_	_	_	_	_	_	_
 13	چی	چه	PRON	PR_INTG	Number=Sing	8	ccomp	_	_
-14	ست	#است	AUX	AUX	Number=Sing|Person=3	13	cop	_	_
+14	ست	است	AUX	AUX	Number=Sing|Person=3	13	cop	_	OrigLemma=#است
 15	.	.	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = test-s114
@@ -2335,7 +2335,7 @@
 1	این	این	PRON	PR_DEMON	Number=Sing	2	nsubj	_	_
 2	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1	0	root	_	_
 3	آدم‌ها	آدم	NOUN	N_ANM	Number=Plur	2	appos	_	_
-4	هستیم	#هست	AUX	AUX	Number=Plur|Person=1	2	cop	_	_
+4	هستیم	هست	AUX	AUX	Number=Plur|Person=1	2	cop	_	OrigLemma=#هست
 5	که	که	SCONJ	SUBR	_	7	mark	_	_
 6	بی‌عدالتی	بی‌عدالتی	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
 7	می‌کنیم	کرد	VERB	V_ACT	Number=Plur|Person=1|Tense=Pres|Voice=Act	2	acl	_	OrigLemma=کرد#کن|SpaceAfter=No
@@ -2490,7 +2490,7 @@
 3	عاملین	عامل	NOUN	N_ANM	Number=Plur	2	nmod	_	_
 4	این	این	DET	PREM_DEMAJ	_	5	det	_	_
 5	قتل‌ها	قتل	NOUN	N_IANM	Number=Plur	3	nmod	_	_
-6	می‌توان	#توان	AUX	V_MODL	_	10	aux	_	_
+6	می‌توان	توان	AUX	V_MODL	_	10	aux	_	OrigLemma=#توان
 7	جامعه	جامعه	NOUN	N_IANM	Number=Sing	10	obj	_	_
 8	را	را	ADP	POSTP	_	7	case	_	_
 9	پالایش	پالایش	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
@@ -2622,7 +2622,7 @@
 2	طور	طور	NOUN	N_IANM	Number=Sing	4	obl	_	_
 3	دقیق	دقیق	ADJ	ADJ_AJP	_	2	amod	_	_
 4	معلوم	معلوم	ADJ	ADJ_AJP	_	0	root	_	_
-5	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	4	cop	_	_
+5	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	4	cop	_	OrigLemma=#هست
 6	که	که	SCONJ	SUBR	_	4	csubj	_	_
 7	انسان‌ها	انسان	NOUN	N_ANM	Number=Plur	19	nsubj	_	_
 8	در	در	ADP	PREP	_	10	case	_	_
@@ -2639,13 +2639,13 @@
 19	کردند	کرد	VERB	V_ACT	Number=Plur|Person=3|Tense=Past|Voice=Act	6	ccomp	_	OrigLemma=کرد#کن
 20	اما	اما	CCONJ	CONJ	_	21	cc	_	_
 21	مسلم	مسلم	ADJ	ADJ_AJP	_	4	conj	_	_
-22	است	#است	AUX	AUX	Number=Sing|Person=3	21	cop	_	_
+22	است	است	AUX	AUX	Number=Sing|Person=3	21	cop	_	OrigLemma=#است
 23	که	که	SCONJ	SUBR	_	21	csubj	_	_
 24	نام‌گذاری	نام‌گذاری	NOUN	N_IANM	Number=Sing	25	nsubj	_	_
 25	دارای	دارا	ADJ	ADJ_AJP	_	23	ccomp	_	_
 26	تاریخچهٔ	تاریخچه	NOUN	N_IANM	Number=Sing	25	obl:arg	_	_
 27	طولانی	طولانی	ADJ	ADJ_AJP	_	26	amod	_	_
-28	است	#است	AUX	AUX	Number=Sing|Person=3	25	cop	_	SpaceAfter=No
+28	است	است	AUX	AUX	Number=Sing|Person=3	25	cop	_	OrigLemma=#است|SpaceAfter=No
 29	.	.	PUNCT	PUNC	_	21	punct	_	_
 
 # sent_id = test-s149
@@ -2653,11 +2653,11 @@
 1	چه	چه	DET	PREM_EXAJ	_	2	nmod	_	_
 2	والا	والا	ADJ	ADJ_AJP	_	3	xcomp	_	_
 3	بوده	بود	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=بود#باش
-4	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	3	aux	_	SpaceAfter=No
+4	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	3	aux	_	OrigLemma=#است|SpaceAfter=No
 5	،	،	PUNCT	PUNC	_	3	punct	_	_
 6	و	و	CCONJ	CONJ	_	7	cc	_	_
 7	والا	والا	ADJ	ADJ_AJP	_	3	conj	_	_
-8	هست	#هست	AUX	AUX	Number=Sing|Person=3	7	cop	_	_
+8	هست	هست	AUX	AUX	Number=Sing|Person=3	7	cop	_	OrigLemma=#هست
 9	این	این	DET	PREM_DEMAJ	_	11	det	_	_
 10	همه	همه	DET	PREM_AMBAJ	_	11	det	_	_
 11	عشق	عشق	NOUN	N_IANM	Number=Sing	7	nsubj	_	_
@@ -2688,7 +2688,7 @@
 36	تاریخ	تاریخ	NOUN	N_IANM	Number=Sing	35	nmod	_	_
 37	موج	موج	NOUN	N_IANM	Number=Sing	38	compound:lvc	_	_
 38	زده	زد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	OrigLemma=زد#زن
-39	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	38	aux	_	SpaceAfter=No
+39	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	38	aux	_	OrigLemma=#است|SpaceAfter=No
 40	.	.	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = test-s150
@@ -2736,7 +2736,7 @@
 16-17	راهش	_	_	_	_	_	_	_	_
 16	راه	راه	NOUN	N_IANM	Number=Sing	14	nmod	_	_
 17	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	16	nmod	_	_
-18	هستید	#هست	AUX	AUX	Number=Plur|Person=2	14	cop	_	SpaceAfter=No
+18	هستید	هست	AUX	AUX	Number=Plur|Person=2	14	cop	_	OrigLemma=#هست|SpaceAfter=No
 19	-	-	PUNCT	PUNC	_	14	punct	_	_
 20	دیده‌بانی	دیده‌بانی	NOUN	N_IANM	Number=Sing	21	compound:lvc	_	_
 21	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	4	conj	_	OrigLemma=کرد#کن|SpaceAfter=No
@@ -2855,7 +2855,7 @@
 19	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	18	aux	_	OrigLemma=بود#باش|SpaceAfter=No
 20	،	،	PUNCT	PUNC	_	18	punct	_	_
 21	رستگارتر	رستگار	ADJ	ADJ_AJCM	_	7	conj	_	_
-22	است	#است	AUX	AUX	Number=Sing|Person=3	21	cop	_	SpaceAfter=No
+22	است	است	AUX	AUX	Number=Sing|Person=3	21	cop	_	OrigLemma=#است|SpaceAfter=No
 23	.	.	PUNCT	PUNC	_	21	punct	_	_
 
 # sent_id = test-s157
@@ -2863,7 +2863,7 @@
 1	بارش	بارش	NOUN	N_IANM	Number=Sing	3	nsubj	_	_
 2	باعث	باعث	ADJ	ADJ_AJP	_	3	xcomp	_	_
 3	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=شد#شو
-4	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	3	aux	_	_
+4	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	3	aux	_	OrigLemma=#است
 5	رودخانه‌ها	رودخانه	NOUN	N_IANM	Number=Plur	7	nsubj	_	_
 6	طغیان	طغیان	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
 7	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	3	ccomp	_	OrigLemma=کرد#کن|SpaceAfter=No
@@ -2968,7 +2968,7 @@
 4	که	که	SCONJ	SUBR	_	7	mark	_	_
 5	اهل	اهل	NOUN	N_IANM	Number=Sing	7	nsubj	_	_
 6	هاوایی	هاوایی	PROPN	N_IANM	Number=Sing	5	nmod	_	_
-7	است	#است	AUX	AUX	Number=Sing|Person=3	1	acl	_	SpaceAfter=No
+7	است	است	AUX	AUX	Number=Sing|Person=3	1	acl	_	OrigLemma=#است|SpaceAfter=No
 8	،	،	PUNCT	PUNC	_	7	punct	_	_
 9	روی	روی	ADP	PREP	_	10	case	_	_
 10	موج	موج	NOUN	N_IANM	Number=Sing	24	obl:arg	_	_
@@ -2986,7 +2986,7 @@
 22	لیسبون	لیسبون	PROPN	N_IANM	Number=Sing	21	nmod	_	_
 23	موج‌سواری	موج‌سواری	NOUN	N_IANM	Number=Sing	24	compound:lvc	_	_
 24	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-25	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	24	aux	_	_
+25	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	24	aux	_	OrigLemma=#است
 26	که	که	SCONJ	SUBR	_	32	mark	_	_
 27	ارتفاع	ارتفاع	NOUN	N_IANM	Number=Sing	32	nsubj	_	_
 28	آن	آن	PRON	PR_DEMON	Number=Sing	27	nmod	_	_
@@ -3152,7 +3152,7 @@
 # sent_id = test-s172
 # text = ممکن است حاجتش را دیر بدهد، ولی بهتر از آن را به او مرحمت می‌کند.
 1	ممکن	ممکن	ADJ	ADJ_AJP	_	0	root	_	_
-2	است	#است	AUX	AUX	Number=Sing|Person=3	1	cop	_	_
+2	است	است	AUX	AUX	Number=Sing|Person=3	1	cop	_	OrigLemma=#است
 3-4	حاجتش	_	_	_	_	_	_	_	_
 3	حاجت	حاجت	NOUN	N_IANM	Number=Sing	7	obj	_	_
 4	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
@@ -3221,7 +3221,7 @@
 14	حکومت‌ها	حکومت	NOUN	N_IANM	Number=Plur	12	conj	_	_
 15	موضوعیت	موضوعیت	NOUN	N_IANM	Number=Sing	16	compound:lvc	_	_
 16	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=داشت#دار
-17	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	16	aux	_	SpaceAfter=No
+17	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	16	aux	_	OrigLemma=#است|SpaceAfter=No
 18	.	.	PUNCT	PUNC	_	16	punct	_	_
 
 # sent_id = test-s175
@@ -3245,7 +3245,7 @@
 
 # sent_id = test-s176
 # text = نمی‌توان از ارائهٔ نظر اهل علم و عقل صرف نظر کرد و به نظرات جاهلان وقع نهاد.
-1	نمی‌توان	#توان	AUX	V_MODL	Polarity=Neg	11	aux	_	_
+1	نمی‌توان	توان	AUX	V_MODL	Polarity=Neg	11	aux	_	OrigLemma=#توان
 2	از	از	ADP	PREP	_	3	case	_	_
 3	ارائهٔ	ارائه	NOUN	N_IANM	Number=Sing	11	obl:arg	_	_
 4	نظر	نظر	NOUN	N_IANM	Number=Sing	3	nmod	_	_
@@ -3365,7 +3365,7 @@
 21	دیگر	دیگر	ADJ	ADJ_AJP	_	20	amod	_	_
 22	از	از	ADP	PREP	_	23	case	_	_
 23	آن	آن	DET	PREM_DEMAJ	_	25	obl:arg	_	_
-24	می‌توان	#توان	AUX	V_MODL	_	26	aux	_	_
+24	می‌توان	توان	AUX	V_MODL	_	26	aux	_	OrigLemma=#توان
 25	برخوردار	برخوردار	ADJ	ADJ_AJP	_	26	xcomp	_	_
 26	شد	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	12	acl	_	OrigLemma=شد#شو
 27	را	را	ADP	POSTP	_	11	case	_	_
@@ -3681,7 +3681,7 @@
 2	صورتی	صورت	NOUN	N_IANM	Number=Sing	18	obl	_	_
 3	که	که	SCONJ	SUBR	_	5	mark	_	_
 4	ناچار	ناچار	ADJ	ADJ_AJP	_	5	advmod	_	_
-5	هستید	#هست	AUX	AUX	Number=Plur|Person=2	2	acl	_	_
+5	هستید	هست	AUX	AUX	Number=Plur|Person=2	2	acl	_	OrigLemma=#هست
 6	غذای	غذا	NOUN	N_IANM	Number=Sing	10	obj	_	_
 7	خود	خود	PRON	PR_CREFX	_	6	nmod	_	_
 8	را	را	ADP	POSTP	_	6	case	_	_
@@ -3758,7 +3758,7 @@
 8	در	در	ADP	PREP	_	9	case	_	_
 9	بر	بر	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
 10	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=داشت#دار
-11	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	SpaceAfter=No
+11	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	OrigLemma=#است|SpaceAfter=No
 12	.	.	PUNCT	PUNC	_	10	punct	_	_
 
 # sent_id = test-s203
@@ -4124,7 +4124,7 @@
 14	همیشه	همیشه	NOUN	N_IANM	Number=Sing	15	obl	_	_
 15-16	منتظرند	_	_	_	_	_	_	_	_
 15	منتظر	منتظر	ADJ	ADJ_AJP	_	0	root	_	_
-16	ند	#هست	AUX	AUX	Number=Plur|Person=3	15	cop	_	_
+16	ند	هست	AUX	AUX	Number=Plur|Person=3	15	cop	_	OrigLemma=#هست
 17	تا	تا	SCONJ	SUBR	_	22	mark	_	_
 18	دیگران	دیگری	NOUN	N_ANM	Number=Plur	22	nsubj	_	_
 19	به	به	ADP	PREP	_	20	case	_	_
@@ -4236,7 +4236,7 @@
 2	افغانستان	افغانستان	PROPN	N_IANM	Number=Sing	1	flat:name	_	_
 3	اعلام	اعلام	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	_
 4	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-5	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	4	aux	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	4	aux	_	OrigLemma=#است
 6	که	که	SCONJ	SUBR	_	21	mark	_	_
 7	اگر	اگر	SCONJ	SUBR	_	14	mark	_	_
 8	کشاورزان	کشاورز	NOUN	N_ANM	Number=Plur	14	nsubj	_	_
@@ -4261,7 +4261,7 @@
 2	مواردی	مورد	NOUN	N_IANM	Number=Plur	10	obl	_	_
 3	که	که	SCONJ	SUBR	_	4	mark	_	_
 4	مطمئن	مطمئن	ADJ	ADJ_AJP	_	2	acl	_	_
-5	نیستید	#است	AUX	AUX	Number=Plur|Person=2|Polarity=Neg	4	cop	_	SpaceAfter=No
+5	نیستید	است	AUX	AUX	Number=Plur|Person=2|Polarity=Neg	4	cop	_	OrigLemma=#است|SpaceAfter=No
 6	،	،	PUNCT	PUNC	_	4	punct	_	_
 7	دیگران	دیگری	NOUN	N_ANM	Number=Plur	10	obj	_	_
 8	را	را	ADP	POSTP	_	7	case	_	_
@@ -4327,7 +4327,7 @@
 # text = با کلمات می‌توان جمله‌سازی کرد و در هر زبانی با ادای جملات صحبت می‌کنیم.
 1	با	با	ADP	PREP	_	2	case	_	_
 2	کلمات	کلمه	NOUN	N_IANM	Number=Plur	5	obl:arg	_	_
-3	می‌توان	#توان	AUX	V_MODL	_	5	aux	_	_
+3	می‌توان	توان	AUX	V_MODL	_	5	aux	_	OrigLemma=#توان
 4	جمله‌سازی	جمله‌سازی	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	_
 5	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=کرد#کن
 6	و	و	CCONJ	CONJ	_	14	cc	_	_
@@ -4543,7 +4543,7 @@
 4	را	را	ADP	POSTP	_	3	case	_	_
 5	تحریف	تحریف	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	_
 6	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-7	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	6	aux	_	SpaceAfter=No
+7	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	6	aux	_	OrigLemma=#است|SpaceAfter=No
 8	.	.	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = test-s243
@@ -4591,7 +4591,7 @@
 9	مالی	مالی	ADJ	ADJ_AJP	_	8	amod	_	_
 10	تجمیع	تجمیع	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	_
 11	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-12	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	SpaceAfter=No
+12	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	OrigLemma=#است|SpaceAfter=No
 13	.	.	PUNCT	PUNC	_	11	punct	_	_
 
 # sent_id = test-s247
@@ -4791,7 +4791,7 @@
 2	داخلی	داخلی	ADJ	ADJ_AJP	_	1	amod	_	_
 3	جامعه	جامعه	NOUN	N_ANM	Number=Sing	1	nmod	_	_
 4	کسی	کس	NOUN	N_ANM	Number=Sing	0	root	_	_
-5	است	#است	AUX	AUX	Number=Sing|Person=3	4	cop	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3	4	cop	_	OrigLemma=#است
 6	که	که	SCONJ	SUBR	_	4	acl	_	_
 7	از	از	ADP	PREP	_	8	case	_	_
 8	روش	روش	NOUN	N_IANM	Number=Sing	14	obl:arg	_	_
@@ -4980,7 +4980,7 @@
 # text = زمان آن است که دانشگاه‌های داخلی مالزی کیفیت خود را از راه‌های تحقیقات و انتشارات ترقی بدهند.
 1	زمان	زمان	NOUN	N_IANM	Number=Sing	0	root	_	_
 2	آن	آن	PRON	PR_DEMON	Number=Sing	1	nmod	_	_
-3	است	#است	AUX	AUX	Number=Sing|Person=3	1	cop	_	_
+3	است	است	AUX	AUX	Number=Sing|Person=3	1	cop	_	OrigLemma=#است
 4	که	که	SCONJ	SUBR	_	17	mark	_	_
 5	دانشگاه‌های	دانشگاه	NOUN	N_IANM	Number=Plur	17	nsubj	_	_
 6	داخلی	داخلی	ADJ	ADJ_AJP	_	5	amod	_	_
@@ -5002,7 +5002,7 @@
 1	ایشان	ایشان	PRON	PR_SEPER	Number=Plur|Person=3	3	nsubj	_	_
 2	امر	امر	NOUN	N_IANM	Number=Sing	3	compound:lvc	_	_
 3	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-4	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	3	aux	_	_
+4	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	3	aux	_	OrigLemma=#است
 5	تسبیح	تسبیح	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	_
 6	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	3	ccomp	_	OrigLemma=کرد#کن|SpaceAfter=No
 7	.	.	PUNCT	PUNC	_	3	punct	_	_
@@ -5019,7 +5019,7 @@
 8	را	را	ADP	POSTP	_	3	case	_	_
 9	تسهیل	تسهیل	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
 10	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-11	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	SpaceAfter=No
+11	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	OrigLemma=#است|SpaceAfter=No
 12	.	.	PUNCT	PUNC	_	10	punct	_	_
 
 # sent_id = test-s274
@@ -5101,7 +5101,7 @@
 2	حدیثی	حدیث	NOUN	N_IANM	Number=Sing	5	nsubj	_	_
 3	از	از	ADP	PREP	_	4	case	_	_
 4	انبیا	نبی	NOUN	N_ANM	Number=Plur	2	nmod	_	_
-5	است	#است	AUX	AUX	Number=Sing|Person=3	0	root	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3	0	root	_	OrigLemma=#است
 6	که	که	SCONJ	SUBR	_	16	mark	_	_
 7	برآورده	برآورده	ADJ	ADJ_AJP	_	8	advmod	_	_
 8	شدن	شدن	NOUN	N_IANM	Number=Sing	16	obj	_	_
@@ -5236,7 +5236,7 @@
 16	اکثر	اکثر	NOUN	N_IANM	_	18	obl	_	_
 17	موارد	مورد	NOUN	N_IANM	Number=Plur	16	nmod	_	_
 18	فروریخته	فرو#ریخت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	OrigLemma=فرو#ریخت#ریز
-19	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	18	aux	_	_
+19	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	18	aux	_	OrigLemma=#است
 20	و	و	CCONJ	CONJ	_	28	cc	_	_
 21	در	در	ADP	PREP	_	23	case	_	_
 22	چهار	چهار	NUM	PRENUM	_	23	nummod	_	_
@@ -5246,7 +5246,7 @@
 26	دیدبانی	دیدبانی	NOUN	N_IANM	Number=Sing	25	nmod	_	_
 27	تعبیه	تعبیه	NOUN	N_IANM	Number=Sing	28	compound:lvc	_	_
 28	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	18	conj	_	OrigLemma=شد#شو
-29	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	28	aux	_	SpaceAfter=No
+29	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	28	aux	_	OrigLemma=#است|SpaceAfter=No
 30	.	.	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = test-s286
@@ -5397,7 +5397,7 @@
 1	هیچ	هیچ	DET	PREM_AMBAJ	_	2	det	_	_
 2	کس	کس	NOUN	N_ANM	Number=Sing	8	obj	_	_
 3	را	را	ADP	POSTP	_	2	case	_	_
-4	نمی‌توان	#توان	AUX	V_MODL	Number=Sing|Polarity=Neg	8	aux	_	_
+4	نمی‌توان	توان	AUX	V_MODL	Number=Sing|Polarity=Neg	8	aux	_	OrigLemma=#توان
 5	«	«	PUNCT	PUNC	_	6	punct	_	SpaceAfter=No
 6	مجرم	مجرم	NOUN	N_ANM	Number=Sing	8	xcomp	_	SpaceAfter=No
 7	»	»	PUNCT	PUNC	_	6	punct	_	_
@@ -5603,7 +5603,7 @@
 5	از	از	ADP	PREP	_	6	case	_	_
 6	ویژگی‌های	ویژگی	NOUN	N_IANM	Number=Plur	0	root	_	_
 7	مؤمن	مؤمن	NOUN	N_ANM	Number=Sing	6	nmod	_	_
-8	است	#است	AUX	AUX	Number=Sing|Person=3	6	cop	_	_
+8	است	است	AUX	AUX	Number=Sing|Person=3	6	cop	_	OrigLemma=#است
 9	که	که	SCONJ	SUBR	_	1	acl	_	_
 10	به	به	ADP	PREP	_	11	case	_	_
 11	وسیلهٔ	وسیله	NOUN	N_IANM	Number=Sing	19	obl	_	_
@@ -5872,7 +5872,7 @@
 4	یک	یک	NUM	PRENUM	_	5	nummod	_	_
 5	آهن‌ربای	آهن‌ربای	NOUN	N_IANM	Number=Sing	0	root	_	_
 6	ساده	ساده	ADJ	ADJ_AJP	_	5	amod	_	_
-7	است	#است	AUX	AUX	Number=Sing|Person=3	5	cop	_	_
+7	است	است	AUX	AUX	Number=Sing|Person=3	5	cop	_	OrigLemma=#است
 8	که	که	SCONJ	SUBR	_	15	mark	_	_
 9	متناسب	متناسب	ADJ	ADJ_AJP	_	15	advmod	_	_
 10	با	با	ADP	PREP	_	11	case	_	_
@@ -5900,7 +5900,7 @@
 1	این	این	DET	PREM_DEMAJ	_	2	det	_	_
 2	قوم	قوم	NOUN	N_ANM	Number=Sing	15	nsubj	_	_
 3	ممکن	ممکن	ADJ	ADJ_AJP	_	0	root	_	_
-4	است	#است	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+4	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است
 5	در	در	ADP	PREP	_	6	case	_	_
 6	طول	طول	NOUN	N_IANM	Number=Sing	15	obl	_	_
 7	اعصار	عصر	NOUN	N_IANM	Number=Plur	6	nmod	_	_
@@ -5931,7 +5931,7 @@
 12	امام	امام	PROPN	N_ANM	Number=Sing	11	nmod	_	_
 13	عدول	عدول	PROPN	N_IANM	Number=Sing	14	compound:lvc	_	_
 14	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-15	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	14	aux	_	SpaceAfter=No
+15	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	14	aux	_	OrigLemma=#است|SpaceAfter=No
 16	.	.	PUNCT	PUNC	_	14	punct	_	_
 
 # sent_id = test-s319
@@ -5992,7 +5992,7 @@
 8	به	به	ADP	PREP	_	9	case	_	_
 9	دولت	دولت	PROPN	N_IANM	Number=Sing	7	obl:arg	_	_
 10	کویت	کویت	PROPN	N_IANM	Number=Sing	9	flat:name	_	_
-11	است	#است	AUX	AUX	Number=Sing|Person=3	7	cop	_	_
+11	است	است	AUX	AUX	Number=Sing|Person=3	7	cop	_	OrigLemma=#است
 12	و	و	CCONJ	CONJ	_	25	cc	_	_
 13	تمامی	تمامی	NOUN	N_IANM	Number=Plur	25	obj	_	_
 14	فعالیت‌ها	فعالیت	NOUN	N_IANM	Number=Plur	13	nmod	_	_
@@ -6017,7 +6017,7 @@
 4	حسرت	حسرت	NOUN	N_IANM	Number=Sing	6	nsubj	_	_
 5	همه	همه	NOUN	N_ANM	Number=Plur	4	nmod	_	_
 6	این	این	PRON	PR_DEMON	Number=Sing	0	root	_	_
-7	است	#است	AUX	AUX	Number=Sing|Person=3	6	cop	_	_
+7	است	است	AUX	AUX	Number=Sing|Person=3	6	cop	_	OrigLemma=#است
 8	که	که	SCONJ	SUBR	_	20	mark	_	_
 9	چرا	چرا	ADV	ADV_SADV	_	20	advmod	_	_
 10	نسبت	نسبت	ADP	PREP	_	14	case	_	_
@@ -6186,7 +6186,7 @@
 21	هر	هر	DET	PREM_AMBAJ	_	22	det	_	_
 22	چه	چه	NOUN	N_IANM	Number=Sing	26	obl:arg	_	_
 23	آماده	آماده	ADJ	ADJ_AJP	_	22	acl	_	_
-24	است	#است	AUX	AUX	Number=Sing|Person=3	23	cop	_	_
+24	است	است	AUX	AUX	Number=Sing|Person=3	23	cop	_	OrigLemma=#است
 25	قناعت	قناعت	NOUN	N_IANM	Number=Sing	26	compound:lvc	_	_
 26	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	18	conj	_	OrigLemma=کرد#کن|SpaceAfter=No
 27	.	.	PUNCT	PUNC	_	26	punct	_	_
@@ -6198,7 +6198,7 @@
 3	افزایش	افزایش	NOUN	N_IANM	Number=Sing	2	obl:arg	_	_
 4	نابرابری‌ها	نابرابری	NOUN	N_IANM	Number=Plur	3	nmod	_	_
 5	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=شد#شو
-6	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	SpaceAfter=No
+6	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	OrigLemma=#است|SpaceAfter=No
 7	،	،	PUNCT	PUNC	_	5	punct	_	_
 8	به	به	ADP	PREP	_	9	case	_	_
 9	گونه‌ای	گونه	NOUN	N_IANM	Number=Sing	5	obl	_	_
@@ -6272,7 +6272,7 @@
 3	سنگ	سنگ	NOUN	N_IANM	Number=Sing	5	obl:arg	_	_
 4	تشبیه	تشبیه	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	_
 5	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=شد#شو
-6	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	_
+6	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	OrigLemma=#است
 7	اما	اما	CCONJ	CONJ	_	16	cc	_	_
 8	وجه	وجه	NOUN	N_IANM	Number=Sing	16	nsubj	_	_
 9	شبه	شبه	NOUN	N_IANM	Number=Sing	8	nmod	_	_
@@ -6283,7 +6283,7 @@
 14	این	این	DET	PREM_DEMAJ	_	15	det	_	_
 15	بیت	بیت	NOUN	N_IANM	Number=Sing	16	obl	_	_
 16	نیامده	آمد	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	5	conj	_	OrigLemma=آمد#آ
-17	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	16	aux	_	SpaceAfter=No
+17	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	16	aux	_	OrigLemma=#است|SpaceAfter=No
 18	.	.	PUNCT	PUNC	_	16	punct	_	_
 
 # sent_id = test-s336
@@ -6518,7 +6518,7 @@
 20	روحی	روحی	ADJ	ADJ_AJP	_	19	amod	_	_
 21	و	و	CCONJ	CONJ	_	22	cc	_	_
 22	روانی	روانی	ADJ	ADJ_AJP	_	20	conj	_	_
-23	است	#است	AUX	AUX	Number=Sing|Person=3	17	cop	_	SpaceAfter=No
+23	است	است	AUX	AUX	Number=Sing|Person=3	17	cop	_	OrigLemma=#است|SpaceAfter=No
 24	.	.	PUNCT	PUNC	_	23	punct	_	_
 
 # sent_id = test-s349
@@ -6673,7 +6673,7 @@
 1	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1	2	nsubj	_	_
 2-3	مجبوریم	_	_	_	_	_	_	_	_
 2	مجبور	مجبور	ADJ	ADJ_AJP	_	0	root	_	_
-3	یم	#هست	AUX	AUX	Number=Plur|Person=1	2	cop	_	_
+3	یم	هست	AUX	AUX	Number=Plur|Person=1	2	cop	_	OrigLemma=#هست
 4	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2	12	obj	_	_
 5	را	را	ADP	POSTP	_	4	case	_	_
 6	هر	هر	DET	PREM_AMBAJ	_	8	det	_	_
@@ -6789,7 +6789,7 @@
 # sent_id = test-s364
 # text = چندی است که رفتار فلان با من بسیار توفیر کرده است.
 1	چندی	چندی	NOUN	N_IANM	Number=Sing	2	nsubj	_	_
-2	است	#است	AUX	AUX	Number=Sing|Person=3	0	root	_	_
+2	است	است	AUX	AUX	Number=Sing|Person=3	0	root	_	OrigLemma=#است
 3	که	که	SCONJ	SUBR	_	10	mark	_	_
 4	رفتار	رفتار	NOUN	N_IANM	Number=Sing	10	nsubj	_	_
 5	فلان	فلان	NOUN	N_ANM	Number=Sing	4	nmod	_	_
@@ -6798,7 +6798,7 @@
 8	بسیار	بسیار	ADV	ADV_SADV	_	10	advmod	_	_
 9	توفیر	توفیر	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
 10	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	OrigLemma=کرد#کن
-11	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	SpaceAfter=No
+11	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	OrigLemma=#است|SpaceAfter=No
 12	.	.	PUNCT	PUNC	_	11	punct	_	_
 
 # sent_id = test-s365
@@ -6957,7 +6957,7 @@
 1	با	با	ADP	PREP	_	3	case	_	_
 2	این	این	DET	PREM_DEMAJ	_	3	det	_	_
 3	نرم‌افزار	نرم‌افزار	NOUN	N_IANM	Number=Sing	8	obl	_	_
-4	می‌توان	#توان	AUX	V_MODL	_	8	aux	_	_
+4	می‌توان	توان	AUX	V_MODL	_	8	aux	_	OrigLemma=#توان
 5	به	به	ADP	PREP	_	6	case	_	_
 6	سرعت	سرعت	NOUN	N_IANM	Number=Sing	8	obl	_	_
 7	برنامه‌نویسی	برنامه‌نویسی	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
@@ -7002,7 +7002,7 @@
 11	مرگ	مرگ	NOUN	N_IANM	Number=Sing	10	nmod	_	_
 12	نام	نام	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	_
 13	گرفته	گرفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	OrigLemma=گرفت#گیر
-14	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	13	aux	_	_
+14	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	13	aux	_	OrigLemma=#است
 15	صدرنشینی	صدرنشینی	NOUN	N_IANM	Number=Sing	16	compound:lvc	_	_
 16	می‌کند	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
 17	.	.	PUNCT	PUNC	_	16	punct	_	_
@@ -7180,7 +7180,7 @@
 25	چیزی	چیز	NOUN	N_IANM	Number=Sing	24	obl:arg	_	_
 26	نامعمول	نامعمول	ADJ	ADJ_AJP	_	25	amod	_	_
 27	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	21	acl	_	OrigLemma=شد#شو
-28	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	27	aux	_	SpaceAfter=No
+28	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	27	aux	_	OrigLemma=#است|SpaceAfter=No
 29	.	.	PUNCT	PUNC	_	28	punct	_	_
 
 # sent_id = test-s385
@@ -7279,7 +7279,7 @@
 8	تنها	تنها	ADV	ADV_SADV	_	10	advmod	_	_
 9	خاطرنشان	خاطرنشان	ADJ	ADJ_AJP	_	10	compound:lvc	_	_
 10	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	6	conj	_	OrigLemma=داشت#دار
-11	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	_
+11	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	OrigLemma=#است
 12	که	که	SCONJ	SUBR	_	18	mark	_	_
 13	تزریق	تزریق	NOUN	N_IANM	Number=Sing	18	nsubj	_	_
 14	گاز	گاز	NOUN	N_IANM	Number=Sing	13	nmod	_	_
@@ -7288,7 +7288,7 @@
 16	انها	آنها	PRON	PR_DEMON	Number=Plur	13	nmod	_	_
 17	آغاز	آغاز	NOUN	N_IANM	Number=Sing	18	compound:lvc	_	_
 18	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	10	ccomp	_	OrigLemma=شد#شو
-19	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	18	aux	_	SpaceAfter=No
+19	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	18	aux	_	OrigLemma=#است|SpaceAfter=No
 20	.	.	PUNCT	PUNC	_	10	punct	_	_
 
 # sent_id = test-s390
@@ -7312,7 +7312,7 @@
 17	برخورد	برخورد	NOUN	N_IANM	Number=Sing	19	obl:arg	_	_
 18	بسیار	بسیار	ADV	ADV_SADV	_	19	advmod	_	_
 19	مؤثر	مؤثر	ADJ	ADJ_AJP	_	9	ccomp	_	_
-20	است	#است	AUX	AUX	Number=Sing|Person=3	19	cop	_	SpaceAfter=No
+20	است	است	AUX	AUX	Number=Sing|Person=3	19	cop	_	OrigLemma=#است|SpaceAfter=No
 21	.	.	PUNCT	PUNC	_	9	punct	_	_
 
 # sent_id = test-s391
@@ -7321,7 +7321,7 @@
 2	همهٔ	همه	NOUN	N_ANM	Number=Plur	1	nmod	_	_
 3	جانوران	جانور	NOUN	N_ANM	Number=Plur	2	nmod	_	_
 4	را	را	ADP	POSTP	_	1	case	_	_
-5	می‌توان	#توان	AUX	V_MODL	_	7	aux	_	_
+5	می‌توان	توان	AUX	V_MODL	_	7	aux	_	OrigLemma=#توان
 6	دباغی	دباغی	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
 7	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
 8	.	.	PUNCT	PUNC	_	7	punct	_	_
@@ -7374,7 +7374,7 @@
 3	نمایشگاهی	نمایشگاه	NOUN	N_IANM	Number=Sing	0	root	_	_
 4	از	از	ADP	PREP	_	5	case	_	_
 5	تابلوها	تابلو	NOUN	N_IANM	Number=Plur	3	nmod	_	_
-6	است	#است	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+6	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است
 7	که	که	SCONJ	SUBR	_	19	mark	_	_
 8	در	در	ADP	PREP	_	9	case	_	_
 9	آن	آن	PRON	PR_DEMON	Number=Sing	19	obl	_	_
@@ -7407,7 +7407,7 @@
 12	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1	14	obl:arg	_	_
 13	حمایت	حمایت	NOUN	N_IANM	Number=Sing	14	compound:lvc	_	_
 14	نکرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	7	conj	_	OrigLemma=کرد#کن
-15	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	14	aux	_	SpaceAfter=No
+15	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	14	aux	_	OrigLemma=#است|SpaceAfter=No
 16	.	.	PUNCT	PUNC	_	14	punct	_	_
 
 # sent_id = test-s397
@@ -7572,7 +7572,7 @@
 5-6	فکرمان	_	_	_	_	_	_	_	_
 5	فکر	فکر	NOUN	N_IANM	Number=Sing	2	acl	_	_
 6	مان	ما	PRON	PR_JOPER	Number=Plur|Person=1|PronType=Prs	5	nmod	_	_
-7	هستند	#هست	AUX	AUX	Number=Plur|Person=3	5	cop	_	_
+7	هستند	هست	AUX	AUX	Number=Plur|Person=3	5	cop	_	OrigLemma=#هست
 8	را	را	ADP	POSTP	_	2	case	_	_
 9	به	به	ADP	PREP	_	10	case	_	_
 10	گریه	گریه	NOUN	N_IANM	Number=Sing	11	obl:arg	_	_
@@ -7807,7 +7807,7 @@
 4	را	را	ADP	POSTP	_	2	case	_	_
 5	بمب‌گذاری	بمب‌گذاری	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	_
 6	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-7	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	6	aux	_	SpaceAfter=No
+7	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	6	aux	_	OrigLemma=#است|SpaceAfter=No
 8	.	.	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = test-s422
@@ -7894,14 +7894,14 @@
 16	انبار	انبار	NOUN	N_IANM	Number=Sing	18	obl:arg	_	_
 17	فروشگاه‌ها	فروشگاه	NOUN	N_IANM	Number=Plur	16	nmod	_	_
 18	بوده	بود	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	OrigLemma=بود#باش
-19	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	18	aux	_	_
+19	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	18	aux	_	OrigLemma=#است
 20	را	را	ADP	POSTP	_	7	case	_	_
 21	به	به	ADP	PREP	_	22	case	_	_
 22	شکل	شکل	NOUN	N_IANM	Number=Sing	25	obl	_	_
 23	تفنگ	تفنگ	NOUN	N_IANM	Number=Sing	22	nmod	_	_
 24	برش	برش	NOUN	N_IANM	Number=Sing	25	compound:lvc	_	_
 25	داده	داد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=داد#ده
-26	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	25	aux	_	SpaceAfter=No
+26	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	25	aux	_	OrigLemma=#است|SpaceAfter=No
 27	.	.	PUNCT	PUNC	_	25	punct	_	_
 
 # sent_id = test-s428
@@ -7980,7 +7980,7 @@
 5	اما	اما	CCONJ	CONJ	_	7	cc	_	_
 6	سؤال	سؤال	NOUN	N_IANM	Number=Sing	7	nsubj	_	_
 7	این	این	PRON	PR_DEMON	Number=Sing	2	conj	_	_
-8	است	#است	AUX	AUX	Number=Sing|Person=3	7	cop	_	_
+8	است	است	AUX	AUX	Number=Sing|Person=3	7	cop	_	OrigLemma=#است
 9	که	که	SCONJ	SUBR	_	7	acl	_	_
 10	آیا	آیا	PART	PART	_	15	mark	_	_
 11	این	این	DET	PREM_DEMAJ	_	12	det	_	_
@@ -8057,7 +8057,7 @@
 7	خیلی	خیلی	ADV	ADV_SADV	_	8	advmod	_	_
 8	حائز	حائز	ADJ	ADJ_AJP	_	0	root	_	_
 9	اهمیت	اهمیت	NOUN	N_IANM	Number=Sing	8	obl:arg	_	_
-10	است	#است	AUX	AUX	Number=Sing|Person=3	8	cop	_	SpaceAfter=No
+10	است	است	AUX	AUX	Number=Sing|Person=3	8	cop	_	OrigLemma=#است|SpaceAfter=No
 11	؛	؛	PUNCT	PUNC	_	8	punct	_	_
 12	در	در	ADP	PREP	_	13	case	_	_
 13	خانواده	خانواده	NOUN	N_IANM	Number=Sing	15	obl	_	_
@@ -8077,7 +8077,7 @@
 6	از	از	ADP	PREP	_	7	case	_	_
 7	وحدت	وحدت	NOUN	N_IANM	Number=Sing	5	nmod	_	_
 8	این	این	PRON	PR_DEMON	Number=Sing	2	ccomp	_	_
-9	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	8	cop	_	_
+9	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	8	cop	_	OrigLemma=#هست
 10	که	که	SCONJ	SUBR	_	11	mark	_	_
 11	برویم	رفت	VERB	V_ACT	Number=Plur|Person=1|Voice=Act	8	acl	_	OrigLemma=رفت#رو
 12	با	با	ADP	PREP	_	13	case	_	_
@@ -8127,7 +8127,7 @@
 5	سپتامبر	سپتامبر	NOUN	N_IANM	Number=Sing	4	nmod	_	_
 6	فیلم‌سازی	فیلم‌سازی	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
 7	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-8	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No
+8	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	OrigLemma=#است|SpaceAfter=No
 9	.	.	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = test-s439
@@ -8185,7 +8185,7 @@
 # text = تا فرصتی هست شیوهٔ خود را دنبال بکنید و در راهی که پیش گرفتید گام بزنید.
 1	تا	تا	SCONJ	SUBR	_	3	mark	_	_
 2	فرصتی	فرصت	NOUN	N_IANM	Number=Sing	3	nsubj	_	_
-3	هست	#هست	AUX	AUX	Number=Sing|Person=3	16	advcl	_	_
+3	هست	هست	AUX	AUX	Number=Sing|Person=3	16	advcl	_	OrigLemma=#هست
 4	شیوهٔ	شیوه	NOUN	N_IANM	Number=Sing	8	obj	_	_
 5	خود	خود	PRON	PR_CREFX	_	4	nmod	_	_
 6	را	را	ADP	POSTP	_	4	case	_	_
@@ -8207,7 +8207,7 @@
 2	مکانیزم‌های	مکانیزم	NOUN	N_IANM	Number=Plur	0	root	_	_
 3	دفاعی	دفاعی	ADJ	ADJ_AJP	_	2	amod	_	_
 4	نویسنده	نویسنده	NOUN	N_ANM	Number=Sing	2	nmod	_	_
-5	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 6	در	در	ADP	PREP	_	7	case	_	_
 7	برابر	برابر	NOUN	N_IANM	Number=Sing	2	nmod	_	_
 8	حمله‌های	حمله	NOUN	N_IANM	Number=Plur	7	nmod	_	_
@@ -8427,7 +8427,7 @@
 17	دفاع	دفاع	NOUN	N_IANM	Number=Sing	10	conj	_	_
 18	از	از	ADP	PREP	_	19	case	_	_
 19	وحدتی	وحدت	NOUN	N_IANM	Number=Sing	17	nmod	_	_
-20	است	#است	AUX	AUX	Number=Sing|Person=3	17	cop	_	_
+20	است	است	AUX	AUX	Number=Sing|Person=3	17	cop	_	OrigLemma=#است
 21	که	که	SCONJ	SUBR	_	30	mark	_	_
 22	خلیلی	خلیلی	PROPN	N_ANM	Number=Sing	30	nsubj	_	_
 23	و	و	CCONJ	CONJ	_	25	cc	_	_
@@ -8488,7 +8488,7 @@
 6	ریشه	ریشه	NOUN	N_IANM	Number=Sing	8	obl	_	_
 7	وارد	وارد	ADJ	ADJ_AJP	_	8	compound:lvc	_	_
 8	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=شد#شو
-9	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	_
+9	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	OrigLemma=#است
 10	و	و	CCONJ	CONJ	_	14	cc	_	_
 11	در	در	ADP	PREP	_	12	case	_	_
 12	خاک	خاک	NOUN	N_IANM	Number=Sing	14	obl	_	_
@@ -8662,7 +8662,7 @@
 4	پلید	پلید	ADJ	ADJ_AJP	_	3	amod	_	_
 5	و	و	CCONJ	CONJ	_	6	cc	_	_
 6	ضدبشری	ضدبشری	ADJ	ADJ_AJP	_	4	conj	_	_
-7	است	#است	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+7	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است
 8	و	و	CCONJ	CONJ	_	20	cc	_	_
 9	اگر	اگر	SCONJ	SUBR	_	12	mark	_	_
 10	فرصتی	فرصت	NOUN	N_IANM	Number=Sing	12	obj	_	_
@@ -8963,11 +8963,11 @@
 13	تهرانی‌ها	تهرانی	NOUN	N_ANM	Number=Plur	12	nmod	_	SpaceAfter=No
 14	-	-	PUNCT	PUNC	_	12	punct	_	_
 15	شکرآب	شکرآب	NOUN	N_IANM	Number=Sing	2	acl	_	_
-16	است	#است	AUX	AUX	Number=Sing|Person=3	15	cop	_	SpaceAfter=No
+16	است	است	AUX	AUX	Number=Sing|Person=3	15	cop	_	OrigLemma=#است|SpaceAfter=No
 17	،	،	PUNCT	PUNC	_	15	punct	_	_
 18	هیچ	هیچ	DET	PREM_AMBAJ	_	19	det	_	_
 19	شکی	شک	NOUN	N_IANM	Number=Sing	20	nsubj	_	_
-20	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	0	root	_	_
+20	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	0	root	_	OrigLemma=#هست
 21	که	که	SCONJ	SUBR	_	31	mark	_	_
 22	غربی‌ها	غربی	NOUN	N_ANM	Number=Plur	31	nsubj	_	_
 23	نسبت	نسبت	ADP	PREP	_	25	case	_	_
@@ -9092,7 +9092,7 @@
 8	قبلاً	قبلاً	ADV	ADV_SADV	_	10	advmod	_	_
 9	شناسایی	شناسایی	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
 10	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	OrigLemma=کرد#کن
-11	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	_
+11	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	OrigLemma=#است
 12	به	به	ADP	PREP	_	13	case	_	_
 13	عنوان	عنوان	NOUN	N_IANM	Number=Sing	22	obl	_	_
 14	"	"	PUNCT	PUNC	_	15	punct	_	SpaceAfter=No
@@ -9142,7 +9142,7 @@
 7	کارهایی	کار	NOUN	N_IANM	Number=Plur	6	nmod	_	_
 8	که	که	SCONJ	SUBR	_	9	mark	_	_
 9	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	OrigLemma=کرد#کن
-10	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	SpaceAfter=No
+10	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	OrigLemma=#است|SpaceAfter=No
 11	،	،	PUNCT	PUNC	_	9	punct	_	_
 12	پاداش	پاداش	NOUN	N_IANM	Number=Sing	16	obj	_	_
 13	یا	یا	CCONJ	CONJ	_	14	cc	_	_
@@ -9711,7 +9711,7 @@
 1	گالیا	گالیا	NOUN	N_ANM	Number=Sing	3	nsubj	_	_
 2	خواب	خواب	NOUN	N_IANM	Number=Sing	3	compound:lvc	_	_
 3	دیده	دید	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=دید#بین
-4	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	3	aux	_	_
+4	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	3	aux	_	OrigLemma=#است
 5	که	که	SCONJ	SUBR	_	3	ccomp	_	_
 6	روزی	روز	NOUN	N_IANM	Number=Sing	8	obl	_	_
 7	شنا	شنا	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
@@ -9833,7 +9833,7 @@
 21	فوتبال	فوتبال	PROPN	N_IANM	Number=Sing	20	flat:name	_	_
 22	دردسر	دردسر	NOUN	N_IANM	Number=Sing	23	obj	_	_
 23	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=داشت#دار
-24	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	23	aux	_	SpaceAfter=No
+24	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	23	aux	_	OrigLemma=#است|SpaceAfter=No
 25	.	.	PUNCT	PUNC	_	23	punct	_	_
 
 # sent_id = test-s522
@@ -10014,7 +10014,7 @@
 12	طور	طور	NOUN	N_IANM	Number=Sing	0	root	_	_
 13	نبوت	نبوت	NOUN	N_IANM	Number=Sing	12	nmod	_	SpaceAfter=No
 14	»	»	PUNCT	PUNC	_	12	punct	_	_
-15	است	#است	AUX	AUX	Number=Sing|Person=3	12	cop	_	_
+15	است	است	AUX	AUX	Number=Sing|Person=3	12	cop	_	OrigLemma=#است
 16	که	که	SCONJ	SUBR	_	27	mark	_	_
 17	بدون	بدون	ADP	PREP	_	18	case	_	_
 18	عبور	عبور	NOUN	N_IANM	Number=Sing	27	obl	_	_
@@ -10026,7 +10026,7 @@
 24-25	بدان	_	_	_	_	_	_	_	_
 24	بد	به	ADP	PREP	_	25	case	_	_
 25	ان	_	PRON	PR_DEMON	Number=Sing	27	obl:arg	_	_
-26	نمی‌توان	#توان	AUX	V_MODL	Polarity=Neg	27	aux	_	_
+26	نمی‌توان	توان	AUX	V_MODL	Polarity=Neg	27	aux	_	OrigLemma=#توان
 27	رسید	رسید	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	12	acl	_	OrigLemma=رسید#رس|SpaceAfter=No
 28	؛	؛	PUNCT	PUNC	_	27	punct	_	_
 29	با	با	ADP	PREP	_	31	case	_	_
@@ -10047,7 +10047,7 @@
 43	از	از	ADP	PREP	_	44	case	_	_
 44	اشکال	اشکال	NOUN	N_IANM	Number=Sing	45	obl:arg	_	_
 45	خالی	خالی	ADJ	ADJ_AJP	_	12	conj	_	_
-46	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	45	cop	_	SpaceAfter=No
+46	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	45	cop	_	OrigLemma=#هست|SpaceAfter=No
 47	.	.	PUNCT	PUNC	_	45	punct	_	_
 
 # sent_id = test-s530
@@ -10090,7 +10090,7 @@
 19	و	و	CCONJ	CONJ	_	21	cc	_	_
 20	مورد	مورد	ADP	PREP	_	21	case	_	_
 21	نیاز	نیاز	NOUN	N_IANM	Number=Sing	18	conj	_	_
-22	هستند	#هست	AUX	AUX	Number=Plur|Person=3	14	cop	_	SpaceAfter=No
+22	هستند	هست	AUX	AUX	Number=Plur|Person=3	14	cop	_	OrigLemma=#هست|SpaceAfter=No
 23	.	.	PUNCT	PUNC	_	14	punct	_	_
 
 # sent_id = test-s532
@@ -10127,7 +10127,7 @@
 # text = امیدوارم افکار شجاع‌الدین شفا در فرزندان ایران‌زمین رواج کرده باشد و همچنین به رواج خود ادامه بدهد.
 1-2	امیدوارم	_	_	_	_	_	_	_	_
 1	امیدوار	امیدوار	ADJ	ADJ_AJP	_	0	root	_	_
-2	م	#هست	AUX	AUX	Number=Sing|Person=1	1	cop	_	_
+2	م	هست	AUX	AUX	Number=Sing|Person=1	1	cop	_	OrigLemma=#هست
 3	افکار	فکر	NOUN	N_IANM	Number=Plur	10	nsubj	_	_
 4	شجاع‌الدین	شجاع‌الدین	NOUN	N_ANM	Number=Sing	3	nmod	_	_
 5	شفا	شفا	NOUN	N_ANM	Number=Sing	4	nmod	_	_
@@ -10275,7 +10275,7 @@
 # text = دنیا ممکن است به او ریشخند بزند اما او اهمیتی نمی‌دهد.
 1	دنیا	دنیا	NOUN	N_IANM	Number=Sing	7	nsubj	_	_
 2	ممکن	ممکن	ADJ	ADJ_AJP	_	0	root	_	_
-3	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 4	به	به	ADP	PREP	_	5	case	_	_
 5	او	او	PRON	PR_SEPER	Number=Sing|Person=3	7	obl:arg	_	_
 6	ریشخند	ریشخند	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
@@ -10436,7 +10436,7 @@
 14	کار	کار	NOUN	N_IANM	Number=Sing	3	acl	_	_
 15	و	و	CCONJ	CONJ	_	16	cc	_	_
 16	تلاش	تلاش	NOUN	N_IANM	Number=Sing	14	conj	_	_
-17	هستید	#هست	AUX	AUX	Number=Plur|Person=2	14	cop	_	_
+17	هستید	هست	AUX	AUX	Number=Plur|Person=2	14	cop	_	OrigLemma=#هست
 18	و	و	CCONJ	CONJ	_	21	cc	_	_
 19	دغدغهٔ	دغدغه	NOUN	N_IANM	Number=Sing	21	obj	_	_
 20	انتخابات	انتخابات	NOUN	N_IANM	Number=Sing	19	nmod	_	_
@@ -10450,7 +10450,7 @@
 28	می‌کنید	کرد	VERB	V_ACT	Number=Plur|Person=2|Tense=Pres|Voice=Act	14	conj	_	OrigLemma=کرد#کن|SpaceAfter=No
 29	،	،	PUNCT	PUNC	_	28	punct	_	_
 30	سپاسگزار	سپاسگزار	ADJ	ADJ_AJP	_	0	root	_	_
-31	یم	#هست	AUX	AUX	Number=Plur|Person=1	30	cop	_	SpaceAfter=No
+31	یم	هست	AUX	AUX	Number=Plur|Person=1	30	cop	_	OrigLemma=#هست|SpaceAfter=No
 32	.	.	PUNCT	PUNC	_	30	punct	_	_
 
 # sent_id = test-s548
@@ -10502,7 +10502,7 @@
 # text = خداوند جمیل است و جمال و زیبایی را دوست دارد به این جهت خود را در پیشگاه الهی زینت می‌کنم.
 1	خداوند	خداوند	NOUN	N_ANM	Number=Sing	2	nsubj	_	_
 2	جمیل	جمیل	ADJ	ADJ_AJP	_	0	root	_	_
-3	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 4	و	و	CCONJ	CONJ	_	10	cc	_	_
 5	جمال	جمال	NOUN	N_IANM	Number=Sing	10	obj	_	_
 6	و	و	CCONJ	CONJ	_	7	cc	_	_
@@ -10539,7 +10539,7 @@
 13	نگاره‌ها	نگاره	NOUN	N_IANM	Number=Plur	11	conj	_	_
 14	زیور	زیور	NOUN	N_ANM	Number=Sing	15	compound:lvc	_	_
 15	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-16	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	15	aux	_	SpaceAfter=No
+16	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	15	aux	_	OrigLemma=#است|SpaceAfter=No
 17	.	.	PUNCT	PUNC	_	15	punct	_	_
 
 # sent_id = test-s552
@@ -11040,7 +11040,7 @@
 2	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1	1	nmod	_	_
 3	سه	سه	NUM	PRENUM	_	4	nummod	_	_
 4	نسل	نسل	NOUN	N_IANM	Number=Sing	0	root	_	_
-5	است	#است	AUX	AUX	Number=Sing|Person=3	4	cop	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3	4	cop	_	OrigLemma=#است
 6	و	و	CCONJ	CONJ	_	4	dep	_	_
 7	از	از	ADP	PREP	_	6	obl	_	_
 8	او	او	PRON	PR_SEPER	Number=Sing|Person=3	7	obl	_	_
@@ -11190,7 +11190,7 @@
 # sent_id = test-s586
 # text = روزگاری ست، آشوبی در دلم رقص و هلهله می‌کند.
 1	روزگاری	روزگار	NOUN	N_IANM	Number=Sing	0	root	_	_
-2	ست	#است	AUX	AUX	Number=Sing|Person=3	1	cop	_	SpaceAfter=No
+2	ست	است	AUX	AUX	Number=Sing|Person=3	1	cop	_	OrigLemma=#است|SpaceAfter=No
 3	،	،	PUNCT	PUNC	_	1	punct	_	_
 4	آشوبی	آشوب	NOUN	N_IANM	Number=Sing	11	nsubj	_	_
 5	در	در	ADP	PREP	_	6	case	_	_
@@ -11284,7 +11284,7 @@
 3	گفت	گفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=گفت#گو|SpaceAfter=No
 4	:	:	PUNCT	PUNC	_	3	punct	_	_
 5	غیرممکن	غیرممکن	ADJ	ADJ_AJP	_	3	ccomp	_	_
-6	است	#است	AUX	AUX	Number=Sing|Person=3	5	cop	_	_
+6	است	است	AUX	AUX	Number=Sing|Person=3	5	cop	_	OrigLemma=#است
 7	باید	بایست	AUX	V_MODL	_	12	aux	_	OrigLemma=بایست#باید
 8	من	من	PRON	PR_SEPER	Number=Sing|Person=1	12	nsubj	_	_
 9	از	از	ADP	PREP	_	10	case	_	_
@@ -11374,7 +11374,7 @@
 9	را	را	ADP	POSTP	_	8	case	_	_
 10	که	که	SCONJ	SUBR	_	11	mark	_	_
 11	ممکن	ممکن	ADJ	ADJ_AJP	_	8	acl	_	_
-12	است	#است	AUX	AUX	Number=Sing|Person=3	11	cop	_	_
+12	است	است	AUX	AUX	Number=Sing|Person=3	11	cop	_	OrigLemma=#است
 13	این	این	DET	PREM_DEMAJ	_	14	det	_	_
 14	سرزمین	سرزمین	NOUN	N_IANM	Number=Sing	18	nsubj	_	_
 15	و	و	CCONJ	CONJ	_	16	cc	_	_
@@ -11394,7 +11394,7 @@
 3	دانست	دانست	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	12	advcl	_	OrigLemma=دانست#دان
 4	که	که	SCONJ	SUBR	_	5	mark	_	_
 5	نازا	نازا	ADJ	ADJ_AJP	_	3	ccomp	_	_
-6	ست	#است	AUX	AUX	Number=Sing|Person=3	5	cop	_	SpaceAfter=No
+6	ست	است	AUX	AUX	Number=Sing|Person=3	5	cop	_	OrigLemma=#است|SpaceAfter=No
 7	،	،	PUNCT	PUNC	_	5	punct	_	_
 8	به	به	ADP	PREP	_	9	case	_	_
 9	خواهر	خواهر	NOUN	N_ANM	Number=Sing	12	obl:arg	_	_
@@ -11409,7 +11409,7 @@
 2	با	با	ADP	PREP	_	3	case	_	_
 3	گواش	گواش	NOUN	N_IANM	Number=Sing	1	nmod	_	_
 4	سخت	سخت	ADJ	ADJ_AJP	_	0	root	_	_
-5	است	#است	AUX	AUX	Number=Sing|Person=3	4	cop	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3	4	cop	_	OrigLemma=#است
 6	زیرا	زیرا	SCONJ	SUBR	_	25	mark	_	_
 7	اگر	اگر	SCONJ	SUBR	_	13	mark	_	_
 8	قسمتی	قسمت	NOUN	N_IANM	Number=Sing	18	obj	_	_
@@ -11709,18 +11709,18 @@
 5	گان	گان	NOUN	N_IANM	Number=Sing	4	nmod	_	_
 6	ت	تو	PRON	PR_JOPER	Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
 7	آشنا	آشنا	ADJ	ADJ_AJP	_	9	advcl	_	_
-8	نیستید	#است	AUX	AUX	Number=Plur|Person=2|Polarity=Neg	7	cop	_	_
+8	نیستید	است	AUX	AUX	Number=Plur|Person=2|Polarity=Neg	7	cop	_	OrigLemma=#است
 9	لازم	لازم	ADJ	ADJ_AJP	_	0	root	_	_
 10	به	به	ADP	PREP	_	11	case	_	_
 11	ذکر	ذکر	NOUN	N_IANM	Number=Sing	9	obl:arg	_	_
-12	است	#است	AUX	AUX	Number=Sing|Person=3	9	cop	_	_
+12	است	است	AUX	AUX	Number=Sing|Person=3	9	cop	_	OrigLemma=#است
 13	که	که	SCONJ	SUBR	_	9	csubj	_	_
 14	این	این	DET	PREM_DEMAJ	_	15	det	_	_
 15	نمودار	نمودار	NOUN	N_IANM	Number=Sing	17	nsubj	_	_
 16	یک	یک	NUM	PRENUM	_	17	nummod	_	_
 17	ابزار	ابزار	NOUN	N_IANM	Number=Sing	13	ccomp	_	_
 18	مدیریتی	مدیریتی	ADJ	ADJ_AJP	_	17	amod	_	_
-19	است	#است	AUX	AUX	Number=Sing|Person=3	17	cop	_	_
+19	است	است	AUX	AUX	Number=Sing|Person=3	17	cop	_	OrigLemma=#است
 20	که	که	SCONJ	SUBR	_	28	mark	_	_
 21	بر	بر	ADP	PREP	_	22	case	_	_
 22	اساس	اساس	NOUN	N_IANM	Number=Sing	28	obl	_	_
@@ -11937,10 +11937,10 @@
 5	این	این	DET	PREM_DEMAJ	_	6	nmod	_	_
 6	همه	همه	NOUN	N_IANM	Number=Sing	7	obl	_	_
 7	هم‌فکر	هم‌فکر	ADJ	ADJ_AJP	_	3	acl	_	_
-8	ید	#هست	AUX	AUX	Number=Plur|Person=2	7	cop	_	SpaceAfter=No
+8	ید	هست	AUX	AUX	Number=Plur|Person=2	7	cop	_	OrigLemma=#هست|SpaceAfter=No
 9	،	،	PUNCT	PUNC	_	7	punct	_	_
 10	همراه	همراه	NOUN	N_IANM	Number=Sing	7	conj	_	_
-11	ید	#هست	AUX	AUX	Number=Plur|Person=2	10	cop	_	_
+11	ید	هست	AUX	AUX	Number=Plur|Person=2	10	cop	_	OrigLemma=#هست
 12	با	با	ADP	PREP	_	13	case	_	_
 13	همدیگر	همدیگر	PRON	PR_RECPR	_	15	obl:arg	_	_
 14	تقابل	تقابل	NOUN	N_IANM	Number=Sing	15	compound:lvc	_	_
@@ -11952,7 +11952,7 @@
 1	زندگی	زندگی	NOUN	N_IANM	Number=Sing	2	nsubj	_	_
 2	کلاس	کلاس	NOUN	N_IANM	Number=Sing	0	root	_	_
 3	ریاضی	ریاضی	NOUN	N_IANM	Number=Sing	2	nmod	_	_
-4	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+4	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 5	که	که	SCONJ	SUBR	_	17	mark	_	_
 6	باید	بایست	AUX	V_MODL	_	17	aux	_	OrigLemma=بایست#باید
 7	در	در	ADP	PREP	_	8	case	_	_
@@ -12138,7 +12138,7 @@
 37	دلیل	دلیل	NOUN	N_IANM	Number=Sing	36	nmod	_	_
 38	قطعی	قطعی	ADJ	ADJ_AJP	_	37	amod	_	_
 39	عقلی	عقلی	ADJ	ADJ_AJP	_	37	amod	_	_
-40	اند	#هست	AUX	AUX	Number=Plur|Person=3	34	cop	_	_
+40	اند	هست	AUX	AUX	Number=Plur|Person=3	34	cop	_	OrigLemma=#هست
 41	با	با	ADP	PREP	_	42	case	_	_
 42	اسلام	اسلام	NOUN	N_IANM	Number=Sing	43	nmod	_	_
 43	تعارض	تعارض	NOUN	N_IANM	Number=Sing	45	obj	_	_
@@ -12190,7 +12190,7 @@
 3	دل	دل	NOUN	N_IANM	Number=Sing	5	obl:arg	_	_
 4	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2	3	nmod	_	_
 5	آگاه	آگاه	ADJ	ADJ_AJP	_	0	root	_	_
-6	است	#است	AUX	AUX	Number=Sing|Person=3	5	cop	_	_
+6	است	است	AUX	AUX	Number=Sing|Person=3	5	cop	_	OrigLemma=#است
 7	سعی	سعی	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
 8	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	5	conj	_	OrigLemma=کرد#کن
 9	حق	حق	NOUN	N_IANM	Number=Sing	13	obj	_	_
@@ -12244,7 +12244,7 @@
 15	:	:	PUNCT	PUNC	_	14	punct	_	_
 16	بر	بر	ADP	PREP	_	17	case	_	_
 17	تو	تو	PRON	PR_SEPER	Number=Sing|Person=2	14	ccomp	_	_
-18	ست	#است	AUX	AUX	Number=Sing|Person=3	17	cop	_	_
+18	ست	است	AUX	AUX	Number=Sing|Person=3	17	cop	_	OrigLemma=#است
 19	آن	آن	DET	PREM_DEMAJ	_	20	det	_	_
 20	چیزی	چیز	NOUN	N_IANM	Number=Sing	28	nmod	_	_
 21	که	که	SCONJ	SUBR	_	27	mark	_	_
@@ -12460,7 +12460,7 @@
 2	ریتم	ریتم	NOUN	N_IANM	Number=Sing	11	nsubj	_	_
 3	دقیقی	دقیق	ADJ	ADJ_AJP	_	2	amod	_	_
 4	که	که	SCONJ	SUBR	_	9	mark	_	_
-5	بتوان	#توان	AUX	V_MODL	_	9	aux	_	_
+5	بتوان	توان	AUX	V_MODL	_	9	aux	_	OrigLemma=#توان
 6	برای	برای	ADP	PREP	_	7	case	_	_
 7	زلزله‌شناسی	زلزله‌شناسی	NOUN	N_IANM	Number=Sing	9	obl:arg	_	_
 8	جدول‌بندی	جدول‌بندی	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	_
@@ -12498,7 +12498,7 @@
 2	واقعی	واقعی	ADJ	ADJ_AJP	_	1	amod	_	_
 3	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1	1	nmod	_	_
 4	کسانی	کس	NOUN	N_ANM	Number=Plur	0	root	_	_
-5	هستند	#هست	AUX	AUX	Number=Plur|Person=3	4	cop	_	_
+5	هستند	هست	AUX	AUX	Number=Plur|Person=3	4	cop	_	OrigLemma=#هست
 6	که	که	SCONJ	SUBR	_	12	mark	_	_
 7	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1	12	nsubj	_	_
 8	در	در	ADP	PREP	_	9	case	_	_
@@ -12524,7 +12524,7 @@
 2	استفاده	استفاده	NOUN	N_IANM	Number=Sing	19	obl	_	_
 3	از	از	ADP	PREP	_	4	case	_	_
 4	لیزر	لیزر	NOUN	N_IANM	Number=Sing	2	nmod	_	_
-5	می‌توان	#توان	AUX	V_MODL	_	19	aux	_	_
+5	می‌توان	توان	AUX	V_MODL	_	19	aux	_	OrigLemma=#توان
 6	ایزوتوپ‌های	ایزوتوپ	NOUN	N_IANM	Number=Plur	19	obj	_	_
 7	بور	بور	NOUN	N_IANM	Number=Sing	6	nmod	_	SpaceAfter=No
 8	،	،	PUNCT	PUNC	_	7	punct	_	_
@@ -12726,14 +12726,14 @@
 16	بر	بر	ADP	PREP	_	17	case	_	_
 17	مبنای	مبنا	NOUN	N_IANM	Number=Sing	12	conj	_	_
 18	سلامت	سلامت	NOUN	N_IANM	Number=Sing	17	nmod	_	_
-19	است	#است	AUX	AUX	Number=Sing|Person=3	12	cop	_	_
+19	است	است	AUX	AUX	Number=Sing|Person=3	12	cop	_	OrigLemma=#است
 20	و	و	CCONJ	CONJ	_	22	cc	_	_
 21	این	این	PRON	PR_DEMON	Number=Sing	22	nsubj	_	_
 22	محیط	محیط	NOUN	N_IANM	Number=Sing	4	conj	_	_
 23	زندگی	زندگی	NOUN	N_IANM	Number=Sing	22	nmod	_	_
 24-25	اوست	_	_	_	_	_	_	_	_
 24	او	او	PRON	PR_SEPER	Number=Sing|Person=3	23	nmod	_	_
-25	ست	#است	AUX	AUX	Number=Sing|Person=3	22	cop	_	_
+25	ست	است	AUX	AUX	Number=Sing|Person=3	22	cop	_	OrigLemma=#است
 26	که	که	SCONJ	SUBR	_	35	mark	_	_
 27	در	در	ADP	PREP	_	28	case	_	_
 28	او	او	PRON	PR_SEPER	Number=Sing|Person=3	35	obl	_	_
@@ -12896,7 +12896,7 @@
 7	رادیواکتیو	رادیواکتیو	PROPN	N_IANM	Number=Sing	9	obj	_	_
 8	تشعشع	تشعشع	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	_
 9	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-10	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	SpaceAfter=No
+10	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	OrigLemma=#است|SpaceAfter=No
 11	.	.	PUNCT	PUNC	_	9	punct	_	_
 
 # sent_id = test-s667
@@ -12907,7 +12907,7 @@
 4	مطلب	مطلب	NOUN	N_IANM	Number=Sing	3	nmod	_	_
 5-7	بروزم،	_	_	_	_	_	_	_	_
 5	بروز	بروز	ADJ	ADJ_AJP	_	0	root	_	_
-6	م	#هست	AUX	AUX	Number=Sing|Person=1	5	cop	_	_
+6	م	هست	AUX	AUX	Number=Sing|Person=1	5	cop	_	OrigLemma=#هست
 7	،	،	PUNCT	PUNC	_	6	punct	_	_
 8	لطفاً	لطفاً	ADV	ADV_SADV	_	10	advmod	_	_
 9	تشریف‌فرمایی	تشریف‌فرمایی	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
@@ -13020,7 +13020,7 @@
 10	و	و	CCONJ	CONJ	_	11	cc	_	_
 11	پاره	پاره	ADJ	ADJ_AJP	_	9	conj	_	_
 12	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	7	ccomp	_	OrigLemma=شد#شو
-13	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	12	aux	_	SpaceAfter=No
+13	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	12	aux	_	OrigLemma=#است|SpaceAfter=No
 14	.	.	PUNCT	PUNC	_	13	punct	_	_
 
 # sent_id = test-s674
@@ -13030,7 +13030,7 @@
 3	،	،	PUNCT	PUNC	_	2	punct	_	_
 4	صلح	صلح	NOUN	N_IANM	Number=Sing	5	nsubj	_	_
 5	چیزی	چیز	NOUN	N_IANM	Number=Sing	2	ccomp	_	_
-6	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	5	cop	_	_
+6	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	5	cop	_	OrigLemma=#هست
 7	که	که	SCONJ	SUBR	_	15	mark	_	_
 8	دیگران	دیگری	NOUN	N_ANM	Number=Plur	15	nsubj	_	_
 9	به	به	ADP	PREP	_	10	case	_	_
@@ -13157,7 +13157,7 @@
 7	که	که	SCONJ	SUBR	_	8	mark	_	_
 8-9	حاضرم	_	_	_	_	_	_	_	_
 8	حاضر	حاضر	ADJ	ADJ_AJP	_	5	acl	_	_
-9	م	#هست	AUX	AUX	Number=Sing|Person=1	8	cop	_	_
+9	م	هست	AUX	AUX	Number=Sing|Person=1	8	cop	_	OrigLemma=#هست
 10-11	برایشان	_	_	_	_	_	_	_	_
 10	برای	برای	ADP	PREP	_	11	case	_	_
 11	شان	آنها	PRON	PR_JOPER	Number=Plur|Person=3	16	obl	_	_
@@ -13493,7 +13493,7 @@
 27	خود	خود	PRON	PR_CREFX	_	28	nsubj	_	_
 28-29	سزاواری	_	_	_	_	_	_	_	_
 28	سزاوار	سزاوار	ADJ	ADJ_AJP	_	23	conj	_	_
-29	ی	#هست	AUX	AUX	Number=Sing|Person=2	28	cop	_	_
+29	ی	هست	AUX	AUX	Number=Sing|Person=2	28	cop	_	OrigLemma=#هست
 30	به	به	ADP	PREP	_	32	case	_	_
 31	آن	آن	DET	PREM_DEMAJ	_	32	det	_	_
 32	چه	چه	NOUN	N_IANM	Number=Sing	28	obl:arg	_	_
@@ -13788,7 +13788,7 @@
 12	دیگر	دیگر	ADJ	ADJ_AJP	_	24	advmod	_	_
 13	مانند	مانند	ADP	PREP	_	14	case	_	_
 14	گذشته	گذشته	NOUN	N_IANM	Number=Sing	24	obl	_	_
-15	نمی‌توان	#توان	AUX	V_MODL	Polarity=Neg	24	aux	_	_
+15	نمی‌توان	توان	AUX	V_MODL	Polarity=Neg	24	aux	_	OrigLemma=#توان
 16	هم	هم	ADV	ADV_SADV	_	24	advmod	_	_
 17	در	در	ADP	PREP	_	18	case	_	_
 18	غربت	غربت	NOUN	N_IANM	Number=Sing	24	obl	_	_
@@ -13937,7 +13937,7 @@
 2	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2	3	obl:arg	_	_
 3-4	ممنونم	_	_	_	_	_	_	_	_
 3	ممنون	ممنون	ADJ	ADJ_AJP	_	0	root	_	_
-4	م	#هست	AUX	AUX	Number=Sing|Person=1	3	cop	_	_
+4	م	هست	AUX	AUX	Number=Sing|Person=1	3	cop	_	OrigLemma=#هست
 5	که	که	SCONJ	SUBR	_	9	mark	_	_
 6	با	با	ADP	PREP	_	7	case	_	_
 7	معلم‌ها	معلم	NOUN	N_ANM	Number=Plur	9	obl:arg	_	_
@@ -14044,7 +14044,7 @@
 2	چهارم	چهارم	NOUN	N_IANM	Number=Sing	3	nmod	_	_
 3	مردم	مردم	NOUN	N_ANM	Number=Plur	4	nsubj	_	_
 4	بلد	بلد	ADJ	ADJ_AJP	_	0	root	_	_
-5	نیستند	#هست	AUX	AUX	Number=Plur|Person=3|Polarity=Neg	4	cop	_	_
+5	نیستند	هست	AUX	AUX	Number=Plur|Person=3|Polarity=Neg	4	cop	_	OrigLemma=#هست
 6	درست	درست	ADJ	ADJ_AJP	_	8	advmod	_	_
 7	عطسه	عطسه	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
 8	بکنند	کرد	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	4	ccomp	_	OrigLemma=کرد#کن|SpaceAfter=No
@@ -14142,7 +14142,7 @@
 6	،	،	PUNCT	PUNC	_	5	punct	_	_
 7	مشکل	مشکل	NOUN	N_IANM	Number=Sing	8	nsubj	_	_
 8	این	این	PRON	PR_DEMON	_	0	root	_	_
-9	است	#است	AUX	AUX	Number=Sing|Person=3	8	cop	_	_
+9	است	است	AUX	AUX	Number=Sing|Person=3	8	cop	_	OrigLemma=#است
 10	که	که	SCONJ	SUBR	_	17	mark	_	_
 11	اول	اول	ADJ	ADJ_AJP	_	17	advmod	_	_
 12	چگونه	چگونه	ADV	ADV_SADV	_	17	advmod	_	_
@@ -14156,7 +14156,7 @@
 20	مشکل	مشکل	NOUN	N_IANM	Number=Sing	22	nsubj	_	_
 21	دیگر	دیگر	ADJ	ADJ_AJP	_	20	amod	_	_
 22	آن	آن	PRON	PR_DEMON	Number=Sing	8	conj	_	_
-23	است	#است	AUX	AUX	Number=Sing|Person=3	22	cop	_	_
+23	است	است	AUX	AUX	Number=Sing|Person=3	22	cop	_	OrigLemma=#است
 24	که	که	SCONJ	SUBR	_	30	mark	_	_
 25	چگونه	چگونه	ADV	ADV_SADV	_	30	advmod	_	_
 26	دولت	دولت	NOUN	N_IANM	Number=Sing	30	nsubj	_	_
@@ -14250,7 +14250,7 @@
 2	این	این	DET	PREM_DEMAJ	_	3	det	_	_
 3	فکس	فکس	NOUN	N_IANM	Number=Sing	1	nmod	_	_
 4	33440066	33440066	NOUN	N_IANM	Number=Sing	0	root	_	_
-5	است	#است	AUX	AUX	Number=Sing|Person=3	4	cop	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3	4	cop	_	OrigLemma=#است
 6	که	که	SCONJ	SUBR	_	14	mark	_	_
 7	به	به	ADP	PREP	_	8	case	_	_
 8	گفتهٔ	گفته	NOUN	N_IANM	Number=Sing	14	obl	_	_
@@ -14435,7 +14435,7 @@
 # text = رهن آن است که بدهکار، مقداری از مال خود را نزد طلبکار گرو بگذارد.
 1	رهن	رهن	NOUN	N_IANM	Number=Sing	2	nsubj	_	_
 2	آن	آن	PRON	PR_DEMON	Number=Sing	0	root	_	_
-3	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 4	که	که	SCONJ	SUBR	_	15	mark	_	_
 5	بدهکار	بدهکار	NOUN	N_ANM	Number=Sing	15	nsubj	_	SpaceAfter=No
 6	،	،	PUNCT	PUNC	_	5	punct	_	_
@@ -14637,7 +14637,7 @@
 7	این	این	DET	PREM_DEMAJ	_	8	det	_	_
 8	خصوص	خصوص	NOUN	N_IANM	Number=Sing	2	nmod	_	_
 9	امری	امر	NOUN	N_IANM	Number=Sing	22	advcl	_	_
-10	است	#است	AUX	AUX	Number=Sing|Person=3	9	cop	_	_
+10	است	است	AUX	AUX	Number=Sing|Person=3	9	cop	_	OrigLemma=#است
 11	که	که	SCONJ	SUBR	_	14	mark	_	_
 12	اخلاقاً	اخلاقاً	ADV	ADV_SADV	_	14	advmod	_	_
 13	توجیهی	توجیه	NOUN	N_IANM	Number=Sing	14	obj	_	_
@@ -14732,7 +14732,7 @@
 13	بر	بر	ADP	PREP	_	14	case	_	_
 14	آنها	آنها	PRON	PR_SEPER	Number=Plur	15	obl:arg	_	_
 15	مترتب	مترتب	ADJ	ADJ_AJP	_	10	conj	_	_
-16	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	15	cop	_	SpaceAfter=No
+16	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	15	cop	_	OrigLemma=#هست|SpaceAfter=No
 17	،	،	PUNCT	PUNC	_	15	punct	_	_
 18	مؤاخذه	مؤاخذه	NOUN	N_IANM	Number=Sing	19	compound:lvc	_	_
 19	نمی‌کند	کرد	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
@@ -14759,7 +14759,7 @@
 5	چیز	چیز	NOUN	N_IANM	Number=Sing	7	obl	_	_
 6	وسعت	وسعت	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
 7	یافته	یافت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=یافت#یاب
-8	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No
+8	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	OrigLemma=#است|SpaceAfter=No
 9	،	،	PUNCT	PUNC	_	7	punct	_	_
 10	پس	پس	ADV	ADV_SADV	_	30	advmod	_	_
 11	آن	آن	PRON	PR_DEMON	Number=Sing	30	obj	_	_
@@ -14828,7 +14828,7 @@
 1	پس	پس	ADP	PREP	_	3	case	_	_
 2	از	از	ADP	PREP	_	3	case	_	_
 3	تحقیق	تحقیق	NOUN	N_IANM	Number=Sing	27	obl	_	_
-4	می‌توان	#توان	AUX	V_MODL	_	27	aux	_	_
+4	می‌توان	توان	AUX	V_MODL	_	27	aux	_	OrigLemma=#توان
 5	ضوابط	ضابطه	NOUN	N_IANM	Number=Plur	27	obj	_	_
 6	علمی	علمی	ADJ	ADJ_AJP	_	5	amod	_	_
 7	که	که	SCONJ	SUBR	_	14	mark	_	_
@@ -14839,7 +14839,7 @@
 12	کودکان	کودک	NOUN	N_ANM	Number=Plur	11	obl:arg	_	_
 13	تهیه	تهیه	NOUN	N_IANM	Number=Sing	14	compound:lvc	_	_
 14	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	5	acl	_	OrigLemma=شد#شو
-15	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	14	aux	_	_
+15	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	14	aux	_	OrigLemma=#است
 16	را	را	ADP	POSTP	_	5	case	_	_
 17	در	در	ADP	PREP	_	18	case	_	_
 18	اختیار	اختیار	NOUN	N_IANM	Number=Sing	27	xcomp	_	_
@@ -14955,7 +14955,7 @@
 6	پیامبر	پیامبر	PROPN	N_ANM	Number=Sing	5	nmod	_	_
 7	نافرمانی	نافرمانی	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
 8	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-9	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	SpaceAfter=No
+9	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	OrigLemma=#است|SpaceAfter=No
 10	؟	؟	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = test-s783
@@ -15001,7 +15001,7 @@
 # text = امیدوارم که شما به جستجوی من نتیجه بدهید.
 1-2	امیدوارم	_	_	_	_	_	_	_	_
 1	امیدوار	امیدوار	ADJ	ADJ_AJP	_	0	root	_	_
-2	م	#هست	AUX	AUX	Number=Sing|Person=1	1	cop	_	_
+2	م	هست	AUX	AUX	Number=Sing|Person=1	1	cop	_	OrigLemma=#هست
 3	که	که	SCONJ	SUBR	_	9	mark	_	_
 4	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2	9	nsubj	_	_
 5	به	به	ADP	PREP	_	6	case	_	_
@@ -15020,7 +15020,7 @@
 5	مرکب	مرکب	NOUN	N_IANM	Number=Sing	3	appos	_	SpaceAfter=No
 6	)	)	PUNCT	PUNC	_	5	punct	_	_
 7	معراج	معراج	NOUN	N_IANM	Number=Sing	3	nmod	_	_
-8	است	#است	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+8	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است
 9	به	به	ADP	PREP	_	11	case	_	_
 10	این	این	DET	PREM_DEMAJ	_	11	det	_	_
 11	معنی	معنی	NOUN	N_IANM	Number=Sing	3	obl	_	_
@@ -15029,7 +15029,7 @@
 14	کس	کس	NOUN	N_ANM	Number=Sing	24	nsubj	_	_
 15	خواهان	خواهان	ADJ	ADJ_AJP	_	14	acl	_	_
 16	عروج	عروج	NOUN	N_IANM	Number=Sing	15	obl:arg	_	_
-17	است	#است	AUX	AUX	Number=Sing|Person=3	15	cop	_	_
+17	است	است	AUX	AUX	Number=Sing|Person=3	15	cop	_	OrigLemma=#است
 18	باید	بایست	AUX	V_MODL	_	24	aux	_	OrigLemma=بایست#باید
 19	مرکب	مرکب	NOUN	N_IANM	Number=Sing	24	obj	_	_
 20	تیزرویی	تیزرو	ADJ	ADJ_AJP	_	19	amod	_	_
@@ -15075,7 +15075,7 @@
 14	شوید	شد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	11	conj	_	OrigLemma=شد#شو|SpaceAfter=No
 15	،	،	PUNCT	PUNC	_	14	punct	_	_
 16	سزاوار	سزاوار	ADJ	ADJ_AJP	_	14	advcl	_	_
-17	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	16	cop	_	_
+17	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	16	cop	_	OrigLemma=#هست
 18	نزد	نزد	ADP	PREP	_	19	case	_	_
 19	من	من	PRON	PR_SEPER	Number=Sing|Person=1	23	obl	_	_
 20	با	با	ADP	PREP	_	21	case	_	_
@@ -15224,7 +15224,7 @@
 14	:	:	PUNCT	PUNC	_	13	punct	_	_
 15-16	امیدوارم	_	_	_	_	_	_	_	_
 15	امیدوار	امیدوار	ADJ	ADJ_AJP	_	13	ccomp	_	_
-16	م	#است	AUX	AUX	Number=Sing|Person=1	15	cop	_	_
+16	م	است	AUX	AUX	Number=Sing|Person=1	15	cop	_	OrigLemma=#است
 17	در	در	ADP	PREP	_	18	case	_	_
 18	سنگری	سنگر	NOUN	N_IANM	Number=Sing	33	obl:arg	_	_
 19	که	که	SCONJ	SUBR	_	21	mark	_	_
@@ -15357,7 +15357,7 @@
 16	را	را	ADP	POSTP	_	14	case	_	_
 17	نگهداری	نگهداری	NOUN	N_IANM	Number=Sing	18	compound:lvc	_	_
 18	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	12	conj	_	OrigLemma=کرد#کن
-19	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	18	aux	_	SpaceAfter=No
+19	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	18	aux	_	OrigLemma=#است|SpaceAfter=No
 20	.	.	PUNCT	PUNC	_	18	punct	_	_
 
 # sent_id = test-s801
@@ -15366,7 +15366,7 @@
 2	دیگر	دیگر	ADJ	ADJ_AJP	_	3	advmod	_	_
 3	ایران	ایران	PROPN	N_IANM	Number=Sing	0	root	_	_
 4	سابق	سابق	ADJ	ADJ_AJP	_	3	amod	_	_
-5	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	3	cop	_	SpaceAfter=No
+5	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	3	cop	_	OrigLemma=#هست|SpaceAfter=No
 6	،	،	PUNCT	PUNC	_	3	punct	_	_
 7	دیگر	دیگر	ADJ	ADJ_AJP	_	13	advmod	_	_
 8	ملت	ملت	NOUN	N_ANM	Number=Sing	13	nsubj	_	_
@@ -15399,7 +15399,7 @@
 7	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 8	نق	نق	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	_
 9	زده	زد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=زد#زن
-10	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	SpaceAfter=No
+10	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	OrigLemma=#است|SpaceAfter=No
 11	.	.	PUNCT	PUNC	_	9	punct	_	_
 
 # sent_id = test-s803
@@ -15423,7 +15423,7 @@
 2	در	در	ADP	PREP	_	3	case	_	_
 3	درگاه	درگاه	NOUN	N_IANM	Number=Sing	7	obl	_	_
 4	خدا	خدا	NOUN	N_ANM	Number=Sing	3	nmod	_	_
-5	می‌توان	#توان	AUX	V_MODL	_	7	aux	_	_
+5	می‌توان	توان	AUX	V_MODL	_	7	aux	_	OrigLemma=#توان
 6	نیایش	نیایش	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
 7	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
 8	؟	؟	PUNCT	PUNC	_	7	punct	_	_
@@ -15450,7 +15450,7 @@
 4	که	که	SCONJ	SUBR	_	5	mark	_	_
 5-7	مدت‌هاست،	_	_	_	_	_	_	_	_
 5	مدت‌ها	مدت	NOUN	N_IANM	Number=Plur	3	acl	_	_
-6	ست	#است	AUX	AUX	Number=Sing|Person=3	5	cop	_	_
+6	ست	است	AUX	AUX	Number=Sing|Person=3	5	cop	_	OrigLemma=#است
 7	،	،	PUNCT	PUNC	_	5	punct	_	_
 8	دیگر	دیگر	ADJ	ADJ_AJP	_	17	advmod	_	_
 9-10	حنجره‌اش	_	_	_	_	_	_	_	_
@@ -15494,14 +15494,14 @@
 2	قلبی	قلب	NOUN	N_IANM	Number=Sing	9	nsubj	_	_
 3	که	که	SCONJ	SUBR	_	4	mark	_	_
 4	عاشق	عاشق	NOUN	N_ANM	Number=Sing	2	acl	_	_
-5	است	#است	AUX	AUX	Number=Sing|Person=3	4	cop	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3	4	cop	_	OrigLemma=#است
 6	چگونه	چگونه	ADV	ADV_SADV	_	9	advmod	_	_
 7	باید	بایست	AUX	V_MODL	_	9	aux	_	OrigLemma=بایست#باید
 8	اثبات	اثبات	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	_
 9	کند	کرد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	1	ccomp	_	OrigLemma=کرد#کن
 10	که	که	SCONJ	SUBR	_	11	mark	_	_
 11	عاشق	عاشق	NOUN	N_ANM	Number=Sing	9	ccomp	_	_
-12	است	#است	AUX	AUX	Number=Sing|Person=3	11	cop	_	_
+12	است	است	AUX	AUX	Number=Sing|Person=3	11	cop	_	OrigLemma=#است
 13	و	و	CCONJ	CONJ	_	27	cc	_	_
 14	یا	یا	CCONJ	CONJ	_	27	cc	_	_
 15	دلی	دل	NOUN	N_IANM	Number=Sing	27	nsubj	_	_
@@ -15510,7 +15510,7 @@
 18	گروی	گرو	NOUN	N_IANM	Number=Sing	15	acl	_	_
 19	دلی	دل	NOUN	N_IANM	Number=Sing	18	nmod	_	_
 20	دیگر	دیگر	ADJ	ADJ_AJP	_	19	amod	_	_
-21	است	#است	AUX	AUX	Number=Sing|Person=3	18	cop	_	_
+21	است	است	AUX	AUX	Number=Sing|Person=3	18	cop	_	OrigLemma=#است
 22	چگونه	چگونه	ADV	ADV_SADV	_	27	advmod	_	_
 23	باید	بایست	AUX	V_MODL	_	27	aux	_	OrigLemma=بایست#باید
 24	از	از	ADP	PREP	_	25	case	_	_
@@ -15617,7 +15617,7 @@
 13	مادری	مادری	ADJ	ADJ_AJP	_	12	amod	_	_
 14	نام	نام	NOUN	N_IANM	Number=Sing	15	compound:lvc	_	_
 15	نهاده	نهاد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=نهاد#نه
-16	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	15	aux	_	SpaceAfter=No
+16	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	15	aux	_	OrigLemma=#است|SpaceAfter=No
 17	.	.	PUNCT	PUNC	_	15	punct	_	_
 
 # sent_id = test-s815
@@ -15638,7 +15638,7 @@
 14	و	و	CCONJ	CONJ	_	16	cc	_	_
 15	دانشجو	دانشجو	NOUN	N_ANM	Number=Sing	16	nsubj	_	_
 16	موظف	موظف	ADJ	ADJ_AJP	_	13	conj	_	_
-17	است	#است	AUX	AUX	Number=Sing|Person=3	16	cop	_	_
+17	است	است	AUX	AUX	Number=Sing|Person=3	16	cop	_	OrigLemma=#است
 18	دوباره	دوباره	ADJ	ADJ_AJP	_	23	advmod	_	_
 19	در	در	ADP	PREP	_	21	case	_	_
 20	آن	آن	DET	PREM_DEMAJ	_	21	det	_	_
@@ -15661,7 +15661,7 @@
 2	ماهواره‌ای	ماهواره‌ای	ADJ	ADJ_AJP	_	1	amod	_	_
 3	اولین	اولین	ADJ	PRENUM	_	4	amod	_	_
 4	کسانی	کس	NOUN	N_ANM	Number=Plur	0	root	_	_
-5	هستند	#هست	AUX	AUX	Number=Plur|Person=3	4	cop	_	_
+5	هستند	هست	AUX	AUX	Number=Plur|Person=3	4	cop	_	OrigLemma=#هست
 6	که	که	SCONJ	SUBR	_	11	mark	_	_
 7	به	به	ADP	PREP	_	8	case	_	_
 8	مردم	مردم	NOUN	N_ANM	Number=Plur	11	obl:arg	_	_
@@ -15703,7 +15703,7 @@
 29	ویژهٔ	ویژه	ADJ	ADJ_AJP	_	26	acl	_	_
 30	تحقیقات	تحقیق	NOUN	N_IANM	Number=Plur	29	obl:arg	_	_
 31	علمی	علمی	ADJ	ADJ_AJP	_	30	amod	_	_
-32	است	#است	AUX	AUX	Number=Sing|Person=3	29	cop	_	_
+32	است	است	AUX	AUX	Number=Sing|Person=3	29	cop	_	OrigLemma=#است
 33	نصب	نصب	NOUN	N_IANM	Number=Sing	35	compound:lvc	_	_
 34	خواهند	خواست	AUX	AUX	Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	35	aux	_	OrigLemma=خواست#خواه
 35	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
@@ -15739,7 +15739,7 @@
 26	ناجوانمردانه	ناجوانمردانه	ADJ	ADJ_AJP	_	25	amod	_	_
 27	نتیجه‌گیری	نتیجه‌گیری	NOUN	N_IANM	Number=Sing	28	compound:lvc	_	_
 28	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	4	ccomp	_	OrigLemma=کرد#کن
-29	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	28	aux	_	SpaceAfter=No
+29	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	28	aux	_	OrigLemma=#است|SpaceAfter=No
 30	.	.	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = test-s820
@@ -15794,7 +15794,7 @@
 18	یک	یک	NUM	PRENUM	_	19	nummod	_	_
 19	نظرسنجی	نظرسنجی	NOUN	N_IANM	Number=Sing	17	nmod	_	_
 20	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-21	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	20	aux	_	SpaceAfter=No
+21	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	20	aux	_	OrigLemma=#است|SpaceAfter=No
 22	.	.	PUNCT	PUNC	_	20	punct	_	_
 
 # sent_id = test-s822
@@ -15826,7 +15826,7 @@
 # text = روسیه آماده است موشک‌های ضدهوایی را به طرف پایگاه‌های آمریکا در سراسر جهان نشانه‌گیری بکند.
 1	روسیه	روسیه	PROPN	N_IANM	Number=Sing	2	nsubj	_	_
 2	آماده	آماده	ADJ	ADJ_AJP	_	0	root	_	_
-3	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 4	موشک‌های	موشک	NOUN	N_IANM	Number=Plur	15	obj	_	_
 5	ضدهوایی	ضدهوایی	ADJ	ADJ_AJP	_	4	amod	_	_
 6	را	را	ADP	POSTP	_	4	case	_	_
@@ -15873,7 +15873,7 @@
 28	آنها	آنها	PRON	PR_SEPER	Number=Plur|Person=3	27	nmod	_	_
 29-30	آمریکاست	_	_	_	_	_	_	_	_
 29	آمریکا	آمریکا	PROPN	N_IANM	Number=Sing	27	nsubj	_	_
-30	ست	#است	AUX	AUX	Number=Sing|Person=3	27	cop	_	_
+30	ست	است	AUX	AUX	Number=Sing|Person=3	27	cop	_	OrigLemma=#است
 31	نشانه	نشانه	NOUN	N_IANM	Number=Sing	32	compound:lvc	_	_
 32	بروید	رفت	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	19	conj	_	OrigLemma=رفت#رو|SpaceAfter=No
 33	.	.	PUNCT	PUNC	_	32	punct	_	_
@@ -15940,7 +15940,7 @@
 27	و	و	CCONJ	CONJ	_	28	cc	_	_
 28	نصرت	نصرت	NOUN	N_IANM	Number=Sing	26	conj	_	_
 29	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	4	ccomp	_	OrigLemma=کرد#کن
-30	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	29	aux	_	SpaceAfter=No
+30	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	29	aux	_	OrigLemma=#است|SpaceAfter=No
 31	.	.	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = test-s829
@@ -16077,7 +16077,7 @@
 9	مورد	مورد	ADP	PREP	_	10	case	_	_
 10	رضایت	رضایت	NOUN	N_IANM	Number=Sing	0	root	_	_
 11	بنده	بنده	NOUN	N_ANM	Number=Sing	10	nmod	_	_
-12	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	10	cop	_	SpaceAfter=No
+12	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	10	cop	_	OrigLemma=#هست|SpaceAfter=No
 13	،	،	PUNCT	PUNC	_	10	punct	_	_
 14	مگر	مگر	ADP	PREP	_	15	case	_	_
 15	اینکه	اینکه	NOUN	N_IANM	Number=Sing	10	obl	_	_
@@ -16188,7 +16188,7 @@
 2	تو	تو	PRON	PR_SEPER	Number=Sing|Person=2	3	obl:arg	_	_
 3-4	ممنونم	_	_	_	_	_	_	_	_
 3	ممنون	ممنون	ADJ	ADJ_AJP	_	0	root	_	_
-4	م	#هست	AUX	AUX	Number=Sing|Person=1	3	cop	_	_
+4	م	هست	AUX	AUX	Number=Sing|Person=1	3	cop	_	OrigLemma=#هست
 5	که	که	SCONJ	SUBR	_	11	mark	_	_
 6	به	به	ADP	PREP	_	7	case	_	_
 7-8	زندگی‌ام	_	_	_	_	_	_	_	_
@@ -16290,7 +16290,7 @@
 14	درآمد	درآمد	NOUN	N_IANM	Number=Sing	13	nmod	_	_
 15	حقیقی	حقیقی	ADJ	ADJ_AJP	_	16	xcomp	_	_
 16	بوده	بود	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	10	ccomp	_	OrigLemma=بود#باش
-17	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	16	aux	_	SpaceAfter=No
+17	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	16	aux	_	OrigLemma=#است|SpaceAfter=No
 18	.	.	PUNCT	PUNC	_	17	punct	_	_
 
 # sent_id = test-s848
@@ -16803,7 +16803,7 @@
 16	فلانی	فلانی	NOUN	N_ANM	Number=Sing	18	nsubj	_	_
 17	زرد	زرد	ADJ	ADJ_AJP	_	18	compound:lvc	_	_
 18	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	13	ccomp	_	OrigLemma=کرد#کن
-19	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	18	aux	_	SpaceAfter=No
+19	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	18	aux	_	OrigLemma=#است|SpaceAfter=No
 20	.	.	PUNCT	PUNC	_	19	punct	_	SpaceAfter=No
 21	"	"	PUNCT	PUNC	_	18	punct	_	_
 
@@ -16946,7 +16946,7 @@
 1-2	یادم	_	_	_	_	_	_	_	_
 1	یاد	یاد	NOUN	N_IANM	Number=Sing	3	compound:lvc	_	_
 2	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
-3	هست	#هست	AUX	AUX	Number=Sing|Person=3	0	root	_	_
+3	هست	هست	AUX	AUX	Number=Sing|Person=3	0	root	_	OrigLemma=#هست
 4	که	که	SCONJ	SUBR	_	6	mark	_	_
 5	(	(	PUNCT	PUNC	_	6	punct	_	SpaceAfter=No
 6	نمی‌دانم	دانست	VERB	V_ACT	Number=Sing|Person=1|Polarity=Neg|Tense=Pres|Voice=Act	3	ccomp	_	OrigLemma=دانست#دان
@@ -16997,7 +16997,7 @@
 2	بین	بین	NOUN	N_IANM	Number=Sing	4	obl	_	_
 3	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1	2	nmod	_	_
 4	رسم	رسم	NOUN	N_IANM	Number=Sing	0	root	_	_
-5	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	4	cop	_	_
+5	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	4	cop	_	OrigLemma=#هست
 6	که	که	SCONJ	SUBR	_	15	mark	_	_
 7	دختر	دختر	NOUN	N_ANM	Number=Sing	15	obj	_	_
 8	کوچک	کوچک	ADJ	ADJ_AJP	_	7	amod	_	_
@@ -17144,7 +17144,7 @@
 20	جمعی	جمع	NOUN	N_ANM	Number=Plur	4	acl	_	_
 21-23	منافقند.	_	_	_	_	_	_	_	_
 21	منافق	منافق	ADJ	ADJ_AJP	_	20	amod	_	_
-22	ند	#هست	AUX	AUX	Number=Plur|Person=3	20	cop	_	_
+22	ند	هست	AUX	AUX	Number=Plur|Person=3	20	cop	_	OrigLemma=#هست
 23	.	.	PUNCT	PUNC	_	22	punct	_	_
 
 # sent_id = test-s893
@@ -17176,7 +17176,7 @@
 13	کامل	کامل	ADJ	ADJ_AJP	_	12	amod	_	_
 14	جوش	جوش	NOUN	N_IANM	Number=Sing	15	compound:lvc	_	_
 15	خورده	خورد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	8	ccomp	_	OrigLemma=خورد#خور
-16	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	15	aux	_	SpaceAfter=No
+16	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	15	aux	_	OrigLemma=#است|SpaceAfter=No
 17	.	.	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = test-s895
@@ -17204,7 +17204,7 @@
 7	افقی	افقی	ADJ	ADJ_AJP	_	6	amod	_	_
 8	و	و	CCONJ	CONJ	_	9	cc	_	_
 9	تخت	تخت	ADJ	ADJ_AJP	_	7	conj	_	_
-10	می‌توان	#توان	AUX	V_MODL	_	12	aux	_	_
+10	می‌توان	توان	AUX	V_MODL	_	12	aux	_	OrigLemma=#توان
 11	جوشکاری	جوشکاری	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	_
 12	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
 13	.	.	PUNCT	PUNC	_	12	punct	_	_
@@ -17238,7 +17238,7 @@
 25	آن	آن	DET	PREM_DEMAJ	_	26	det	_	_
 26	مرض	مرض	NOUN	N_IANM	Number=Sing	23	nmod	_	_
 27	این	این	PRON	PR_DEMON	Number=Sing	0	root	_	_
-28	است	#است	AUX	AUX	Number=Sing|Person=3	27	cop	_	_
+28	است	است	AUX	AUX	Number=Sing|Person=3	27	cop	_	OrigLemma=#است
 29	که	که	SCONJ	SUBR	_	27	acl	_	_
 30	از	از	ADP	PREP	_	31	case	_	_
 31	دست	دست	NOUN	N_IANM	Number=Sing	37	obl:arg	_	_
@@ -17347,7 +17347,7 @@
 1	ازدواج	ازدواج	NOUN	N_IANM	Number=Sing	3	nsubj	_	_
 2	یک	یک	NUM	PRENUM	_	3	nummod	_	_
 3	توفیق	توفیق	NOUN	N_IANM	Number=Sing	0	root	_	_
-4	است	#است	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+4	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است
 5	و	و	CCONJ	CONJ	_	19	cc	_	_
 6	کسی	کس	NOUN	N_ANM	Number=Sing	17	nmod	_	_
 7	که	که	SCONJ	SUBR	_	10	mark	_	_
@@ -17370,7 +17370,7 @@
 1	اسم	اسم	NOUN	N_IANM	Number=Sing	3	nsubj	_	_
 2	مفرد	مفرد	ADJ	ADJ_AJP	_	1	amod	_	_
 3	اسمی	اسم	NOUN	N_IANM	Number=Sing	0	root	_	_
-4	است	#است	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+4	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است
 5	که	که	SCONJ	SUBR	_	10	mark	_	_
 6	بر	بر	ADP	PREP	_	8	case	_	_
 7	یک	یک	NUM	PRENUM	_	8	nummod	_	_
@@ -17424,7 +17424,7 @@
 3	این	این	PRON	PR_DEMON	Number=Sing	4	nsubj	_	_
 4	علی	علی	PROPN	N_ANM	Number=Sing	0	root	_	_
 5	کریمی	کریمی	PROPN	N_ANM	Number=Sing	4	flat:name	_	_
-6	است	#است	AUX	AUX	Number=Sing|Person=3	4	cop	_	_
+6	است	است	AUX	AUX	Number=Sing|Person=3	4	cop	_	OrigLemma=#است
 7	که	که	SCONJ	SUBR	_	11	mark	_	_
 8	مرد	مرد	NOUN	N_ANM	Number=Sing	11	xcomp	_	_
 9	اول	اول	ADJ	POSNUM	_	8	amod	_	_
@@ -17437,7 +17437,7 @@
 1	برای	برای	ADP	PREP	_	2	case	_	_
 2	همین	همین	PRON	PR_DEMON	Number=Sing	3	obl	_	_
 3	نیازی	نیاز	NOUN	N_IANM	Number=Sing	0	root	_	_
-4	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	3	cop	_	_
+4	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	3	cop	_	OrigLemma=#هست
 5	که	که	SCONJ	SUBR	_	11	mark	_	_
 6	کاستارد	کاستارد	NOUN	N_IANM	Number=Sing	11	obj	_	_
 7	را	را	ADP	POSTP	_	6	case	_	_
@@ -17473,7 +17473,7 @@
 8	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2	9	nmod	_	_
 9	داستانی	داستان	NOUN	N_IANM	Number=Sing	10	nsubj	_	_
 10	مشهور	مشهور	ADJ	ADJ_AJP	_	5	ccomp	_	_
-11	است	#است	AUX	AUX	Number=Sing|Person=3	10	cop	_	_
+11	است	است	AUX	AUX	Number=Sing|Person=3	10	cop	_	OrigLemma=#است
 12	که	که	SCONJ	SUBR	_	30	mark	_	_
 13	جناب‌عالی	جناب‌عالی	NOUN	N_ANM	Number=Sing	30	nsubj	_	_
 14	در	در	ADP	PREP	_	15	case	_	_
@@ -17502,7 +17502,7 @@
 3	این	این	DET	PREM_DEMAJ	_	2	det	_	_
 4	روش‌ها	روش	NOUN	N_IANM	Number=Plur	2	nmod	_	_
 5	را	را	ADP	POSTP	_	2	case	_	_
-6	می‌توان	#توان	AUX	V_MODL	_	22	aux	_	_
+6	می‌توان	توان	AUX	V_MODL	_	22	aux	_	OrigLemma=#توان
 7	همه‌پرسی	همه‌پرسی	NOUN	N_IANM	Number=Sing	22	xcomp	_	SpaceAfter=No
 8	،	،	PUNCT	PUNC	_	7	punct	_	_
 9	حسابرسی	حسابرسی	NOUN	N_IANM	Number=Sing	7	conj	_	_
@@ -17595,7 +17595,7 @@
 4	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2	5	nsubj	_	_
 5	مسئول	مسئول	ADJ	ADJ_AJP	_	0	root	_	_
 6	مکانی	مکان	NOUN	N_IANM	Number=Sing	5	obl:arg	_	_
-7	هستید	#هست	AUX	AUX	Number=Plur|Person=2	5	cop	_	_
+7	هستید	هست	AUX	AUX	Number=Plur|Person=2	5	cop	_	OrigLemma=#هست
 8	که	که	SCONJ	SUBR	_	14	mark	_	_
 9	در	در	ADP	PREP	_	10	case	_	_
 10	آنجا	آنجا	NOUN	N_IANM	Number=Sing	14	obl	_	_
@@ -17746,11 +17746,11 @@
 2-3	دخترم	_	_	_	_	_	_	_	_
 2	دختر	دختر	NOUN	N_ANM	Number=Sing	0	root	_	_
 3	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-4	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+4	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 5	که	که	SCONJ	SUBR	_	7	mark	_	_
 6	اسهال	اسهال	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
 7	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	OrigLemma=شد#شو
-8	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No
+8	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	OrigLemma=#است|SpaceAfter=No
 9	.	.	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = test-s926
@@ -17763,7 +17763,7 @@
 6	گونه	گونه	NOUN	N_IANM	Number=Sing	8	obl	_	_
 7	آغاز	آغاز	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
 8	نهاده	نهاد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=نهاد#نه
-9	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	SpaceAfter=No
+9	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	OrigLemma=#است|SpaceAfter=No
 10	.	.	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = test-s927
@@ -17915,7 +17915,7 @@
 1	نخجوانی‌ها	نخجوانی	NOUN	N_ANM	Number=Plur	2	nsubj	_	_
 2-3	شیعه‌اند	_	_	_	_	_	_	_	_
 2	شیعه‌	شیعه	ADJ	ADJ_AJP	_	0	root	_	_
-3	اند	#هست	AUX	AUX	Number=Plur|Person=3	2	cop	_	_
+3	اند	هست	AUX	AUX	Number=Plur|Person=3	2	cop	_	OrigLemma=#هست
 4	اما	اما	CCONJ	CONJ	_	17	cc	_	_
 5	در	در	ADP	PREP	_	6	case	_	_
 6	سایهٔ	سایه	NOUN	N_IANM	Number=Sing	17	obl	_	_
@@ -18166,7 +18166,7 @@
 9	حاضرین	حاضر	NOUN	N_ANM	Number=Plur	7	nmod	_	_
 10	چشمک	چشمک	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	_
 11	زده	زد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=زد#زن
-12	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	SpaceAfter=No
+12	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	OrigLemma=#است|SpaceAfter=No
 13	.	.	PUNCT	PUNC	_	11	punct	_	_
 
 # sent_id = test-s948
@@ -18252,7 +18252,7 @@
 1	من	من	PRON	PR_SEPER	Number=Sing|Person=1	3	nsubj	_	_
 2	در	در	ADP	PREP	_	3	case	_	_
 3	تعجب	تعجب	NOUN	N_IANM	Number=Sing	0	root	_	_
-4	هستم	#هست	AUX	AUX	Number=Sing|Person=1	3	cop	_	_
+4	هستم	هست	AUX	AUX	Number=Sing|Person=1	3	cop	_	OrigLemma=#هست
 5	از	از	ADP	PREP	_	7	case	_	_
 6	این	این	DET	PREM_DEMAJ	_	7	det	_	_
 7	امر	امر	NOUN	N_IANM	Number=Sing	3	nmod	_	_
@@ -18382,7 +18382,7 @@
 7	دامنه‌داری	دامنه‌دار	ADJ	ADJ_AJP	_	6	amod	_	_
 8	که	که	SCONJ	SUBR	_	9	mark	_	_
 9	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	6	acl	_	OrigLemma=شد#شو
-10	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	SpaceAfter=No
+10	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	OrigLemma=#است|SpaceAfter=No
 11	،	،	PUNCT	PUNC	_	9	punct	_	_
 12	شست	شست	NOUN	N_IANM	Number=Sing	15	compound:lvc	_	_
 13	و	و	CCONJ	CONJ	_	14	cc	_	_
@@ -18435,7 +18435,7 @@
 7	شل	شل	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
 8	گرفته	گرفت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	OrigLemma=گرفت#گیر
 9	شده	شد	AUX	AUX	Number=Sing|Person=3|Tense=Past	8	aux:pass	_	OrigLemma=شد#شو
-10	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	SpaceAfter=No
+10	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	OrigLemma=#است|SpaceAfter=No
 11	،	،	PUNCT	PUNC	_	8	punct	_	_
 12	حالا	حالا	NOUN	N_IANM	Number=Sing	24	obl	_	_
 13	که	که	SCONJ	SUBR	_	17	mark	_	_
@@ -18443,7 +18443,7 @@
 15	این	این	DET	PREM_DEMAJ	_	16	det	_	_
 16	جا	جا	NOUN	N_IANM	Number=Sing	17	obl:arg	_	_
 17	رسیده	رسید	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	12	acl	_	OrigLemma=رسید#رس
-18	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	17	aux	_	_
+18	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	17	aux	_	OrigLemma=#است
 19	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2	24	nsubj	_	_
 20	دیگر	دیگر	ADJ	ADJ_AJP	_	24	advmod	_	_
 21	آن	آن	PRON	PR_DEMON	Number=Sing	24	obj	_	_
@@ -18503,7 +18503,7 @@
 4	کمالات	کمال	NOUN	N_IANM	Number=Plur	6	obl:arg	_	_
 5	والا	والا	ADJ	ADJ_AJP	_	4	amod	_	_
 6	برخوردار	برخوردار	ADJ	ADJ_AJP	_	1	acl	_	_
-7	هستند	#هست	AUX	AUX	Number=Plur|Person=3	6	cop	_	SpaceAfter=No
+7	هستند	هست	AUX	AUX	Number=Plur|Person=3	6	cop	_	OrigLemma=#هست|SpaceAfter=No
 8	،	،	PUNCT	PUNC	_	6	punct	_	_
 9	به	به	ADP	PREP	_	10	case	_	_
 10	هنگام	هنگام	NOUN	N_IANM	Number=Sing	17	obl	_	_
@@ -18628,7 +18628,7 @@
 7	را	را	ADP	POSTP	_	4	case	_	_
 8	نمایش	نمایش	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	_
 9	داده	داد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=داد#ده
-10	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	SpaceAfter=No
+10	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	OrigLemma=#است|SpaceAfter=No
 11	.	.	PUNCT	PUNC	_	9	punct	_	_
 
 # sent_id = test-s969
@@ -18730,7 +18730,7 @@
 14	زیر	زیر	ADP	PREP	_	15	case	_	_
 15-16	علف‌هاست	_	_	_	_	_	_	_	_
 15	علف‌ها	علف	NOUN	N_IANM	Number=Plur	11	obl	_	_
-16	ست	#است	AUX	AUX	Number=Sing|Person=3	11	cop	_	_
+16	ست	است	AUX	AUX	Number=Sing|Person=3	11	cop	_	OrigLemma=#است
 17	و	و	CCONJ	CONJ	_	22	cc	_	_
 18	به	به	ADP	PREP	_	19	case	_	_
 19	موقع	موقع	NOUN	N_IANM	Number=Sing	22	obl:arg	_	_
@@ -18866,7 +18866,7 @@
 1	وصیت	وصیت	NOUN	N_IANM	Number=Sing	3	nsubj	_	_
 2	من	من	PRON	PR_SEPER	Number=Sing|Person=1	1	nmod	_	_
 3	این	این	PRON	PR_DEMON	Number=Sing	0	root	_	_
-4	است	#است	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+4	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است
 5	که	که	SCONJ	SUBR	_	10	mark	_	_
 6	بیهوده	بیهوده	ADJ	ADJ_AJP	_	10	advmod	_	_
 7	در	در	ADP	PREP	_	8	case	_	_
@@ -18942,7 +18942,7 @@
 5	را	را	ADP	POSTP	_	2	case	_	_
 6	ورق	ورق	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
 7	زده	زد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=زد#زن
-8	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No
+8	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	OrigLemma=#است|SpaceAfter=No
 9	.	.	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = test-s984
@@ -18999,7 +18999,7 @@
 1	بنده	بنده	NOUN	N_ANM	Number=Sing	2	nsubj	_	_
 2-3	خوشوقتم	_	_	_	_	_	_	_	_
 2	خوشوقت	خوشوقت	ADJ	ADJ_AJP	_	0	root	_	_
-3	م	#هست	AUX	AUX	Number=Sing|Person=1	2	cop	_	_
+3	م	هست	AUX	AUX	Number=Sing|Person=1	2	cop	_	OrigLemma=#هست
 4	که	که	SCONJ	SUBR	_	21	mark	_	_
 5	جنابعالی	جنابعالی	NOUN	N_ANM	Number=Sing	21	nsubj	_	_
 6	که	که	SCONJ	SUBR	_	5	acl	_	_
@@ -19009,7 +19009,7 @@
 10	و	و	CCONJ	CONJ	_	11	cc	_	_
 11	استاد	استاد	NOUN	N_ANM	Number=Sing	7	conj	_	_
 12	دانشگاه	دانشگاه	NOUN	N_IANM	Number=Sing	11	nmod	_	_
-13	هستید	#هست	AUX	AUX	Number=Plur|Person=2	7	cop	_	_
+13	هستید	هست	AUX	AUX	Number=Plur|Person=2	7	cop	_	OrigLemma=#هست
 14	و	و	CCONJ	CONJ	_	15	cc	_	_
 15	وکیل	وکیل	NOUN	N_IANM	Number=Sing	7	conj	_	_
 16	مجلس	مجلس	NOUN	N_IANM	Number=Sing	15	nmod	_	_
@@ -19097,7 +19097,7 @@
 5	کار	کار	NOUN	N_IANM	Number=Sing	3	nmod	_	_
 6	مردم‌آزاری	مردم‌آزاری	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
 7	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-8	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No
+8	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	OrigLemma=#است|SpaceAfter=No
 9	.	.	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = test-s991
@@ -19250,7 +19250,7 @@
 1	دانشگاه	دانشگاه	PROPN	N_IANM	Number=Sing	3	nsubj	_	_
 2	رازی	رازی	PROPN	N_ANM	Number=Sing	1	flat:name	_	_
 3	مفتخر	مفتخر	ADJ	ADJ_AJP	_	0	root	_	_
-4	است	#است	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+4	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است
 5	که	که	SCONJ	SUBR	_	17	mark	_	_
 6	تولیدات	تولید	NOUN	N_IANM	Number=Plur	17	obj	_	_
 7	ارزشمند	ارزشمند	ADJ	ADJ_AJP	_	6	amod	_	_
@@ -19264,7 +19264,7 @@
 15	به	به	ADP	PREP	_	16	case	_	_
 16	ثمر	ثمر	NOUN	N_IANM	Number=Sing	17	obl:arg	_	_
 17	رسانیده	رسانید	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	3	ccomp	_	OrigLemma=رسانید#رسان
-18	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	17	aux	_	SpaceAfter=No
+18	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	17	aux	_	OrigLemma=#است|SpaceAfter=No
 19	.	.	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = test-s1002
@@ -19295,7 +19295,7 @@
 5	به	به	ADP	PREP	_	6	case	_	_
 6	حرف	حرف	NOUN	N_IANM	Number=Sing	7	obl:arg	_	_
 7	آورده	آورد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=آورد#آور
-8	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No
+8	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	OrigLemma=#است|SpaceAfter=No
 9	.	.	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = test-s1004
@@ -19314,7 +19314,7 @@
 12	به	به	ADP	PREP	_	13	case	_	_
 13	کار	کار	NOUN	N_IANM	Number=Sing	14	obl:arg	_	_
 14	افتاده	افتاد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=افتاد#افت
-15	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	14	aux	_	_
+15	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	14	aux	_	OrigLemma=#است
 16	تا	تا	SCONJ	SUBR	_	14	advcl	_	_
 17	نهضت	نهضت	NOUN	N_IANM	Number=Sing	23	obj	_	_
 18	بیداری	بیداری	NOUN	N_IANM	Number=Sing	17	nmod	_	_
@@ -19350,13 +19350,13 @@
 14	ببینند	دید	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	12	advcl	_	OrigLemma=دید#بین
 15	چه	چه	DET	PREM_QUAJ	_	16	det	_	_
 16	خبر	خبر	NOUN	N_IANM	Number=Sing	17	nsubj	_	_
-17	است	#است	AUX	AUX	Number=Sing|Person=3	14	ccomp	_	SpaceAfter=No
+17	است	است	AUX	AUX	Number=Sing|Person=3	14	ccomp	_	OrigLemma=#است|SpaceAfter=No
 18	.	.	PUNCT	PUNC	_	12	punct	_	_
 
 # sent_id = test-s1006
 # text = گفتنی است در زلزله و سونامی که روز یازدهم مارس سال 2011 در ژاپن به میان آمده بود، بیش از 19 هزار تن جانشان را از دست داده بودند.
 1	گفتنی	گفتنی	ADJ	ADJ_AJP	_	0	root	_	_
-2	است	#است	AUX	AUX	Number=Sing|Person=3	1	cop	_	_
+2	است	است	AUX	AUX	Number=Sing|Person=3	1	cop	_	OrigLemma=#است
 3	در	در	ADP	PREP	_	4	case	_	_
 4	زلزله	زلزله	NOUN	N_IANM	Number=Sing	30	obl	_	_
 5	و	و	CCONJ	CONJ	_	6	cc	_	_
@@ -19393,7 +19393,7 @@
 # text = امیدوارم با بازی‌ای که فردا همراه با برد است هواداران را به وجد بیاوریم.
 1-2	امیدوارم	_	_	_	_	_	_	_	_
 1	امیدوار	امیدوار	ADJ	ADJ_AJP	_	0	root	_	_
-2	م	#هست	AUX	AUX	Number=Sing|Person=1	1	cop	_	_
+2	م	هست	AUX	AUX	Number=Sing|Person=1	1	cop	_	OrigLemma=#هست
 3	با	با	ADP	PREP	_	4	case	_	_
 4	بازی‌ای	بازی	NOUN	N_IANM	Number=Sing	15	obl	_	_
 5	که	که	SCONJ	SUBR	_	7	mark	_	_
@@ -19401,7 +19401,7 @@
 7	همراه	همراه	ADJ	ADJ_AJP	_	4	acl	_	_
 8	با	با	ADP	PREP	_	9	case	_	_
 9	برد	برد	NOUN	N_IANM	Number=Sing	7	obl:arg	_	_
-10	است	#است	AUX	AUX	Number=Sing|Person=3	7	cop	_	_
+10	است	است	AUX	AUX	Number=Sing|Person=3	7	cop	_	OrigLemma=#است
 11	هواداران	هوادار	NOUN	N_ANM	Number=Plur	15	obj	_	_
 12	را	را	ADP	POSTP	_	11	case	_	_
 13	به	به	ADP	PREP	_	14	case	_	_
@@ -19509,7 +19509,7 @@
 6	در	در	ADP	PREP	_	7	case	_	_
 7	پی	پی	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
 8	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=داشت#دار
-9	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	SpaceAfter=No
+9	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	OrigLemma=#است|SpaceAfter=No
 10	.	.	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = test-s1013
@@ -19607,7 +19607,7 @@
 29	از	از	ADP	PREP	_	30	case	_	_
 30	پا	پا	NOUN	N_IANM	Number=Sing	31	compound:lvc	_	_
 31	درآورده	در#آورد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	19	ccomp	_	OrigLemma=در#آورد#آور
-32	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	31	aux	_	SpaceAfter=No
+32	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	31	aux	_	OrigLemma=#است|SpaceAfter=No
 33	.	.	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = test-s1017
@@ -19627,7 +19627,7 @@
 12	و	و	CCONJ	CONJ	_	14	cc	_	_
 13	او	او	PRON	PR_SEPER	Number=Sing|Person=3	14	nsubj	_	_
 14	معتقد	معتقد	ADJ	ADJ_AJP	_	3	conj	_	_
-15	است	#است	AUX	AUX	Number=Sing|Person=3	14	cop	_	_
+15	است	است	AUX	AUX	Number=Sing|Person=3	14	cop	_	OrigLemma=#است
 16	که	که	SCONJ	SUBR	_	18	mark	_	_
 17	ایران	ایران	PROPN	N_IANM	Number=Sing	18	nsubj	_	_
 18	نمی‌تواند	توانست	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Act	14	ccomp	_	OrigLemma=توانست#توان
@@ -19740,7 +19740,7 @@
 14	و	و	CCONJ	CONJ	_	15	cc	_	_
 15	همدلی	همدلی	NOUN	N_IANM	Number=Sing	13	conj	_	_
 16	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-17	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	16	aux	_	SpaceAfter=No
+17	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	16	aux	_	OrigLemma=#است|SpaceAfter=No
 18	.	.	PUNCT	PUNC	_	16	punct	_	_
 
 # sent_id = test-s1024
@@ -19791,7 +19791,7 @@
 14	جهانی	جهانی	ADJ	ADJ_AJP	_	13	amod	_	_
 15	همگرایی	همگرایی	NOUN	N_IANM	Number=Sing	16	compound:lvc	_	_
 16	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	8	conj	_	OrigLemma=کرد#کن
-17	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	16	aux	_	SpaceAfter=No
+17	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	16	aux	_	OrigLemma=#است|SpaceAfter=No
 18	.	.	PUNCT	PUNC	_	16	punct	_	_
 
 # sent_id = test-s1026
@@ -19860,11 +19860,11 @@
 20	اراده‌	اراده	NOUN	N_IANM	Number=Sing	19	nmod	_	_
 21	اش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	20	nmod	_	_
 22	قدرتمند	قدرتمند	ADJ	ADJ_AJP	_	13	conj	_	_
-23	است	#است	AUX	AUX	Number=Sing|Person=3	22	cop	_	_
+23	است	است	AUX	AUX	Number=Sing|Person=3	22	cop	_	OrigLemma=#است
 24	و	و	CCONJ	CONJ	_	26	cc	_	_
 25	همانندسازی	همانندسازی	NOUN	N_IANM	Number=Sing	26	compound:lvc	_	_
 26	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	13	conj	_	OrigLemma=کرد#کن
-27	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	26	aux	_	SpaceAfter=No
+27	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	26	aux	_	OrigLemma=#است|SpaceAfter=No
 28	.	.	PUNCT	PUNC	_	26	punct	_	_
 
 # sent_id = test-s1028
@@ -20107,7 +20107,7 @@
 5	شهرداری	شهرداری	NOUN	N_IANM	Number=Sing	4	nmod	_	_
 6	عادت	عادت	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
 7	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-8	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No
+8	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	OrigLemma=#است|SpaceAfter=No
 9	.	.	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = test-s1038
@@ -20211,7 +20211,7 @@
 
 # sent_id = test-s1044
 # text = نمی‌توان سر سفرهٔ انقلاب و ملت برای جلب اعتماد ملی نشست، اما با صهیونیستی که انقلاب مردم را جنون و معماری اسلامی را زلم زیمبو، و با نویسنده‌ای که انقلاب اسلامی را بلشویکی و تجربه‌اش را کمونیستی می‌نامد، همنوایی کرد.
-1	نمی‌توان	#توان	AUX	V_MODL	Polarity=Neg	11	aux	_	_
+1	نمی‌توان	توان	AUX	V_MODL	Polarity=Neg	11	aux	_	OrigLemma=#توان
 2	سر	سر	ADP	PREP	_	3	case	_	_
 3	سفرهٔ	سفره	NOUN	N_IANM	Number=Sing	11	obl:arg	_	_
 4	انقلاب	انقلاب	NOUN	N_IANM	Number=Sing	3	nmod	_	_
@@ -20274,7 +20274,7 @@
 12	شش	شش	NOUN	N_IANM	Number=Sing	9	conj	_	_
 13	و	و	CCONJ	CONJ	_	14	cc	_	_
 14	هشت	هشت	NOUN	N_IANM	Number=Sing	9	conj	_	_
-15	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	10	cop	_	_
+15	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	10	cop	_	OrigLemma=#هست
 16	که	که	SCONJ	SUBR	_	18	mark	_	_
 17	فکر	فکر	NOUN	N_IANM	Number=Sing	18	compound:lvc	_	_
 18	کنیم	کرد	VERB	V_ACT	Number=Plur|Person=1|Voice=Act	10	advcl	_	OrigLemma=کرد#کن
@@ -20364,7 +20364,7 @@
 26	حسن	حسن	PROPN	N_ANM	Number=Sing	25	flat:name	_	_
 27	هدیه	هدیه	NOUN	N_IANM	Number=Sing	28	compound:lvc	_	_
 28	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	14	ccomp	_	OrigLemma=کرد#کن
-29	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	28	aux	_	SpaceAfter=No
+29	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	28	aux	_	OrigLemma=#است|SpaceAfter=No
 30	.	.	PUNCT	PUNC	_	14	punct	_	_
 
 # sent_id = test-s1050
@@ -20382,12 +20382,12 @@
 11	شیعه	شیعه	NOUN	N_ANM	Number=Sing	10	nmod	_	_
 12	گره	گره	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	_
 13	خورده	خورد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=خورد#خور
-14	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	13	aux	_	_
+14	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	13	aux	_	OrigLemma=#است
 15	و	و	CCONJ	CONJ	_	18	cc	_	_
 16	این	این	PRON	PR_DEMON	Number=Sing	18	nsubj	_	_
 17	مهم‌ترین	مهم	ADJ	ADJ_AJSUP	_	18	amod	_	_
 18	عاملی	عامل	NOUN	N_IANM	Number=Sing	13	conj	_	_
-19	است	#است	AUX	AUX	Number=Sing|Person=3	18	cop	_	_
+19	است	است	AUX	AUX	Number=Sing|Person=3	18	cop	_	OrigLemma=#است
 20	که	که	SCONJ	SUBR	_	30	mark	_	_
 21	مکان	مکان	NOUN	N_IANM	Number=Sing	30	obj	_	_
 22	و	و	CCONJ	CONJ	_	23	cc	_	_
@@ -20439,7 +20439,7 @@
 7	سمنگان	سمنگان	PROPN	N_IANM	Number=Sing	6	flat:name	_	_
 8	هجوم	هجوم	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	_
 9	برده	برد	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	OrigLemma=برد#بر
-10	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	SpaceAfter=No
+10	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	OrigLemma=#است|SpaceAfter=No
 11	.	.	PUNCT	PUNC	_	9	punct	_	_
 
 # sent_id = test-s1052
@@ -20547,7 +20547,7 @@
 10	(	(	PUNCT	PUNC	_	11	punct	_	SpaceAfter=No
 11	س	س	NOUN	N_IANM	Number=Sing	8	obl	_	SpaceAfter=No
 12	)	)	PUNCT	PUNC	_	11	punct	_	_
-13	است	#است	AUX	AUX	Number=Sing|Person=3	3	cop	_	SpaceAfter=No
+13	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است|SpaceAfter=No
 14	.	.	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = test-s1056
@@ -20656,7 +20656,7 @@
 15	دیروز	دیروز	NOUN	N_IANM	Number=Sing	13	obl	_	_
 16	نمره	نمره	NOUN	N_IANM	Number=Sing	17	compound:lvc	_	_
 17	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	8	acl	_	OrigLemma=شد#شو
-18	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	17	aux	_	_
+18	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	17	aux	_	OrigLemma=#است
 19	امکان	امکان	NOUN	N_IANM	Number=Sing	20	compound:lvc	_	_
 20	ندارد	داشت	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	OrigLemma=داشت#دار
 21	که	که	SCONJ	SUBR	_	25	mark	_	_
@@ -20675,7 +20675,7 @@
 3	اسرائیل	اسرائیل	PROPN	N_IANM	Number=Sing	1	nmod	_	_
 4	نزول	نزول	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	_
 5	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-6	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	SpaceAfter=No
+6	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	OrigLemma=#است|SpaceAfter=No
 7	.	.	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = test-s1061
@@ -20712,7 +20712,7 @@
 14	ناتو	ناتو	PROPN	N_IANM	Number=Sing	16	obl	_	_
 15	وعده	وعده	NOUN	N_IANM	Number=Sing	16	compound:lvc	_	_
 16	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-17	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	16	aux	_	SpaceAfter=No
+17	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	16	aux	_	OrigLemma=#است|SpaceAfter=No
 18	.	.	PUNCT	PUNC	_	16	punct	_	_
 
 # sent_id = test-s1063
@@ -20799,7 +20799,7 @@
 12	را	را	ADP	POSTP	_	7	case	_	_
 13	وصله	وصله	NOUN	N_IANM	Number=Sing	14	compound:lvc	_	_
 14	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	4	ccomp	_	OrigLemma=کرد#کن
-15	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	14	aux	_	SpaceAfter=No
+15	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	14	aux	_	OrigLemma=#است|SpaceAfter=No
 16	.	.	PUNCT	PUNC	_	14	punct	_	_
 
 # sent_id = test-s1068
@@ -20817,7 +20817,7 @@
 # sent_id = test-s1069
 # text = چگونه می‌توان خورشید را وزن کرد؟
 1	چگونه	چگونه	ADV	ADV_SADV	_	6	advmod	_	_
-2	می‌توان	#توان	AUX	V_MODL	_	6	aux	_	_
+2	می‌توان	توان	AUX	V_MODL	_	6	aux	_	OrigLemma=#توان
 3	خورشید	خورشید	NOUN	N_IANM	Number=Sing	6	obj	_	_
 4	را	را	ADP	POSTP	_	3	case	_	_
 5	وزن	وزن	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	_
@@ -20880,7 +20880,7 @@
 3	مدت	مدت	NOUN	N_IANM	Number=Sing	0	root	_	_
 4	بیست	بیست	NUM	PRENUM	_	5	nummod	_	_
 5	سال	سال	NOUN	N_IANM	Number=Sing	3	nmod	_	_
-6	است	#است	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+6	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است
 7	که	که	SCONJ	SUBR	_	3	csubj	_	_
 8	در	در	ADP	PREP	_	9	case	_	_
 9	آلمان	آلمان	PROPN	N_IANM	Number=Sing	11	obl	_	_
@@ -21022,7 +21022,7 @@
 4	خیام	خیام	NOUN	N_ANM	Number=Sing	3	nmod	_	_
 5	اختلاف	اختلاف	NOUN	N_IANM	Number=Sing	2	nsubj	_	_
 6	نسخه‌ها	نسخه	NOUN	N_IANM	Number=Plur	5	nmod	_	_
-7	ست	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+7	ست	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 8	که	که	SCONJ	SUBR	_	28	mark	_	_
 9	محقق	محقق	NOUN	N_ANM	Number=Sing	28	nsubj	_	_
 10	دانمارکی	دانمارکی	ADJ	ADJ_AJP	_	9	amod	_	_
@@ -21044,7 +21044,7 @@
 26	بدل	بدل	NOUN	N_IANM	Number=Sing	25	nmod	_	_
 27	یادداشت	یادداشت	NOUN	N_IANM	Number=Sing	28	compound:lvc	_	_
 28	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	OrigLemma=کرد#کن
-29	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	28	aux	_	SpaceAfter=No
+29	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	28	aux	_	OrigLemma=#است|SpaceAfter=No
 30	.	.	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = test-s1081
@@ -21054,7 +21054,7 @@
 3	،	،	PUNCT	PUNC	_	2	punct	_	_
 4	بررسی	بررسی	NOUN	N_IANM	Number=Sing	0	root	_	_
 5	اجمالی	اجمالی	ADJ	ADJ_AJP	_	4	amod	_	_
-6	است	#است	AUX	AUX	Number=Sing|Person=3	4	cop	_	_
+6	است	است	AUX	AUX	Number=Sing|Person=3	4	cop	_	OrigLemma=#است
 7	در	در	ADP	PREP	_	8	case	_	_
 8	باب	باب	NOUN	N_IANM	Number=Sing	4	nmod	_	_
 9	آنچه	آنچه	NOUN	N_IANM	Number=Sing	8	nmod	_	_
@@ -21072,7 +21072,7 @@
 21	گونه‌ای	گونه	NOUN	N_IANM	Number=Sing	23	obl	_	_
 22	نقل	نقل	NOUN	N_IANM	Number=Sing	23	compound:lvc	_	_
 23	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	18	conj	_	OrigLemma=شد#شو
-24	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	23	aux	_	_
+24	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	23	aux	_	OrigLemma=#است
 25	که	که	SCONJ	SUBR	_	34	mark	_	_
 26	خواننده	خواننده	NOUN	N_ANM	Number=Sing	34	nsubj	_	_
 27	انتساب	انتساب	NOUN	N_IANM	Number=Sing	34	obj	_	_
@@ -21128,7 +21128,7 @@
 2	یک	یک	NUM	PRENUM	_	3	nummod	_	_
 3	ورزش	ورزش	NOUN	N_IANM	Number=Sing	0	root	_	_
 4	گروهی	گروهی	ADJ	ADJ_AJP	_	3	amod	_	_
-5	است	#است	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است
 6	و	و	CCONJ	CONJ	_	20	cc	_	_
 7	هر	هر	DET	PREM_AMBAJ	_	8	det	_	_
 8	قدر	قدر	NOUN	N_IANM	Number=Sing	20	obl	_	_
@@ -21456,7 +21456,7 @@
 19	ورزیده‌اند	ورزید	VERB	V_ACT	Number=Plur|Person=3|VerbForm=Part|Voice=Act	2	acl	_	OrigLemma=ورزید#ورز
 20	صلهٔ	صله	NOUN	N_IANM	Number=Sing	2	nsubj	_	_
 21	رحم	رحم	NOUN	N_IANM	Number=Sing	20	nmod	_	_
-22	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	SpaceAfter=No
+22	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است|SpaceAfter=No
 23	.	.	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = test-s1101
@@ -21479,7 +21479,7 @@
 16	حضور	حضور	NOUN	N_IANM	Number=Sing	17	obj	_	_
 17	دارند	داشت	VERB	V_ACT	Number=Plur|Person=3|Tense=Pres|Voice=Act	5	acl	_	OrigLemma=داشت#دار|SpaceAfter=No
 18	،	،	PUNCT	PUNC	_	17	punct	_	_
-19	می‌توان	#توان	AUX	V_MODL	_	28	aux	_	_
+19	می‌توان	توان	AUX	V_MODL	_	28	aux	_	OrigLemma=#توان
 20	حریق	حریق	NOUN	N_IANM	Number=Sing	28	obj	_	_
 21	خودروها	خودرو	NOUN	N_IANM	Number=Plur	20	nmod	_	_
 22	را	را	ADP	POSTP	_	20	case	_	_
@@ -21544,7 +21544,7 @@
 9	به	به	ADP	PREP	_	10	case	_	_
 10	دنبال	دنبال	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	_
 11	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=داشت#دار
-12	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	SpaceAfter=No
+12	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	OrigLemma=#است|SpaceAfter=No
 13	.	.	PUNCT	PUNC	_	11	punct	_	_
 
 # sent_id = test-s1105
@@ -21556,12 +21556,12 @@
 5	هر	هر	DET	PREM_AMBAJ	_	6	det	_	_
 6	زمانی	زمان	NOUN	N_IANM	Number=Sing	7	obl	_	_
 7	ممکن	ممکن	ADJ	ADJ_AJP	_	0	root	_	_
-8	است	#است	AUX	AUX	Number=Sing|Person=3	7	cop	_	_
+8	است	است	AUX	AUX	Number=Sing|Person=3	7	cop	_	OrigLemma=#است
 9	به	به	ADP	PREP	_	10	case	_	_
 10	ذهن	ذهن	NOUN	N_IANM	Number=Sing	11	obl:arg	_	_
 11	برسند	رسید	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	7	csubj	_	OrigLemma=رسید#رس
 12	و	و	CCONJ	CONJ	_	18	cc	_	_
-13	نمی‌توان	#توان	AUX	V_MODL	Polarity=Neg	18	aux	_	_
+13	نمی‌توان	توان	AUX	V_MODL	Polarity=Neg	18	aux	_	OrigLemma=#توان
 14	شکل‌گیری	شکل‌گیری	NOUN	N_IANM	Number=Sing	18	obj	_	_
 15	آنها	آنها	PRON	PR_DEMON	Number=Plur	14	nmod	_	_
 16	را	را	ADP	POSTP	_	14	case	_	_
@@ -21579,7 +21579,7 @@
 6	گسترش	گسترش	NOUN	N_IANM	Number=Sing	3	nmod	_	_
 7	علوم	علم	NOUN	N_IANM	Number=Plur	6	nmod	_	_
 8	را	را	ADP	POSTP	_	3	case	_	_
-9	می‌توان	#توان	AUX	V_MODL	_	13	aux	_	_
+9	می‌توان	توان	AUX	V_MODL	_	13	aux	_	OrigLemma=#توان
 10	پرورش	پرورش	NOUN	N_IANM	Number=Sing	13	xcomp	_	_
 11	شاگردان	شاگرد	NOUN	N_ANM	Number=Plur	10	nmod	_	_
 12	متخصص	متخصص	ADJ	ADJ_AJP	_	11	amod	_	_
@@ -21621,7 +21621,7 @@
 16	به	به	ADP	PREP	_	17	case	_	_
 17	تسلیحات	تسلیحات	NOUN	N_IANM	Number=Plur	15	obl:arg	_	_
 18	هسته‌ای	هسته‌ای	ADJ	ADJ_AJP	_	17	amod	_	_
-19	است	#است	AUX	AUX	Number=Sing|Person=3	10	cop	_	SpaceAfter=No
+19	است	است	AUX	AUX	Number=Sing|Person=3	10	cop	_	OrigLemma=#است|SpaceAfter=No
 20	.	.	PUNCT	PUNC	_	10	punct	_	_
 
 # sent_id = test-s1108
@@ -21819,7 +21819,7 @@
 18	لازمهٔ	لازمه	NOUN	N_ANM	Number=Sing	12	acl	_	_
 19	بقای	بقا	NOUN	N_IANM	Number=Sing	18	nmod	_	_
 20	نسل	نسل	NOUN	N_IANM	Number=Sing	19	nmod	_	_
-21	است	#است	AUX	AUX	Number=Sing|Person=3	18	cop	_	SpaceAfter=No
+21	است	است	AUX	AUX	Number=Sing|Person=3	18	cop	_	OrigLemma=#است|SpaceAfter=No
 22	.	.	PUNCT	PUNC	_	21	punct	_	_
 
 # sent_id = test-s1116
@@ -21860,7 +21860,7 @@
 3	و	و	CCONJ	CONJ	_	4	cc	_	_
 4	سنی	سنی	ADJ	ADJ_AJP	_	2	conj	_	_
 5	حاضر	حاضر	ADJ	ADJ_AJP	_	0	root	_	_
-6	ند	#هست	AUX	AUX	Number=Plur|Person=3	5	cop	_	_
+6	ند	هست	AUX	AUX	Number=Plur|Person=3	5	cop	_	OrigLemma=#هست
 7	با	با	ADP	PREP	_	8	case	_	_
 8	هم	هم	PRON	PR_RECPR	_	10	obl:arg	_	_
 9	مباهله	مباهله	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
@@ -21897,7 +21897,7 @@
 # text = متحیرم از اعجاز روزی که خجالت می‌کشی که متانت کرده‌ای.
 1-2	متحیرم	_	_	_	_	_	_	_	_
 1	متحیر	متحیر	ADJ	ADJ_AJP	_	0	root	_	_
-2	م	#هست	AUX	AUX	Number=Sing|Person=1	1	cop	_	_
+2	م	هست	AUX	AUX	Number=Sing|Person=1	1	cop	_	OrigLemma=#هست
 3	از	از	ADP	PREP	_	4	case	_	_
 4	اعجاز	اعجاز	NOUN	N_IANM	Number=Sing	1	obl:arg	_	_
 5	روزی	روز	NOUN	N_IANM	Number=Sing	4	nmod	_	_
@@ -22059,7 +22059,7 @@
 20	فاسد	فاسد	ADJ	ADJ_AJP	_	19	amod	_	_
 21	و	و	CCONJ	CONJ	_	22	cc	_	_
 22	ضداخلاقی	ضداخلاقی	ADJ	ADJ_AJP	_	20	conj	_	_
-23	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	18	cop	_	SpaceAfter=No
+23	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	18	cop	_	OrigLemma=#هست|SpaceAfter=No
 24	.	.	PUNCT	PUNC	_	23	punct	_	_
 
 # sent_id = test-s1131
@@ -22120,7 +22120,7 @@
 2	مرکزی	مرکزی	PROPN	ADJ_AJP	_	1	flat:name	_	_
 3	سه	سه	NUM	PRENUM	_	4	nummod	_	_
 4	روز	روز	NOUN	N_IANM	Number=Sing	5	nsubj	_	_
-5	است	#است	AUX	AUX	Number=Sing|Person=3	0	root	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3	0	root	_	OrigLemma=#است
 6	که	که	SCONJ	SUBR	_	17	mark	_	_
 7	نرخ	نرخ	NOUN	N_IANM	Number=Sing	17	obj	_	_
 8	دلار	دلار	NOUN	N_IANM	Number=Sing	7	nmod	_	_
@@ -22133,7 +22133,7 @@
 15	خود	خود	PRON	PR_CREFX	_	14	nmod	_	_
 16	درج	درج	NOUN	N_IANM	Number=Sing	17	compound:lvc	_	_
 17	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	5	ccomp	_	OrigLemma=کرد#کن
-18	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	17	aux	_	SpaceAfter=No
+18	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	17	aux	_	OrigLemma=#است|SpaceAfter=No
 19	.	.	PUNCT	PUNC	_	18	punct	_	_
 
 # sent_id = test-s1135
@@ -22305,7 +22305,7 @@
 23	من	من	PRON	PR_SEPER	Number=Sing|Person=1	25	obl:arg	_	_
 24	مسالمت	مسالمت	NOUN	N_IANM	Number=Sing	25	compound:lvc	_	_
 25	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	14	conj	_	OrigLemma=کرد#کن
-26	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	25	aux	_	SpaceAfter=No
+26	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	25	aux	_	OrigLemma=#است|SpaceAfter=No
 27	.	.	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = test-s1143
@@ -22368,7 +22368,7 @@
 5	چاق	چاق	ADJ	ADJ_AJP	_	4	amod	_	_
 6	قویجثهٔ	قویجثه	ADJ	ADJ_AJP	_	4	amod	_	_
 7	کندذهنی	کندذهن	ADJ	ADJ_AJP	_	4	amod	_	_
-8	است	#است	AUX	AUX	Number=Sing|Person=3	4	cop	_	_
+8	است	است	AUX	AUX	Number=Sing|Person=3	4	cop	_	OrigLemma=#است
 9	که	که	SCONJ	SUBR	_	23	mark	_	_
 10	در	در	ADP	PREP	_	11	case	_	_
 11	جزیرهٔ	جزیره	NOUN	N_IANM	Number=Sing	23	obl	_	_
@@ -22477,7 +22477,7 @@
 9	همراه	همراه	ADP	PREP	_	10	case	_	_
 10	دوستان	دوست	NOUN	N_ANM	Number=Plur	7	acl	_	_
 11	خود	خود	PRON	PR_CREFX	_	10	nmod	_	_
-12	هستید	#هست	AUX	AUX	Number=Plur|Person=2	10	cop	_	_
+12	هستید	هست	AUX	AUX	Number=Plur|Person=2	10	cop	_	OrigLemma=#هست
 13	جوگیر	جوگیر	ADJ	ADJ_AJP	_	14	xcomp	_	_
 14	نشوید	شد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	OrigLemma=شد#شو
 15	و	و	CCONJ	CONJ	_	17	cc	_	_
@@ -22528,7 +22528,7 @@
 15	نزند	زد	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Voice=Act	6	conj	_	OrigLemma=زد#زن|SpaceAfter=No
 16	،	،	PUNCT	PUNC	_	15	punct	_	_
 17	کافی	کافی	ADJ	ADJ_AJP	_	0	root	_	_
-18	است	#است	AUX	AUX	Number=Sing|Person=3	17	cop	_	SpaceAfter=No
+18	است	است	AUX	AUX	Number=Sing|Person=3	17	cop	_	OrigLemma=#است|SpaceAfter=No
 19	.	.	PUNCT	PUNC	_	17	punct	_	_
 
 # sent_id = test-s1154
@@ -22557,7 +22557,7 @@
 22	خود	خود	PRON	PR_CREFX	_	21	nmod	_	_
 23	یاوه‌گویی	یاوه‌گویی	NOUN	N_IANM	Number=Sing	24	compound:lvc	_	_
 24	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-25	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	24	aux	_	SpaceAfter=No
+25	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	24	aux	_	OrigLemma=#است|SpaceAfter=No
 26	.	.	PUNCT	PUNC	_	24	punct	_	_
 
 # sent_id = test-s1155
@@ -22582,7 +22582,7 @@
 18	و	و	CCONJ	CONJ	_	20	cc	_	_
 19	در	در	ADP	PREP	_	20	case	_	_
 20	تلاش	تلاش	NOUN	N_IANM	Number=Sing	17	conj	_	_
-21	است	#است	AUX	AUX	Number=Sing|Person=3	20	cop	_	_
+21	است	است	AUX	AUX	Number=Sing|Person=3	20	cop	_	OrigLemma=#است
 22	مبلمان	مبلمان	NOUN	N_IANM	Number=Sing	36	obj	_	_
 23	و	و	CCONJ	CONJ	_	24	cc	_	_
 24	امکانات	امکان	NOUN	N_IANM	Number=Plur	22	conj	_	_
@@ -22640,7 +22640,7 @@
 4	،	،	PUNCT	PUNC	_	3	punct	_	_
 5	همان	همان	DET	PREM_DEMAJ	_	6	det	_	_
 6	طایفه‌ای	طایفه	NOUN	N_IANM	Number=Sing	0	root	_	_
-7	هستید	#هست	AUX	AUX	Number=Plur|Person=2	6	cop	_	_
+7	هستید	هست	AUX	AUX	Number=Plur|Person=2	6	cop	_	OrigLemma=#هست
 8	که	که	SCONJ	SUBR	_	12	mark	_	_
 9	زن	زن	NOUN	N_ANM	Number=Sing	12	obj	_	_
 10	را	را	ADP	POSTP	_	9	case	_	_
@@ -22771,7 +22771,7 @@
 3	توصیف	توصیف	NOUN	N_IANM	Number=Sing	0	root	_	_
 4	احساسات	احساس	NOUN	N_IANM	Number=Plur	3	nmod	_	_
 5	زنی	زن	NOUN	N_ANM	Number=Sing	4	nmod	_	_
-6	است	#است	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+6	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است
 7	که	که	SCONJ	SUBR	_	22	mark	_	_
 8-9	شوهرش	_	_	_	_	_	_	_	_
 8	شوهر	شوهر	NOUN	N_ANM	Number=Sing	22	nsubj	_	_
@@ -22810,7 +22810,7 @@
 4	که	که	SCONJ	SUBR	_	5	mark	_	_
 5-6	کشندهست	_	_	_	_	_	_	_	_
 5	کشنده	کشنده	ADJ	ADJ_AJP	_	3	advcl	_	_
-6	ست	#است	AUX	AUX	Number=Sing|Person=3	5	cop	_	_
+6	ست	است	AUX	AUX	Number=Sing|Person=3	5	cop	_	OrigLemma=#است
 7	این	این	DET	PREM_DEMAJ	_	8	det	_	_
 8	شراب	شراب	NOUN	N_IANM	Number=Sing	5	nsubj	_	SpaceAfter=No
 9	.	.	PUNCT	PUNC	_	3	punct	_	_
@@ -22840,7 +22840,7 @@
 2	در	در	ADP	PREP	_	3	case	_	_
 3	زمان	زمان	NOUN	N_IANM	Number=Sing	7	obl	_	_
 4	حاملگی	حاملگی	NOUN	N_IANM	Number=Sing	3	nmod	_	_
-5	می‌توان	#توان	AUX	V_MODL	_	7	aux	_	_
+5	می‌توان	توان	AUX	V_MODL	_	7	aux	_	OrigLemma=#توان
 6	نزدیکی	نزدیکی	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
 7	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
 8	؟	؟	PUNCT	PUNC	_	7	punct	_	_
@@ -22848,7 +22848,7 @@
 # sent_id = test-s1169
 # text = آیا می‌توان دختری را که به دلیل خطا بکارت خود را از دست داده بدون اذن پدر صیغه کرد؟
 1	آیا	آیا	PART	PART	_	19	mark	_	_
-2	می‌توان	#توان	AUX	V_MODL	_	19	aux	_	_
+2	می‌توان	توان	AUX	V_MODL	_	19	aux	_	OrigLemma=#توان
 3	دختری	دختر	NOUN	N_ANM	Number=Sing	19	obj	_	_
 4	را	را	ADP	POSTP	_	3	case	_	_
 5	که	که	SCONJ	SUBR	_	14	mark	_	_
@@ -22961,7 +22961,7 @@
 # text = برخی معتقد هستند این فیلم اسلام‌زدایی می‌کند.
 1	برخی	برخی	NOUN	N_ANM	Number=Plur	2	nsubj	_	_
 2	معتقد	معتقد	ADJ	ADJ_AJP	_	0	root	_	_
-3	هستند	#هست	AUX	AUX	Number=Plur|Person=3	2	cop	_	_
+3	هستند	هست	AUX	AUX	Number=Plur|Person=3	2	cop	_	OrigLemma=#هست
 4	این	این	DET	PREM_DEMAJ	_	5	det	_	_
 5	فیلم	فیلم	NOUN	N_IANM	Number=Sing	7	nsubj	_	_
 6	اسلام‌زدایی	اسلام‌زدایی	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
@@ -23039,7 +23039,7 @@
 2	بخش	بخش	NOUN	N_IANM	Number=Sing	10	obl	_	_
 3	صنایع	صنعت	NOUN	N_IANM	Number=Plur	2	nmod	_	_
 4	دستی	دستی	ADJ	ADJ_AJP	_	3	amod	_	_
-5	می‌توان	#توان	AUX	V_MODL	_	10	aux	_	_
+5	می‌توان	توان	AUX	V_MODL	_	10	aux	_	OrigLemma=#توان
 6	با	با	ADP	PREP	_	7	case	_	_
 7	هزینه‌های	هزینه	NOUN	N_IANM	Number=Plur	10	obl:arg	_	_
 8	کم	کم	ADJ	ADJ_AJP	_	7	amod	_	_
@@ -23051,7 +23051,7 @@
 # text = مصدر کلمه‌ای است که از آن، افعال و صفات اشتقاق کنند.
 1	مصدر	مصدر	NOUN	N_IANM	Number=Sing	2	nsubj	_	_
 2	کلمه‌ای	کلمه	NOUN	N_IANM	Number=Sing	0	root	_	_
-3	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 4	که	که	SCONJ	SUBR	_	12	mark	_	_
 5	از	از	ADP	PREP	_	6	case	_	_
 6	آن	آن	PRON	PR_DEMON	Number=Sing	12	obl:arg	_	SpaceAfter=No
@@ -23088,7 +23088,7 @@
 8	دچار	دچار	ADJ	ADJ_AJP	_	10	xcomp	_	_
 9	تخلف	تخلف	NOUN	N_IANM	Number=Sing	8	obl:arg	_	_
 10	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=شد#شو
-11	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	SpaceAfter=No
+11	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	OrigLemma=#است|SpaceAfter=No
 12	.	.	PUNCT	PUNC	_	10	punct	_	_
 
 # sent_id = test-s1181
@@ -23098,7 +23098,7 @@
 3	جامعه	جامعه	NOUN	N_IANM	Number=Sing	5	obl	_	_
 4	افول	افول	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	_
 5	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-6	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	SpaceAfter=No
+6	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	OrigLemma=#است|SpaceAfter=No
 7	.	.	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = test-s1182
@@ -23142,7 +23142,7 @@
 21	و	و	CCONJ	CONJ	_	22	cc	_	_
 22	اقتباس	اقتباس	NOUN	N_IANM	Number=Sing	20	conj	_	_
 23	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-24	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	23	aux	_	SpaceAfter=No
+24	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	23	aux	_	OrigLemma=#است|SpaceAfter=No
 25	.	.	PUNCT	PUNC	_	23	punct	_	_
 
 # sent_id = test-s1184
@@ -23185,7 +23185,7 @@
 21	بافضیلت‌تر	بافضیلت	ADJ	ADJ_AJCM	_	0	root	_	_
 22	و	و	CCONJ	CONJ	_	23	cc	_	_
 23	برتر	برتر	ADJ	ADJ_AJCM	_	21	conj	_	_
-24	است	#است	AUX	AUX	Number=Sing|Person=3	21	cop	_	SpaceAfter=No
+24	است	است	AUX	AUX	Number=Sing|Person=3	21	cop	_	OrigLemma=#است|SpaceAfter=No
 25	.	.	PUNCT	PUNC	_	21	punct	_	_
 
 # sent_id = test-s1186
@@ -23227,7 +23227,7 @@
 9	روزنامه‌نگاری	روزنامه‌نگاری	NOUN	N_IANM	Number=Sing	8	nmod	_	_
 10	کارآموزی	کارآموزی	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	_
 11	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-12	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	SpaceAfter=No
+12	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	OrigLemma=#است|SpaceAfter=No
 13	.	.	PUNCT	PUNC	_	11	punct	_	_
 
 # sent_id = test-s1189
@@ -23252,7 +23252,7 @@
 3	عراق	عراق	PROPN	N_IANM	Number=Sing	5	obl	_	_
 4	نسل‌کشی	نسل‌کشی	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	_
 5	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-6	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	SpaceAfter=No
+6	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	OrigLemma=#است|SpaceAfter=No
 7	؟	؟	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = test-s1191
@@ -23281,7 +23281,7 @@
 9	نماز	نماز	NOUN	N_IANM	Number=Sing	11	nsubj	_	_
 10	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
 11	باطل	باطل	ADJ	ADJ_AJP	_	0	root	_	_
-12	است	#است	AUX	AUX	Number=Sing|Person=3	11	cop	_	_
+12	است	است	AUX	AUX	Number=Sing|Person=3	11	cop	_	OrigLemma=#است
 13	چه	چه	ADV	ADV_SADV	_	15	advmod	_	_
 14	نسیان	نسیان	NOUN	N_IANM	Number=Sing	15	compound:lvc	_	_
 15	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	11	ccomp	_	OrigLemma=کرد#کن
@@ -23323,7 +23323,7 @@
 6	را	را	ADP	POSTP	_	2	case	_	_
 7	نسخه‌برداری	نسخه‌برداری	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
 8	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-9	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	SpaceAfter=No
+9	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	OrigLemma=#است|SpaceAfter=No
 10	.	.	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = test-s1195
@@ -23418,7 +23418,7 @@
 19	من	من	PRON	PR_SEPER	Number=Sing|Person=1	18	nmod	_	_
 20	صیحه	صیحه	NOUN	N_IANM	Number=Sing	21	compound:lvc	_	_
 21	زده	زد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	14	advcl	_	OrigLemma=زد#زن
-22	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	21	aux	_	SpaceAfter=No
+22	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	21	aux	_	OrigLemma=#است|SpaceAfter=No
 23	.	.	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = test-s1199
@@ -23474,7 +23474,7 @@
 19	ریخت	ریخت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	13	conj	_	OrigLemma=ریخت#ریز|SpaceAfter=No
 20	،	،	PUNCT	PUNC	_	19	punct	_	_
 21	مدتی	مدت	NOUN	N_IANM	Number=Sing	4	ccomp	_	_
-22	است	#است	AUX	AUX	Number=Sing|Person=3	21	cop	_	_
+22	است	است	AUX	AUX	Number=Sing|Person=3	21	cop	_	OrigLemma=#است
 23	خاک	خاک	NOUN	N_IANM	Number=Sing	32	obj	_	_
 24	خود	خود	PRON	PR_CREFX	_	23	nmod	_	_
 25	را	را	ADP	POSTP	_	23	case	_	_
@@ -23512,7 +23512,7 @@
 6	صاحب	صاحب	NOUN	N_ANM	Number=Sing	4	acl	_	_
 7-8	حاکمیت‌اند	_	_	_	_	_	_	_	_
 7	حاکمیت‌	حاکمیت	NOUN	N_IANM	Number=Sing	6	nmod	_	_
-8	اند	#هست	AUX	AUX	Number=Sing|Person=3	6	cop	_	_
+8	اند	هست	AUX	AUX	Number=Sing|Person=3	6	cop	_	OrigLemma=#هست
 9	وفاق	وفاق	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
 10	کنید	کرد	VERB	V_ACT	Number=Plur|Person=2|Voice=Act	2	ccomp	_	OrigLemma=کرد#کن|SpaceAfter=No
 11	؟	؟	PUNCT	PUNC	_	2	punct	_	_
@@ -23650,7 +23650,7 @@
 4	آنان	آنان	PRON	PR_SEPER	Number=Plur|Person=3	3	nmod	_	_
 5	مقبول	مقبول	ADJ	ADJ_AJP	_	6	xcomp	_	_
 6	آمده	آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=آمد#آ
-7	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	6	aux	_	SpaceAfter=No
+7	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	6	aux	_	OrigLemma=#است|SpaceAfter=No
 8	.	.	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = test-s1213
@@ -23681,7 +23681,7 @@
 23	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	22	nmod	_	_
 24	ملیله‌دوزی	ملیله‌دوزی	NOUN	N_IANM	Number=Sing	25	compound:lvc	_	_
 25	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	17	conj	_	OrigLemma=کرد#کن
-26	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	25	aux	_	SpaceAfter=No
+26	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	25	aux	_	OrigLemma=#است|SpaceAfter=No
 27	.	.	PUNCT	PUNC	_	25	punct	_	_
 
 # sent_id = test-s1214
@@ -23707,7 +23707,7 @@
 19	نتیجهٔ	نتیجه	NOUN	N_IANM	Number=Sing	13	conj	_	_
 20	انتخاب	انتخاب	NOUN	N_IANM	Number=Sing	19	nmod	_	_
 21	آینده	آینده	ADJ	ADJ_AJP	_	20	amod	_	_
-22	است	#است	AUX	AUX	Number=Sing|Person=3	19	cop	_	_
+22	است	است	AUX	AUX	Number=Sing|Person=3	19	cop	_	OrigLemma=#است
 23	که	که	SCONJ	SUBR	_	36	mark	_	_
 24	مهر	مهر	NOUN	N_IANM	Number=Sing	36	obj	_	_
 25	مردم	مردم	NOUN	N_ANM	Number=Plur	24	nmod	_	_
@@ -23732,7 +23732,7 @@
 4	آیین‌نامهٔ	آیین‌نامه	NOUN	N_IANM	Number=Sing	2	nmod	_	_
 5	2800	2800	NOUN	N_IANM	Number=Sing	4	nmod	_	_
 6	چگونه	چگونه	ADV	ADV_SADV	_	19	advmod	_	_
-7	می‌توان	#توان	AUX	V_MODL	_	19	aux	_	_
+7	می‌توان	توان	AUX	V_MODL	_	19	aux	_	OrigLemma=#توان
 8	شتاب	شتاب	NOUN	N_IANM	Number=Sing	19	obj	_	_
 9	نگاشت	نگاشت	NOUN	N_IANM	Number=Sing	8	nmod	_	_
 10	زلزله‌ای	زلزله	NOUN	N_IANM	Number=Sing	9	nmod	_	_
@@ -23791,7 +23791,7 @@
 27	ایمنی	ایمنی	NOUN	N_IANM	Number=Sing	29	obl:arg	_	_
 28	سرنشینان	سرنشین	NOUN	N_ANM	Number=Plur	27	nmod	_	_
 29	مرتبط	مرتبط	ADJ	ADJ_AJP	_	23	acl	_	_
-30	است	#است	AUX	AUX	Number=Sing|Person=3	29	cop	_	SpaceAfter=No
+30	است	است	AUX	AUX	Number=Sing|Person=3	29	cop	_	OrigLemma=#است|SpaceAfter=No
 31	،	،	PUNCT	PUNC	_	29	punct	_	_
 32	مناسبت	مناسبت	NOUN	N_IANM	Number=Sing	34	obj	_	_
 33	خواهند	خواست	AUX	AUX	Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	34	aux	_	OrigLemma=خواست#خواه
@@ -23827,7 +23827,7 @@
 2	اسراییل	اسراییل	PROPN	N_IANM	Number=Sing	1	flat:name	_	_
 3	چند	چند	DET	PREM_AMBAJ	_	4	det	_	_
 4	وقتی	وقت	NOUN	N_IANM	Number=Sing	5	obl	_	_
-5	است	#است	AUX	AUX	Number=Sing|Person=3	0	root	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3	0	root	_	OrigLemma=#است
 6	که	که	SCONJ	SUBR	_	21	mark	_	_
 7	در	در	ADP	PREP	_	8	case	_	_
 8	سکوت	سکوت	NOUN	N_IANM	Number=Sing	21	obl	_	_
@@ -23844,7 +23844,7 @@
 19	)	)	PUNCT	PUNC	_	18	punct	_	_
 20	رو	رو	NOUN	N_IANM	Number=Sing	21	compound:lvc	_	_
 21	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	5	ccomp	_	OrigLemma=کرد#کن
-22	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	21	aux	_	SpaceAfter=No
+22	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	21	aux	_	OrigLemma=#است|SpaceAfter=No
 23	.	.	PUNCT	PUNC	_	22	punct	_	_
 
 # sent_id = test-s1220
@@ -23889,7 +23889,7 @@
 11	همگان	همگان	NOUN	N_ANM	Number=Plur	13	obl	_	_
 12	تمام	تمام	ADJ	ADJ_AJP	_	13	compound:lvc	_	_
 13	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-14	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	13	aux	_	SpaceAfter=No
+14	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	13	aux	_	OrigLemma=#است|SpaceAfter=No
 15	.	.	PUNCT	PUNC	_	13	punct	_	_
 
 # sent_id = test-s1222
@@ -24045,7 +24045,7 @@
 2	کتاب‌ها	کتاب	NOUN	N_IANM	Number=Plur	4	obl	_	_
 3	چنین	چنین	PRON	PR_DEMON	Number=Sing	4	nsubj	_	_
 4	آمده	آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=آمد#آ
-5	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	4	aux	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	4	aux	_	OrigLemma=#است
 6	که	که	SCONJ	SUBR	_	20	mark	_	_
 7	خسرو	خسرو	PROPN	N_ANM	Number=Sing	20	nsubj	_	_
 8	انوشیروان	انوشیروان	PROPN	N_ANM	Number=Sing	7	flat:name	_	_
@@ -24216,7 +24216,7 @@
 # text = وکیل مجاز است اختیارات وکالتی خود را محدود سازد مشروط بر آنکه محدودسازی اختیارات معقول باشد و موکل نیز رضایت خود را در این زمینه اعلام داشته باشد.
 1	وکیل	وکیل	NOUN	N_ANM	Number=Sing	2	nsubj	_	_
 2	مجاز	مجاز	ADJ	ADJ_AJP	_	0	root	_	_
-3	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 4	اختیارات	اختیار	NOUN	N_IANM	Number=Plur	9	obj	_	_
 5	وکالتی	وکالتی	ADJ	ADJ_AJP	_	4	amod	_	_
 6	خود	خود	PRON	PR_CREFX	_	4	nmod	_	_
@@ -24428,7 +24428,7 @@
 # text = این مردی است که به جوار جد من التجا کرده است.
 1	این	این	DET	PREM_DEMAJ	_	2	det	_	_
 2	مردی	مرد	NOUN	N_ANM	Number=Sing	0	root	_	_
-3	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 4	که	که	SCONJ	SUBR	_	10	mark	_	_
 5	به	به	ADP	PREP	_	6	case	_	_
 6	جوار	جوار	NOUN	N_IANM	Number=Sing	10	obl:arg	_	_
@@ -24436,7 +24436,7 @@
 8	من	من	PRON	PR_SEPER	Number=Sing|Person=1	7	nmod	_	_
 9	التجا	التجا	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
 10	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	2	acl	_	OrigLemma=کرد#کن
-11	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	SpaceAfter=No
+11	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	OrigLemma=#است|SpaceAfter=No
 12	.	.	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = test-s1246
@@ -24485,7 +24485,7 @@
 4	و	و	CCONJ	CONJ	_	5	cc	_	_
 5-6	شیرین‌زبانند	_	_	_	_	_	_	_	_
 5	شیرین‌زبان	شیرین‌زبان	ADJ	ADJ_AJP	_	3	conj	_	_
-6	ند	#هست	AUX	AUX	Number=Plur|Person=3	3	cop	_	_
+6	ند	هست	AUX	AUX	Number=Plur|Person=3	3	cop	_	OrigLemma=#هست
 7	که	که	SCONJ	SUBR	_	14	mark	_	_
 8	هیچ	هیچ	DET	PREM_AMBAJ	_	9	det	_	_
 9	کس	کس	NOUN	N_ANM	Number=Sing	14	nsubj	_	_
@@ -24502,7 +24502,7 @@
 1	تنها	تنها	ADV	ADV_SADV	_	2	advmod	_	_
 2	گذر	گذر	NOUN	N_IANM	Number=Sing	0	root	_	_
 3	زمان	زمان	NOUN	N_IANM	Number=Sing	2	nmod	_	_
-4	است	#است	AUX	AUX	Number=Sing|Person=3	2	cop	_	_
+4	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
 5	که	که	SCONJ	SUBR	_	2	csubj	_	_
 6	شعر	شعر	NOUN	N_IANM	Number=Sing	13	obj	_	_
 7	خوب	خوب	ADJ	ADJ_AJP	_	6	amod	_	_
@@ -24517,7 +24517,7 @@
 # sent_id = test-s1250
 # text = چگونه می‌توان دانش‌آموزان را خلاق بار آورد؟
 1	چگونه	چگونه	ADV	ADV_SADV	_	7	advmod	_	_
-2	می‌توان	#توان	AUX	V_MODL	_	7	aux	_	_
+2	می‌توان	توان	AUX	V_MODL	_	7	aux	_	OrigLemma=#توان
 3	دانش‌آموزان	دانش‌آموز	NOUN	N_ANM	Number=Plur	7	obj	_	_
 4	را	را	ADP	POSTP	_	3	case	_	_
 5	خلاق	خلاق	ADJ	ADJ_AJP	_	7	obl:arg	_	_
@@ -24528,7 +24528,7 @@
 # sent_id = test-s1251
 # text = چگونه می‌توان از خشونت دوری جست؟
 1	چگونه	چگونه	ADV	ADV_SADV	_	6	advmod	_	_
-2	می‌توان	#توان	AUX	V_MODL	_	6	aux	_	_
+2	می‌توان	توان	AUX	V_MODL	_	6	aux	_	OrigLemma=#توان
 3	از	از	ADP	PREP	_	4	case	_	_
 4	خشونت	خشونت	NOUN	N_IANM	Number=Sing	6	obl:arg	_	_
 5	دوری	دوری	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	_
@@ -24558,7 +24558,7 @@
 5	،	،	PUNCT	PUNC	_	4	punct	_	_
 6	پنتاگون	پنتاگون	PROPN	N_IANM	Number=Sing	7	nsubj	_	_
 7	حاضر	حاضر	ADJ	ADJ_AJP	_	0	root	_	_
-8	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	7	cop	_	_
+8	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	7	cop	_	OrigLemma=#هست
 9	از	از	ADP	PREP	_	11	case	_	_
 10	هیچ	هیچ	DET	PREM_AMBAJ	_	11	det	_	_
 11	کاری	کار	NOUN	N_IANM	Number=Sing	13	obl:arg	_	_
@@ -24636,7 +24636,7 @@
 3	مجاورت	مجاورت	NOUN	N_IANM	Number=Sing	8	obl	_	_
 4	هوا	هوا	NOUN	N_IANM	Number=Sing	3	nmod	_	_
 5	ممکن	ممکن	ADJ	ADJ_AJP	_	0	root	_	_
-6	است	#است	AUX	AUX	Number=Sing|Person=3	5	cop	_	_
+6	است	است	AUX	AUX	Number=Sing|Person=3	5	cop	_	OrigLemma=#است
 7	قارچ	قارچ	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
 8	بزند	زد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	5	ccomp	_	OrigLemma=زد#زن|SpaceAfter=No
 9	.	.	PUNCT	PUNC	_	8	punct	_	_
@@ -24777,7 +24777,7 @@
 3	،	،	PUNCT	PUNC	_	2	punct	_	_
 4	باعث	باعث	ADJ	ADJ_AJP	_	5	xcomp	_	_
 5	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=شد#شو
-6	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	_
+6	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	5	aux	_	OrigLemma=#است
 7	تا	تا	SCONJ	SUBR	_	9	mark	_	_
 8	انسان	انسان	NOUN	N_ANM	Number=Sing	9	nsubj	_	_
 9	بتواند	توانست	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	4	ccomp	_	OrigLemma=توانست#توان|SpaceAfter=No
@@ -24998,7 +24998,7 @@
 4	فیلم‌ها	فیلم	NOUN	N_IANM	Number=Plur	6	obl:arg	_	_
 5	بازیگری	بازیگری	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	_
 6	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-7	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	6	aux	_	SpaceAfter=No
+7	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	6	aux	_	OrigLemma=#است|SpaceAfter=No
 8	.	.	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = test-s1276
@@ -25047,7 +25047,7 @@
 1	خواهش	خواهش	NOUN	N_IANM	Number=Sing	3	nsubj	_	_
 2	من	من	PRON	PR_SEPER	Number=Sing|Person=1	1	nmod	_	_
 3	این	این	PRON	PR_DEMON	Number=Sing	0	root	_	_
-4	است	#است	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+4	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است
 5	که	که	SCONJ	SUBR	_	8	mark	_	_
 6	دوستان	دوست	NOUN	N_ANM	Number=Plur	8	nsubj	_	_
 7	بزرگواری	بزرگواری	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
@@ -25203,7 +25203,7 @@
 7	ع	ع	NOUN	N_IANM	Number=Sing	5	obl	_	SpaceAfter=No
 8	)	)	PUNCT	PUNC	_	7	punct	_	_
 9	فردی	فرد	NOUN	N_ANM	Number=Sing	0	root	_	_
-10	است	#است	AUX	AUX	Number=Sing|Person=3	9	cop	_	_
+10	است	است	AUX	AUX	Number=Sing|Person=3	9	cop	_	OrigLemma=#است
 11	با	با	ADP	PREP	_	12	case	_	_
 12	نام	نام	NOUN	N_IANM	Number=Sing	9	nmod	_	_
 13	عثمان	عثمان	PROPN	N_ANM	Number=Sing	12	nmod	_	_
@@ -25331,7 +25331,7 @@
 19	آن	آن	PRON	PR_DEMON	Number=Sing	21	nsubj	_	_
 20	هم	هم	ADV	ADV_SADV	_	19	dep	_	_
 21	کره‌ای	کره‌ای	ADJ	ADJ_AJP	_	17	acl	_	_
-22	است	#است	AUX	AUX	Number=Sing|Person=3	21	cop	_	_
+22	است	است	AUX	AUX	Number=Sing|Person=3	21	cop	_	OrigLemma=#است
 23	سبقت	سبقت	NOUN	N_IANM	Number=Sing	24	compound:lvc	_	_
 24	بجوید	جست	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	8	ccomp	_	OrigLemma=جست#جو|SpaceAfter=No
 25	.	.	PUNCT	PUNC	_	8	punct	_	_
@@ -25345,7 +25345,7 @@
 5	ایران	ایران	PROPN	N_IANM	Number=Sing	7	obl:arg	_	_
 6	وارد	وارد	ADJ	ADJ_AJP	_	7	compound:lvc	_	_
 7	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=شد#شو
-8	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No
+8	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	OrigLemma=#است|SpaceAfter=No
 9	؟	؟	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = test-s1291
@@ -25415,7 +25415,7 @@
 3	دیگر	دیگر	ADJ	ADJ_AJP	_	1	amod	_	_
 4-5	اینست	_	_	_	_	_	_	_	_
 4	این	این	PRON	PR_DEMON	Number=Sing	0	root	_	_
-5	ست	#است	AUX	AUX	Number=Sing|Person=3	4	cop	_	_
+5	ست	است	AUX	AUX	Number=Sing|Person=3	4	cop	_	OrigLemma=#است
 6	که	که	SCONJ	SUBR	_	4	acl	_	_
 7	غشا	غشا	NOUN	N_IANM	Number=Sing	17	nsubj	_	_
 8	پلاسمایی	پلاسمایی	ADJ	ADJ_AJP	_	7	amod	_	_
@@ -25616,7 +25616,7 @@
 7	را	را	ADP	POSTP	_	5	case	_	_
 8	بادکش	بادکش	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	_
 9	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-10	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	SpaceAfter=No
+10	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	OrigLemma=#است|SpaceAfter=No
 11	.	.	PUNCT	PUNC	_	9	punct	_	_
 
 # sent_id = test-s1305
@@ -25925,7 +25925,7 @@
 7	فرد	فرد	NOUN	N_ANM	Number=Sing	5	obl:arg	_	_
 8	از	از	ADP	PREP	_	9	case	_	_
 9	دیگران	دیگری	NOUN	N_ANM	Number=Plur	5	obl:arg	_	_
-10	است	#است	AUX	AUX	Number=Sing|Person=3	5	cop	_	_
+10	است	است	AUX	AUX	Number=Sing|Person=3	5	cop	_	OrigLemma=#است
 11	صفات	صفت	NOUN	N_IANM	Number=Plur	24	nsubj	_	_
 12	و	و	CCONJ	CONJ	_	13	cc	_	_
 13	ویژگی‌های	ویژگی	NOUN	N_IANM	Number=Plur	11	conj	_	_
@@ -26127,9 +26127,9 @@
 14	در	در	ADP	PREP	_	15	case	_	_
 15	مسند	مسند	NOUN	N_IANM	Number=Sing	12	ccomp	_	_
 16	قدرت	قدرت	NOUN	N_IANM	Number=Sing	15	nmod	_	_
-17	است	#است	AUX	AUX	Number=Sing|Person=3	15	cop	_	SpaceAfter=No
+17	است	است	AUX	AUX	Number=Sing|Person=3	15	cop	_	OrigLemma=#است|SpaceAfter=No
 18	،	،	PUNCT	PUNC	_	15	punct	_	_
-19	نمی‌توان	#توان	AUX	V_MODL	Polarity=Neg	25	aux	_	_
+19	نمی‌توان	توان	AUX	V_MODL	Polarity=Neg	25	aux	_	OrigLemma=#توان
 20	در	در	ADP	PREP	_	21	case	_	_
 21	امور	امر	NOUN	N_IANM	Number=Plur	25	obl:arg	_	_
 22	داخلی	داخلی	ADJ	ADJ_AJP	_	21	amod	_	_
@@ -26268,7 +26268,7 @@
 27	پژوهشگران	پژوهشگر	NOUN	N_ANM	Number=Plur	29	obl	_	_
 28	مقاله‌نویسی	مقاله‌نویسی	NOUN	N_IANM	Number=Sing	29	compound:lvc	_	_
 29	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	19	conj	_	OrigLemma=شد#شو
-30	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	29	aux	_	SpaceAfter=No
+30	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	29	aux	_	OrigLemma=#است|SpaceAfter=No
 31	.	.	PUNCT	PUNC	_	29	punct	_	_
 
 # sent_id = test-s1340
@@ -26427,16 +26427,16 @@
 2	خوب	خوب	ADJ	ADJ_AJP	_	1	amod	_	_
 3	پلاستیک‌ها	پلاستیک	NOUN	N_IANM	Number=Plur	1	nmod	_	_
 4	ملامین‌ها	ملامین	NOUN	N_IANM	Number=Plur	0	root	_	_
-5	هستند	#هست	AUX	AUX	Number=Plur|Person=3	4	cop	_	_
+5	هستند	هست	AUX	AUX	Number=Plur|Person=3	4	cop	_	OrigLemma=#هست
 6	که	که	SCONJ	SUBR	_	4	acl	_	_
 7	سخت‌تر	سخت	ADJ	ADJ_AJCM	_	6	acl	_	_
 8	و	و	CCONJ	CONJ	_	9	cc	_	_
 9	مقاوم‌تر	مقاوم	ADJ	ADJ_AJCM	_	7	conj	_	_
-10	ند	#هست	AUX	AUX	Number=Plur|Person=3	7	cop	_	_
+10	ند	هست	AUX	AUX	Number=Plur|Person=3	7	cop	_	OrigLemma=#هست
 11	و	و	CCONJ	CONJ	_	20	cc	_	_
 12	آن‌ها	آنها	PRON	PR_DEMON	Number=Plur	20	obj	_	_
 13	را	را	ADP	POSTP	_	12	case	_	_
-14	می‌توان	#توان	AUX	V_MODL	_	20	aux	_	_
+14	می‌توان	توان	AUX	V_MODL	_	20	aux	_	OrigLemma=#توان
 15	با	با	ADP	PREP	_	16	case	_	_
 16	آب	آب	NOUN	N_IANM	Number=Sing	20	obl	_	_
 17	داغ	داغ	ADJ	ADJ_AJP	_	16	amod	_	_
@@ -26510,7 +26510,7 @@
 8	بیشتر	بیش	ADJ	ADJ_AJCM	_	9	advmod	_	_
 9	مستعد	مستعد	ADJ	ADJ_AJP	_	7	acl	_	_
 10	انعقاد	انعقاد	NOUN	N_IANM	Number=Sing	9	obl:arg	_	_
-11	هستند	#هست	AUX	AUX	Number=Plur|Person=3	9	cop	_	_
+11	هستند	هست	AUX	AUX	Number=Plur|Person=3	9	cop	_	OrigLemma=#هست
 12	و	و	CCONJ	CONJ	_	17	cc	_	_
 13	مشکل‌تر	مشکل	ADJ	ADJ_AJCM	_	17	advmod	_	_
 14	به	به	ADP	PREP	_	15	case	_	_
@@ -26624,7 +26624,7 @@
 2	به	به	ADP	PREP	_	3	case	_	_
 3	حدی	حد	NOUN	N_IANM	Number=Sing	4	obl	_	_
 4	زیاد	زیاد	ADJ	ADJ_AJP	_	0	root	_	_
-5	است	#است	AUX	AUX	Number=Sing|Person=3	4	cop	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3	4	cop	_	OrigLemma=#است
 6	که	که	SCONJ	SUBR	_	3	acl	_	_
 7	بسیاری	بسیاری	NOUN	N_IANM	Number=Plur	10	nsubj	_	_
 8	از	از	ADP	PREP	_	9	case	_	_
@@ -26632,7 +26632,7 @@
 10	پوشیده	پوشیده	ADJ	ADJ_AJP	_	6	acl	_	_
 11	از	از	ADP	PREP	_	12	case	_	_
 12	برف	برف	NOUN	N_IANM	Number=Sing	10	obl:arg	_	_
-13	است	#است	AUX	AUX	Number=Sing|Person=3	10	cop	_	_
+13	است	است	AUX	AUX	Number=Sing|Person=3	10	cop	_	OrigLemma=#است
 14	و	و	CCONJ	CONJ	_	27	cc	_	_
 15	لودر	لودر	NOUN	N_IANM	Number=Sing	27	nsubj	_	_
 16	و	و	CCONJ	CONJ	_	17	cc	_	_
@@ -26689,7 +26689,7 @@
 8	بگذاریم	گذاشت	VERB	V_ACT	Number=Plur|Person=1|Voice=Act	3	acl	_	OrigLemma=گذاشت#گذار|SpaceAfter=No
 9	،	،	PUNCT	PUNC	_	8	punct	_	_
 10	بهتر	به	ADJ	ADJ_AJCM	_	0	root	_	_
-11	است	#است	AUX	AUX	Number=Sing|Person=3	10	cop	_	_
+11	است	است	AUX	AUX	Number=Sing|Person=3	10	cop	_	OrigLemma=#است
 12	دست	دست	NOUN	N_IANM	Number=Sing	15	xcomp	_	_
 13	به	به	ADP	PREP	_	14	case	_	_
 14	کار	کار	NOUN	N_IANM	Number=Sing	12	nmod	_	_
@@ -26731,7 +26731,7 @@
 17	انتزاع	انتزاع	NOUN	N_IANM	Number=Sing	18	compound:lvc	_	_
 18	می‌کنند	کرد	VERB	V_ACT	Number=Plur|Person=3|Tense=Pres|Voice=Act	5	acl	_	OrigLemma=کرد#کن|SpaceAfter=No
 19	،	،	PUNCT	PUNC	_	18	punct	_	_
-20	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	4	cop	_	SpaceAfter=No
+20	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	4	cop	_	OrigLemma=#هست|SpaceAfter=No
 21	.	.	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = test-s1366
@@ -26753,7 +26753,7 @@
 15	استراق	استراق	NOUN	N_IANM	Number=Sing	17	compound:lvc	_	_
 16	سمع	سمع	NOUN	N_IANM	Number=Sing	15	nmod	_	_
 17	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-18	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	17	aux	_	SpaceAfter=No
+18	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	17	aux	_	OrigLemma=#است|SpaceAfter=No
 19	.	.	PUNCT	PUNC	_	17	punct	_	_
 
 # sent_id = test-s1367
@@ -26789,7 +26789,7 @@
 29	،	،	PUNCT	PUNC	_	28	punct	_	_
 30	و	و	CCONJ	CONJ	_	31	cc	_	_
 31	مشرک	مشرک	ADJ	ADJ_AJP	_	26	conj	_	_
-32	است	#است	AUX	AUX	Number=Sing|Person=3	26	cop	_	SpaceAfter=No
+32	است	است	AUX	AUX	Number=Sing|Person=3	26	cop	_	OrigLemma=#است|SpaceAfter=No
 33	.	.	PUNCT	PUNC	_	26	punct	_	_
 
 # sent_id = test-s1368
@@ -26837,7 +26837,7 @@
 25	را	را	ADP	POSTP	_	21	case	_	_
 26	امضا	امضا	NOUN	N_IANM	Number=Sing	27	compound:lvc	_	_
 27	زده	زد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	18	conj	_	OrigLemma=زد#زن
-28	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	27	aux	_	SpaceAfter=No
+28	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	27	aux	_	OrigLemma=#است|SpaceAfter=No
 29	.	.	PUNCT	PUNC	_	27	punct	_	_
 
 # sent_id = test-s1370
@@ -26846,14 +26846,14 @@
 2	چند	چند	DET	PREM_AMBAJ	_	3	det	_	_
 3	مورد	مورد	NOUN	N_IANM	Number=Sing	4	obl	_	_
 4	مستحب	مستحب	ADJ	ADJ_AJP	_	0	root	_	_
-5	است	#است	AUX	AUX	Number=Sing|Person=3	4	cop	_	_
+5	است	است	AUX	AUX	Number=Sing|Person=3	4	cop	_	OrigLemma=#است
 6	انسان	انسان	NOUN	N_ANM	Number=Sing	14	nsubj	_	_
 7	در	در	ADP	PREP	_	8	case	_	_
 8	ماه	ماه	NOUN	N_IANM	Number=Sing	14	obl	_	_
 9	رمضان	رمضان	NOUN	N_IANM	Number=Sing	8	nmod	_	_
 10	اگرچه	اگرچه	SCONJ	SUBR	_	11	mark	_	_
 11	روزه	روزه	NOUN	N_IANM	Number=Sing	14	advcl	_	_
-12	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	11	cop	_	_
+12	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	11	cop	_	OrigLemma=#هست
 13	امساک	امساک	NOUN	N_IANM	Number=Sing	14	compound:lvc	_	_
 14	کند	کرد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	4	csubj	_	OrigLemma=کرد#کن|SpaceAfter=No
 15	.	.	PUNCT	PUNC	_	4	punct	_	_
@@ -27015,7 +27015,7 @@
 7	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2	9	obl	_	_
 8	حلال	حلال	ADJ	ADJ_AJP	_	9	xcomp	_	_
 9	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=شد#شو
-10	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	_
+10	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	9	aux	_	OrigLemma=#است
 11	تا	تا	SCONJ	SUBR	_	17	mark	_	_
 12	برای	برای	ADP	PREP	_	13	case	_	_
 13	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2	16	nmod	_	_
@@ -27034,7 +27034,7 @@
 26	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2	27	obl:arg	_	_
 27	حرام	حرام	ADJ	ADJ_AJP	_	28	xcomp	_	_
 28	گردیده	گردید	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	9	conj	_	OrigLemma=گردید#گرد
-29	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	28	aux	_	SpaceAfter=No
+29	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	28	aux	_	OrigLemma=#است|SpaceAfter=No
 30	.	.	PUNCT	PUNC	_	28	punct	_	_
 
 # sent_id = test-s1377
@@ -27298,7 +27298,7 @@
 2	یک	یک	NUM	PRENUM	_	3	nummod	_	_
 3-4	انسانی	_	_	_	_	_	_	_	_
 3	انسان	انسان	NOUN	N_ANM	Number=Sing	0	root	_	_
-4	ی	#هست	AUX	AUX	Number=Sing|Person=3	3	cop	_	_
+4	ی	هست	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#هست
 5	و	و	CCONJ	CONJ	_	13	cc	_	_
 6	با	با	ADP	PREP	_	7	case	_	_
 7	ارادهٔ	اراده	NOUN	N_IANM	Number=Sing	13	obl	_	_
@@ -27417,7 +27417,7 @@
 19	لزوم	لزوم	NOUN	N_IANM	Number=Sing	21	compound:lvc	_	_
 20	پیدا	پیدا	ADJ	ADJ_AJP	_	21	compound:lvc	_	_
 21	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	8	conj	_	OrigLemma=کرد#کن
-22	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	21	aux	_	SpaceAfter=No
+22	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	21	aux	_	OrigLemma=#است|SpaceAfter=No
 23	.	.	PUNCT	PUNC	_	21	punct	_	_
 
 # sent_id = test-s1397
@@ -27556,7 +27556,7 @@
 18	وقوع	وقوع	NOUN	N_IANM	Number=Sing	20	compound:lvc	_	_
 19	پیدا	پیدا	ADJ	ADJ_AJP	_	20	compound:lvc	_	_
 20	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	9	ccomp	_	OrigLemma=کرد#کن
-21	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	20	aux	_	_
+21	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	20	aux	_	OrigLemma=#است
 22	و	و	CCONJ	CONJ	_	32	cc	_	_
 23	اگر	اگر	SCONJ	SUBR	_	30	mark	_	_
 24-25	وجودش	_	_	_	_	_	_	_	_
@@ -27571,7 +27571,7 @@
 32	واقعیت	واقعیت	NOUN	N_IANM	Number=Sing	20	conj	_	_
 33	و	و	CCONJ	CONJ	_	34	cc	_	_
 34	واقع	واقع	NOUN	N_IANM	Number=Sing	32	conj	_	_
-35	است	#است	AUX	AUX	Number=Sing|Person=3	32	cop	_	SpaceAfter=No
+35	است	است	AUX	AUX	Number=Sing|Person=3	32	cop	_	OrigLemma=#است|SpaceAfter=No
 36	.	.	PUNCT	PUNC	_	9	punct	_	_
 
 # sent_id = test-s1404
@@ -27584,7 +27584,7 @@
 6	ولادت	ولادت	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
 7	پیدا	پیدا	ADJ	ADJ_AJP	_	8	compound:lvc	_	_
 8	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-9	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	SpaceAfter=No
+9	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	OrigLemma=#است|SpaceAfter=No
 10	.	.	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = test-s1405
@@ -27859,7 +27859,7 @@
 4	به	به	ADP	PREP	_	5	case	_	_
 5	موضوع	موضوع	NOUN	N_IANM	Number=Sing	3	nmod	_	_
 6	این	این	PRON	PR_DEMON	Number=Sing	0	root	_	_
-7	است	#است	AUX	AUX	Number=Sing|Person=3	6	cop	_	_
+7	است	است	AUX	AUX	Number=Sing|Person=3	6	cop	_	OrigLemma=#است
 8	که	که	SCONJ	SUBR	_	9	mark	_	_
 9	بگوییم	گفت	VERB	V_ACT	Number=Plur|Person=1|Voice=Act	6	acl	_	OrigLemma=گفت#گو
 10	این	این	DET	PREM_DEMAJ	_	11	det	_	_
@@ -28111,7 +28111,7 @@
 6	بهتر	به	ADJ	ADJ_AJCM	_	8	advmod	_	_
 7	انعکاس	انعکاس	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
 8	داده	داد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=داد#ده
-9	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	SpaceAfter=No
+9	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	OrigLemma=#است|SpaceAfter=No
 10	؟	؟	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = test-s1427
@@ -28127,7 +28127,7 @@
 9	کند	کرد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	11	advcl	_	OrigLemma=کرد#کن
 10	نیز	نیز	ADV	ADV_SADV	_	8	dep	_	_
 11	جوان	جوان	ADJ	ADJ_AJP	_	0	root	_	_
-12	است	#است	AUX	AUX	Number=Sing|Person=3	11	cop	_	_
+12	است	است	AUX	AUX	Number=Sing|Person=3	11	cop	_	OrigLemma=#است
 13	ولی	ولی	CCONJ	CONJ	_	21	cc	_	_
 14	جوان	جوان	NOUN	N_ANM	Number=Sing	21	nsubj	_	_
 15	25	25	NUM	PRENUM	_	16	nummod	_	_
@@ -28137,7 +28137,7 @@
 19	یا	یا	CCONJ	CONJ	_	17	conj	_	_
 20	بوشهری	بوشهری	ADJ	ADJ_AJP	_	19	advmod	_	_
 21	جوان	جوان	ADJ	ADJ_AJP	_	11	conj	_	_
-22	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	21	cop	_	SpaceAfter=No
+22	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	21	cop	_	OrigLemma=#هست|SpaceAfter=No
 23	.	.	PUNCT	PUNC	_	21	punct	_	_
 
 # sent_id = test-s1428
@@ -28268,13 +28268,13 @@
 7	که	که	SCONJ	SUBR	_	6	advcl	_	_
 8	جانستان	جانستان	NOUN	N_IANM	Number=Sing	9	nsubj	_	_
 9	غلط	غلط	ADJ	ADJ_AJP	_	7	advcl	_	_
-10	است	#است	AUX	AUX	Number=Sing|Person=3	9	cop	_	_
+10	است	است	AUX	AUX	Number=Sing|Person=3	9	cop	_	OrigLemma=#است
 11	و	و	CCONJ	CONJ	_	14	cc	_	_
 12-13	درستش	_	_	_	_	_	_	_	_
 12	درست	درست	ADJ	ADJ_AJP	_	14	nsubj	_	_
 13	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
 14	جان‌ستان	جان‌ستان	NOUN	N_IANM	Number=Sing	9	conj	_	_
-15	است	#است	AUX	AUX	Number=Sing|Person=3	14	cop	_	SpaceAfter=No
+15	است	است	AUX	AUX	Number=Sing|Person=3	14	cop	_	OrigLemma=#است|SpaceAfter=No
 16	.	.	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = test-s1433
@@ -28323,7 +28323,7 @@
 17	،	،	PUNCT	PUNC	_	16	punct	_	_
 18	بسیار	بسیار	ADV	ADV_SADV	_	19	advmod	_	_
 19	طبیعی	طبیعی	ADJ	ADJ_AJP	_	4	conj	_	_
-20	است	#است	AUX	AUX	Number=Sing|Person=3	19	cop	_	_
+20	است	است	AUX	AUX	Number=Sing|Person=3	19	cop	_	OrigLemma=#است
 21	که	که	SCONJ	SUBR	_	19	csubj	_	_
 22	ذهن	ذهن	NOUN	N_IANM	Number=Sing	23	nsubj	_	_
 23	بتواند	توانست	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	21	ccomp	_	OrigLemma=توانست#توان
@@ -28421,7 +28421,7 @@
 3	وقتی	وقت	NOUN	N_IANM	Number=Sing	6	obl	_	_
 4	علی	علی	PROPN	N_ANM	Number=Sing	1	conj	_	_
 5	دایی	دایی	PROPN	N_ANM	Number=Sing	4	flat:name	_	_
-6	است	#است	AUX	AUX	Number=Sing|Person=3	0	root	_	_
+6	است	است	AUX	AUX	Number=Sing|Person=3	0	root	_	OrigLemma=#است
 7	که	که	SCONJ	SUBR	_	3	acl	_	_
 8	گاهی	گاه	NOUN	N_IANM	Number=Sing	10	obl	_	_
 9	یکدندگی	یکدندگی	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
@@ -28447,7 +28447,7 @@
 7	از	از	ADP	PREP	_	9	case	_	_
 8	یک	یک	NUM	PRENUM	_	9	nummod	_	_
 9	نژاد	نژاد	NOUN	N_IANM	Number=Sing	5	obl	_	_
-10	هستند	#هست	AUX	AUX	Number=Plur|Person=3	5	cop	_	SpaceAfter=No
+10	هستند	هست	AUX	AUX	Number=Plur|Person=3	5	cop	_	OrigLemma=#هست|SpaceAfter=No
 11	،	،	PUNCT	PUNC	_	5	punct	_	_
 12	به	به	ADP	PREP	_	13	case	_	_
 13	انگیزهٔ	انگیزه	NOUN	N_IANM	Number=Sing	22	obl	_	_
@@ -28475,7 +28475,7 @@
 8	چه	چه	DET	PREM_QUAJ	_	9	det	_	_
 9	اتفاقی	اتفاق	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
 10	افتاده	افتاد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=افتاد#افت
-11	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	_
+11	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	10	aux	_	OrigLemma=#است
 12	که	که	SCONJ	SUBR	_	10	advcl	_	_
 13	دین	دین	NOUN	N_IANM	Number=Sing	20	nsubj	_	_
 14	اکمال	اکمال	NOUN	N_IANM	Number=Sing	20	obj	_	_
@@ -28709,10 +28709,10 @@
 6	انعکاس	انعکاس	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
 7	پیدا	پیدا	ADJ	ADJ_AJP	_	8	compound:lvc	_	_
 8	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	OrigLemma=کرد#کن
-9	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	_
+9	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	8	aux	_	OrigLemma=#است
 10	قابل	قابل	ADJ	ADJ_AJP	_	0	root	_	_
 11	دفاع	دفاع	NOUN	N_IANM	Number=Sing	10	obl:arg	_	_
-12	نیست	#هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	10	cop	_	_
+12	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	10	cop	_	OrigLemma=#هست
 13	و	و	CCONJ	CONJ	_	24	cc	_	_
 14	شاید	شاید	ADV	ADV_SADV	_	24	advmod	_	_
 15	با	با	ADP	PREP	_	16	case	_	_
@@ -28722,7 +28722,7 @@
 19	دل	دل	NOUN	N_IANM	Number=Sing	21	obl	_	_
 20	ایشان	ایشان	PRON	PR_SEPER	Number=Plur|Person=3	19	nmod	_	_
 21	گذشته	گذشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	16	acl	_	OrigLemma=گذشت#گذر
-22	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	21	aux	_	SpaceAfter=No
+22	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	21	aux	_	OrigLemma=#است|SpaceAfter=No
 23	،	،	PUNCT	PUNC	_	21	punct	_	_
 24	متفاوت	متفاوت	ADJ	ADJ_AJP	_	10	conj	_	_
 25	باشد	بود	AUX	AUX	Number=Sing|Person=3	24	cop	_	OrigLemma=بود#باش|SpaceAfter=No
@@ -28766,7 +28766,7 @@
 9	خشکی	خشکی	NOUN	N_IANM	Number=Sing	5	conj	_	_
 10	پوست	پوست	NOUN	N_IANM	Number=Sing	5	nmod	_	_
 11	همراه	همراه	ADJ	ADJ_AJP	_	1	acl	_	_
-12	است	#است	AUX	AUX	Number=Sing|Person=3	11	cop	_	_
+12	است	است	AUX	AUX	Number=Sing|Person=3	11	cop	_	OrigLemma=#است
 13	با	با	ADP	PREP	_	14	case	_	_
 14	مصرف	مصرف	NOUN	N_IANM	Number=Sing	18	obl	_	_
 15	بابونه	بابونه	NOUN	N_IANM	Number=Sing	14	nmod	_	_
@@ -28789,6 +28789,6 @@
 10	پیدایش	پیدایش	NOUN	N_IANM	Number=Sing	12	obj	_	_
 11	پیدا	پیدا	ADJ	ADJ_AJP	_	12	compound:lvc	_	_
 12	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن
-13	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	12	aux	_	SpaceAfter=No
+13	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	12	aux	_	OrigLemma=#است|SpaceAfter=No
 14	.	.	PUNCT	PUNC	_	12	punct	_	_
 
