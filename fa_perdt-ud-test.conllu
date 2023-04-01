@@ -345,7 +345,7 @@
 3	که	که	SCONJ	SUBR	_	7	mark	_	_
 4	چنین	چنین	DET	PREM_DEMAJ	_	5	det	_	_
 5	گام‌هایی	گام	NOUN	N_IANM	Number=Plur	7	obj	_	_
-6	برداشته	بر#داشت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	7	xcomp	_	OrigLemma=بر#داشت#دار
+6	برداشته	داشت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	7	xcomp	_	OrigLemma=بر#داشت
 7	نشود	شد	VERB	AUX	Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	2	acl	_	OrigLemma=شد#شو|SpaceAfter=No
 8	،	،	PUNCT	PUNC	_	7	punct	_	_
 9	توسعهٔ	توسعه	NOUN	N_IANM	Number=Sing	13	nsubj	_	_
@@ -3526,7 +3526,7 @@
 16	این	این	DET	PREM_DEMAJ	_	17	det	_	_
 17	زمانه	زمانه	NOUN	N_IANM	Number=Sing	19	obl:arg	_	_
 18	سر	سر	NOUN	N_IANM	Number=Sing	19	compound:lvc	_	_
-19	درآورده	در#آورد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	2	acl	_	OrigLemma=در#آورد#آور
+19	درآورده	آورد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	2	acl	_	OrigLemma=در#آورد
 20	بود	بود	AUX	AUX	Number=Sing|Person=3|Tense=Past	19	aux	_	OrigLemma=بود#باش|SpaceAfter=No
 21	.	.	PUNCT	PUNC	_	2	punct	_	_
 
@@ -5235,7 +5235,7 @@
 15	در	در	ADP	PREP	_	16	case	_	_
 16	اکثر	اکثر	NOUN	N_IANM	_	18	obl	_	_
 17	موارد	مورد	NOUN	N_IANM	Number=Plur	16	nmod	_	_
-18	فروریخته	فرو#ریخت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	OrigLemma=فرو#ریخت#ریز
+18	فروریخته	ریخت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	OrigLemma=فرو#ریخت
 19	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	18	aux	_	OrigLemma=#است
 20	و	و	CCONJ	CONJ	_	28	cc	_	_
 21	در	در	ADP	PREP	_	23	case	_	_
@@ -6761,7 +6761,7 @@
 8	قوانین	قانون	NOUN	N_IANM	Number=Plur	10	nmod	_	_
 9	مشابهی	مشابه	ADJ	ADJ_AJP	_	8	amod	_	_
 10	پرده	پرده	NOUN	N_IANM	Number=Sing	11	obj	_	_
-11	برداشت	بر#داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=بر#داشت#دار
+11	برداشت	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=بر#داشت
 12	که	که	SCONJ	SUBR	_	21	mark	_	_
 13	رفتار	رفتار	NOUN	N_IANM	Number=Sing	21	obj	_	_
 14	نور	نور	NOUN	N_IANM	Number=Sing	13	nmod	_	_
@@ -6932,7 +6932,7 @@
 2	را	را	ADP	POSTP	_	1	case	_	_
 3	یکی	یکی	NOUN	N_IANM	Number=Sing	5	obl	_	_
 4	یکی	یکی	NOUN	N_IANM	Number=Sing	3	obl	_	_
-5	برمی‌داشت	بر#داشت	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	OrigLemma=بر#داشت#دار|SpaceAfter=No
+5	برمی‌داشت	داشت	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	OrigLemma=بر#داشت|SpaceAfter=No
 6	،	،	PUNCT	PUNC	_	5	punct	_	_
 7	گل‌اندود	گل‌اندود	ADJ	ADJ_AJP	_	8	xcomp	_	_
 8	می‌کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	5	conj	_	OrigLemma=کرد#کن
@@ -7044,7 +7044,7 @@
 33	می‌کند	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	21	conj	_	OrigLemma=کرد#کن
 34	و	و	CCONJ	CONJ	_	36	cc	_	_
 35	خسارت	خسارت	NOUN	N_IANM	Number=Sing	36	obj	_	_
-36	برمی‌دارد	بر#داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	21	conj	_	OrigLemma=بر#داشت#دار|SpaceAfter=No
+36	برمی‌دارد	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	21	conj	_	OrigLemma=بر#داشت|SpaceAfter=No
 37	.	.	PUNCT	PUNC	_	16	punct	_	_
 
 # sent_id = test-s380
@@ -8373,7 +8373,7 @@
 1	چرا	چرا	ADV	ADV_SADV	_	3	advmod	_	_
 2	اینجا	اینجا	NOUN	N_IANM	Number=Sing	3	obl:arg	_	_
 3	نشسته‌اید	شست	VERB	V_ACT	Number=Plur|Person=2|Polarity=Neg|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=شست#شوی
-4	برخیزید	بر#خاست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	3	ccomp	_	OrigLemma=بر#خاست#خیز
+4	برخیزید	خاست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	3	ccomp	_	OrigLemma=بر#خاست
 5	و	و	CCONJ	CONJ	_	9	cc	_	_
 6	با	با	ADP	PREP	_	7	case	_	_
 7	من	من	PRON	PR_SEPER	Number=Sing|Person=1	9	obl	_	_
@@ -8753,7 +8753,7 @@
 7-8	صدایش	_	_	_	_	_	_	_	_
 7	صدا	صدا	NOUN	N_IANM	Number=Sing	9	nsubj	_	_
 8	یش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
-9	درمی‌آید	در#آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	OrigLemma=در#آمد#آ
+9	درمی‌آید	آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	OrigLemma=در#آمد
 10	و	و	CCONJ	CONJ	_	17	cc	_	_
 11	به	به	ADP	PREP	_	12	case	_	_
 12	قول	قول	NOUN	N_IANM	Number=Sing	17	obl	_	_
@@ -9763,7 +9763,7 @@
 15	زیرا	زیرا	SCONJ	SUBR	_	14	advcl	_	_
 16	مؤمن	مؤمن	NOUN	N_ANM	Number=Sing	18	nsubj	_	_
 17	توشه	توشه	NOUN	N_IANM	Number=Sing	18	obj	_	_
-18	برمی‌دارد	بر#داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	15	advcl	_	OrigLemma=بر#داشت#دار
+18	برمی‌دارد	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	15	advcl	_	OrigLemma=بر#داشت
 19	و	و	CCONJ	CONJ	_	22	cc	_	_
 20	کافر	کافر	NOUN	N_ANM	Number=Sing	22	nsubj	_	_
 21	خوش‌گذرانی	خوش‌گذرانی	NOUN	N_IANM	Number=Sing	22	compound:lvc	_	_
@@ -11430,7 +11430,7 @@
 22	بعدی	بعدی	ADJ	ADJ_AJP	_	21	amod	_	_
 23	رنگ	رنگ	NOUN	N_IANM	Number=Sing	25	xcomp	_	_
 24	مرده	مرده	ADJ	ADJ_AJP	_	23	amod	_	_
-25	درمی‌آید	در#آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	4	advcl	_	OrigLemma=در#آمد#آ|SpaceAfter=No
+25	درمی‌آید	آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	4	advcl	_	OrigLemma=در#آمد|SpaceAfter=No
 26	.	.	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = test-s598
@@ -13179,7 +13179,7 @@
 # sent_id = test-s682
 # text = روزگاری فرامی‌رسد که برای دیدن مهندس نادر لحظه‌شماری خواهید کرد.
 1	روزگاری	روزگار	NOUN	N_IANM	Number=Sing	2	nsubj	_	_
-2	فرامی‌رسد	فرا#رسید	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	OrigLemma=فرا#رسید#رس
+2	فرامی‌رسد	رسید	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	OrigLemma=فرا#رسید
 3	که	که	SCONJ	SUBR	_	10	mark	_	_
 4	برای	برای	ADP	PREP	_	5	case	_	_
 5	دیدن	دیدن	NOUN	N_IANM	Number=Sing	10	obl:arg	_	_
@@ -14323,7 +14323,7 @@
 7	حکومت‌های	حکومت	NOUN	N_IANM	Number=Plur	10	obj	_	_
 8	استبدادی	استبدادی	ADJ	ADJ_AJP	_	7	amod	_	_
 9	را	را	ADP	POSTP	_	7	case	_	_
-10	فراگرفته	فرا#گرفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=فرا#گرفت#گیر
+10	فراگرفته	گرفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=فرا#گرفت
 11	بود	بود	AUX	AUX	Number=Sing|Person=3|Tense=Past	10	aux	_	OrigLemma=بود#باش
 12	تمام	تمام	NOUN	N_IANM	Number=Plur	16	obj	_	_
 13	سایت‌ها	سایت	NOUN	N_IANM	Number=Plur	12	nmod	_	_
@@ -14528,13 +14528,13 @@
 
 # sent_id = test-s761
 # text = برخیزید، بلند شوید، قامت برافرازید و قیامت کنید.
-1	برخیزید	بر#خاست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	OrigLemma=بر#خاست#خیز|SpaceAfter=No
+1	برخیزید	خاست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	OrigLemma=بر#خاست|SpaceAfter=No
 2	،	،	PUNCT	PUNC	_	1	punct	_	_
 3	بلند	بلند	ADJ	ADJ_AJP	_	4	compound:lvc	_	_
 4	شوید	شد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	conj	_	OrigLemma=شد#شو|SpaceAfter=No
 5	،	،	PUNCT	PUNC	_	4	punct	_	_
 6	قامت	قامت	NOUN	N_IANM	Number=Sing	7	obj	_	_
-7	برافرازید	بر#افراشت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	conj	_	OrigLemma=بر#افراشت#افراز
+7	برافرازید	افراشت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	conj	_	OrigLemma=بر#افراشت
 8	و	و	CCONJ	CONJ	_	10	cc	_	_
 9	قیامت	قیامت	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
 10	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	conj	_	OrigLemma=کرد#کن|SpaceAfter=No
@@ -14590,7 +14590,7 @@
 17	از	از	ADP	PREP	_	18	case	_	_
 18	سپاه	سپاه	PROPN	N_ANM	Number=Sing	16	nmod	_	_
 19	معاویه	معاویه	PROPN	N_ANM	Number=Sing	18	flat:name	_	_
-20	فرامی‌خواند	فرا#خواند	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	OrigLemma=فرا#خواند#خوان|SpaceAfter=No
+20	فرامی‌خواند	خواند	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	OrigLemma=فرا#خواند|SpaceAfter=No
 21	،	،	PUNCT	PUNC	_	20	punct	_	_
 22	اما	اما	CCONJ	CONJ	_	26	cc	_	_
 23	مردم	مردم	NOUN	N_ANM	Number=Plur	26	nsubj	_	_
@@ -14673,7 +14673,7 @@
 6	با	با	ADP	PREP	_	7	case	_	_
 7	محبت	محبت	NOUN	N_IANM	Number=Sing	9	obl	_	_
 8	قدم	قدم	NOUN	N_IANM	Number=Sing	9	obj	_	_
-9	برداشت	بر#داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	5	conj	_	OrigLemma=بر#داشت#دار
+9	برداشت	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	5	conj	_	OrigLemma=بر#داشت
 10	به	به	ADP	PREP	_	11	case	_	_
 11	دشمن	دشمن	NOUN	N_ANM	Number=Sing	13	obl:arg	_	_
 12	مهر	مهر	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	_
@@ -15069,7 +15069,7 @@
 8	از	از	ADP	PREP	_	9	case	_	_
 9	نزد	نزد	NOUN	N_IANM	Number=Sing	11	obl:arg	_	_
 10	من	من	PRON	PR_SEPER	Number=Sing|Person=1	9	nmod	_	_
-11	برخیزید	بر#خاست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	5	ccomp	_	OrigLemma=بر#خاست#خیز
+11	برخیزید	خاست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	5	ccomp	_	OrigLemma=بر#خاست
 12	و	و	CCONJ	CONJ	_	14	cc	_	_
 13	دور	دور	ADJ	ADJ_AJP	_	14	xcomp	_	_
 14	شوید	شد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	11	conj	_	OrigLemma=شد#شو|SpaceAfter=No
@@ -15462,7 +15462,7 @@
 14	بهاری	بهاری	ADJ	ADJ_AJP	_	12	amod	_	_
 15	به	به	ADP	PREP	_	16	case	_	_
 16	رقص	رقص	NOUN	N_IANM	Number=Sing	17	obl:arg	_	_
-17	درنیامده	در#آمد	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|VerbForm=Part|Voice=Act	5	csubj	_	OrigLemma=در#آمد#آ|SpaceAfter=No
+17	درنیامده	آمد	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|VerbForm=Part|Voice=Act	5	csubj	_	OrigLemma=در#آمد|SpaceAfter=No
 18	،	،	PUNCT	PUNC	_	17	punct	_	_
 19	دوباره	دوباره	ADJ	ADJ_AJP	_	22	advmod	_	_
 20	آرام	آرام	ADJ	ADJ_AJP	_	22	compound:lvc	_	_
@@ -16279,7 +16279,7 @@
 3	با	با	ADP	PREP	_	4	case	_	_
 4	پیش‌بینی	پیش‌بینی	NOUN	N_IANM	Number=Sing	5	obl:arg	_	_
 5	منطبق	منطبق	ADJ	ADJ_AJP	_	6	xcomp	_	_
-6	درآمده	در#آمد	VERB	V_ACT	Number=Sing|Person=3|VerbForm=Part|Voice=Act	1	acl	_	OrigLemma=در#آمد#آ
+6	درآمده	آمد	VERB	V_ACT	Number=Sing|Person=3|VerbForm=Part|Voice=Act	1	acl	_	OrigLemma=در#آمد
 7	منصفانه	منصفانه	ADJ	ADJ_AJP	_	10	advmod	_	_
 8	گواهی	گواهی	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
 9	خواهیم	خواست	AUX	AUX	Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	10	aux	_	OrigLemma=خواست#خواه
@@ -17131,7 +17131,7 @@
 8	که	که	SCONJ	SUBR	_	7	acl	_	_
 9	علیه	علیه	ADP	PREP	_	10	case	_	_
 10	عثمان	عثمان	PROPN	N_ANM	Number=Sing	11	obl:arg	_	_
-11	برخاسته‌اند	بر#خاست	VERB	V_ACT	Number=Plur|Person=3|VerbForm=Part|Voice=Act	8	acl	_	OrigLemma=بر#خاست#خیز
+11	برخاسته‌اند	خاست	VERB	V_ACT	Number=Plur|Person=3|VerbForm=Part|Voice=Act	8	acl	_	OrigLemma=بر#خاست
 12	و	و	CCONJ	CONJ	_	14	cc	_	_
 13	جنبش	جنبش	NOUN	N_IANM	Number=Sing	14	compound:lvc	_	_
 14	کرده‌اند	کرد	VERB	V_ACT	Number=Plur|Person=3|VerbForm=Part|Voice=Act	11	conj	_	OrigLemma=کرد#کن
@@ -18040,7 +18040,7 @@
 25	کتف‌های	کتف	NOUN	N_IANM	Number=Plur	28	obl	_	_
 26	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	25	nmod	_	_
 27	سر	سر	NOUN	N_IANM	Number=Sing	28	compound:lvc	_	_
-28	برزده	بر#زد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	17	acl	_	OrigLemma=بر#زد#زن
+28	برزده	زد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	17	acl	_	OrigLemma=بر#زد
 29	بودند	بود	AUX	AUX	Number=Plur|Person=3|Tense=Past	28	aux	_	OrigLemma=بود#باش|SpaceAfter=No
 30	.	.	PUNCT	PUNC	_	3	punct	_	_
 
@@ -18125,7 +18125,7 @@
 4	غلط	غلط	ADJ	ADJ_AJP	_	7	obl:arg	_	_
 5	از	از	ADP	PREP	_	6	case	_	_
 6	آب	آب	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
-7	درآمده	در#آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=در#آمد#آ
+7	درآمده	آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=در#آمد
 8	بود	بود	AUX	AUX	Number=Sing|Person=3|Tense=Past	7	aux	_	OrigLemma=بود#باش|SpaceAfter=No
 9	.	.	PUNCT	PUNC	_	7	punct	_	_
 
@@ -19606,7 +19606,7 @@
 28	را	را	ADP	POSTP	_	26	case	_	_
 29	از	از	ADP	PREP	_	30	case	_	_
 30	پا	پا	NOUN	N_IANM	Number=Sing	31	compound:lvc	_	_
-31	درآورده	در#آورد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	19	ccomp	_	OrigLemma=در#آورد#آور
+31	درآورده	آورد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	19	ccomp	_	OrigLemma=در#آورد
 32	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	31	aux	_	OrigLemma=#است|SpaceAfter=No
 33	.	.	PUNCT	PUNC	_	5	punct	_	_
 
@@ -19640,7 +19640,7 @@
 25	و	و	CCONJ	CONJ	_	29	cc	_	_
 26	از	از	ADP	PREP	_	27	case	_	_
 27	پای	پای	NOUN	N_IANM	Number=Sing	29	compound:lvc	_	_
-28	درخواهد	در#خواست	AUX	AUX	Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	29	aux	_	OrigLemma=در#خواست#خواه
+28	درخواهد	خواست	AUX	AUX	Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	29	aux	_	OrigLemma=در#خواست
 29	آمد	آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	24	conj	_	OrigLemma=آمد#آ|SpaceAfter=No
 30	.	.	PUNCT	PUNC	_	29	punct	_	_
 
@@ -21598,7 +21598,7 @@
 25	را	را	ADP	POSTP	_	23	case	_	_
 26	به	به	ADP	PREP	_	27	case	_	_
 27	زانو	زانو	NOUN	N_IANM	Number=Sing	28	compound:lvc	_	_
-28	درمی‌آوردند	در#آورد	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	11	acl	_	OrigLemma=در#آورد#آور|SpaceAfter=No
+28	درمی‌آوردند	آورد	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	11	acl	_	OrigLemma=در#آورد|SpaceAfter=No
 29	.	.	PUNCT	PUNC	_	28	punct	_	_
 
 # sent_id = test-s1107
@@ -21609,7 +21609,7 @@
 4	غرب	غرب	NOUN	N_IANM	Number=Sing	7	obl	_	_
 5	به	به	ADP	PREP	_	6	case	_	_
 6	زانو	زانو	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
-7	درآمده	در#آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	1	acl	_	OrigLemma=در#آمد#آ
+7	درآمده	آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	1	acl	_	OrigLemma=در#آمد
 8	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	7	aux	_	OrigLemma=بود#باش
 9	بسیار	بسیار	ADV	ADV_SADV	_	10	advmod	_	_
 10	بدتر	بد	ADJ	ADJ_AJCM	_	0	root	_	_
@@ -23030,7 +23030,7 @@
 25	از	از	ADP	PREP	_	26	case	_	_
 26	هستی	هستی	NOUN	N_IANM	Number=Sing	28	obl:arg	_	_
 27	رخت	رخت	NOUN	N_IANM	Number=Sing	28	compound:lvc	_	_
-28	برمی‌بندند	بر#بست	VERB	V_ACT	Number=Plur|Person=3|Tense=Pres|Voice=Act	17	ccomp	_	OrigLemma=بر#بست#بند|SpaceAfter=No
+28	برمی‌بندند	بست	VERB	V_ACT	Number=Plur|Person=3|Tense=Pres|Voice=Act	17	ccomp	_	OrigLemma=بر#بست|SpaceAfter=No
 29	.	.	PUNCT	PUNC	_	17	punct	_	_
 
 # sent_id = test-s1177
@@ -23432,7 +23432,7 @@
 7	طهارت	طهارت	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	_
 8	کردند	کرد	VERB	V_ACT	Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=کرد#کن
 9	و	و	CCONJ	CONJ	_	10	cc	_	_
-10	بازآمدند	باز#آمد	VERB	V_ACT	Number=Plur|Person=3|Tense=Past|Voice=Act	8	conj	_	OrigLemma=باز#آمد#آ|SpaceAfter=No
+10	بازآمدند	آمد	VERB	V_ACT	Number=Plur|Person=3|Tense=Past|Voice=Act	8	conj	_	OrigLemma=باز#آمد|SpaceAfter=No
 11	.	.	PUNCT	PUNC	_	10	punct	_	_
 
 # sent_id = test-s1200
@@ -24328,7 +24328,7 @@
 29	آنان	آنان	PRON	PR_SEPER	Number=Plur|Person=3	31	nmod	_	_
 30	به	به	ADP	PREP	_	31	case	_	_
 31	رویارویی	رویارویی	NOUN	N_IANM	Number=Sing	32	obl:arg	_	_
-32	برخاست	بر#خاست	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=بر#خاست#خیز|SpaceAfter=No
+32	برخاست	خاست	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=بر#خاست|SpaceAfter=No
 33	.	.	PUNCT	PUNC	_	32	punct	_	_
 
 # sent_id = test-s1241
@@ -24448,7 +24448,7 @@
 5	التفات	التفات	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	_
 6	کنیم	کرد	VERB	V_ACT	Number=Plur|Person=1|Voice=Act	8	advcl	_	OrigLemma=کرد#کن|SpaceAfter=No
 7	،	،	PUNCT	PUNC	_	6	punct	_	_
-8	درمی‌یابیم	در#یافت	VERB	V_ACT	Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	OrigLemma=در#یافت#یاب
+8	درمی‌یابیم	یافت	VERB	V_ACT	Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	OrigLemma=در#یافت
 9	که	که	SCONJ	SUBR	_	8	ccomp	_	_
 10	برای	برای	ADP	PREP	_	11	case	_	_
 11	او	او	PRON	PR_SEPER	Number=Sing|Person=3	14	obl	_	_
@@ -25833,7 +25833,7 @@
 11	باران	باران	NOUN	N_IANM	Number=Sing	15	nsubj:pass	_	_
 12	از	از	ADP	PREP	_	13	case	_	_
 13	ایشان	ایشان	PRON	PR_SEPER	Number=Plur|Person=3	15	obl:arg	_	_
-14	بازگرفته	باز#گرفت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	15	xcomp	_	OrigLemma=باز#گرفت#گیر
+14	بازگرفته	گرفت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	15	xcomp	_	OrigLemma=باز#گرفت
 15	شود	شد	VERB	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	3	advcl	_	OrigLemma=شد#شو|SpaceAfter=No
 16	.	.	PUNCT	PUNC	_	15	punct	_	_
 
@@ -26221,7 +26221,7 @@
 6	که	که	SCONJ	SUBR	_	9	mark	_	_
 7	در	در	ADP	PREP	_	8	case	_	_
 8	هندوستان	هندوستان	PROPN	N_IANM	Number=Sing	9	obl	_	_
-9	درآمده	در#آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl	_	OrigLemma=در#آمد#آ
+9	درآمده	آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl	_	OrigLemma=در#آمد
 10	بود	بود	AUX	AUX	Number=Sing|Person=3|Tense=Past	9	aux	_	OrigLemma=بود#باش
 11	در	در	ADP	PREP	_	12	case	_	_
 12	اختیار	اختیار	NOUN	N_IANM	Number=Sing	13	obl:arg	_	_
@@ -26475,7 +26475,7 @@
 20	بیدار	بیدار	ADJ	ADJ_AJP	_	21	xcomp	_	_
 21	نشوند	کرد	VERB	V_ACT	Number=Plur|Person=3|Polarity=Neg|Voice=Act	15	acl	_	OrigLemma=کرد#کن|SpaceAfter=No
 22	،	،	PUNCT	PUNC	_	21	punct	_	_
-23	فروروند	فرو#رفت	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	12	advcl	_	OrigLemma=فرو#رفت#رو|SpaceAfter=No
+23	فروروند	رفت	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	12	advcl	_	OrigLemma=فرو#رفت|SpaceAfter=No
 24	.	.	PUNCT	PUNC	_	12	punct	_	_
 
 # sent_id = test-s1351
@@ -27046,7 +27046,7 @@
 5	به	به	ADP	PREP	_	6	case	_	_
 6	دامان	دامان	NOUN	N_IANM	Number=Sing	8	obl:arg	_	_
 7	نظام	نظام	NOUN	N_IANM	Number=Sing	6	nmod	_	_
-8	برمی‌گشتیم	بر#گشت	VERB	V_ACT	Number=Plur|Person=1|Voice=Act	0	root	_	OrigLemma=بر#گشت#گرد|SpaceAfter=No
+8	برمی‌گشتیم	گشت	VERB	V_ACT	Number=Plur|Person=1|Voice=Act	0	root	_	OrigLemma=بر#گشت|SpaceAfter=No
 9	.	.	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = test-s1378
@@ -27723,7 +27723,7 @@
 42	روز	روز	ADJ	ADJ_AJP	_	41	amod	_	_
 43	ابروی	ابرو	NOUN	N_IANM	Number=Sing	41	nmod	_	_
 44	زنان	زن	NOUN	N_ANM	Number=Plur	43	nmod	_	_
-45	برداشته‌اند	بر#داشت	VERB	V_ACT	Number=Plur|Person=3|VerbForm=Part|Voice=Act	34	conj	_	OrigLemma=بر#داشت#دار
+45	برداشته‌اند	داشت	VERB	V_ACT	Number=Plur|Person=3|VerbForm=Part|Voice=Act	34	conj	_	OrigLemma=بر#داشت
 46	و	و	CCONJ	CONJ	_	61	cc	_	_
 47	حتی	حتی	ADV	ADV_SADV	_	61	advmod	_	_
 48-49	تعدادیشان	_	_	_	_	_	_	_	_
