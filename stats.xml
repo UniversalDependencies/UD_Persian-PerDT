@@ -18,7 +18,7 @@
     <tag name="ADJ">35350</tag><!-- دیگر, پیدا, بیش, بزرگ, زیاد, جدید, کم, اسلامی, به, مختلف -->
     <tag name="ADP">71087</tag><!-- را, به, در, از, با, برای, بر, تا, روی, پس -->
     <tag name="ADV">8263</tag><!-- هم, نیز, تنها, نه, حتی, فقط, بسیار, خیلی, چگونه, چرا -->
-    <tag name="AUX">19335</tag><!-- بود, است, خواست, بایست, شد, توان, داشت, بر#خواست, در#خواست, کرد -->
+    <tag name="AUX">18498</tag><!-- بود, است, خواست, بایست, توان, داشت, بر#خواست, در#خواست, کرد, توانست -->
     <tag name="CCONJ">22289</tag><!-- و, یا, اما, ولی, که, بلکه, لکن, -, ،, همچنین -->
     <tag name="DET">10438</tag><!-- این, هر, آن, هیچ, چه, چند, همان, همین, برخی, چنین -->
     <tag name="INTJ">697</tag><!-- یعنی, ای, کاش, انگار, ا, نه, مبادا, گویی, یا, گویا -->
@@ -29,7 +29,7 @@
     <tag name="PROPN">23733</tag><!-- ایران, امام, آمریکا, قرآن, علی, جهان, تهران, پیامبر, اسلامی, حسین -->
     <tag name="PUNCT">44336</tag><!-- ., ،, ؟, (, ), ", !, «, », : -->
     <tag name="SCONJ">13777</tag><!-- که, اگر, تا, چون, زیرا, چنانچه, چرا, اگرچه, گرچه, وگرنه -->
-    <tag name="VERB">53482</tag><!-- کرد, شد, داد, داشت, زد, گرفت, هست, توانست, گفت, آمد -->
+    <tag name="VERB">54319</tag><!-- کرد, شد, داد, داشت, زد, گرفت, هست, توانست, گفت, آمد -->
     <tag name="X">1</tag><!-- ی -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -47,19 +47,18 @@
     <feat name="Tense" value="Past" upos="AUX,VERB">25007</feat><!-- کرد, کرده, بود, شد, بودند, شده, داد, کردند, داشت, داده -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">17879</feat><!-- است, می‌کند, می‌کنند, می‌شود, باشد, کنید, دارد, می‌کنیم, باشند, می‌کنید -->
     <feat name="VerbForm" value="Fin" upos="AUX">4613</feat><!-- خواهد, خواهند, خواهم, خواهیم, خواهید, نخواهد, خواهی, نخواهم, نخواهند, نخواهیم -->
-    <feat name="VerbForm" value="Part" upos="AUX,VERB">5642</feat><!-- کرده, کرده‌اند, شده, داده, کرده‌ام, کرده‌ایم, داشته, کرده‌اید, آمده, شده‌اند -->
+    <feat name="VerbForm" value="Part" upos="VERB">5642</feat><!-- کرده, کرده‌اند, شده, داده, کرده‌ام, کرده‌ایم, داشته, کرده‌اید, آمده, شده‌اند -->
     <feat name="Voice" value="Act" upos="AUX,VERB">51138</feat><!-- کرد, کرده, می‌کند, شد, کنید, می‌کنند, کند, می‌کرد, شده, کرده‌اند -->
-    <feat name="Voice" value="Pass" upos="AUX,VERB">1081</feat><!-- داده, شده, زده, گرفته, دیده, گفته, گذاشته, ساخته, کشیده, برده -->
+    <feat name="Voice" value="Pass" upos="VERB">1081</feat><!-- داده, شده, زده, گرفته, دیده, گفته, گذاشته, ساخته, کشیده, برده -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="35">
+  <deps unique="34">
     <dep name="acl">10034</dep>
     <dep name="advcl">4228</dep>
     <dep name="advmod">9158</dep>
     <dep name="amod">22576</dep>
     <dep name="appos">1056</dep>
-    <dep name="aux">12884</dep>
-    <dep name="aux:pass">822</dep>
+    <dep name="aux">12870</dep>
     <dep name="case">71118</dep>
     <dep name="cc">21300</dep>
     <dep name="ccomp">6945</dep>
@@ -87,6 +86,6 @@
     <dep name="punct">44336</dep>
     <dep name="root">29107</dep>
     <dep name="vocative">174</dep>
-    <dep name="xcomp">6160</dep>
+    <dep name="xcomp">6996</dep>
   </deps>
 </treebank>
