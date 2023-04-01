@@ -563,7 +563,7 @@
 7	بخرند	خرید	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	0	root	_	OrigLemma=خرید#خر|SpaceAfter=No
 8	،	،	PUNCT	PUNC	_	7	punct	_	_
 9	اگر	اگر	SCONJ	SUBR	_	10	mark	_	_
-10	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	13	advcl	_	OrigLemma=#هست|SpaceAfter=No
+10	نیست	هست	VERB	AUX	Number=Sing|Person=3|Polarity=Neg	13	advcl	_	OrigLemma=#هست|SpaceAfter=No
 11	،	،	PUNCT	PUNC	_	10	punct	_	_
 12	آب‌رسانی	آب‌رسانی	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	_
 13	بکنند	کرد	VERB	V_ACT	Number=Plur|Person=3|Voice=Act	7	conj	_	OrigLemma=کرد#کن|SpaceAfter=No
@@ -3681,7 +3681,7 @@
 2	صورتی	صورت	NOUN	N_IANM	Number=Sing	18	obl	_	_
 3	که	که	SCONJ	SUBR	_	5	mark	_	_
 4	ناچار	ناچار	ADJ	ADJ_AJP	_	5	advmod	_	_
-5	هستید	هست	AUX	AUX	Number=Plur|Person=2	2	acl	_	OrigLemma=#هست
+5	هستید	هست	VERB	AUX	Number=Plur|Person=2	2	acl	_	OrigLemma=#هست
 6	غذای	غذا	NOUN	N_IANM	Number=Sing	10	obj	_	_
 7	خود	خود	PRON	PR_CREFX	_	6	nmod	_	_
 8	را	را	ADP	POSTP	_	6	case	_	_
@@ -8185,7 +8185,7 @@
 # text = تا فرصتی هست شیوهٔ خود را دنبال بکنید و در راهی که پیش گرفتید گام بزنید.
 1	تا	تا	SCONJ	SUBR	_	3	mark	_	_
 2	فرصتی	فرصت	NOUN	N_IANM	Number=Sing	3	nsubj	_	_
-3	هست	هست	AUX	AUX	Number=Sing|Person=3	16	advcl	_	OrigLemma=#هست
+3	هست	هست	VERB	AUX	Number=Sing|Person=3	16	advcl	_	OrigLemma=#هست
 4	شیوهٔ	شیوه	NOUN	N_IANM	Number=Sing	8	obj	_	_
 5	خود	خود	PRON	PR_CREFX	_	4	nmod	_	_
 6	را	را	ADP	POSTP	_	4	case	_	_
@@ -8967,7 +8967,7 @@
 17	،	،	PUNCT	PUNC	_	15	punct	_	_
 18	هیچ	هیچ	DET	PREM_AMBAJ	_	19	det	_	_
 19	شکی	شک	NOUN	N_IANM	Number=Sing	20	nsubj	_	_
-20	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	0	root	_	OrigLemma=#هست
+20	نیست	هست	VERB	AUX	Number=Sing|Person=3|Polarity=Neg	0	root	_	OrigLemma=#هست
 21	که	که	SCONJ	SUBR	_	31	mark	_	_
 22	غربی‌ها	غربی	NOUN	N_ANM	Number=Plur	31	nsubj	_	_
 23	نسبت	نسبت	ADP	PREP	_	25	case	_	_
@@ -16946,7 +16946,7 @@
 1-2	یادم	_	_	_	_	_	_	_	_
 1	یاد	یاد	NOUN	N_IANM	Number=Sing	3	compound:lvc	_	_
 2	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
-3	هست	هست	AUX	AUX	Number=Sing|Person=3	0	root	_	OrigLemma=#هست
+3	هست	هست	VERB	AUX	Number=Sing|Person=3	0	root	_	OrigLemma=#هست
 4	که	که	SCONJ	SUBR	_	6	mark	_	_
 5	(	(	PUNCT	PUNC	_	6	punct	_	SpaceAfter=No
 6	نمی‌دانم	دانست	VERB	V_ACT	Number=Sing|Person=1|Polarity=Neg|Tense=Pres|Voice=Act	3	ccomp	_	OrigLemma=دانست#دان

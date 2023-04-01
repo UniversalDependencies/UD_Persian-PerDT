@@ -3474,7 +3474,7 @@
 6	در	در	ADP	PREP	_	7	case	_	_
 7	هواپیماها	هواپیما	NOUN	N_IANM	Number=Plur	9	obl:arg	_	_
 8	قطعه‌هایی	قطعه	NOUN	N_IANM	Number=Plur	9	nsubj	_	_
-9	هست	هست	AUX	AUX	Number=Sing|Person=3	4	advcl	_	OrigLemma=#هست
+9	هست	هست	VERB	AUX	Number=Sing|Person=3	4	advcl	_	OrigLemma=#هست
 10	که	که	SCONJ	SUBR	_	21	mark	_	_
 11	در	در	ADP	PREP	_	14	case	_	_
 12	هر	هر	DET	PREM_AMBAJ	_	13	det	_	_
@@ -3527,7 +3527,7 @@
 22	شهر	شهر	NOUN	N_IANM	Number=Sing	25	obl:arg	_	_
 23	زیبای	زیبا	ADJ	ADJ_AJP	_	22	amod	_	_
 24	بیروت	بیروت	PROPN	N_IANM	Number=Sing	22	nmod	_	_
-25	هستم	هست	AUX	AUX	Number=Sing|Person=1	7	conj	_	OrigLemma=#هست|SpaceAfter=No
+25	هستم	هست	VERB	AUX	Number=Sing|Person=1	7	conj	_	OrigLemma=#هست|SpaceAfter=No
 26	.	.	PUNCT	PUNC	_	25	punct	_	_
 
 # sent_id = dev-s119
@@ -5914,7 +5914,7 @@
 1	توقعی	توقع	NOUN	N_IANM	Number=Sing	4	nsubj	_	_
 2	از	از	ADP	PREP	_	3	case	_	_
 3	معمار	معمار	NOUN	N_ANM	Number=Sing	1	nmod	_	_
-4	نیست	هست	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	0	root	_	OrigLemma=#هست
+4	نیست	هست	VERB	AUX	Number=Sing|Person=3|Polarity=Neg	0	root	_	OrigLemma=#هست
 5	که	که	SCONJ	SUBR	_	20	mark	_	_
 6	مثلاً	مثلاً	ADV	ADV_SADV	_	17	advmod	_	_
 7	در	در	ADP	PREP	_	8	case	_	_
@@ -6342,7 +6342,7 @@
 1	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1	4	nsubj	_	_
 2	در	در	ADP	PREP	_	3	case	_	_
 3	مدرسه	مدرسه	NOUN	N_IANM	Number=Sing	4	obl:arg	_	_
-4	هستیم	هست	AUX	AUX	Number=Plur|Person=1	0	root	_	OrigLemma=#هست|SpaceAfter=No
+4	هستیم	هست	VERB	AUX	Number=Plur|Person=1	0	root	_	OrigLemma=#هست|SpaceAfter=No
 5	.	.	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = dev-s265
@@ -8346,7 +8346,7 @@
 2	که	که	SCONJ	SUBR	_	5	mark	_	_
 3	کنار	کنار	NOUN	N_IANM	_	5	obl:arg	_	_
 4	بچه‌ها	بچه	NOUN	N_ANM	Number=Plur	3	obl:arg	_	_
-5	هستم	هست	AUX	AUX	Number=Sing|Person=1	1	acl	_	OrigLemma=#هست
+5	هستم	هست	VERB	AUX	Number=Sing|Person=1	1	acl	_	OrigLemma=#هست
 6	می‌شنوم	شنید	VERB	V_ACT	Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	OrigLemma=شنید#شنو
 7	که	که	SCONJ	SUBR	_	11	mark	_	_
 8	آنها	آنها	PRON	PR_SEPER	Number=Plur|Person=3	11	nsubj	_	_
@@ -11437,7 +11437,7 @@
 # text = کجایند آنهایی که در میدان نبرد نعرهٔ شیر از دل برمی‌کشیدند؟
 1-2	کجایند	_	_	_	_	_	_	_	_
 1	کجا	کجا	PRON	PR_INTG	_	2	obl:arg	_	_
-2	یند	هست	AUX	AUX	Number=Plur|Person=3	0	root	_	OrigLemma=#هست
+2	یند	هست	VERB	AUX	Number=Plur|Person=3	0	root	_	OrigLemma=#هست
 3	آنهایی	آنها	PRON	PR_SEPER	Number=Plur|Person=3	2	nsubj	_	_
 4	که	که	SCONJ	SUBR	_	12	mark	_	_
 5	در	در	ADP	PREP	_	6	case	_	_
@@ -15892,7 +15892,7 @@
 # text = اگر کسی هست که من بر پشت وی تازیانه زده‌ام هم‌اکنون برخیزد و به جای آن بر پشت من تازیانه زند.
 1	اگر	اگر	SCONJ	SUBR	_	3	mark	_	_
 2	کسی	کس	NOUN	N_ANM	Number=Sing	3	nsubj	_	_
-3	هست	هست	AUX	AUX	Number=Sing|Person=3	21	advcl	_	OrigLemma=#هست
+3	هست	هست	VERB	AUX	Number=Sing|Person=3	21	advcl	_	OrigLemma=#هست
 4	که	که	SCONJ	SUBR	_	10	mark	_	_
 5	من	من	PRON	PR_SEPER	Number=Sing|Person=1	10	nsubj	_	_
 6	بر	بر	ADP	PREP	_	7	case	_	_
@@ -17020,7 +17020,7 @@
 # text = این ما هستیم که به انگلیس می‌گوییم ما را استعمار کن.
 1	این	این	PRON	PR_DEMON	Number=Sing	3	nsubj	_	_
 2	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1	1	conj	_	_
-3	هستیم	هست	AUX	AUX	Number=Plur|Person=1	0	root	_	OrigLemma=#هست
+3	هستیم	هست	VERB	AUX	Number=Plur|Person=1	0	root	_	OrigLemma=#هست
 4	که	که	SCONJ	SUBR	_	7	mark	_	_
 5	به	به	ADP	PREP	_	6	case	_	_
 6	انگلیس	انگلیس	PROPN	N_IANM	Number=Sing	7	obl:arg	_	_
@@ -21500,7 +21500,7 @@
 13	،	،	PUNCT	PUNC	_	11	punct	_	_
 14	بلکه	بلکه	ADV	ADV_SADV	_	16	advmod	_	_
 15	کارگرانی	کارگر	NOUN	N_ANM	Number=Plur	16	nsubj	_	_
-16	هستیم	هست	AUX	AUX	Number=Plur|Person=1	0	root	_	OrigLemma=#هست
+16	هستیم	هست	VERB	AUX	Number=Plur|Person=1	0	root	_	OrigLemma=#هست
 17	که	که	SCONJ	SUBR	_	22	mark	_	_
 18	بر	بر	ADP	PREP	_	19	case	_	_
 19	ضد	ضد	NOUN	N_IANM	Number=Sing	22	obl:arg	_	_
@@ -25333,7 +25333,7 @@
 28	لطیف	لطیف	ADJ	ADJ_AJP	_	27	amod	_	_
 29	و	و	CCONJ	CONJ	_	30	cc	_	_
 30	زیبا	زیبا	ADJ	ADJ_AJP	_	28	conj	_	_
-31	هستند	هست	AUX	AUX	Number=Plur|Person=3	24	conj	_	OrigLemma=#هست|SpaceAfter=No
+31	هستند	هست	VERB	AUX	Number=Plur|Person=3	24	conj	_	OrigLemma=#هست|SpaceAfter=No
 32	،	،	PUNCT	PUNC	_	31	punct	_	_
 33	اینها	اینها	PRON	PR_DEMON	Number=Plur	35	nsubj	_	_
 34	به	به	ADP	PREP	_	35	case	_	_
@@ -25722,7 +25722,7 @@
 162	و	و	CCONJ	CONJ	_	165	cc	_	_
 163	کدام	کدام	DET	PREM_QUAJ	_	164	det	_	_
 164	منتقدی	منتقد	NOUN	N_ANM	Number=Sing	165	nsubj	_	_
-165	هست	هست	AUX	AUX	Number=Sing|Person=3	84	conj	_	OrigLemma=#هست
+165	هست	هست	VERB	AUX	Number=Sing|Person=3	84	conj	_	OrigLemma=#هست
 166	که	که	SCONJ	SUBR	_	177	mark	_	_
 167	بدون	بدون	ADP	PREP	_	168	case	_	_
 168	نفوذ	نفوذ	NOUN	N_IANM	Number=Sing	177	obl	_	_
@@ -28278,7 +28278,7 @@
 # text = یک حزبی هست که در سابق انگلستان پشتیبانی آنها را می‌کرد و حالا هم آمریکا دارد پشتیبانی می‌کند.
 1	یک	یک	NUM	PRENUM	_	2	nummod	_	_
 2	حزبی	حزب	NOUN	N_IANM	Number=Sing	3	nsubj	_	_
-3	هست	هست	AUX	AUX	Number=Sing|Person=3	0	root	_	OrigLemma=#هست
+3	هست	هست	VERB	AUX	Number=Sing|Person=3	0	root	_	OrigLemma=#هست
 4	که	که	SCONJ	SUBR	_	2	acl	_	_
 5	در	در	ADP	PREP	_	6	case	_	_
 6	سابق	سابق	NOUN	N_IANM	Number=Sing	11	obl	_	_
