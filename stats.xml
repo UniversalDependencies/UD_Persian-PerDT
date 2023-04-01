@@ -10,7 +10,7 @@
     <dev><sentences>1456</sentences><tokens>24751</tokens><words>25147</words><fused>369</fused></dev>
     <test><sentences>1455</sentences><tokens>23825</tokens><words>24133</words><fused>296</fused></test>
   </size>
-  <lemmas unique="21549" /><!-- ., و, کرد, را, به, در, از, که, ،, بود, با, این, است, خواست, شد -->
+  <lemmas unique="21404" /><!-- ., و, کرد, را, به, در, از, که, ،, بود, با, این, است, خواست, شد -->
   <forms unique="33625" /><!-- ., و, را, به, در, از, که, ،, با, این, است, کرد, خود, آن, برای -->
   <fusions unique="3308" /><!-- مرا, خودش, خودم, خودتان, خودمان, خودشان, برایش, دلم, پدرم, خودت, بدین, برایم, مادرم, بدان, پدرش -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -18,7 +18,7 @@
     <tag name="ADJ">35350</tag><!-- دیگر, پیدا, بیش, بزرگ, زیاد, جدید, کم, اسلامی, به, مختلف -->
     <tag name="ADP">71087</tag><!-- را, به, در, از, با, برای, بر, تا, روی, پس -->
     <tag name="ADV">8263</tag><!-- هم, نیز, تنها, نه, حتی, فقط, بسیار, خیلی, چگونه, چرا -->
-    <tag name="AUX">18498</tag><!-- بود, است, خواست, بایست, توان, داشت, بر#خواست, در#خواست, کرد, توانست -->
+    <tag name="AUX">18496</tag><!-- بود, است, خواست, بایست, توان, داشت, کرد, توانست, گشت -->
     <tag name="CCONJ">22289</tag><!-- و, یا, اما, ولی, که, بلکه, لکن, -, ،, همچنین -->
     <tag name="DET">10438</tag><!-- این, هر, آن, هیچ, چه, چند, همان, همین, برخی, چنین -->
     <tag name="INTJ">697</tag><!-- یعنی, ای, کاش, انگار, ا, نه, مبادا, گویی, یا, گویا -->
@@ -29,7 +29,7 @@
     <tag name="PROPN">23733</tag><!-- ایران, امام, آمریکا, قرآن, علی, جهان, تهران, پیامبر, اسلامی, حسین -->
     <tag name="PUNCT">44336</tag><!-- ., ،, ؟, (, ), ", !, «, », : -->
     <tag name="SCONJ">13777</tag><!-- که, اگر, تا, چون, زیرا, چنانچه, چرا, اگرچه, گرچه, وگرنه -->
-    <tag name="VERB">54319</tag><!-- کرد, شد, داد, داشت, زد, گرفت, هست, توانست, گفت, آمد -->
+    <tag name="VERB">54321</tag><!-- کرد, شد, داشت, داد, زد, گرفت, هست, توانست, آمد, گفت -->
     <tag name="X">1</tag><!-- ی -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -58,7 +58,7 @@
     <dep name="advmod">9158</dep>
     <dep name="amod">22576</dep>
     <dep name="appos">1056</dep>
-    <dep name="aux">12870</dep>
+    <dep name="aux">12868</dep>
     <dep name="case">71118</dep>
     <dep name="cc">21300</dep>
     <dep name="ccomp">6945</dep>
@@ -86,6 +86,6 @@
     <dep name="punct">44336</dep>
     <dep name="root">29107</dep>
     <dep name="vocative">174</dep>
-    <dep name="xcomp">6996</dep>
+    <dep name="xcomp">6998</dep>
   </deps>
 </treebank>
