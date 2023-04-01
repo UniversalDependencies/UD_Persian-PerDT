@@ -50,6 +50,8 @@ For feedback and bug reports, please contact rasooli@seas.upenn.edu and pegh.saf
 
 # Change Log
 
+* 2023-05-15 v2.12
+  * Removed # from verbal lemmas. Kept the first (i.e., past) stem.
 * 2021-05-15 v2.8
   * Undocumented relation compound:lv changed to compound:lvc to pass validation.
 * 2020-11-15 v2.7
