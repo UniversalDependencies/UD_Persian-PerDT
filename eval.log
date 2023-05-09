@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Persian-PerDT:
-commit 2d287a1c9701565533ff068ec08e022911314f5a
+commit befc23686b8ff06628e6ee4f33977ee5f1af39e7
+Merge: 0609f8f 20dd51f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat May 14 15:05:44 2022 +0200
 Size: counted 501776 of 501776 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.4363076099374.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,84 +20,35 @@ Features: source of annotation (from README) factor is 0.9.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.9.
 Udapi:
-               TOTAL      87912
-Udapi: found 87912 bugs.
+               TOTAL      88868
+Udapi: found 88868 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 501776 words.
 Genres: found 6 out of 17 known.
-validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-dev.conllu
-[Line 60 Sent dev-s2 Node 13]: [L5 Morpho aux-lemma] 'شد#شو' is not an auxiliary verb in language [fa]
-[Line 87 Sent dev-s3 Node 23]: [L5 Morpho aux-lemma] '#است' is not an auxiliary verb in language [fa]
-[Line 181 Sent dev-s7 Node 8]: [L5 Morpho aux-lemma] '#است' is not an auxiliary verb in language [fa]
-[Line 181 Sent dev-s7 Node 8]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 192 Sent dev-s7 Node 19]: [L5 Morpho aux-lemma] 'بود#باش' is not an auxiliary verb in language [fa]
-[Line 192 Sent dev-s7 Node 19]: [L5 Syntax cop-lemma] 'بود#باش' is not a copula in language [fa]
-[Line 207 Sent dev-s7 Node 34]: [L5 Morpho aux-lemma] 'بود#باش' is not an auxiliary verb in language [fa]
-[Line 207 Sent dev-s7 Node 34]: [L5 Syntax cop-lemma] 'بود#باش' is not a copula in language [fa]
-[Line 219 Sent dev-s7 Node 46]: [L5 Morpho aux-lemma] '#است' is not an auxiliary verb in language [fa]
-[Line 219 Sent dev-s7 Node 46]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 260 Sent dev-s9 Node 9]: [L5 Morpho aux-lemma] 'بایست#باید' is not an auxiliary verb in language [fa]
-[Line 287 Sent dev-s9 Node 36]: [L5 Morpho aux-lemma] 'شد#شو' is not an auxiliary verb in language [fa]
-[Line 392 Sent dev-s12 Node 28]: [L5 Morpho aux-lemma] '#است' is not an auxiliary verb in language [fa]
-...suppressing further errors regarding Morpho
-[Line 434 Sent dev-s13 Node 38]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 482 Sent dev-s14 Node 23]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 763 Sent dev-s22 Node 34]: [L5 Syntax cop-lemma] 'بود#باش' is not a copula in language [fa]
-[Line 988 Sent dev-s26 Node 26]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 1012 Sent dev-s27 Node 20]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-...suppressing further errors regarding Syntax
-Morpho errors: 1031
-Syntax errors: 338
-*** FAILED *** with 1369 errors
+/net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-dev.conllu
+[Line 9505 Sent dev-s437 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [1, 9] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+Syntax errors: 1
+*** FAILED *** with 1 errors
 Exit code: 1
-validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-test.conllu
-[Line 7 Sent test-s1 Node 5]: [L5 Morpho aux-lemma] 'خواست#خواه' is not an auxiliary verb in language [fa]
-[Line 45 Sent test-s2 Node 23]: [L5 Morpho aux-lemma] 'شد#شو' is not an auxiliary verb in language [fa]
-[Line 88 Sent test-s5 Node 12]: [L5 Morpho aux-lemma] '#است' is not an auxiliary verb in language [fa]
-[Line 96 Sent test-s6 Node 4]: [L5 Morpho aux-lemma] 'بایست#باید' is not an auxiliary verb in language [fa]
-[Line 130 Sent test-s7 Node 19]: [L5 Morpho aux-lemma] 'بود#باش' is not an auxiliary verb in language [fa]
-[Line 145 Sent test-s8 Node 11]: [L5 Morpho aux-lemma] 'خواست#خواه' is not an auxiliary verb in language [fa]
-[Line 161 Sent test-s10 Node 3]: [L5 Morpho aux-lemma] '#است' is not an auxiliary verb in language [fa]
-[Line 161 Sent test-s10 Node 3]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 233 Sent test-s12 Node 6]: [L5 Morpho aux-lemma] 'خواست#خواه' is not an auxiliary verb in language [fa]
-[Line 262 Sent test-s14 Node 9]: [L5 Morpho aux-lemma] '#است' is not an auxiliary verb in language [fa]
-...suppressing further errors regarding Morpho
-[Line 307 Sent test-s16 Node 30]: [L5 Syntax cop-lemma] '#هست' is not a copula in language [fa]
-[Line 384 Sent test-s20 Node 8]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 562 Sent test-s28 Node 6]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 616 Sent test-s32 Node 4]: [L5 Syntax cop-lemma] '#هست' is not a copula in language [fa]
-[Line 751 Sent test-s34 Node 23]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 906 Sent test-s42 Node 9]: [L5 Syntax cop-lemma] 'بود#باش' is not a copula in language [fa]
-[Line 930 Sent test-s43 Node 9]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 1030 Sent test-s49 Node 12]: [L5 Syntax cop-lemma] 'بود#باش' is not a copula in language [fa]
-...suppressing further errors regarding Syntax
-Morpho errors: 1008
-Syntax errors: 268
-*** FAILED *** with 1276 errors
+/net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-test.conllu
+[Line 1654 Sent test-s85 Node 1]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 1655 Sent test-s85 Node 2]: [L3 Morpho goeswith-lemma] The lemma of a 'goeswith'-connected word must be annotated only at the first part.
+[Line 1655 Sent test-s85 Node 2]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+[Line 1655 Sent test-s85 Node 2]: [L3 Morpho goeswith-feats] The morphological features of a 'goeswith'-connected word must be annotated only at the first part.
+Morpho errors: 4
+*** FAILED *** with 4 errors
 Exit code: 1
-validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-train.conllu
-[Line 169 Sent train-s6 Node 12]: [L5 Morpho aux-lemma] '#است' is not an auxiliary verb in language [fa]
-[Line 169 Sent train-s6 Node 12]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 191 Sent train-s7 Node 13]: [L5 Morpho aux-lemma] 'شد#شو' is not an auxiliary verb in language [fa]
-[Line 215 Sent train-s7 Node 37]: [L5 Morpho aux-lemma] '#است' is not an auxiliary verb in language [fa]
-[Line 215 Sent train-s7 Node 37]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 245 Sent train-s8 Node 26]: [L5 Morpho aux-lemma] 'شد#شو' is not an auxiliary verb in language [fa]
-[Line 295 Sent train-s10 Node 11]: [L5 Morpho aux-lemma] 'شد#شو' is not an auxiliary verb in language [fa]
-[Line 296 Sent train-s10 Node 12]: [L5 Morpho aux-lemma] '#است' is not an auxiliary verb in language [fa]
-[Line 321 Sent train-s11 Node 21]: [L5 Morpho aux-lemma] 'شد#شو' is not an auxiliary verb in language [fa]
-[Line 322 Sent train-s11 Node 22]: [L5 Morpho aux-lemma] '#است' is not an auxiliary verb in language [fa]
-[Line 411 Sent train-s14 Node 14]: [L5 Morpho aux-lemma] 'بود#باش' is not an auxiliary verb in language [fa]
-...suppressing further errors regarding Morpho
-[Line 549 Sent train-s18 Node 26]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 558 Sent train-s18 Node 35]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 576 Sent train-s18 Node 53]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 696 Sent train-s23 Node 10]: [L5 Syntax cop-lemma] 'بود#باش' is not a copula in language [fa]
-[Line 783 Sent train-s25 Node 7]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 845 Sent train-s28 Node 3]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-[Line 967 Sent train-s31 Node 15]: [L5 Syntax cop-lemma] '#است' is not a copula in language [fa]
-...suppressing further errors regarding Syntax
-Morpho errors: 18759
-Syntax errors: 5765
-*** FAILED *** with 24524 errors
+/net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-train.conllu
+[Line 899 Sent train-s30 Node 1]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 900 Sent train-s30 Node 2]: [L3 Morpho goeswith-lemma] The lemma of a 'goeswith'-connected word must be annotated only at the first part.
+[Line 900 Sent train-s30 Node 2]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+[Line 900 Sent train-s30 Node 2]: [L3 Morpho goeswith-feats] The morphological features of a 'goeswith'-connected word must be annotated only at the first part.
+[Line 433087 Sent train-s21182 Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [5, 14] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 473631 Sent train-s23095 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [2, 10] not subtyped as ':outer'.
+[Line 495524 Sent train-s24160 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [5, 16] not subtyped as ':outer'.
+[Line 515848 Sent train-s25128 Node 25]: [L3 Syntax too-many-subjects] Multiple subjects [8, 18] not subtyped as ':outer'.
+Morpho errors: 4
+Syntax errors: 4
+*** FAILED *** with 8 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
