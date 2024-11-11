@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Persian-PerDT:
-commit 3db7c98e280975f4eaf239cdd9ff8d6d50397397
+commit e6feb4c6f9f01bbe230c8687274c13a275b923a1
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 12:47:59 2023 +0100
+Date:   Sun May 5 13:12:20 2024 +0200
 Size: counted 501776 of 501776 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.4363076099374.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -42,12 +42,20 @@ Exit code: 1
 [Line 900 Sent train-s30 Node 2]: [L3 Morpho goeswith-lemma] The lemma of a 'goeswith'-connected word must be annotated only at the first part.
 [Line 900 Sent train-s30 Node 2]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
 [Line 900 Sent train-s30 Node 2]: [L3 Morpho goeswith-feats] The morphological features of a 'goeswith'-connected word must be annotated only at the first part.
+[Line 72019 Sent train-s3182 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:چنان:det --> 23:کشاند:acl)
+[Line 74891 Sent train-s3340 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:چنان:det --> 21:بازمی‌ماندیم:acl)
+[Line 118708 Sent train-s5711 Node 15]: [L3 Warning leaf-det] 'det' not expected to have children (15:آن:det --> 14:شد:nmod)
+[Line 190702 Sent train-s9507 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:چنین:det --> 9:یک:nummod)
+[Line 275193 Sent train-s13417 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:چنان:det --> 15:آن:nmod)
+[Line 294318 Sent train-s14362 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:مقداری:det --> 2:هم:dep)
 [Line 433087 Sent train-s21182 Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [5, 14] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 466208 Sent train-s22745 Node 25]: [L3 Warning leaf-det] 'det' not expected to have children (25:برخی:det --> 24:نیز:dep)
 [Line 473631 Sent train-s23095 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [2, 10] not subtyped as ':outer'.
 [Line 495524 Sent train-s24160 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [5, 16] not subtyped as ':outer'.
 [Line 515848 Sent train-s25128 Node 25]: [L3 Syntax too-many-subjects] Multiple subjects [8, 18] not subtyped as ':outer'.
 Morpho errors: 4
 Syntax errors: 4
+Warnings: 7
 *** FAILED *** with 8 errors
 Exit code: 1
 Validity: 0.01
