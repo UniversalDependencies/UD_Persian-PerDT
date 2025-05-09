@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Persian-PerDT:
-commit e6feb4c6f9f01bbe230c8687274c13a275b923a1
+commit 392dc662438352769149e8b45bf702f0bfe2510d
+Merge: 35a389a 1184f07
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 13:12:20 2024 +0200
 Size: counted 501776 of 501776 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.4363076099374.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -15,58 +15,75 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.9.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 282106 out of 501776 total words have one or more features.
+Features: 282104 out of 501776 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.9.
 Udapi:
-               TOTAL      88868
-Udapi: found 88868 bugs.
+               TOTAL      88518
+Udapi: found 88518 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 501776 words.
-Genres: found 6 out of 17 known.
+Genres: found 6 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-dev.conllu
+[Line 1538 Sent dev-s44 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
 [Line 9505 Sent dev-s437 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [1, 9] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 14381 Sent dev-s705 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 14742 Sent dev-s720 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 19122 Sent dev-s962 Node 38]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 19386 Sent dev-s975 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 20073 Sent dev-s1010 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 22282 Sent dev-s1124 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 24238 Sent dev-s1227 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 27971 Sent dev-s1376 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
 Syntax errors: 1
+Warnings: 9
 *** FAILED *** with 1 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-test.conllu
-[Line 1654 Sent test-s85 Node 1]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
-[Line 1655 Sent test-s85 Node 2]: [L3 Morpho goeswith-lemma] The lemma of a 'goeswith'-connected word must be annotated only at the first part.
-[Line 1655 Sent test-s85 Node 2]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
-[Line 1655 Sent test-s85 Node 2]: [L3 Morpho goeswith-feats] The morphological features of a 'goeswith'-connected word must be annotated only at the first part.
-Morpho errors: 4
-*** FAILED *** with 4 errors
-Exit code: 1
+[Line 1743 Sent test-s90 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 8816 Sent test-s471 Node 17]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 19377 Sent test-s1006 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 21684 Sent test-s1111 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 24143 Sent test-s1233 Node 30]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 28402 Sent test-s1438 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+Warnings: 6
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-train.conllu
-[Line 899 Sent train-s30 Node 1]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
-[Line 900 Sent train-s30 Node 2]: [L3 Morpho goeswith-lemma] The lemma of a 'goeswith'-connected word must be annotated only at the first part.
-[Line 900 Sent train-s30 Node 2]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
-[Line 900 Sent train-s30 Node 2]: [L3 Morpho goeswith-feats] The morphological features of a 'goeswith'-connected word must be annotated only at the first part.
-[Line 72019 Sent train-s3182 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:چنان:det --> 23:کشاند:acl)
-[Line 74891 Sent train-s3340 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:چنان:det --> 21:بازمی‌ماندیم:acl)
-[Line 118708 Sent train-s5711 Node 15]: [L3 Warning leaf-det] 'det' not expected to have children (15:آن:det --> 14:شد:nmod)
-[Line 190702 Sent train-s9507 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:چنین:det --> 9:یک:nummod)
-[Line 275193 Sent train-s13417 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:چنان:det --> 15:آن:nmod)
-[Line 294318 Sent train-s14362 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:مقداری:det --> 2:هم:dep)
-[Line 433087 Sent train-s21182 Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [5, 14] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 466208 Sent train-s22745 Node 25]: [L3 Warning leaf-det] 'det' not expected to have children (25:برخی:det --> 24:نیز:dep)
+[Line 2659 Sent train-s80 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 6007 Sent train-s175 Node 36]: [L3 Warning fixed-without-extpos] Fixed expression 'کمتر از' does not have the 'ExtPos' feature
+[Line 20802 Sent train-s647 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 31508 Sent train-s1191 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 57733 Sent train-s2478 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 57886 Sent train-s2483 Node 16]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 72019 Sent train-s3182 Node 7]: [L3 Syntax leaf-det] 'det' not expected to have children (7:چنان:det --> 23:کشاند:acl)
+[Line 74891 Sent train-s3340 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:چنان:det --> 21:بازمی‌ماندیم:acl)
+[Line 78322 Sent train-s3530 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 78605 Sent train-s3546 Node 16]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 80209 Sent train-s3625 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 103066 Sent train-s4928 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+[Line 118708 Sent train-s5711 Node 15]: [L3 Syntax leaf-det] 'det' not expected to have children (15:آن:det --> 14:شد:nmod)
+[Line 190702 Sent train-s9507 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:چنین:det --> 9:یک:nummod)
+[Line 275193 Sent train-s13417 Node 16]: [L3 Syntax leaf-det] 'det' not expected to have children (16:چنان:det --> 15:آن:nmod)
+[Line 294318 Sent train-s14362 Node 1]: [L3 Syntax leaf-det] 'det' not expected to have children (1:مقداری:det --> 2:هم:dep)
+[Line 433087 Sent train-s21182 Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [5, 14] not subtyped as ':outer'.
+[Line 466208 Sent train-s22745 Node 25]: [L3 Syntax leaf-det] 'det' not expected to have children (25:برخی:det --> 24:نیز:dep)
 [Line 473631 Sent train-s23095 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [2, 10] not subtyped as ':outer'.
 [Line 495524 Sent train-s24160 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [5, 16] not subtyped as ':outer'.
-[Line 515848 Sent train-s25128 Node 25]: [L3 Syntax too-many-subjects] Multiple subjects [8, 18] not subtyped as ':outer'.
-Morpho errors: 4
-Syntax errors: 4
-Warnings: 7
-*** FAILED *** with 8 errors
+...suppressing further errors regarding Syntax
+Syntax errors: 11
+Warnings: 129
+*** FAILED *** with 11 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
-(weight=0.0769230769230769) * (score{genres}=0.352941176470588) = 0.0271493212669683
+(weight=0.0769230769230769) * (score{genres}=0.333333333333333) = 0.0256410256410256
 (weight=0.0769230769230769) * (score{lemmas}=0.9) = 0.0692307692307692
 (weight=0.256410256410256) * (score{size}=0.90016996170787) = 0.230812810694326
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.72972972972973) = 0.0561330561330561
-(TOTAL score=0.564834252951062) * (availability=1) * (validity=0.01) = 0.00564834252951062
+(TOTAL score=0.563325957325119) * (availability=1) * (validity=0.01) = 0.00563325957325119
 STARS = 0
-UD_Persian-PerDT	0.00564834252951062	0
+UD_Persian-PerDT	0.00563325957325119	0
