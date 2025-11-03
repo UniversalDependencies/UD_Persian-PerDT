@@ -42,7 +42,7 @@
     <feat name="Person" value="2" upos="AUX,PRON,VERB">10128</feat><!-- شما, کنید, تو, تان, ت, می‌کنید, نکنید, بکنید, کن, باشید -->
     <feat name="Person" value="3" upos="AUX,PRON,VERB">62223</feat><!-- است, کرد, کرده, بود, او, ش, خواهد, می‌کند, شد, خواهند -->
     <feat name="Polarity" value="Neg" upos="AUX,VERB">4461</feat><!-- نیست, نکنید, نباید, ندارد, نبود, نخواهد, نمی‌تواند, نکرده, نمی‌شود, نمی‌توان -->
-    <feat name="PronType" value="Prs" upos="PRON">5697</feat><!-- ش, م, شان, تان, مان, ت, اش, ام, یش, ات -->
+    <feat name="PronType" value="Prs" upos="PRON">16853</feat><!-- او, ش, ما, من, م, شما, آنها, تو, شان, خود -->
     <feat name="Tense" value="Fut" upos="AUX">4613</feat><!-- خواهد, خواهند, خواهم, خواهیم, خواهید, نخواهد, خواهی, نخواهم, نخواهند, نخواهیم -->
     <feat name="Tense" value="Past" upos="AUX,VERB">25007</feat><!-- کرد, کرده, بود, شد, بودند, شده, داد, کردند, داشت, داده -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">17879</feat><!-- است, می‌کند, می‌کنند, می‌شود, باشد, کنید, دارد, می‌کنیم, باشند, می‌کنید -->
