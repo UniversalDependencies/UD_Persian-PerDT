@@ -9592,7 +9592,7 @@
 5	پامال	پامال	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=pāmāl|Translit=pāmāl
 6	را	را	ADP	POSTP	_	3	case	_	LTranslit=rā|Translit=rā
 7	دوشیدم	دوشید	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	1	ccomp	_	LTranslit=dūšīd|OrigLemma=دوشید#دوش|SpaceAfter=No|Translit=dūšīdm
-8	٬	٬	PUNCT	PUNC	_	11	punct	_	LTranslit= |Translit= 
+8	٬	٬	PUNCT	PUNC	_	11	punct	_	LTranslit=|Translit=
 9	قطره	قطره	NOUN	N_IANM	Number=Sing	11	obl	_	LTranslit=qṭrh|Translit=qṭrh
 10	قطره	قطره	NOUN	N_IANM	Number=Sing	9	obl	_	LTranslit=qṭrh|Translit=qṭrh
 11	دوشیدم	دوشید	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	7	conj	_	LTranslit=dūšīd|OrigLemma=دوشید#دوش|Translit=dūšīdm
