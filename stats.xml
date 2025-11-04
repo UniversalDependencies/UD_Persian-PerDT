@@ -47,7 +47,7 @@
     <feat name="Tense" value="Past" upos="AUX,VERB">25007</feat><!-- کرد, کرده, بود, شد, بودند, شده, داد, کردند, داشت, داده -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">17879</feat><!-- است, می‌کند, می‌کنند, می‌شود, باشد, کنید, دارد, می‌کنیم, باشند, می‌کنید -->
     <feat name="Typo" value="Yes" upos="NOUN">2</feat><!-- دختر, یک‌شنبه -->
-    <feat name="VerbForm" value="Fin" upos="AUX">4613</feat><!-- خواهد, خواهند, خواهم, خواهیم, خواهید, نخواهد, خواهی, نخواهم, نخواهند, نخواهیم -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">8574</feat><!-- خواهد, خواهند, باشد, خواهم, کنید, خواهیم, باشند, کن, نکنید, خواهید -->
     <feat name="VerbForm" value="Part" upos="VERB">5642</feat><!-- کرده, کرده‌اند, شده, داده, کرده‌ام, کرده‌ایم, داشته, کرده‌اید, آمده, شده‌اند -->
     <feat name="Voice" value="Act" upos="AUX,VERB">51138</feat><!-- کرد, کرده, می‌کند, شد, کنید, می‌کنند, کند, می‌کرد, شده, کرده‌اند -->
     <feat name="Voice" value="Pass" upos="VERB">1081</feat><!-- داده, شده, زده, گرفته, دیده, گفته, گذاشته, ساخته, کشیده, برده -->

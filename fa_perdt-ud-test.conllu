@@ -73,7 +73,7 @@
 1	بلیت	بلیت	NOUN	N_IANM	Number=Sing	4	obj	_	LTranslit=blīt|Translit=blīt
 2	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 3	پیش‌فروش	پیش‌فروش	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	LTranslit=pīšfrūš|Translit=pīšfrūš
-4	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+4	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 5	.	.	PUNCT	PUNC	_	4	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s5
@@ -134,7 +134,7 @@
 16	ساله	ساله	ADJ	ADJ_AJP	_	14	amod	_	LTranslit=sālh|Translit=sālh
 17	تاخت	تاخت	NOUN	N_IANM	Number=Sing	18	compound:lvc	_	LTranslit=tāḫt|Translit=tāḫt
 18	زده	زد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl	_	LTranslit=zd|OrigLemma=زد#زن|Translit=zdh
-19	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	18	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+19	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 20	؟	؟	PUNCT	PUNC	_	19	punct	_	LTranslit=?|Translit=?
 
 # sent_id = test-s8
@@ -160,7 +160,7 @@
 1	نقره‌ها	نقره	NOUN	N_IANM	Number=Plur	4	obj	_	LTranslit=nqrh|Translit=nqrhhā
 2	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 3	تاراج	تاراج	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	LTranslit=tārāj|Translit=tārāj
-4	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+4	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 5	!	!	PUNCT	PUNC	_	4	punct	_	LTranslit=!|Translit=!
 
 # sent_id = test-s10
@@ -252,14 +252,14 @@
 1	یکپارچه	یکپارچه	ADJ	ADJ_AJP	_	4	xcomp	_	LTranslit=īkpārčh|Translit=īkpārčh
 2	و	و	CCONJ	CONJ	_	3	cc	_	LTranslit=ū|Translit=ū
 3	متحد	متحد	ADJ	ADJ_AJP	_	1	conj	_	LTranslit=mtḥd|Translit=mtḥd
-4	شوید	شد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šūīd
+4	شوید	شد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šūīd
 5	و	و	CCONJ	CONJ	_	11	cc	_	LTranslit=ū|Translit=ū
 6	سازمان	سازمان	PROPN	N_IANM	Number=Sing	11	obj	_	LTranslit=sāzmān|Translit=sāzmān
 7	سیاسی	سیاسی	PROPN	ADJ_AJP	_	6	flat:name	_	LTranslit=sīāsī|Translit=sīāsī
 8	نیرومندی	نیرومند	PROPN	ADJ_AJP	_	6	flat:name	_	LTranslit=nīrūmnd|Translit=nīrūmndī
 9	را	را	ADP	POSTP	_	6	case	_	LTranslit=rā|Translit=rā
 10	پی	پی	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	LTranslit=pī|Translit=pī
-11	گذارید	گذاشت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	4	conj	_	LTranslit=gḏāšt|OrigLemma=گذاشت#گذار|SpaceAfter=No|Translit=gḏārīd
+11	گذارید	گذاشت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LTranslit=gḏāšt|OrigLemma=گذاشت#گذار|SpaceAfter=No|Translit=gḏārīd
 12	.	.	PUNCT	PUNC	_	11	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s14
@@ -297,7 +297,7 @@
 4	آنکه	آنکه	NOUN	N_IANM	Number=Sing	9	obl	_	LTranslit=Ānkh|Translit=Ānkh
 5	پیش‌داوری	پیش‌داوری	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=pīšdāūrī|Translit=pīšdāūrī
 6	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	4	acl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-7	باشم	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=1|Tense=Pres	6	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšm
+7	باشم	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšm
 8	،	،	PUNCT	PUNC	_	6	punct	_	LTranslit=,|Translit=,
 9	می‌گویم	گفت	VERB	V_ACT	Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	LTranslit=gft|OrigLemma=گفت#گو|Translit=mīgūīm
 10	که	که	SCONJ	SUBR	_	36	mark	_	LTranslit=kh|Translit=kh
@@ -364,7 +364,7 @@
 4	چنین	چنین	DET	PREM_DEMAJ	_	5	det	_	LTranslit=čnīn|Translit=čnīn
 5	گام‌هایی	گام	NOUN	N_IANM	Number=Plur	7	obj	_	LTranslit=gām|Translit=gāmhāīī
 6	برداشته	داشت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	7	xcomp	_	LTranslit=dāšt|OrigLemma=بر#داشت|Translit=brdāšth
-7	نشود	شد	VERB	AUX	Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	2	acl	_	LTranslit=šd|OrigLemma=شد#شو|SpaceAfter=No|Translit=nšūd
+7	نشود	شد	VERB	AUX	Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	acl	_	LTranslit=šd|OrigLemma=شد#شو|SpaceAfter=No|Translit=nšūd
 8	،	،	PUNCT	PUNC	_	7	punct	_	LTranslit=,|Translit=,
 9	توسعهٔ	توسعه	NOUN	N_IANM	Number=Sing	13	nsubj	_	LTranslit=tūsʿh|Translit=tūsʿhٔ
 10	کشورهای	کشور	NOUN	N_IANM	Number=Plur	9	nmod	_	LTranslit=kšūr|Translit=kšūrhāī
@@ -607,7 +607,7 @@
 4	دل	دل	NOUN	N_IANM	Number=Sing	7	obl:arg	_	LTranslit=dl|Translit=dl
 5	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	4	nmod	_	LTranslit=mn|Translit=m
 6	آشیانه	آشیانه	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=Āšīānh|Translit=Āšīānh
-7	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
+7	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
 8	.	.	PUNCT	PUNC	_	7	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s30
@@ -888,7 +888,7 @@
 8	پاکستان	پاکستان	PROPN	N_IANM	Number=Sing	7	nmod	_	LTranslit=pākstān|Translit=pākstān
 9	پیشروی	پیشروی	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	LTranslit=pīšrūī|Translit=pīšrūī
 10	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	13	advcl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-11	باشند	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres	10	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšnd
+11	باشند	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšnd
 12	پاکستان	پاکستان	PROPN	N_IANM	Number=Sing	13	nsubj	_	LTranslit=pākstān|Translit=pākstān
 13	می‌توانست	توانست	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	LTranslit=tūānst|OrigLemma=توانست#توان|Translit=mītūānst
 14	از	از	ADP	PREP	_	15	case	_	LTranslit=āz|Translit=āz
@@ -1016,7 +1016,7 @@
 # text = پرسش بکن هر آنچه که خواهی.
 # translit = prsš bkn hr Ānčh kh ḫūāhī.
 1	پرسش	پرسش	NOUN	N_IANM	Number=Sing	2	compound:lvc	_	LTranslit=prsš|Translit=prsš
-2	بکن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=bkn
+2	بکن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=bkn
 3	هر	هر	DET	PREM_AMBAJ	_	4	det	_	LTranslit=hr|Translit=hr
 4	آنچه	آنچه	NOUN	N_IANM	Number=Sing	2	obj	_	LTranslit=Ānčh|Translit=Ānčh
 5	که	که	SCONJ	SUBR	_	6	mark	_	LTranslit=kh|Translit=kh
@@ -1138,7 +1138,7 @@
 13	به	به	ADP	PREP	_	14	case	_	LTranslit=bh|Translit=bh
 14	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	16	obl:arg	_	LTranslit=āū|Translit=āū
 15	ناهار	ناهار	NOUN	N_IANM	Number=Sing	16	obj	_	LTranslit=nāhār|Translit=nāhār
-16	بدهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=bdhīd
+16	بدهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=bdhīd
 17	.	.	PUNCT	PUNC	_	16	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s53
@@ -1323,7 +1323,7 @@
 7	،	،	PUNCT	PUNC	_	6	punct	_	LTranslit=,|Translit=,
 8	لااقل	لااقل	ADV	ADV_SADV	_	10	advmod	_	LTranslit=lāāql|Translit=lāāql
 9	بی‌نزاکتی	بی‌نزاکتی	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	LTranslit=bīnzāktī|Translit=bīnzāktī
-10	نکن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nkn
+10	نکن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nkn
 11	.	.	PUNCT	PUNC	_	10	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s62
@@ -1531,7 +1531,7 @@
 8	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	10	obl:arg	_	LTranslit=āū|Translit=āū
 9	توکل	توکل	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	LTranslit=tūkl|Translit=tūkl
 10	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-11	باشند	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres	10	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšnd
+11	باشند	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšnd
 12	.	.	PUNCT	PUNC	_	11	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s74
@@ -1593,7 +1593,7 @@
 3	داخلی	داخلی	ADJ	ADJ_AJP	_	2	amod	_	LTranslit=dāḫlī|Translit=dāḫlī
 4	ایران	ایران	PROPN	N_ANM	Number=Sing	2	nmod	_	LTranslit=āīrān|Translit=āīrān
 5	دخالت	دخالت	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=dḫālt|Translit=dḫālt
-6	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+6	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 7	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s78
@@ -1665,7 +1665,7 @@
 1	با	با	ADP	PREP	_	2	case	_	LTranslit=bā|Translit=bā
 2	آنها	آنها	PRON	PR_SEPER	Number=Plur|Person=3|PronType=Prs	4	obl:arg	_	LTranslit=Ānhā|Translit=Ānhā
 3	نیکی	نیکی	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	LTranslit=nīkī|Translit=nīkī
-4	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
+4	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
 5	.	.	PUNCT	PUNC	_	4	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s82
@@ -1717,7 +1717,7 @@
 15	را	را	ADP	POSTP	_	13	case	_	LTranslit=rā|Translit=rā
 16	تا	تا	NOUN	N_IANM	Number=Sing	17	compound:lvc	_	LTranslit=tā|Translit=tā
 17	زده	زد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	2	csubj	_	LTranslit=zd|OrigLemma=زد#زن|Translit=zdh
-18	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	17	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+18	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 19	.	.	PUNCT	PUNC	_	2	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s84
@@ -1753,7 +1753,7 @@
 5	ذهن	ذهن	NOUN	N_IANM	Number=Sing	8	obl	_	LTranslit=ḏhn|Translit=ḏhn
 6	خود	خود	PRON	PR_CREFX	_	5	nmod	_	LTranslit=ḫūd|Translit=ḫūd
 7	تابلو	تابلو	ADJ	ADJ_AJP	_	8	xcomp	_	LTranslit=tāblū|Translit=tāblū
-8	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+8	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 9	.	.	PUNCT	PUNC	_	8	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s87
@@ -1900,7 +1900,7 @@
 6	روند	روند	NOUN	N_IANM	Number=Sing	9	obl:arg	_	LTranslit=rūnd|Translit=rūnd
 7	کارها	کار	NOUN	N_IANM	Number=Plur	6	nmod	_	LTranslit=kār|Translit=kārhā
 8	تأثیر	تأثیر	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	LTranslit=tʾaṯīr|Translit=tʾaṯīr
-9	نهید	نهاد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	3	conj	_	LTranslit=nhād|OrigLemma=نهاد#نه|SpaceAfter=No|Translit=nhīd
+9	نهید	نهاد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	LTranslit=nhād|OrigLemma=نهاد#نه|SpaceAfter=No|Translit=nhīd
 10	.	.	PUNCT	PUNC	_	9	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s94
@@ -1965,7 +1965,7 @@
 4	آن	آن	PRON	PR_DEMON	Number=Sing	7	obj	_	LTranslit=Ān|Translit=Ān
 5	را	را	ADP	POSTP	_	4	case	_	LTranslit=rā|Translit=rā
 6	تباه	تباه	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=tbāh|Translit=tbāh
-7	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+7	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 8	.	.	PUNCT	PUNC	_	7	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s98
@@ -1985,7 +1985,7 @@
 12	خدا	خدا	PROPN	N_ANM	Number=Sing	11	flat:name	_	LTranslit=ḫdā|Translit=ḫdā
 13	تبسم	تبسم	NOUN	N_IANM	Number=Sing	14	compound:lvc	_	LTranslit=tbsm|Translit=tbsm
 14	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	5	acl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-15	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	14	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+15	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 16	.	.	PUNCT	PUNC	_	15	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s99
@@ -2130,7 +2130,7 @@
 3	خود	خود	PRON	PR_CREFX	_	2	nmod	_	LTranslit=ḫūd|Translit=ḫūd
 4	را	را	ADP	POSTP	_	2	case	_	LTranslit=rā|Translit=rā
 5	بازبینی	بازبینی	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=bāzbīnī|Translit=bāzbīnī
-6	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
+6	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
 7	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s106
@@ -2317,7 +2317,7 @@
 3	می‌کنید	کرد	VERB	V_ACT	Number=Plur|Person=2|Tense=Pres|Voice=Act	6	advcl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=mīknīd
 4	پس	پس	ADV	ADV_SADV	_	6	advmod	_	LTranslit=ps|Translit=ps
 5	ملایمت	ملایمت	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=mlāīmt|Translit=mlāīmt
-6	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+6	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 7	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s117
@@ -2442,7 +2442,7 @@
 1	موقع	موقع	NOUN	N_IANM	Number=Sing	4	obl	_	LTranslit=mūqʿ|Translit=mūqʿ
 2	افطار	افطار	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=āfṭār|Translit=āfṭār
 3	پرخوری	پرخوری	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	LTranslit=prḫūrī|Translit=prḫūrī
-4	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+4	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 5	.	.	PUNCT	PUNC	_	4	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s125
@@ -2486,7 +2486,7 @@
 3	به	به	ADP	PREP	_	4	case	_	LTranslit=bh|Translit=bh
 4	دلخواه	دلخواه	NOUN	N_IANM	Number=Sing	6	obl	_	LTranslit=dlḫūāh|Translit=dlḫūāh
 5	بیعت	بیعت	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=bīʿt|Translit=bīʿt
-6	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
+6	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
 7	یا	یا	CCONJ	CONJ	_	11	cc	_	LTranslit=īā|Translit=īā
 8	با	با	ADP	PREP	_	9	case	_	LTranslit=bā|Translit=bā
 9	نادلخواه	نادلخواه	NOUN	N_ANM	Number=Sing	11	obl:arg	_	LTranslit=nādlḫūāh|Translit=nādlḫūāh
@@ -2506,7 +2506,7 @@
 3	و	و	CCONJ	CONJ	_	4	cc	_	LTranslit=ū|Translit=ū
 4	یتیم	یتیم	NOUN	N_ANM	Number=Sing	2	conj	_	LTranslit=ītīm|Translit=ītīm
 5	بهره‌کشی	بهره‌کشی	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=bhrhkšī|Translit=bhrhkšī
-6	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+6	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 7	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s130
@@ -2563,10 +2563,10 @@
 1	دور	دور	NOUN	N_IANM	Number=Sing	4	obj	_	LTranslit=dūr|Translit=dūr
 2	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 3	نگاه	نگاه	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	LTranslit=ngāh|Translit=ngāh
-4	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=kn
+4	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=kn
 5	و	و	CCONJ	CONJ	_	7	cc	_	LTranslit=ū|Translit=ū
 6	پا	پا	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=pā|Translit=pā
-7	بزن	زد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	4	conj	_	LTranslit=zd|OrigLemma=زد#زن|SpaceAfter=No|Translit=bzn
+7	بزن	زد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LTranslit=zd|OrigLemma=زد#زن|SpaceAfter=No|Translit=bzn
 8	.	.	PUNCT	PUNC	_	7	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s133
@@ -2576,7 +2576,7 @@
 2	اسم	اسم	NOUN	N_IANM	Number=Sing	5	obl	_	LTranslit=āsm|Translit=āsm
 3	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	2	nmod	_	LTranslit=mā|Translit=mā
 4	بی‌نظمی	بی‌نظمی	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	LTranslit=bīnẓmī|Translit=bīnẓmī
-5	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+5	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 6	.	.	PUNCT	PUNC	_	5	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s134
@@ -2655,7 +2655,7 @@
 # text = پایکوبی بکنید.
 # translit = pāīkūbī bknīd.
 1	پایکوبی	پایکوبی	NOUN	N_IANM	Number=Sing	2	compound:lvc	_	LTranslit=pāīkūbī|Translit=pāīkūbī
-2	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
+2	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
 3	.	.	PUNCT	PUNC	_	2	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s140
@@ -2854,7 +2854,7 @@
 9	احساس	احساس	NOUN	N_IANM	Number=Sing	7	conj	_	LTranslit=āḥsās|Translit=āḥsās
 10	بهره	بهره	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	LTranslit=bhrh|Translit=bhrh
 11	گرفته	گرفت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	12	xcomp	_	LTranslit=grft|OrigLemma=گرفت#گیر|Translit=grfth
-12	شود	شد	VERB	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	21	advcl	_	LTranslit=šd|OrigLemma=شد#شو|SpaceAfter=No|Translit=šūd
+12	شود	شد	VERB	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	LTranslit=šd|OrigLemma=شد#شو|SpaceAfter=No|Translit=šūd
 13	،	،	PUNCT	PUNC	_	12	punct	_	LTranslit=,|Translit=,
 14	این	این	DET	PREM_DEMAJ	_	15	det	_	LTranslit=āīn|Translit=āīn
 15	کار	کار	NOUN	N_IANM	Number=Sing	21	nsubj	_	LTranslit=kār|Translit=kār
@@ -2890,7 +2890,7 @@
 18	هستید	هست	VERB	AUX	Number=Plur|Person=2	11	acl	_	LTranslit=hst|OrigLemma=#هست|SpaceAfter=No|Translit=hstīd
 19	-	-	PUNCT	PUNC	_	18	punct	_	LTranslit=-|Translit=-
 20	دیده‌بانی	دیده‌بانی	NOUN	N_IANM	Number=Sing	21	compound:lvc	_	LTranslit=dīdhbānī|Translit=dīdhbānī
-21	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	4	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+21	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 22	.	.	PUNCT	PUNC	_	21	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s152
@@ -2902,7 +2902,7 @@
 4	زمان	زمان	NOUN	N_IANM	Number=Sing	3	nmod	_	LTranslit=zmān|Translit=zmān
 5	ناله	ناله	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=nālh|Translit=nālh
 6	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-7	باشید	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=2|Tense=Pres	6	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšīd
+7	باشید	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšīd
 8	و	و	CCONJ	CONJ	_	15	cc	_	LTranslit=ū|Translit=ū
 9	شاید	شاید	ADV	ADV_SADV	_	15	advmod	_	LTranslit=šāīd|Translit=šāīd
 10	ستم	ستم	NOUN	N_IANM	Number=Sing	15	nsubj	_	LTranslit=stm|Translit=stm
@@ -2912,7 +2912,7 @@
 13	فغان	فغان	NOUN	N_IANM	Number=Sing	15	obl:arg	_	LTranslit=fġān|Translit=fġān
 14	تان	شما	PRON	PR_JOPER	Number=Plur|Person=2|PronType=Prs	13	nmod	_	LTranslit=šmā|Translit=tān
 15	آورده	آورد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	6	conj	_	LTranslit=Āūrd|OrigLemma=آورد#آور|Translit=Āūrdh
-16	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	15	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+16	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 17	.	.	PUNCT	PUNC	_	15	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s153
@@ -2997,7 +2997,7 @@
 5	حق	حق	NOUN	N_IANM	Number=Sing	7	obl:arg	_	LTranslit=ḥq|Translit=ḥq
 6	خو	خو	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=ḫū|Translit=ḫū
 7	گرفته	گرفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LTranslit=grft|OrigLemma=گرفت#گیر|Translit=grfth
-8	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	7	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
+8	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
 9	و	و	CCONJ	CONJ	_	21	cc	_	LTranslit=ū|Translit=ū
 10	در	در	ADP	PREP	_	12	case	_	LTranslit=dr|Translit=dr
 11	این	این	DET	PREM_DEMAJ	_	12	det	_	LTranslit=āīn|Translit=āīn
@@ -3008,7 +3008,7 @@
 16	باطل	باطل	NOUN	N_IANM	Number=Sing	18	obl:arg	_	LTranslit=bāṭl|Translit=bāṭl
 17	دوری	دوری	NOUN	N_IANM	Number=Sing	18	compound:lvc	_	LTranslit=dūrī|Translit=dūrī
 18	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	13	acl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-19	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	18	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+19	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 20	،	،	PUNCT	PUNC	_	18	punct	_	LTranslit=,|Translit=,
 21	رستگارتر	رستگار	ADJ	ADJ_AJCM	_	7	conj	_	LTranslit=rstgār|Translit=rstgārtr
 22	است	است	AUX	AUX	Number=Sing|Person=3	21	cop	_	LTranslit=āst|OrigLemma=#است|SpaceAfter=No|Translit=āst
@@ -3605,7 +3605,7 @@
 4	طرح‌های	طرح	NOUN	N_IANM	Number=Plur	7	obl:arg	_	LTranslit=ṭrḥ|Translit=ṭrḥhāī
 5	غیراصولی	غیراصولی	ADJ	ADJ_AJP	_	4	amod	_	LTranslit=ġīrāṣūlī|Translit=ġīrāṣūlī
 6	هزینه	هزینه	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=hzīnh|Translit=hzīnh
-7	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+7	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 8	.	.	PUNCT	PUNC	_	7	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s185
@@ -3623,7 +3623,7 @@
 10	آن	آن	PRON	PR_DEMON	Number=Sing	7	nmod	_	LTranslit=Ān|Translit=Ān
 11	حقیقتاً	حقیقتاً	ADV	ADV_SADV	_	13	advmod	_	LTranslit=ḥqīqtāan|Translit=ḥqīqtāan
 12	نظاره	نظاره	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	LTranslit=nẓārh|Translit=nẓārh
-13	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+13	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 14	.	.	PUNCT	PUNC	_	13	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s186
@@ -3691,7 +3691,7 @@
 12	با	با	ADP	PREP	_	13	case	_	LTranslit=bā|Translit=bā
 13	دقت	دقت	NOUN	N_IANM	Number=Sing	15	obl	_	LTranslit=dqt|Translit=dqt
 14	ورانداز	ورانداز	NOUN	N_IANM	Number=Sing	15	compound:lvc	_	LTranslit=ūrāndāz|Translit=ūrāndāz
-15	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+15	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 16	.	.	PUNCT	PUNC	_	15	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s189
@@ -4140,7 +4140,7 @@
 1	این	این	DET	PREM_DEMAJ	_	2	det	_	LTranslit=āīn|Translit=āīn
 2	شمشیر	شمشیر	NOUN	N_IANM	Number=Sing	4	obj	_	LTranslit=šmšīr|Translit=šmšīr
 3	را	را	ADP	POSTP	_	2	case	_	LTranslit=rā|Translit=rā
-4	بگیرید	گرفت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=grft|OrigLemma=گرفت#گیر|Translit=bgīrīd
+4	بگیرید	گرفت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=grft|OrigLemma=گرفت#گیر|Translit=bgīrīd
 5	و	و	CCONJ	CONJ	_	12	cc	_	LTranslit=ū|Translit=ū
 6	با	با	ADP	PREP	_	7	case	_	LTranslit=bā|Translit=bā
 7	آن	آن	PRON	PR_DEMON	Number=Sing	12	obl	_	LTranslit=Ān|Translit=Ān
@@ -4149,7 +4149,7 @@
 9	دشمن	دشمن	NOUN	N_ANM	Number=Plur	12	obl:arg	_	LTranslit=dšmn|Translit=dšmn
 10	تان	شما	PRON	PR_JOPER	Number=Plur|Person=2|PronType=Prs	9	nmod	_	LTranslit=šmā|Translit=tān
 11	یورش	یورش	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	LTranslit=īūrš|Translit=īūrš
-12	آورید	آورد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	4	conj	_	LTranslit=Āūrd|OrigLemma=آورد#آور|SpaceAfter=No|Translit=Āūrīd
+12	آورید	آورد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LTranslit=Āūrd|OrigLemma=آورد#آور|SpaceAfter=No|Translit=Āūrīd
 13	.	.	PUNCT	PUNC	_	12	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s212
@@ -4389,7 +4389,7 @@
 11	سال	سال	NOUN	N_IANM	Number=Sing	13	obl:arg	_	LTranslit=sāl|Translit=sāl
 12	سلطنت	سلطنت	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	LTranslit=slṭnt|Translit=slṭnt
 13	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	2	acl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-14	باشند	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres	13	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšnd
+14	باشند	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšnd
 15	؟	؟	PUNCT	PUNC	_	14	punct	_	LTranslit=?|Translit=?
 
 # sent_id = test-s224
@@ -4494,7 +4494,7 @@
 7	دیگران	دیگری	NOUN	N_ANM	Number=Plur	10	obj	_	LTranslit=dīgrī|Translit=dīgrān
 8	را	را	ADP	POSTP	_	7	case	_	LTranslit=rā|Translit=rā
 9	راهنمایی	راهنمایی	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	LTranslit=rāhnmāīī|Translit=rāhnmāīī
-10	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+10	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 11	.	.	PUNCT	PUNC	_	10	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s229
@@ -4768,12 +4768,12 @@
 5	امکانات	امکان	NOUN	N_IANM	Number=Plur	4	nmod	_	LTranslit=āmkān|Translit=āmkānāt
 6	رفاهی	رفاهی	ADJ	ADJ_AJP	_	5	amod	_	LTranslit=rfāhī|Translit=rfāhī
 7	دل	دل	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	LTranslit=dl|Translit=dl
-8	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=bknīd
+8	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=bknīd
 9	و	و	CCONJ	CONJ	_	13	cc	_	LTranslit=ū|Translit=ū
 10	جلوی	جلوی	ADP	PREP	_	11	case	_	LTranslit=jlūī|Translit=jlūī
 11	مجلس	مجلس	NOUN	N_IANM	Number=Sing	13	obl:arg	_	LTranslit=mjls|Translit=mjls
 12	تحصن	تحصن	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	LTranslit=tḥṣn|Translit=tḥṣn
-13	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	8	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
+13	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
 14	.	.	PUNCT	PUNC	_	13	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s242
@@ -4802,7 +4802,7 @@
 # sent_id = test-s244
 # text = بگذارید من موضوع رأی را تحریر بکنم.
 # translit = bgḏārīd mn mūḍūʿ rʾaī rā tḥrīr bknm.
-1	بگذارید	گذاشت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=gḏāšt|OrigLemma=گذاشت#گذار|Translit=bgḏārīd
+1	بگذارید	گذاشت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=gḏāšt|OrigLemma=گذاشت#گذار|Translit=bgḏārīd
 2	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	LTranslit=mn|Translit=mn
 3	موضوع	موضوع	NOUN	N_IANM	Number=Sing	7	obj	_	LTranslit=mūḍūʿ|Translit=mūḍūʿ
 4	رأی	رأی	NOUN	N_IANM	Number=Sing	3	nmod	_	LTranslit=rʾaī|Translit=rʾaī
@@ -4820,7 +4820,7 @@
 4	فرستادن	فرستادن	NOUN	N_IANM	Number=Sing	7	obl:arg	_	LTranslit=frstādn|Translit=frstādn
 5	صلوات	صلوات	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=ṣlūāt|Translit=ṣlūāt
 6	تحریض	تحریض	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=tḥrīḍ|Translit=tḥrīḍ
-7	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+7	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 8	.	.	PUNCT	PUNC	_	7	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s246
@@ -4886,7 +4886,7 @@
 3	تان	شما	PRON	PR_JOPER	Number=Plur|Person=2|PronType=Prs	2	nmod	_	LTranslit=šmā|Translit=tān
 4	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 5	تحلیل	تحلیل	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=tḥlīl|Translit=tḥlīl
-6	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
+6	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
 7	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s250
@@ -4956,7 +4956,7 @@
 3	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 4	خوب	خوب	ADJ	ADJ_AJP	_	6	advmod	_	LTranslit=ḫūb|Translit=ḫūb
 5	تربیت	تربیت	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=trbīt|Translit=trbīt
-6	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
+6	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
 7	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s254
@@ -5276,7 +5276,7 @@
 3	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
 4	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	3	aux	_	LTranslit=āst|OrigLemma=#است|Translit=āst
 5	تسبیح	تسبیح	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=tsbīḥ|Translit=tsbīḥ
-6	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	3	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
+6	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
 7	.	.	PUNCT	PUNC	_	3	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s273
@@ -5643,7 +5643,7 @@
 8	طور	طور	NOUN	N_IANM	Number=Sing	11	obl:arg	_	LTranslit=ṭūr|Translit=ṭūr
 9	تفریحی	تفریحی	ADJ	ADJ_AJP	_	8	amod	_	LTranslit=tfrīḥī|Translit=tfrīḥī
 10	راهپیمایی	راهپیمایی	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	LTranslit=rāhpīmāīī|Translit=rāhpīmāīī
-11	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+11	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 12	.	.	PUNCT	PUNC	_	11	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s292
@@ -5708,7 +5708,7 @@
 19	فرد	فرد	NOUN	N_ANM	Number=Sing	17	nmod	_	LTranslit=frd|Translit=frd
 20	رسیدگی	رسیدگی	NOUN	N_IANM	Number=Sing	21	compound:lvc	_	LTranslit=rsīdgī|Translit=rsīdgī
 21	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	11	acl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-22	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	21	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+22	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 23	.	.	PUNCT	PUNC	_	8	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s294
@@ -5823,7 +5823,7 @@
 # translit = bh mrdm bgū bh aīn mūḍʿ (msjd mqds jmkrān) rġbt knnd w Ān rā ʿzīz dārnd.
 1	به	به	ADP	PREP	_	2	case	_	LTranslit=bh|Translit=bh
 2	مردم	مردم	NOUN	N_ANM	Number=Plur	3	obl:arg	_	LTranslit=mrdm|Translit=mrdm
-3	بگو	گفت	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=gft|OrigLemma=گفت#گو|Translit=bgū
+3	بگو	گفت	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=gft|OrigLemma=گفت#گو|Translit=bgū
 4	به	به	ADP	PREP	_	6	case	_	LTranslit=bh|Translit=bh
 5	این	این	DET	PREM_DEMAJ	_	6	det	_	LTranslit=āīn|Translit=āīn
 6	موضع	موضع	NOUN	N_IANM	Number=Sing	13	obl:arg	_	LTranslit=mūḍʿ|Translit=mūḍʿ
@@ -6072,21 +6072,21 @@
 5	آورده‌اید	آورد	VERB	V_ACT	Number=Plur|Person=2|VerbForm=Part|Voice=Act	2	acl	_	LTranslit=Āūrd|OrigLemma=آورد#آور|SpaceAfter=No|Translit=Āūrdhāīd
 6	،	،	PUNCT	PUNC	_	5	punct	_	LTranslit=,|Translit=,
 7	رکوع	رکوع	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	LTranslit=rkūʿ|Translit=rkūʿ
-8	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
+8	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
 9	و	و	CCONJ	CONJ	_	11	cc	_	LTranslit=ū|Translit=ū
 10	سجده	سجده	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	LTranslit=sjdh|Translit=sjdh
-11	نمایید	نمود	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	8	conj	_	LTranslit=nmūd|OrigLemma=نمود#نما|Translit=nmāīīd
+11	نمایید	نمود	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	LTranslit=nmūd|OrigLemma=نمود#نما|Translit=nmāīīd
 12	و	و	CCONJ	CONJ	_	16	cc	_	LTranslit=ū|Translit=ū
 13-14	پروردگارتان	_	_	_	_	_	_	_	Translit=prūrdgārtān
 13	پروردگار	پروردگار	NOUN	N_ANM	Number=Sing	16	obj	_	LTranslit=prūrdgār|Translit=prūrdgār
 14	تان	شما	PRON	PR_JOPER	Number=Plur|Person=2|PronType=Prs	13	nmod	_	LTranslit=šmā|Translit=tān
 15	را	را	ADP	POSTP	_	13	case	_	LTranslit=rā|Translit=rā
-16	بپرستید	پرستید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	8	conj	_	LTranslit=prstīd|OrigLemma=پرستید#پرست|Translit=bprstīd
+16	بپرستید	پرستید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	LTranslit=prstīd|OrigLemma=پرستید#پرست|Translit=bprstīd
 17	و	و	CCONJ	CONJ	_	16	dep	_	LTranslit=ū|Translit=ū
 18	کار	کار	NOUN	N_IANM	Number=Sing	21	obj	_	LTranslit=kār|Translit=kār
 19	خیر	خیر	ADJ	ADJ_AJP	_	18	amod	_	LTranslit=ḫīr|Translit=ḫīr
 20	انجام	انجام	NOUN	N_IANM	Number=Sing	21	compound:lvc	_	LTranslit=ānjām|Translit=ānjām
-21	دهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	17	conj	_	LTranslit=dād|OrigLemma=داد#ده|Translit=dhīd
+21	دهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	LTranslit=dād|OrigLemma=داد#ده|Translit=dhīd
 22	باشد	باشد	INTJ	PSUS	_	21	ccomp	_	LTranslit=bāšd|Translit=bāšd
 23	که	که	SCONJ	SUBR	_	25	mark	_	LTranslit=kh|Translit=kh
 24	رستگار	رستگار	ADJ	ADJ_AJP	_	25	xcomp	_	LTranslit=rstgār|Translit=rstgār
@@ -6229,7 +6229,7 @@
 13	و	و	CCONJ	CONJ	_	14	cc	_	LTranslit=ū|Translit=ū
 14	ستد	ستد	NOUN	N_IANM	Number=Sing	12	conj	_	LTranslit=std|Translit=std
 15	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	3	csubj	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-16	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	15	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+16	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 17	.	.	PUNCT	PUNC	_	16	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s318
@@ -6426,7 +6426,7 @@
 4	با	با	ADP	PREP	_	5	case	_	LTranslit=bā|Translit=bā
 5	هم	هم	PRON	PR_RECPR	_	7	obl:arg	_	LTranslit=hm|Translit=hm
 6	تعارض	تعارض	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=tʿārḍ|Translit=tʿārḍ
-7	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	2	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+7	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 8	.	.	PUNCT	PUNC	_	2	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s327
@@ -6510,7 +6510,7 @@
 15	برای	برای	ADP	PREP	_	16	case	_	LTranslit=brāī|Translit=brāī
 16	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	18	obl	_	LTranslit=āū|Translit=āū
 17	تکلف	تکلف	NOUN	N_IANM	Number=Sing	18	compound:lvc	_	LTranslit=tklf|Translit=tklf
-18	مکن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=mkn
+18	مکن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=mkn
 19	و	و	CCONJ	CONJ	_	26	cc	_	LTranslit=ū|Translit=ū
 20	به	به	ADP	PREP	_	22	case	_	LTranslit=bh|Translit=bh
 21	هر	هر	DET	PREM_AMBAJ	_	22	det	_	LTranslit=hr|Translit=hr
@@ -6518,7 +6518,7 @@
 23	آماده	آماده	ADJ	ADJ_AJP	_	22	acl	_	LTranslit=Āmādh|Translit=Āmādh
 24	است	است	AUX	AUX	Number=Sing|Person=3	23	cop	_	LTranslit=āst|OrigLemma=#است|Translit=āst
 25	قناعت	قناعت	NOUN	N_IANM	Number=Sing	26	compound:lvc	_	LTranslit=qnāʿt|Translit=qnāʿt
-26	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	18	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
+26	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
 27	.	.	PUNCT	PUNC	_	26	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s331
@@ -6591,12 +6591,12 @@
 5	1	1	NUM	PRENUM	_	6	nummod	_	LTranslit=1|Translit=1
 6	فولدر	فولدر	NOUN	N_IANM	Number=Sing	8	obl:arg	_	LTranslit=fūldr|Translit=fūldr
 7	قرار	قرار	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	LTranslit=qrār|Translit=qrār
-8	داده	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=dād|OrigLemma=داد#ده|Translit=dādh
+8	داده	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=dād|OrigLemma=داد#ده|Translit=dādh
 9	و	و	CCONJ	CONJ	_	13	cc	_	LTranslit=ū|Translit=ū
 10	فایل‌ها	فایل	NOUN	N_IANM	Number=Plur	13	obj	_	LTranslit=fāīl|Translit=fāīlhā
 11	را	را	ADP	POSTP	_	10	case	_	LTranslit=rā|Translit=rā
 12	تفکیک	تفکیک	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	LTranslit=tfkīk|Translit=tfkīk
-13	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	8	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
+13	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
 14	.	.	PUNCT	PUNC	_	13	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s335
@@ -6682,7 +6682,7 @@
 8	و	و	CCONJ	CONJ	_	9	cc	_	LTranslit=ū|Translit=ū
 9	جامعه	جامعه	NOUN	N_ANM	Number=Sing	7	conj	_	LTranslit=jāmʿh|Translit=jāmʿh
 10	تعمیم	تعمیم	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	LTranslit=tʿmīm|Translit=tʿmīm
-11	بدهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=bdhīd
+11	بدهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=bdhīd
 12	.	.	PUNCT	PUNC	_	11	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s339
@@ -7295,7 +7295,7 @@
 16	مادربورد	مادربورد	NOUN	N_IANM	Number=Sing	1	conj	_	LTranslit=mādrbūrd|Translit=mādrbūrd
 17	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 18	تهویه	تهویه	NOUN	N_IANM	Number=Sing	19	compound:lvc	_	LTranslit=thūīh|Translit=thūīh
-19	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+19	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 20	.	.	PUNCT	PUNC	_	19	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s373
@@ -7351,17 +7351,17 @@
 7	صحنه	صحنه	NOUN	N_IANM	Number=Sing	9	obl	_	LTranslit=ṣḥnh|Translit=ṣḥnh
 8	بزرگ‌نمایی	بزرگ‌نمایی	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	LTranslit=bzrgnmāīī|Translit=bzrgnmāīī
 9	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-10	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	9	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+10	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 11	.	.	PUNCT	PUNC	_	9	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s377
 # text = برو در بحرین بذرپاشی کن.
 # translit = brū dr bḥrīn bḏrpāšī kn.
-1	برو	رفت	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=rft|OrigLemma=رفت#رو|Translit=brū
+1	برو	رفت	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=rft|OrigLemma=رفت#رو|Translit=brū
 2	در	در	ADP	PREP	_	3	case	_	LTranslit=dr|Translit=dr
 3	بحرین	بحرین	PROPN	N_IANM	Number=Sing	5	obl:arg	_	LTranslit=bḥrīn|Translit=bḥrīn
 4	بذرپاشی	بذرپاشی	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	LTranslit=bḏrpāšī|Translit=bḏrpāšī
-5	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	1	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
+5	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
 6	.	.	PUNCT	PUNC	_	5	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s378
@@ -7608,7 +7608,7 @@
 13	را	را	ADP	POSTP	_	12	case	_	LTranslit=rā|Translit=rā
 14	رد	رد	NOUN	N_IANM	Number=Sing	15	compound:lvc	_	LTranslit=rd|Translit=rd
 15	زده	زد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	10	acl	_	LTranslit=zd|OrigLemma=زد#زن|Translit=zdh
-16	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	15	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+16	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 17	.	.	PUNCT	PUNC	_	16	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s387
@@ -7783,7 +7783,7 @@
 17	کپی	کپی	NOUN	N_IANM	Number=Sing	15	nmod	_	LTranslit=kpī|Translit=kpī
 18	ردیف	ردیف	NOUN	N_IANM	Number=Sing	19	compound:lvc	_	LTranslit=rdīf|Translit=rdīf
 19	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-20	باشند	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres	19	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšnd
+20	باشند	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšnd
 21	.	.	PUNCT	PUNC	_	3	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s396
@@ -7812,7 +7812,7 @@
 1	آن	آن	DET	PREM_DEMAJ	_	2	det	_	LTranslit=Ān|Translit=Ān
 2	قدر	قدر	NOUN	N_IANM	Number=Sing	4	obl	_	LTranslit=qdr|Translit=qdr
 3	پیاده‌روی	پیاده‌روی	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	LTranslit=pīādhrūī|Translit=pīādhrūī
-4	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
+4	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
 5	تا	تا	SCONJ	SUBR	_	10	mark	_	LTranslit=tā|Translit=tā
 6	عضلات	عضله	NOUN	N_IANM	Number=Plur	10	nsubj	_	LTranslit=ʿḍlh|Translit=ʿḍlāt
 7	پای	پا	NOUN	N_IANM	Number=Sing	6	nmod	_	LTranslit=pā|Translit=pāī
@@ -7866,7 +7866,7 @@
 10	به	به	ADP	PREP	_	11	case	_	LTranslit=bh|Translit=bh
 11	خدا	خدا	NOUN	N_ANM	Number=Sing	13	obl:arg	_	LTranslit=ḫdā|Translit=ḫdā
 12	گره	گره	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	LTranslit=grh|Translit=grh
-13	بخورید	خورد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=ḫūrd|OrigLemma=خورد#خور|SpaceAfter=No|Translit=bḫūrīd
+13	بخورید	خورد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=ḫūrd|OrigLemma=خورد#خور|SpaceAfter=No|Translit=bḫūrīd
 14	.	.	PUNCT	PUNC	_	13	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s401
@@ -8281,9 +8281,9 @@
 # sent_id = test-s425
 # text = برو آرایشگری کن.
 # translit = brū Ārāīšgrī kn.
-1	برو	رفت	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=rft|OrigLemma=رفت#رو|Translit=brū
+1	برو	رفت	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=rft|OrigLemma=رفت#رو|Translit=brū
 2	آرایشگری	آرایشگر	ADJ	ADJ_AJP	_	3	xcomp	_	LTranslit=Ārāīšgr|Translit=Ārāīšgrī
-3	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	1	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
+3	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
 4	.	.	PUNCT	PUNC	_	3	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s426
@@ -8506,8 +8506,8 @@
 # text = توجه داشته باشید که منظور از وحدت این نیست که برویم با کسانی که علیه وحدت بیانیه داده‌اند و فتنه‌گری کرده‌اند، مذاکره کنیم.
 # translit = tūjh dāšth bāšīd kh mnẓūr az wḥdt aīn nīst kh brūīm bā ksānī kh ʿlīh wḥdt bīānīh dādhānd w ftnhgrī krdhānd, mḏākrh knīm.
 1	توجه	توجه	NOUN	N_IANM	Number=Sing	2	obj	_	LTranslit=tūjh|Translit=tūjh
-2	داشته	داشت	VERB	V_ACT	Mood=Imp|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāšth
-3	باشید	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=2|Tense=Pres	2	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšīd
+2	داشته	داشت	VERB	V_ACT	Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāšth
+3	باشید	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšīd
 4	که	که	SCONJ	SUBR	_	9	mark	_	LTranslit=kh|Translit=kh
 5	منظور	منظور	NOUN	N_IANM	Number=Sing	9	nsubj	_	LTranslit=mnẓūr|Translit=mnẓūr
 6	از	از	ADP	PREP	_	7	case	_	LTranslit=āz|Translit=āz
@@ -8632,7 +8632,7 @@
 5	خود	خود	PRON	PR_CREFX	_	4	nmod	_	LTranslit=ḫūd|Translit=ḫūd
 6	را	را	ADP	POSTP	_	4	case	_	LTranslit=rā|Translit=rā
 7	دنبال	دنبال	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	LTranslit=dnbāl|Translit=dnbāl
-8	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=bknīd
+8	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=bknīd
 9	و	و	CCONJ	CONJ	_	16	cc	_	LTranslit=ū|Translit=ū
 10	در	در	ADP	PREP	_	11	case	_	LTranslit=dr|Translit=dr
 11	راهی	راه	NOUN	N_IANM	Number=Sing	16	obl	_	LTranslit=rāh|Translit=rāhī
@@ -8822,12 +8822,12 @@
 1	چرا	چرا	ADV	ADV_SADV	_	3	advmod	_	LTranslit=črā|Translit=črā
 2	اینجا	اینجا	NOUN	N_IANM	Number=Sing	3	obl:arg	_	LTranslit=āīnjā|Translit=āīnjā
 3	نشسته‌اید	شست	VERB	V_ACT	Number=Plur|Person=2|Polarity=Neg|VerbForm=Part|Voice=Act	0	root	_	LTranslit=šst|OrigLemma=شست#شوی|Translit=nšsthāīd
-4	برخیزید	خاست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	3	ccomp	_	LTranslit=ḫāst|OrigLemma=بر#خاست|Translit=brḫīzīd
+4	برخیزید	خاست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	LTranslit=ḫāst|OrigLemma=بر#خاست|Translit=brḫīzīd
 5	و	و	CCONJ	CONJ	_	9	cc	_	LTranslit=ū|Translit=ū
 6	با	با	ADP	PREP	_	7	case	_	LTranslit=bā|Translit=bā
 7	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	9	obl	_	LTranslit=mn|Translit=mn
 8	گدایی	گدایی	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	LTranslit=gdāīī|Translit=gdāīī
-9	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	4	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+9	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 10	.	.	PUNCT	PUNC	_	3	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s450
@@ -9262,7 +9262,7 @@
 3	ان‌شاءالله	ان‌شاءالله	INTJ	PSUS	_	6	obl	_	LTranslit=ānšāʾāllh|Translit=ānšāʾāllh
 4	شنبه	شنبه	NOUN	N_IANM	Number=Sing	6	obl	_	LTranslit=šnbh|Translit=šnbh
 5	قول‌نامه	قول‌نامه	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=qūlnāmh|Translit=qūlnāmh
-6	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+6	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 7	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s471
@@ -9411,7 +9411,7 @@
 4	فارس	فارس	PROPN	N_IANM	Number=Sing	1	nmod	_	LTranslit=fārs|Translit=fārs
 5	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 6	کاهش	کاهش	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=kāhš|Translit=kāhš
-7	دهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=dhīd
+7	دهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=dhīd
 8	.	.	PUNCT	PUNC	_	7	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s477
@@ -9652,7 +9652,7 @@
 8	لینک	لینک	NOUN	N_IANM	Number=Sing	11	obl:arg	_	LTranslit=līnk|Translit=līnk
 9	ارسال‌شده	ارسال‌شده	ADJ	ADJ_AJP	_	8	amod	_	LTranslit=ārsālšdh|Translit=ārsālšdh
 10	کلیک	کلیک	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	LTranslit=klīk|Translit=klīk
-11	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+11	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 12	.	.	PUNCT	PUNC	_	11	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s490
@@ -9697,7 +9697,7 @@
 3	خود	خود	PRON	PR_CREFX	_	2	nmod	_	LTranslit=ḫūd|Translit=ḫūd
 4	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 5	کدگذاری	کدگذاری	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=kdgḏārī|Translit=kdgḏārī
-6	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+6	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 7	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s492
@@ -9926,7 +9926,7 @@
 5	می‌تواند	توانست	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LTranslit=tūānst|OrigLemma=توانست#توان|Translit=mītūānd
 6	حقیقت	حقیقت	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=ḥqīqt|Translit=ḥqīqt
 7	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	5	ccomp	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāšth
-8	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	7	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+8	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 9	؟	؟	PUNCT	PUNC	_	5	punct	_	LTranslit=?|Translit=?
 
 # sent_id = test-s502
@@ -10277,7 +10277,7 @@
 11	پیش	پیش	NOUN	N_IANM	Number=Sing	12	obl	_	LTranslit=pīš|Translit=pīš
 12	داری	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	8	acl	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dārī
 13	بهره	بهره	NOUN	N_IANM	Number=Sing	14	compound:lvc	_	LTranslit=bhrh|Translit=bhrh
-14	گیر	گرفت	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=grft|OrigLemma=گرفت#گیر|Translit=gīr
+14	گیر	گرفت	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=grft|OrigLemma=گرفت#گیر|Translit=gīr
 15	زیرا	زیرا	SCONJ	SUBR	_	14	advcl	_	LTranslit=zīrā|Translit=zīrā
 16	مؤمن	مؤمن	NOUN	N_ANM	Number=Sing	18	nsubj	_	LTranslit=mŪmn|Translit=mŪmn
 17	توشه	توشه	NOUN	N_IANM	Number=Sing	18	obj	_	LTranslit=tūšh|Translit=tūšh
@@ -10363,7 +10363,7 @@
 1	خود	خود	PRON	PR_CREFX	_	4	obj	_	LTranslit=ḫūd|Translit=ḫūd
 2	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 3	عادت	عادت	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	LTranslit=ʿādt|Translit=ʿādt
-4	دهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=dād|OrigLemma=داد#ده|Translit=dhīd
+4	دهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=dād|OrigLemma=داد#ده|Translit=dhīd
 5	که	که	SCONJ	SUBR	_	4	ccomp	_	LTranslit=kh|Translit=kh
 6	اگر	اگر	SCONJ	SUBR	_	9	mark	_	LTranslit=āgr|Translit=āgr
 7	سخنی	سخن	NOUN	N_IANM	Number=Sing	9	nsubj	_	LTranslit=sḫn|Translit=sḫnī
@@ -10441,7 +10441,7 @@
 18	صندوق‌ها	صندوق	NOUN	N_IANM	Number=Plur	20	nsubj	_	LTranslit=ṣndūq|Translit=ṣndūqhā
 19	دست	دست	NOUN	N_IANM	Number=Sing	20	compound:lvc	_	LTranslit=dst|Translit=dst
 20	خورده	خورد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	16	acl	_	LTranslit=ḫūrd|OrigLemma=خورد#خور|Translit=ḫūrdh
-21	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	20	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
+21	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
 22	آن	آن	PRON	PR_DEMON	Number=Sing	23	amod	_	LTranslit=Ān|Translit=Ān
 23	صندوق	صندوق	NOUN	N_IANM	Number=Sing	26	nsubj	_	LTranslit=ṣndūq|Translit=ṣndūq
 24	رأی	رأی	NOUN	N_IANM	Number=Sing	23	nmod	_	LTranslit=rʾaī|Translit=rʾaī
@@ -10652,7 +10652,7 @@
 23	خود	خود	PRON	PR_CREFX	_	22	nmod	_	LTranslit=ḫūd|Translit=ḫūd
 24	فراهم	فراهم	ADJ	ADJ_AJP	_	25	xcomp	_	LTranslit=frāhm|Translit=frāhm
 25	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	12	advcl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-26	باشیم	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=1|Tense=Pres	25	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšīm
+26	باشیم	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	25	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšīm
 27	.	.	PUNCT	PUNC	_	12	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s533
@@ -10669,7 +10669,7 @@
 8	ایران‌زمین	ایران‌زمین	NOUN	N_IANM	Number=Sing	7	nmod	_	LTranslit=āīrānzmīn|Translit=āīrānzmīn
 9	رواج	رواج	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	LTranslit=rūāj|Translit=rūāj
 10	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	1	xcomp	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-11	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	10	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
+11	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
 12	و	و	CCONJ	CONJ	_	18	cc	_	LTranslit=ū|Translit=ū
 13	همچنین	همچنین	ADV	ADV_SADV	_	18	advmod	_	LTranslit=hmčnīn|Translit=hmčnīn
 14	به	به	ADP	PREP	_	15	case	_	LTranslit=bh|Translit=bh
@@ -10873,13 +10873,13 @@
 21	دارد	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	18	acl	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dārd
 22	زبان‌بازی	زبان‌بازی	NOUN	N_IANM	Number=Sing	23	compound:lvc	_	LTranslit=zbānbāzī|Translit=zbānbāzī
 23	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	21	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-24	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	23	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+24	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 25	.	.	PUNCT	PUNC	_	15	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s542
 # text = بیایید به سان شعله‌های آتش زبانه بکشیم و تا مرگ و نابودی ستم از پای ننشینیم.
 # translit = bīāīīd bh sān šʿlhhāī Ātš zbānh bkšīm w tā mrg w nābūdī stm az pāī nnšīnīm.
-1	بیایید	آمد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=Āmd|OrigLemma=آمد#آ|Translit=bīāīīd
+1	بیایید	آمد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=Āmd|OrigLemma=آمد#آ|Translit=bīāīīd
 2	به	به	ADP	PREP	_	3	case	_	LTranslit=bh|Translit=bh
 3	سان	سان	NOUN	N_IANM	Number=Sing	7	obl	_	LTranslit=sān|Translit=sān
 4	شعله‌های	شعله	NOUN	N_IANM	Number=Plur	3	nmod	_	LTranslit=šʿlh|Translit=šʿlhhāī
@@ -12636,7 +12636,7 @@
 3	و	و	CCONJ	CONJ	_	4	cc	_	LTranslit=ū|Translit=ū
 4	خیالات	خیال	NOUN	N_IANM	Number=Plur	2	conj	_	LTranslit=ḫīāl|Translit=ḫīālāt
 5	تفاوت	تفاوت	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=tfāūt|Translit=tfāūt
-6	بگذارید	گذاشت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=gḏāšt|OrigLemma=گذاشت#گذار|SpaceAfter=No|Translit=bgḏārīd
+6	بگذارید	گذاشت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=gḏāšt|OrigLemma=گذاشت#گذار|SpaceAfter=No|Translit=bgḏārīd
 7	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s623
@@ -12753,7 +12753,7 @@
 26	فلسفی	فلسفی	ADJ	ADJ_AJP	_	25	amod	_	LTranslit=flsfī|Translit=flsfī
 27	مادی	مادی	ADJ	ADJ_AJP	_	25	amod	_	LTranslit=mādī|Translit=mādī
 28	زاییده	زایید	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	29	xcomp	_	LTranslit=zāīīd|OrigLemma=زایید#زا|Translit=zāīīdh
-29	شوند	شد	VERB	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres	45	advcl	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šūnd
+29	شوند	شد	VERB	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	45	advcl	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šūnd
 30	که	که	SCONJ	SUBR	_	40	mark	_	LTranslit=kh|Translit=kh
 31	در	در	ADP	PREP	_	33	case	_	LTranslit=dr|Translit=dr
 32	آن	آن	DET	PREM_DEMAJ	_	33	det	_	LTranslit=Ān|Translit=Ān
@@ -12821,7 +12821,7 @@
 5	آگاه	آگاه	ADJ	ADJ_AJP	_	0	root	_	LTranslit=Āgāh|Translit=Āgāh
 6	است	است	AUX	AUX	Number=Sing|Person=3	5	cop	_	LTranslit=āst|OrigLemma=#است|Translit=āst
 7	سعی	سعی	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	LTranslit=sʿī|Translit=sʿī
-8	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	5	conj	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=nknīd
+8	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=nknīd
 9	حق	حق	NOUN	N_IANM	Number=Sing	13	obj	_	LTranslit=ḥq|Translit=ḥq
 10	دیگری	دیگری	ADJ	ADJ_AJP	_	9	amod	_	LTranslit=dīgrī|Translit=dīgrī
 11	را	را	ADP	POSTP	_	9	case	_	LTranslit=rā|Translit=rā
@@ -12962,7 +12962,7 @@
 2	کدها	کد	NOUN	N_IANM	Number=Plur	5	obj	_	LTranslit=kd|Translit=kdhā
 3	را	را	ADP	POSTP	_	2	case	_	LTranslit=rā|Translit=rā
 4	جایگزین	جایگزین	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	LTranslit=jāīgzīn|Translit=jāīgzīn
-5	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
+5	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
 6	.	.	PUNCT	PUNC	_	5	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s637
@@ -13036,7 +13036,7 @@
 5	جریان	جریان	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=jrīān|Translit=jrīān
 6	انتخابات	انتخابات	NOUN	N_IANM	Number=Sing	5	nmod	_	LTranslit=āntḫābāt|Translit=āntḫābāt
 7	جدیت	جدیت	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	LTranslit=jdīt|Translit=jdīt
-8	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
+8	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
 9	.	.	PUNCT	PUNC	_	8	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s641
@@ -13163,7 +13163,7 @@
 # text = جرقه بزن!
 # translit = jrqh bzn!
 1	جرقه	جرقه	NOUN	N_IANM	Number=Sing	2	compound:lvc	_	LTranslit=jrqh|Translit=jrqh
-2	بزن	زد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=zd|OrigLemma=زد#زن|SpaceAfter=No|Translit=bzn
+2	بزن	زد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=zd|OrigLemma=زد#زن|SpaceAfter=No|Translit=bzn
 3	!	!	PUNCT	PUNC	_	2	punct	_	LTranslit=!|Translit=!
 
 # sent_id = test-s649
@@ -13533,14 +13533,14 @@
 29	و	و	CCONJ	CONJ	_	30	cc	_	LTranslit=ū|Translit=ū
 30	تصدیق	تصدیق	NOUN	N_IANM	Number=Sing	28	conj	_	LTranslit=tṣdīq|Translit=tṣdīq
 31	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	12	conj	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāšth
-32	باشند	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres	31	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšnd
+32	باشند	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšnd
 33	.	.	PUNCT	PUNC	_	2	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s665
 # text = تصعید کن روح من را تا ابرها جان بگیرند.
 # translit = tṣʿīd kn rūḥ mn rā tā abrhā jān bgīrnd.
 1	تصعید	تصعید	NOUN	N_IANM	Number=Sing	2	compound:lvc	_	LTranslit=tṣʿīd|Translit=tṣʿīd
-2	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=kn
+2	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=kn
 3	روح	روح	NOUN	N_IANM	Number=Sing	2	obj	_	LTranslit=rūḥ|Translit=rūḥ
 4	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	3	nmod	_	LTranslit=mn|Translit=mn
 5	را	را	ADP	POSTP	_	3	case	_	LTranslit=rā|Translit=rā
@@ -13675,7 +13675,7 @@
 2	مقابل	مقابل	NOUN	N_IANM	Number=Sing	5	obl:arg	_	LTranslit=mqābl|Translit=mqābl
 3	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	2	nmod	_	LTranslit=mn|Translit=mn
 4	تذلل	تذلل	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	LTranslit=tḏll|Translit=tḏll
-5	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+5	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 6	.	.	PUNCT	PUNC	_	5	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s673
@@ -13733,7 +13733,7 @@
 12	را	را	ADP	POSTP	_	9	case	_	LTranslit=rā|Translit=rā
 13	صیقل	صیقل	NOUN	N_IANM	Number=Sing	14	compound:lvc	_	LTranslit=ṣīql|Translit=ṣīql
 14	داده	داد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	1	acl	_	LTranslit=dād|OrigLemma=داد#ده|Translit=dādh
-15	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	14	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+15	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 16	.	.	PUNCT	PUNC	_	15	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s676
@@ -13762,7 +13762,7 @@
 3	صیانت	صیانت	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=ṣīānt|Translit=ṣīānt
 4	و	و	CCONJ	CONJ	_	5	cc	_	LTranslit=ū|Translit=ū
 5	حفظ	حفظ	NOUN	N_IANM	Number=Sing	3	conj	_	LTranslit=ḥfẓ|Translit=ḥfẓ
-6	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
+6	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
 7	و	و	CCONJ	CONJ	_	15	cc	_	LTranslit=ū|Translit=ū
 8-9	خودتان	_	_	_	_	_	_	_	Translit=ḫūdtān
 8	خود	خودتان	PRON	PR_UCREFX	Number=Plur|Person=2|PronType=Prs	15	obj	_	LTranslit=ḫūdtān|Translit=ḫūd
@@ -13772,7 +13772,7 @@
 12	وسیلهٔ	وسیله	NOUN	N_IANM	Number=Sing	15	obl	_	LTranslit=ūsīlh|Translit=ūsīlhٔ
 13	تقوا	تقوا	NOUN	N_IANM	Number=Sing	12	nmod	_	LTranslit=tqūā|Translit=tqūā
 14	صیانت	صیانت	NOUN	N_IANM	Number=Sing	15	compound:lvc	_	LTranslit=ṣīānt|Translit=ṣīānt
-15	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	6	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+15	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 16	.	.	PUNCT	PUNC	_	15	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s678
@@ -14030,7 +14030,7 @@
 7	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	10	advcl	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=krd
 8	،	،	PUNCT	PUNC	_	7	punct	_	LTranslit=,|Translit=,
 9	غسل	غسل	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	LTranslit=ġsl|Translit=ġsl
-10	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=kn
+10	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=kn
 11	و	و	CCONJ	CONJ	_	22	cc	_	LTranslit=ū|Translit=ū
 12	با	با	ADP	PREP	_	14	case	_	LTranslit=bā|Translit=bā
 13	یک	یک	NUM	PRENUM	_	14	nummod	_	LTranslit=īk|Translit=īk
@@ -14042,7 +14042,7 @@
 19	ظهر	ظهر	NOUN	N_IANM	Number=Sing	18	nmod	_	LTranslit=ẓhr|Translit=ẓhr
 20	و	و	CCONJ	CONJ	_	21	cc	_	LTranslit=ū|Translit=ū
 21	عصر	عصر	NOUN	N_IANM	Number=Sing	19	conj	_	LTranslit=ʿṣr|Translit=ʿṣr
-22	بگزار	گزارد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	10	conj	_	LTranslit=gzārd|OrigLemma=گزارد#گزار|SpaceAfter=No|Translit=bgzār
+22	بگزار	گزارد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	LTranslit=gzārd|OrigLemma=گزارد#گزار|SpaceAfter=No|Translit=bgzār
 23	!	!	PUNCT	PUNC	_	22	punct	_	LTranslit=!|Translit=!
 
 # sent_id = test-s693
@@ -14144,7 +14144,7 @@
 9	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	LTranslit=mn|Translit=mn
 10	سریال‌سازی	سریال‌سازی	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	LTranslit=srīālsāzī|Translit=srīālsāzī
 11	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	7	acl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-12	باشم	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=1|Tense=Pres	11	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšm
+12	باشم	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšm
 13	نبود	بود	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	7	cop	_	LTranslit=būd|OrigLemma=بود#باش|Translit=nbūd
 14	و	و	CCONJ	CONJ	_	24	cc	_	LTranslit=ū|Translit=ū
 15	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	24	nsubj	_	LTranslit=mn|Translit=mn
@@ -14247,7 +14247,7 @@
 3	خود	خود	PRON	PR_CREFX	_	1	nmod	_	LTranslit=ḫūd|Translit=ḫūd
 4	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 5	لیست	لیست	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=līst|Translit=līst
-6	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+6	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 7	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s703
@@ -14548,7 +14548,7 @@
 # text = تصمیم بگیرید که در تعامل با تمام افراد، اخلاق را لحاظ بدارید.
 # translit = tṣmīm bgīrīd kh dr tʿāml bā tmām afrād, aḫlāq rā lḥāẓ bdārīd.
 1	تصمیم	تصمیم	NOUN	N_IANM	Number=Sing	2	compound:lvc	_	LTranslit=tṣmīm|Translit=tṣmīm
-2	بگیرید	گرفت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=grft|OrigLemma=گرفت#گیر|Translit=bgīrīd
+2	بگیرید	گرفت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=grft|OrigLemma=گرفت#گیر|Translit=bgīrīd
 3	که	که	SCONJ	SUBR	_	13	mark	_	LTranslit=kh|Translit=kh
 4	در	در	ADP	PREP	_	5	case	_	LTranslit=dr|Translit=dr
 5	تعامل	تعامل	NOUN	N_IANM	Number=Sing	13	obl	_	LTranslit=tʿāml|Translit=tʿāml
@@ -14559,7 +14559,7 @@
 10	اخلاق	اخلاق	NOUN	N_IANM	Number=Sing	13	obj	_	LTranslit=āḫlāq|Translit=āḫlāq
 11	را	را	ADP	POSTP	_	10	case	_	LTranslit=rā|Translit=rā
 12	لحاظ	لحاظ	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	LTranslit=lḥāẓ|Translit=lḥāẓ
-13	بدارید	داشت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	2	ccomp	_	LTranslit=dāšt|OrigLemma=داشت#دار|SpaceAfter=No|Translit=bdārīd
+13	بدارید	داشت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	LTranslit=dāšt|OrigLemma=داشت#دار|SpaceAfter=No|Translit=bdārīd
 14	.	.	PUNCT	PUNC	_	2	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s722
@@ -15209,9 +15209,9 @@
 # sent_id = test-s757
 # text = بخوانید و بخندید دنیا ارزش ندارد که همه‌اش غم بخورید.
 # translit = bḫūānīd w bḫndīd dnīā arzš ndārd kh hmhāš ġm bḫūrīd.
-1	بخوانید	خواند	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=ḫūānd|OrigLemma=خواند#خوان|Translit=bḫūānīd
+1	بخوانید	خواند	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=ḫūānd|OrigLemma=خواند#خوان|Translit=bḫūānīd
 2	و	و	CCONJ	CONJ	_	3	cc	_	LTranslit=ū|Translit=ū
-3	بخندید	خندید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	conj	_	LTranslit=ḫndīd|OrigLemma=خندید#خند|Translit=bḫndīd
+3	بخندید	خندید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LTranslit=ḫndīd|OrigLemma=خندید#خند|Translit=bḫndīd
 4	دنیا	دنیا	NOUN	N_IANM	Number=Sing	6	nsubj	_	LTranslit=dnīā|Translit=dnīā
 5	ارزش	ارزش	NOUN	N_IANM	Number=Sing	6	obj	_	LTranslit=ārzš|Translit=ārzš
 6	ندارد	داشت	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Act	1	conj	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=ndārd
@@ -15289,16 +15289,16 @@
 # sent_id = test-s761
 # text = برخیزید، بلند شوید، قامت برافرازید و قیامت کنید.
 # translit = brḫīzīd, blnd šūīd, qāmt brāfrāzīd w qīāmt knīd.
-1	برخیزید	خاست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=ḫāst|OrigLemma=بر#خاست|SpaceAfter=No|Translit=brḫīzīd
+1	برخیزید	خاست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=ḫāst|OrigLemma=بر#خاست|SpaceAfter=No|Translit=brḫīzīd
 2	،	،	PUNCT	PUNC	_	4	punct	_	LTranslit=,|Translit=,
 3	بلند	بلند	ADJ	ADJ_AJP	_	4	compound:lvc	_	LTranslit=blnd|Translit=blnd
-4	شوید	شد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	conj	_	LTranslit=šd|OrigLemma=شد#شو|SpaceAfter=No|Translit=šūīd
+4	شوید	شد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LTranslit=šd|OrigLemma=شد#شو|SpaceAfter=No|Translit=šūīd
 5	،	،	PUNCT	PUNC	_	4	punct	_	LTranslit=,|Translit=,
 6	قامت	قامت	NOUN	N_IANM	Number=Sing	7	obj	_	LTranslit=qāmt|Translit=qāmt
-7	برافرازید	افراشت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	conj	_	LTranslit=āfrāšt|OrigLemma=بر#افراشت|Translit=brāfrāzīd
+7	برافرازید	افراشت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LTranslit=āfrāšt|OrigLemma=بر#افراشت|Translit=brāfrāzīd
 8	و	و	CCONJ	CONJ	_	10	cc	_	LTranslit=ū|Translit=ū
 9	قیامت	قیامت	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	LTranslit=qīāmt|Translit=qīāmt
-10	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+10	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 11	.	.	PUNCT	PUNC	_	10	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s762
@@ -15482,7 +15482,7 @@
 13	به	به	ADP	PREP	_	14	case	_	LTranslit=bh|Translit=bh
 14	جوانان	جوان	NOUN	N_ANM	Number=Plur	16	obl:arg	_	LTranslit=jūān|Translit=jūānān
 15	میدان	میدان	NOUN	N_IANM	Number=Sing	16	obj	_	LTranslit=mīdān|Translit=mīdān
-16	بدهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	12	ccomp	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=bdhīd
+16	بدهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=bdhīd
 17	.	.	PUNCT	PUNC	_	12	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s771
@@ -15699,7 +15699,7 @@
 8	صورت	صورت	NOUN	N_IANM	Number=Sing	11	obl	_	LTranslit=ṣūrt|Translit=ṣūrt
 9	محدود	محدود	ADJ	ADJ_AJP	_	8	amod	_	LTranslit=mḥdūd|Translit=mḥdūd
 10	منتشر	منتشر	ADJ	ADJ_AJP	_	11	compound:lvc	_	LTranslit=mntšr|Translit=mntšr
-11	سازید	ساخت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=sāḫt|OrigLemma=ساخت#ساز|SpaceAfter=No|Translit=sāzīd
+11	سازید	ساخت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=sāḫt|OrigLemma=ساخت#ساز|SpaceAfter=No|Translit=sāzīd
 12	.	.	PUNCT	PUNC	_	11	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s780
@@ -15824,7 +15824,7 @@
 22	نماز	نماز	NOUN	N_IANM	Number=Sing	19	amod	_	LTranslit=nmāz|Translit=nmāz
 23	شب	شب	NOUN	N_IANM	Number=Sing	22	nmod	_	LTranslit=šb|Translit=šb
 24	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	11	acl	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāšth
-25	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	24	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
+25	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
 26	چنین	چنین	DET	PREM_DEMAJ	_	27	det	_	LTranslit=čnīn|Translit=čnīn
 27	مرکبی	مرکب	NOUN	N_IANM	Number=Sing	34	nsubj	_	LTranslit=mrkb|Translit=mrkbī
 28	نه	نه	ADV	ADV_SADV	_	34	advmod	_	LTranslit=nh|Translit=nh
@@ -15857,10 +15857,10 @@
 8	از	از	ADP	PREP	_	9	case	_	LTranslit=āz|Translit=āz
 9	نزد	نزد	NOUN	N_IANM	Number=Sing	11	obl:arg	_	LTranslit=nzd|Translit=nzd
 10	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	9	nmod	_	LTranslit=mn|Translit=mn
-11	برخیزید	خاست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	5	ccomp	_	LTranslit=ḫāst|OrigLemma=بر#خاست|Translit=brḫīzīd
+11	برخیزید	خاست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	LTranslit=ḫāst|OrigLemma=بر#خاست|Translit=brḫīzīd
 12	و	و	CCONJ	CONJ	_	14	cc	_	LTranslit=ū|Translit=ū
 13	دور	دور	ADJ	ADJ_AJP	_	14	xcomp	_	LTranslit=dūr|Translit=dūr
-14	شوید	شد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	11	conj	_	LTranslit=šd|OrigLemma=شد#شو|SpaceAfter=No|Translit=šūīd
+14	شوید	شد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	LTranslit=šd|OrigLemma=شد#شو|SpaceAfter=No|Translit=šūīd
 15	،	،	PUNCT	PUNC	_	17	punct	_	LTranslit=,|Translit=,
 16	سزاوار	سزاوار	ADJ	ADJ_AJP	_	17	xcomp	_	LTranslit=szāūār|Translit=szāūār
 17	نیست	هست	VERB	AUX	Number=Sing|Person=3|Polarity=Neg	14	advcl	_	LTranslit=hst|OrigLemma=#هست|Translit=nīst
@@ -16350,7 +16350,7 @@
 18	از	از	ADP	PREP	_	19	case	_	LTranslit=āz|Translit=āz
 19	انقلاب	انقلاب	NOUN	N_IANM	Number=Sing	17	nmod	_	LTranslit=ānqlāb|Translit=ānqlāb
 20	میدان‌داری	میدان‌داری	NOUN	N_IANM	Number=Sing	21	compound:lvc	_	LTranslit=mīdāndārī|Translit=mīdāndārī
-21	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	7	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+21	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 22	.	.	PUNCT	PUNC	_	5	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s810
@@ -16468,7 +16468,7 @@
 1	هرچه	هرچه	NOUN	N_IANM	Number=Sing	4	obl	_	LTranslit=hrčh|Translit=hrčh
 2	می‌خواهید	خواست	VERB	V_ACT	Number=Plur|Person=2|Tense=Pres|Voice=Act	1	acl	_	LTranslit=ḫūāst|OrigLemma=خواست#خواه|Translit=mīḫūāhīd
 3	نعره	نعره	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	LTranslit=nʿrh|Translit=nʿrh
-4	بکشید	کشید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=kšīd|OrigLemma=کشید#کش|SpaceAfter=No|Translit=bkšīd
+4	بکشید	کشید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=kšīd|OrigLemma=کشید#کش|SpaceAfter=No|Translit=bkšīd
 5	.	.	PUNCT	PUNC	_	4	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s817
@@ -16720,7 +16720,7 @@
 12	اسلامی	اسلامی	ADJ	ADJ_AJP	_	11	amod	_	LTranslit=āslāmī|Translit=āslāmī
 13	نظارت	نظارت	NOUN	N_IANM	Number=Sing	14	obj	_	LTranslit=nẓārt|Translit=nẓārt
 14	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	4	ccomp	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāšth
-15	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	14	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+15	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 16	.	.	PUNCT	PUNC	_	4	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s827
@@ -17422,7 +17422,7 @@
 11	با	با	ADP	PREP	_	12	case	_	LTranslit=bā|Translit=bā
 12	آن	آن	PRON	PR_DEMON	Number=Sing	14	obl:arg	_	LTranslit=Ān|Translit=Ān
 13	مقابله	مقابله	NOUN	N_IANM	Number=Sing	14	compound:lvc	_	LTranslit=mqāblh|Translit=mqāblh
-14	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
+14	بکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
 15	.	.	PUNCT	PUNC	_	14	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s863
@@ -17553,7 +17553,7 @@
 13	چنین	چنین	DET	PREM_DEMAJ	_	14	det	_	LTranslit=čnīn|Translit=čnīn
 14	معاهده‌ای	معاهده	NOUN	N_IANM	Number=Sing	15	obj	_	LTranslit=mʿāhdh|Translit=mʿāhdhāī
 15	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-16	باشیم	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=1|Tense=Pres	15	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšīm
+16	باشیم	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšīm
 17	.	.	PUNCT	PUNC	_	15	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s871
@@ -17604,7 +17604,7 @@
 7	هم	هم	ADV	ADV_SADV	_	6	dep	_	LTranslit=hm|Translit=hm
 8	بع‌بع	بع‌بع	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	LTranslit=bʿbʿ|Translit=bʿbʿ
 9	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	5	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-10	باشم	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=1|Tense=Pres	9	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšm
+10	باشم	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšm
 11	.	.	PUNCT	PUNC	_	1	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s874
@@ -17719,7 +17719,7 @@
 16	ثانیه‌ای	ثانیه	NOUN	N_IANM	Number=Sing	14	conj	_	LTranslit=ṯānīh|Translit=ṯānīhāī
 17	سفسطه	سفسطه	NOUN	N_IANM	Number=Sing	18	compound:lvc	_	LTranslit=sfsṭh|Translit=sfsṭh
 18	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-19	باشم	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=1|Tense=Pres	18	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšm
+19	باشم	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšm
 20	.	.	PUNCT	PUNC	_	1	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s879
@@ -17947,7 +17947,7 @@
 11	را	را	ADP	POSTP	_	9	case	_	LTranslit=rā|Translit=rā
 12	صافکاری	صافکاری	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	LTranslit=ṣāfkārī|Translit=ṣāfkārī
 13	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	21	advcl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-14	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	13	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
+14	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
 15	آیا	آیا	PART	PART	_	21	mark	_	LTranslit=Āīā|Translit=Āīā
 16	بیمه	بیمه	NOUN	N_IANM	Number=Sing	21	nsubj	_	LTranslit=bīmh|Translit=bīmh
 17	خسارت	خسارت	NOUN	N_IANM	Number=Sing	21	obj	_	LTranslit=ḫsārt|Translit=ḫsārt
@@ -18199,7 +18199,7 @@
 8	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	7	nmod	_	LTranslit=āū|Translit=āū
 9	خانه	خانه	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	LTranslit=ḫānh|Translit=ḫānh
 10	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	1	acl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-11	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	10	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
+11	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
 12	هیچ	هیچ	DET	PREM_AMBAJ	_	13	det	_	LTranslit=hīč|Translit=hīč
 13	گاه	گاه	NOUN	N_IANM	Number=Sing	20	obl	_	LTranslit=gāh|Translit=gāh
 14	ایمان	ایمان	NOUN	N_IANM	Number=Sing	20	obj	_	LTranslit=āīmān|Translit=āīmān
@@ -18281,7 +18281,7 @@
 8	نفر	نفر	NOUN	N_ANM	Number=Sing	10	obl:arg	_	LTranslit=nfr|Translit=nfr
 9	دلالت	دلالت	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	LTranslit=dlālt|Translit=dlālt
 10	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāšth
-11	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	10	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+11	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 12	.	.	PUNCT	PUNC	_	3	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s905
@@ -18455,7 +18455,7 @@
 5	»	»	PUNCT	PUNC	_	4	punct	_	LTranslit=»|Translit=»
 6	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 7	نام	نام	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	LTranslit=nām|Translit=nām
-8	ببرید	برد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=brd|OrigLemma=برد#بر|Translit=bbrīd
+8	ببرید	برد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=brd|OrigLemma=برد#بر|Translit=bbrīd
 9	و	و	CCONJ	CONJ	_	16	cc	_	LTranslit=ū|Translit=ū
 10	برای	برای	ADP	PREP	_	12	case	_	LTranslit=brāī|Translit=brāī
 11	هر	هر	DET	PREM_AMBAJ	_	12	det	_	LTranslit=hr|Translit=hr
@@ -18463,7 +18463,7 @@
 13	دو	دو	NUM	PRENUM	_	12	compound	_	LTranslit=dū|Translit=dū
 14	نمونه	نمونه	NOUN	N_IANM	Number=Sing	16	compound:lvc	_	LTranslit=nmūnh|Translit=nmūnh
 15	مثال	مثال	NOUN	N_IANM	Number=Sing	14	nmod	_	LTranslit=mṯāl|Translit=mṯāl
-16	بیاورید	آورد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	8	conj	_	LTranslit=Āūrd|OrigLemma=آورد#آور|SpaceAfter=No|Translit=bīāūrīd
+16	بیاورید	آورد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	LTranslit=Āūrd|OrigLemma=آورد#آور|SpaceAfter=No|Translit=bīāūrīd
 17	.	.	PUNCT	PUNC	_	8	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s914
@@ -18528,7 +18528,7 @@
 3	امر	امر	NOUN	N_IANM	Number=Sing	6	obl:arg	_	LTranslit=āmr|Translit=āmr
 4	همیشه	همیشه	NOUN	N_IANM	Number=Sing	6	obl	_	LTranslit=hmīšh|Translit=hmīšh
 5	مداومت	مداومت	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=mdāūmt|Translit=mdāūmt
-6	بکن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bkn
+6	بکن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bkn
 7	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s917
@@ -18841,7 +18841,7 @@
 15	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	14	nmod	_	LTranslit=āū|Translit=š
 16	دوام	دوام	NOUN	N_IANM	Number=Sing	17	compound:lvc	_	LTranslit=dūām|Translit=dūām
 17	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	5	acl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-18	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	17	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+18	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 19	.	.	PUNCT	PUNC	_	18	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s935
@@ -19242,7 +19242,7 @@
 15	کلمه	کلمه	NOUN	N_IANM	Number=Sing	17	obj	_	LTranslit=klmh|Translit=klmh
 16	یاد	یاد	NOUN	N_IANM	Number=Sing	17	compound:lvc	_	LTranslit=īād|Translit=īād
 17	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāšth
-18	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	17	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+18	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 19	.	.	PUNCT	PUNC	_	17	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s953
@@ -19408,7 +19408,7 @@
 21	آن	آن	PRON	PR_DEMON	Number=Sing	24	obj	_	LTranslit=Ān|Translit=Ān
 22	را	را	ADP	POSTP	_	21	case	_	LTranslit=rā|Translit=rā
 23	شل	شل	ADJ	ADJ_AJP	_	24	compound:lvc	_	LTranslit=šl|Translit=šl
-24	نگیرید	گرفت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	8	conj	_	LTranslit=grft|OrigLemma=گرفت#گیر|SpaceAfter=No|Translit=ngīrīd
+24	نگیرید	گرفت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	LTranslit=grft|OrigLemma=گرفت#گیر|SpaceAfter=No|Translit=ngīrīd
 25	.	.	PUNCT	PUNC	_	24	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s960
@@ -19674,7 +19674,7 @@
 # text = نیکویی کن همچنان که خداوند بر تو نیکویی کرد.
 # translit = nīkūīī kn hmčnān kh ḫdāūnd br tū nīkūīī krd.
 1	نیکویی	نیکویی	NOUN	N_IANM	Number=Sing	2	compound:lvc	_	LTranslit=nīkūīī|Translit=nīkūīī
-2	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=kn
+2	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=kn
 3	همچنان	همچنان	NOUN	N_IANM	Number=Sing	2	obl	_	LTranslit=hmčnān|Translit=hmčnān
 4	که	که	SCONJ	SUBR	_	9	mark	_	LTranslit=kh|Translit=kh
 5	خداوند	خداوند	NOUN	N_ANM	Number=Sing	9	nsubj	_	LTranslit=ḫdāūnd|Translit=ḫdāūnd
@@ -19775,7 +19775,7 @@
 20	می‌فرمود	فرمود	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	4	ccomp	_	LTranslit=frmūd|OrigLemma=فرمود#فرما|SpaceAfter=No|Translit=mīfrmūd
 21	:	:	PUNCT	PUNC	_	23	punct	_	LTranslit=:|Translit=:
 22	نیرنگ	نیرنگ	NOUN	N_IANM	Number=Sing	23	compound:lvc	_	LTranslit=nīrng|Translit=nīrng
-23	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	20	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+23	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	20	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 24	.	.	PUNCT	PUNC	_	4	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s977
@@ -20275,7 +20275,7 @@
 2	چه	چه	NOUN	N_IANM	Number=Sing	5	obj	_	LTranslit=čh|Translit=čh
 3	خواهی	خواست	VERB	V_ACT	Number=Sing|Person=2|Tense=Pres|Voice=Act	2	acl	_	LTranslit=ḫūāst|OrigLemma=خواست#خواه|Translit=ḫūāhī
 4	وصیت	وصیت	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	LTranslit=ūṣīt|Translit=ūṣīt
-5	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
+5	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
 6	،	،	PUNCT	PUNC	_	15	punct	_	LTranslit=,|Translit=,
 7	همان	همان	DET	PREM_DEMAJ	_	8	det	_	LTranslit=hmān|Translit=hmān
 8	گونه	گونه	NOUN	N_IANM	Number=Sing	15	obl	_	LTranslit=gūnh|Translit=gūnh
@@ -20341,13 +20341,13 @@
 2-3	دادم	_	_	_	_	_	_	_	Translit=dādm
 2	داد	داد	NOUN	N_IANM	Number=Sing	4	obl:arg	_	LTranslit=dād|Translit=dād
 3	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	2	nmod	_	LTranslit=mn|Translit=m
-4	برسید	رسید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=rsīd|OrigLemma=رسید#رس|SpaceAfter=No|Translit=brsīd
+4	برسید	رسید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=rsīd|OrigLemma=رسید#رس|SpaceAfter=No|Translit=brsīd
 5	،	،	PUNCT	PUNC	_	9	punct	_	LTranslit=,|Translit=,
 6	به	به	ADP	PREP	_	7	case	_	LTranslit=bh|Translit=bh
 7-8	کمکم	_	_	_	_	_	_	_	Translit=kmkm
 7	کمک	کمک	NOUN	N_IANM	Number=Sing	9	obl:arg	_	LTranslit=kmk|Translit=kmk
 8	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	7	nmod	_	LTranslit=mn|Translit=m
-9	برسید	رسید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	4	conj	_	LTranslit=rsīd|OrigLemma=رسید#رس|SpaceAfter=No|Translit=brsīd
+9	برسید	رسید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LTranslit=rsīd|OrigLemma=رسید#رس|SpaceAfter=No|Translit=brsīd
 10	،	،	PUNCT	PUNC	_	9	punct	_	LTranslit=,|Translit=,
 11	باز	باز	ADV	ADV_SADV	_	12	advmod	_	LTranslit=bāz|Translit=bāz
 12	ریختند	ریخت	VERB	V_ACT	Number=Plur|Person=3|Tense=Past|Voice=Act	4	conj	_	LTranslit=rīḫt|OrigLemma=ریخت#ریز|Translit=rīḫtnd
@@ -21203,7 +21203,7 @@
 11	در	در	NOUN	N_IANM	Number=Sing	10	nmod	_	LTranslit=dr|Translit=dr
 12	بدرقه	بدرقه	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	LTranslit=bdrqh|Translit=bdrqh
 13	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	4	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-14	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	13	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+14	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 15	.	.	PUNCT	PUNC	_	4	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1041
@@ -21217,7 +21217,7 @@
 5	تمام	تمام	NOUN	N_IANM	Number=Plur	8	obl	_	LTranslit=tmām|Translit=tmām
 6	جهان	جهان	NOUN	N_IANM	Number=Sing	5	nmod	_	LTranslit=jhān|Translit=jhān
 7	اشاعه	اشاعه	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	LTranslit=āšāʿh|Translit=āšāʿh
-8	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
+8	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=kn
 9	.	.	PUNCT	PUNC	_	8	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1042
@@ -21249,7 +21249,7 @@
 1	از	از	ADP	PREP	_	2	case	_	LTranslit=āz|Translit=āz
 2	بیمارستان‌ها	بیمارستان	NOUN	N_IANM	Number=Plur	4	obl:arg	_	LTranslit=bīmārstān|Translit=bīmārstānhā
 3	گروکشی	گروکشی	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	LTranslit=grūkšī|Translit=grūkšī
-4	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+4	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 5	!	!	PUNCT	PUNC	_	4	punct	_	LTranslit=!|Translit=!
 
 # sent_id = test-s1044
@@ -21340,7 +21340,7 @@
 4	و	و	CCONJ	CONJ	_	5	cc	_	LTranslit=ū|Translit=ū
 5	معرفت	معرفت	NOUN	N_IANM	Number=Sing	3	conj	_	LTranslit=mʿrft|Translit=mʿrft
 6	همنشینی	همنشینی	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=hmnšīnī|Translit=hmnšīnī
-7	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+7	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 8	.	.	PUNCT	PUNC	_	7	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1047
@@ -21664,7 +21664,7 @@
 22	برای	برای	ADP	PREP	_	23	case	_	LTranslit=brāī|Translit=brāī
 23	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	25	obl	_	LTranslit=mā|Translit=mā
 24	نرخ‌گذاری	نرخ‌گذاری	NOUN	N_IANM	Number=Sing	25	compound:lvc	_	LTranslit=nrḫgḏārī|Translit=nrḫgḏārī
-25	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	19	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+25	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	19	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 26	.	.	PUNCT	PUNC	_	19	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1058
@@ -21724,7 +21724,7 @@
 23	اش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	22	nmod	_	LTranslit=āū|Translit=āš
 24	ریش	ریش	NOUN	N_IANM	Number=Sing	25	obj	_	LTranslit=rīš|Translit=rīš
 25	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	20	ccomp	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāšth
-26	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	25	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+26	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 27	!	!	PUNCT	PUNC	_	26	punct	_	LTranslit=!|Translit=!
 
 # sent_id = test-s1060
@@ -21804,7 +21804,7 @@
 1	تا	تا	SCONJ	SUBR	_	2	mark	_	LTranslit=tā|Translit=tā
 2	می‌توانید	توانست	VERB	V_ACT	Number=Plur|Person=2|Tense=Pres|Voice=Act	4	advcl	_	LTranslit=tūānst|OrigLemma=توانست#توان|Translit=mītūānīd
 3	وقت‌کشی	وقت‌کشی	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	LTranslit=ūqtkšī|Translit=ūqtkšī
-4	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+4	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 5	.	.	PUNCT	PUNC	_	4	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1065
@@ -21846,7 +21846,7 @@
 8	ایجاد	ایجاد	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	LTranslit=āījād|Translit=āījād
 9	شده‌اند	شد	VERB	V_ACT	Number=Plur|Person=3|VerbForm=Part|Voice=Act	1	acl	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šdhānd
 10	وصله	وصله	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	LTranslit=ūṣlh|Translit=ūṣlh
-11	بزنید	زد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=zd|OrigLemma=زد#زن|SpaceAfter=No|Translit=bznīd
+11	بزنید	زد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=zd|OrigLemma=زد#زن|SpaceAfter=No|Translit=bznīd
 12	.	.	PUNCT	PUNC	_	11	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1067
@@ -21937,11 +21937,11 @@
 10	عزیز	عزیز	NOUN	N_IANM	Number=Sing	1	conj	_	LTranslit=ʿzīz|Translit=ʿzīz
 11	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	10	nmod	_	LTranslit=mn|Translit=m
 12	ام‌کلثوم	ام‌کلثوم	PROPN	N_ANM	Number=Sing	10	appos	_	LTranslit=āmklṯūm|Translit=āmklṯūm
-13	بیایید	آمد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	conj	_	LTranslit=Āmd|OrigLemma=آمد#آ|Translit=bīāīīd
+13	بیایید	آمد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LTranslit=Āmd|OrigLemma=آمد#آ|Translit=bīāīīd
 14	با	با	ADP	PREP	_	15	case	_	LTranslit=bā|Translit=bā
 15	مادر	مادر	NOUN	N_ANM	Number=Sing	17	obl:arg	_	LTranslit=mādr|Translit=mādr
 16	وداع	وداع	NOUN	N_IANM	Number=Sing	17	compound:lvc	_	LTranslit=ūdāʿ|Translit=ūdāʿ
-17	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	13	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+17	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 18	.	.	PUNCT	PUNC	_	13	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1072
@@ -22625,13 +22625,13 @@
 1	از	از	ADP	PREP	_	2	case	_	LTranslit=āz|Translit=āz
 2	فتوشاپ	فتوشاپ	NOUN	N_IANM	Number=Sing	3	nmod	_	LTranslit=ftūšāp|Translit=ftūšāp
 3	لذت	لذت	NOUN	N_IANM	Number=Sing	4	obj	_	LTranslit=lḏt|Translit=lḏt
-4	ببرید	برد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=brd|OrigLemma=برد#بر|Translit=bbrīd
+4	ببرید	برد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=brd|OrigLemma=برد#بر|Translit=bbrīd
 5	و	و	CCONJ	CONJ	_	10	cc	_	LTranslit=ū|Translit=ū
 6	همگان	همگان	NOUN	N_ANM	Number=Plur	10	obj	_	LTranslit=hmgān|Translit=hmgān
 7	را	را	ADP	POSTP	_	6	case	_	LTranslit=rā|Translit=rā
 8	به	به	ADP	PREP	_	9	case	_	LTranslit=bh|Translit=bh
 9	حیرت	حیرت	NOUN	N_IANM	Number=Sing	10	obl:arg	_	LTranslit=ḥīrt|Translit=ḥīrt
-10	آورید	آورد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	4	conj	_	LTranslit=Āūrd|OrigLemma=آورد#آور|SpaceAfter=No|Translit=Āūrīd
+10	آورید	آورد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LTranslit=Āūrd|OrigLemma=آورد#آور|SpaceAfter=No|Translit=Āūrīd
 11	.	.	PUNCT	PUNC	_	10	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1104
@@ -22717,7 +22717,7 @@
 5	به	به	ADP	PREP	_	6	case	_	LTranslit=bh|Translit=bh
 6	زانو	زانو	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=zānū|Translit=zānū
 7	درآمده	آمد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	1	acl	_	LTranslit=Āmd|OrigLemma=در#آمد|Translit=drĀmdh
-8	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	7	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
+8	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
 9	بسیار	بسیار	ADV	ADV_SADV	_	10	advmod	_	LTranslit=bsīār|Translit=bsīār
 10	بدتر	بد	ADJ	ADJ_AJCM	_	0	root	_	LTranslit=bd|Translit=bdtr
 11	از	از	ADP	PREP	_	12	case	_	LTranslit=āz|Translit=āz
@@ -22851,7 +22851,7 @@
 16	را	را	ADP	POSTP	_	15	case	_	LTranslit=rā|Translit=rā
 17	محدود	محدود	ADJ	ADJ_AJP	_	18	xcomp	_	LTranslit=mḥdūd|Translit=mḥdūd
 18	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-19	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	18	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
+19	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
 20	و	و	CCONJ	CONJ	_	32	cc	_	LTranslit=ū|Translit=ū
 21	هر	هر	DET	PREM_AMBAJ	_	22	det	_	LTranslit=hr|Translit=hr
 22	کس	کس	NOUN	N_ANM	Number=Sing	32	nsubj	_	LTranslit=ks|Translit=ks
@@ -22865,7 +22865,7 @@
 30	در	در	ADP	PREP	_	31	case	_	LTranslit=dr|Translit=dr
 31	شمار	شمار	NOUN	N_IANM	Number=Sing	32	compound:lvc	_	LTranslit=šmār|Translit=šmār
 32	آورده	آورد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	18	conj	_	LTranslit=Āūrd|OrigLemma=آورد#آور|Translit=Āūrdh
-33	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	32	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
+33	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
 34	و	و	CCONJ	CONJ	_	47	cc	_	LTranslit=ū|Translit=ū
 35	هر	هر	DET	PREM_AMBAJ	_	36	det	_	LTranslit=hr|Translit=hr
 36	کس	کس	NOUN	N_ANM	Number=Sing	47	nsubj	_	LTranslit=ks|Translit=ks
@@ -22880,7 +22880,7 @@
 45	را	را	ADP	POSTP	_	43	case	_	LTranslit=rā|Translit=rā
 46	باطل	باطل	ADJ	ADJ_AJP	_	47	xcomp	_	LTranslit=bāṭl|Translit=bāṭl
 47	دانسته	دانست	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	18	conj	_	LTranslit=dānst|OrigLemma=دانست#دان|Translit=dānsth
-48	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	47	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+48	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	47	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 49	.	.	PUNCT	PUNC	_	47	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1114
@@ -23104,7 +23104,7 @@
 10	شان	آنها	PRON	PR_JOPER	Number=Plur|Person=3|PronType=Prs	9	nmod	_	LTranslit=Ānhā|Translit=šān
 11	به	به	ADP	PREP	_	12	case	_	LTranslit=bh|Translit=bh
 12	انجام	انجام	NOUN	N_IANM	Number=Sing	13	obl:arg	_	LTranslit=ānjām|Translit=ānjām
-13	برسانید	رسانید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=rsānīd|OrigLemma=رسانید#رسان|SpaceAfter=No|Translit=brsānīd
+13	برسانید	رسانید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=rsānīd|OrigLemma=رسانید#رسان|SpaceAfter=No|Translit=brsānīd
 14	.	.	PUNCT	PUNC	_	13	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1126
@@ -23135,7 +23135,7 @@
 6	را	را	ADP	POSTP	_	4	case	_	LTranslit=rā|Translit=rā
 7	به	به	ADP	PREP	_	8	case	_	LTranslit=bh|Translit=bh
 8	دست	دست	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	LTranslit=dst|Translit=dst
-9	بیاورید	آورد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=Āūrd|OrigLemma=آورد#آور|SpaceAfter=No|Translit=bīāūrīd
+9	بیاورید	آورد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=Āūrd|OrigLemma=آورد#آور|SpaceAfter=No|Translit=bīāūrīd
 10	.	.	PUNCT	PUNC	_	9	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1128
@@ -23544,7 +23544,7 @@
 8	به	به	ADP	PREP	_	9	case	_	LTranslit=bh|Translit=bh
 9	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	11	obl:arg	_	LTranslit=āū|Translit=āū
 10	شیر	شیر	NOUN	N_IANM	Number=Sing	11	obj	_	LTranslit=šīr|Translit=šīr
-11	بدهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=bdhīd
+11	بدهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=bdhīd
 12	.	.	PUNCT	PUNC	_	11	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1147
@@ -23593,7 +23593,7 @@
 9	خود	خودش	PRON	PR_UCREFX	Number=Sing|Person=3|PronType=Prs	8	nmod	_	LTranslit=ḫūdš|Translit=ḫūd
 10	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	9	nmod	_	LTranslit=āū|Translit=š
 11	عشق	عشق	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	LTranslit=ʿšq|Translit=ʿšq
-12	بورزید	ورزید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=ūrzīd|OrigLemma=ورزید#ورز|SpaceAfter=No|Translit=būrzīd
+12	بورزید	ورزید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=ūrzīd|OrigLemma=ورزید#ورز|SpaceAfter=No|Translit=būrzīd
 13	.	.	PUNCT	PUNC	_	12	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1150
@@ -23630,10 +23630,10 @@
 11	خود	خود	PRON	PR_CREFX	_	10	nmod	_	LTranslit=ḫūd|Translit=ḫūd
 12	هستید	هست	VERB	AUX	Number=Plur|Person=2	7	acl	_	LTranslit=hst|OrigLemma=#هست|Translit=hstīd
 13	جوگیر	جوگیر	ADJ	ADJ_AJP	_	14	xcomp	_	LTranslit=jūgīr|Translit=jūgīr
-14	نشوید	شد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	LTranslit=šd|OrigLemma=شد#شو|Translit=nšūīd
+14	نشوید	شد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=šd|OrigLemma=شد#شو|Translit=nšūīd
 15	و	و	CCONJ	CONJ	_	17	cc	_	LTranslit=ū|Translit=ū
 16	ویراژ	ویراژ	NOUN	N_IANM	Number=Sing	17	compound:lvc	_	LTranslit=ūīrāž|Translit=ūīrāž
-17	ندهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	14	conj	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=ndhīd
+17	ندهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=ndhīd
 18	.	.	PUNCT	PUNC	_	17	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1152
@@ -23961,10 +23961,10 @@
 1	با	با	ADP	PREP	_	2	case	_	LTranslit=bā|Translit=bā
 2	هم	هم	PRON	PR_RECPR	_	4	obl:arg	_	LTranslit=hm|Translit=hm
 3	معاشرت	معاشرت	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	LTranslit=mʿāšrt|Translit=mʿāšrt
-4	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
+4	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
 5	اما	اما	CCONJ	CONJ	_	7	cc	_	LTranslit=āmā|Translit=āmā
 6	همخوابگی	همخوابگی	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=hmḫūābgī|Translit=hmḫūābgī
-7	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	4	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+7	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 8	.	.	PUNCT	PUNC	_	7	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1166
@@ -23972,7 +23972,7 @@
 # translit = kmtr kršmh kn kh kšndhst aīn šrāb.
 1	کمتر	کم	ADJ	ADJ_AJCM	_	3	advmod	_	LTranslit=km|Translit=kmtr
 2	کرشمه	کرشمه	NOUN	N_IANM	Number=Sing	3	compound:lvc	_	LTranslit=kršmh|Translit=kršmh
-3	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=kn
+3	کن	کرد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=kn
 4	که	که	SCONJ	SUBR	_	5	mark	_	LTranslit=kh|Translit=kh
 5-6	کشندهست	_	_	_	_	_	_	_	Translit=kšndhst
 5	کشنده	کشنده	ADJ	ADJ_AJP	_	3	advcl	_	LTranslit=kšndh|Translit=kšndh
@@ -24173,7 +24173,7 @@
 26	تاریخی	تاریخی	ADJ	ADJ_AJP	_	24	amod	_	LTranslit=tārīḫī|Translit=tārīḫī
 27	اشارت	اشارت	NOUN	N_IANM	Number=Sing	28	compound:lvc	_	LTranslit=āšārt|Translit=āšārt
 28	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	3	conj	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāšth
-29	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	28	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+29	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 30	.	.	PUNCT	PUNC	_	28	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1176
@@ -24263,7 +24263,7 @@
 3	نگهبان	نگهبان	PROPN	N_IANM	Number=Sing	2	flat:name	_	LTranslit=nghbān|Translit=nghbān
 4	اغماض	اغماض	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	LTranslit=āġmāḍ|Translit=āġmāḍ
 5	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	10	advcl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-6	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	5	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+6	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 7	،	،	PUNCT	PUNC	_	5	punct	_	LTranslit=,|Translit=,
 8	دچار	دچار	ADJ	ADJ_AJP	_	10	xcomp	_	LTranslit=dčār|Translit=dčār
 9	تخلف	تخلف	NOUN	N_IANM	Number=Sing	8	obl:arg	_	LTranslit=tḫlf|Translit=tḫlf
@@ -24335,7 +24335,7 @@
 2	علت	علت	NOUN	N_IANM	Number=Sing	4	nsubj	_	LTranslit=ʿlt|Translit=ʿlt
 3	وجود	وجود	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	LTranslit=ūjūd|Translit=ūjūd
 4	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	11	advcl	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāšth
-5	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	4	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+5	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 6	،	،	PUNCT	PUNC	_	4	punct	_	LTranslit=,|Translit=,
 7	معلول	معلول	NOUN	N_ANM	Number=Sing	11	nsubj	_	LTranslit=mʿlūl|Translit=mʿlūl
 8	به	به	ADP	PREP	_	9	case	_	LTranslit=bh|Translit=bh
@@ -24477,7 +24477,7 @@
 13	چه	چه	ADV	ADV_SADV	_	15	advmod	_	LTranslit=čh|Translit=čh
 14	نسیان	نسیان	NOUN	N_IANM	Number=Sing	15	compound:lvc	_	LTranslit=nsīān|Translit=nsīān
 15	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	11	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-16	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	15	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
+16	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšd
 17	و	و	CCONJ	CONJ	_	23	cc	_	LTranslit=ū|Translit=ū
 18	چه	چه	ADV	ADV_SADV	_	23	advmod	_	LTranslit=čh|Translit=čh
 19	از	از	ADP	PREP	_	20	case	_	LTranslit=āz|Translit=āz
@@ -24485,7 +24485,7 @@
 21	سهو	سهو	NOUN	N_IANM	Number=Sing	20	nmod	_	LTranslit=shū|Translit=shū
 22	تمام	تمام	ADJ	ADJ_AJP	_	23	advmod	_	LTranslit=tmām|Translit=tmām
 23	خوانده	خواند	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	15	conj	_	LTranslit=ḫūānd|OrigLemma=خواند#خوان|Translit=ḫūāndh
-24	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	23	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+24	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 25	.	.	PUNCT	PUNC	_	11	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1193
@@ -24503,7 +24503,7 @@
 10	یک	یک	NUM	PRENUM	_	11	nummod	_	LTranslit=īk|Translit=īk
 11	نوگرایی	نوگرایی	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	LTranslit=nūgrāīī|Translit=nūgrāīī
 12	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	9	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-13	باشم	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=1|Tense=Pres	12	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšm
+13	باشم	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšm
 14	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1194
@@ -24732,7 +24732,7 @@
 7	پیش	پیش	ADP	PREP	_	8	case	_	LTranslit=pīš|Translit=pīš
 8	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	10	obl:arg	_	LTranslit=mā|Translit=mā
 9	هم	هم	ADV	ADV_SADV	_	8	dep	_	LTranslit=hm|Translit=hm
-10	بیا	آمد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	6	ccomp	_	LTranslit=Āmd|OrigLemma=آمد#آ|SpaceAfter=No|Translit=bīā
+10	بیا	آمد	VERB	V_ACT	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	LTranslit=Āmd|OrigLemma=آمد#آ|SpaceAfter=No|Translit=bīā
 11	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1205
@@ -24749,7 +24749,7 @@
 9	شده‌اند	شد	VERB	V_ACT	Number=Plur|Person=3|VerbForm=Part|Voice=Act	2	acl	_	LTranslit=šd|OrigLemma=شد#شو|SpaceAfter=No|Translit=šdhānd
 10	،	،	PUNCT	PUNC	_	9	punct	_	LTranslit=,|Translit=,
 11	شخم	شخم	NOUN	N_IANM	Number=Sing	12	obj	_	LTranslit=šḫm|Translit=šḫm
-12	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
+12	نکنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=nknīd
 13	.	.	PUNCT	PUNC	_	12	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1206
@@ -24777,13 +24777,13 @@
 3	از	از	ADP	PREP	_	4	case	_	LTranslit=āz|Translit=āz
 4	مملکت	مملکت	NOUN	N_IANM	Number=Sing	5	obl:arg	_	LTranslit=mmlkt|Translit=mmlkt
 5	پاک	پاک	ADJ	ADJ_AJP	_	6	xcomp	_	LTranslit=pāk|Translit=pāk
-6	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
+6	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
 7	و	و	CCONJ	CONJ	_	12	cc	_	LTranslit=ū|Translit=ū
 8	به	به	ADP	PREP	_	9	case	_	LTranslit=bh|Translit=bh
 9	روی	رو	NOUN	N_IANM	Number=Sing	12	obl:arg	_	LTranslit=rū|Translit=rūī
 10	هم	هم	PRON	PR_RECPR	_	9	nmod	_	LTranslit=hm|Translit=hm
 11	چنگ	چنگ	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	LTranslit=čng|Translit=čng
-12	نکشید	کشید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|Voice=Act	6	conj	_	LTranslit=kšīd|OrigLemma=کشید#کش|SpaceAfter=No|Translit=nkšīd
+12	نکشید	کشید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	LTranslit=kšīd|OrigLemma=کشید#کش|SpaceAfter=No|Translit=nkšīd
 13	.	.	PUNCT	PUNC	_	12	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1208
@@ -25393,7 +25393,7 @@
 4	م	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	7	obl:arg	_	LTranslit=mn|Translit=m
 5	را	را	ADP	POSTP	_	4	case	_	LTranslit=rā|Translit=rā
 6	اعانت	اعانت	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=āʿānt|Translit=āʿānt
-7	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+7	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 8	.	.	PUNCT	PUNC	_	7	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1235
@@ -25478,7 +25478,7 @@
 25	زمینه	زمینه	NOUN	N_IANM	Number=Sing	27	obl	_	LTranslit=zmīnh|Translit=zmīnh
 26	اعلام	اعلام	NOUN	N_IANM	Number=Sing	27	compound:lvc	_	LTranslit=āʿlām|Translit=āʿlām
 27	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	15	conj	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāšth
-28	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	27	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+28	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 29	.	.	PUNCT	PUNC	_	2	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1238
@@ -25665,7 +25665,7 @@
 17	به	به	ADP	PREP	_	18	case	_	LTranslit=bh|Translit=bh
 18	شخصی	شخص	NOUN	N_ANM	Number=Sing	16	nmod	_	LTranslit=šḫṣ|Translit=šḫṣī
 19	نشده	شد	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Act	10	acl	_	LTranslit=šd|OrigLemma=شد#شو|Translit=nšdh
-20	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	19	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+20	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 21	.	.	PUNCT	PUNC	_	20	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1245
@@ -25880,10 +25880,10 @@
 2	باشید	بود	AUX	AUX	Number=Plur|Person=2	1	cop	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšīd
 3	،	،	PUNCT	PUNC	_	5	punct	_	LTranslit=,|Translit=,
 4	ناز	ناز	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	LTranslit=nāz|Translit=nāz
-5	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	conj	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
+5	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
 6	و	و	CCONJ	CONJ	_	8	cc	_	LTranslit=ū|Translit=ū
 7	غمزه	غمزه	NOUN	N_IANM	Number=Sing	8	compound:lvc	_	LTranslit=ġmzh|Translit=ġmzh
-8	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	1	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+8	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 9	.	.	PUNCT	PUNC	_	8	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1258
@@ -26134,7 +26134,7 @@
 5	که	که	SCONJ	SUBR	_	7	mark	_	LTranslit=kh|Translit=kh
 6	شفاف‌سازی	شفاف‌سازی	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	LTranslit=šfāfsāzī|Translit=šfāfsāzī
 7	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	4	acl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-8	باشیم	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=1|Tense=Pres	7	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšīm
+8	باشیم	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=bāšīm
 9	بخشی	بخش	NOUN	N_IANM	Number=Sing	16	obj	_	LTranslit=bḫš|Translit=bḫšī
 10	از	از	ADP	PREP	_	11	case	_	LTranslit=āz|Translit=āz
 11	دلیل	دلیل	NOUN	N_IANM	Number=Sing	9	nmod	_	LTranslit=dlīl|Translit=dlīl
@@ -26215,7 +26215,7 @@
 16	را	را	ADP	POSTP	_	11	case	_	LTranslit=rā|Translit=rā
 17	شکل	شکل	NOUN	N_IANM	Number=Sing	18	compound:lvc	_	LTranslit=škl|Translit=škl
 18	داده	داد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl	_	LTranslit=dād|OrigLemma=داد#ده|Translit=dādh
-19	باشیم	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=1|Tense=Pres	18	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšīm
+19	باشیم	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšīm
 20	.	.	PUNCT	PUNC	_	2	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1272
@@ -26697,7 +26697,7 @@
 9	بنزن	بنزن	NOUN	N_IANM	Number=Sing	2	nmod	_	LTranslit=bnzn|Translit=bnzn
 10	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 11	سنتز	سنتز	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	LTranslit=sntz|Translit=sntz
-12	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+12	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 13	.	.	PUNCT	PUNC	_	12	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1293
@@ -26882,7 +26882,7 @@
 13	در	در	ADP	PREP	_	14	case	_	LTranslit=dr|Translit=dr
 14	شهر	شهر	NOUN	N_IANM	Number=Sing	16	obl	_	LTranslit=šhr|Translit=šhr
 15	آواز	آواز	NOUN	N_IANM	Number=Sing	16	compound:lvc	_	LTranslit=Āūāz|Translit=Āūāz
-16	بدهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	12	ccomp	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=bdhīd
+16	بدهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp	_	LTranslit=dād|OrigLemma=داد#ده|SpaceAfter=No|Translit=bdhīd
 17	.	.	PUNCT	PUNC	_	12	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1302
@@ -27152,7 +27152,7 @@
 12	از	از	ADP	PREP	_	13	case	_	LTranslit=āz|Translit=āz
 13	ایشان	ایشان	PRON	PR_SEPER	Number=Plur|Person=3|PronType=Prs	15	obl:arg	_	LTranslit=āīšān|Translit=āīšān
 14	بازگرفته	گرفت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	15	xcomp	_	LTranslit=grft|OrigLemma=باز#گرفت|Translit=bāzgrfth
-15	شود	شد	VERB	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	3	advcl	_	LTranslit=šd|OrigLemma=شد#شو|SpaceAfter=No|Translit=šūd
+15	شود	شد	VERB	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	LTranslit=šd|OrigLemma=شد#شو|SpaceAfter=No|Translit=šūd
 16	.	.	PUNCT	PUNC	_	15	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1319
@@ -27419,7 +27419,7 @@
 3	به	به	ADP	PREP	_	4	case	_	LTranslit=bh|Translit=bh
 4	خوبی	خوبی	NOUN	N_IANM	Number=Sing	6	obl	_	LTranslit=ḫūbī|Translit=ḫūbī
 5	مخلوط	مخلوط	ADJ	ADJ_AJP	_	6	xcomp	_	LTranslit=mḫlūṭ|Translit=mḫlūṭ
-6	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
+6	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
 7	و	و	CCONJ	CONJ	_	16	cc	_	LTranslit=ū|Translit=ū
 8	به	به	ADP	PREP	_	9	case	_	LTranslit=bh|Translit=bh
 9	مدت	مدت	NOUN	N_IANM	Number=Sing	16	obl	_	LTranslit=mdt|Translit=mdt
@@ -27430,7 +27430,7 @@
 13	صورت	صورت	NOUN	N_IANM	Number=Sing	16	obl:arg	_	LTranslit=ṣūrt|Translit=ṣūrt
 14	تان	شما	PRON	PR_JOPER	Number=Plur|Person=2|PronType=Prs	13	nmod	_	LTranslit=šmā|Translit=tān
 15	قرار	قرار	NOUN	N_IANM	Number=Sing	16	compound:lvc	_	LTranslit=qrār|Translit=qrār
-16	دهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	6	conj	_	LTranslit=dād|OrigLemma=داد#ده|Translit=dhīd
+16	دهید	داد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	LTranslit=dād|OrigLemma=داد#ده|Translit=dhīd
 17	و	و	CCONJ	CONJ	_	24	cc	_	LTranslit=ū|Translit=ū
 18	در	در	ADP	PREP	_	19	case	_	LTranslit=dr|Translit=dr
 19	پایان	پایان	NOUN	N_IANM	Number=Sing	24	obl	_	LTranslit=pāīān|Translit=pāīān
@@ -27438,7 +27438,7 @@
 21	آب	آب	NOUN	N_IANM	Number=Sing	24	obl	_	LTranslit=Āb|Translit=Āb
 22	سرد	سرد	ADJ	ADJ_AJP	_	21	amod	_	LTranslit=srd|Translit=srd
 23	آب‌کشی	آب‌کشی	NOUN	N_IANM	Number=Sing	24	compound:lvc	_	LTranslit=Ābkšī|Translit=Ābkšī
-24	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	6	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
+24	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīd
 25	.	.	PUNCT	PUNC	_	24	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1333
@@ -28028,7 +28028,7 @@
 2	خود	خود	PRON	PR_CREFX	_	1	nmod	_	LTranslit=ḫūd|Translit=ḫūd
 3	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 4	کوچک	کوچک	ADJ	ADJ_AJP	_	5	xcomp	_	LTranslit=kūčk|Translit=kūčk
-5	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
+5	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
 6	اندازهٔ	اندازه	NOUN	N_IANM	Number=Sing	13	nsubj	_	LTranslit=āndāzh|Translit=āndāzhٔ
 7	حرکات	حرکت	NOUN	N_IANM	Number=Plur	6	nmod	_	LTranslit=ḥrkt|Translit=ḥrkāt
 8	به	به	ADP	PREP	_	9	case	_	LTranslit=bh|Translit=bh
@@ -29007,15 +29007,15 @@
 1	دست	دست	NOUN	N_IANM	Number=Sing	4	obj	_	LTranslit=dst|Translit=dst
 2	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	1	nmod	_	LTranslit=āū|Translit=š
 3	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
-4	بگیرید	گرفت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=grft|OrigLemma=گرفت#گیر|Translit=bgīrīd
+4	بگیرید	گرفت	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=grft|OrigLemma=گرفت#گیر|Translit=bgīrīd
 5	و	و	CCONJ	CONJ	_	6	cc	_	LTranslit=ū|Translit=ū
-6	ببرید	برد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	4	conj	_	LTranslit=brd|OrigLemma=برد#بر|Translit=bbrīd
+6	ببرید	برد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LTranslit=brd|OrigLemma=برد#بر|Translit=bbrīd
 7	جلوی	جلوی	ADP	PREP	_	8	case	_	LTranslit=jlūī|Translit=jlūī
 8	حوزهٔ	حوزه	NOUN	N_IANM	Number=Sing	12	obl:arg	_	LTranslit=ḥūzh|Translit=ḥūzhٔ
 9	نظام	نظام	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=nẓām|Translit=nẓām
 10	وظیفه	وظیفه	NOUN	N_IANM	Number=Sing	9	nmod	_	LTranslit=ūẓīfh|Translit=ūẓīfh
 11	بست	بست	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	LTranslit=bst|Translit=bst
-12	بنشینید	نشست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	4	conj	_	LTranslit=nšst|OrigLemma=نشست#نشین|SpaceAfter=No|Translit=bnšīnīd
+12	بنشینید	نشست	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LTranslit=nšst|OrigLemma=نشست#نشین|SpaceAfter=No|Translit=bnšīnīd
 13	.	.	PUNCT	PUNC	_	12	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1407
@@ -29206,7 +29206,7 @@
 11	تن	تن	NOUN	N_IANM	Number=Sing	13	obl	_	LTranslit=tn|Translit=tn
 12	استخراج	استخراج	NOUN	N_IANM	Number=Sing	13	obj	_	LTranslit=āstḫrāj|Translit=āstḫrāj
 13	داشته	داشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	2	ccomp	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāšth
-14	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres	13	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
+14	باشد	بود	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšd
 15	.	.	PUNCT	PUNC	_	2	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1415
@@ -29361,7 +29361,7 @@
 6	خود	خود	PRON	PR_CREFX	_	5	nmod	_	LTranslit=ḫūd|Translit=ḫūd
 7	را	را	ADP	POSTP	_	4	case	_	LTranslit=rā|Translit=rā
 8	بند	بند	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	LTranslit=bnd|Translit=bnd
-9	بیاورید	آورد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=Āūrd|OrigLemma=آورد#آور|SpaceAfter=No|Translit=bīāūrīd
+9	بیاورید	آورد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=Āūrd|OrigLemma=آورد#آور|SpaceAfter=No|Translit=bīāūrīd
 10	.	.	PUNCT	PUNC	_	9	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1418
@@ -29425,7 +29425,7 @@
 7	نباید	بایست	AUX	V_MODL	Polarity=Neg	9	aux	_	LTranslit=bāīst|OrigLemma=بایست#باید|Translit=nbāīd
 8	الکترولیز	الکترولیز	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	LTranslit=ālktrūlīz|Translit=ālktrūlīz
 9	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
-10	باشند	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres	9	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšnd
+10	باشند	بود	AUX	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=bāšnd
 11	.	.	PUNCT	PUNC	_	9	punct	_	LTranslit=.|Translit=.
 
 # sent_id = test-s1422
@@ -29573,7 +29573,7 @@
 1	به	به	ADP	PREP	_	2	case	_	LTranslit=bh|Translit=bh
 2	داد	داد	NOUN	N_IANM	Number=Sing	4	obl:arg	_	LTranslit=dād|Translit=dād
 3	پدرانی	پدر	NOUN	N_ANM	Number=Plur	2	nmod	_	LTranslit=pdr|Translit=pdrānī
-4	برسید	رسید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	LTranslit=rsīd|OrigLemma=رسید#رس|Translit=brsīd
+4	برسید	رسید	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=rsīd|OrigLemma=رسید#رس|Translit=brsīd
 5	که	که	SCONJ	SUBR	_	10	mark	_	LTranslit=kh|Translit=kh
 6	شب	شب	NOUN	N_IANM	Number=Sing	10	obl	_	LTranslit=šb|Translit=šb
 7	دیر	دیر	ADJ	ADJ_AJP	_	10	advmod	_	LTranslit=dīr|Translit=dīr
