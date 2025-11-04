@@ -33,8 +33,9 @@
     <tag name="X">3</tag><!-- _, ی -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="17">
+  <feats unique="18">
     <feat name="Mood" value="Imp" upos="VERB">2549</feat><!-- کنید, کن, نکنید, بکنید, بزنید, بدهید, دهید, بگیرید, نکن, بگذارید -->
+    <feat name="Mood" value="Ind" upos="AUX">4613</feat><!-- خواهد, خواهند, خواهم, خواهیم, خواهید, نخواهد, خواهی, نخواهم, نخواهند, نخواهیم -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">1412</feat><!-- باشد, باشند, باشم, باشید, باشیم, شود, باشی, شوند, نشود, بشود -->
     <feat name="Number" value="Plur" upos="AUX,NOUN,NUM,PRON,PROPN,VERB">57805</feat><!-- ما, شما, خواهند, آنها, کنید, مردم, می‌کنند, بودند, شان, کرده‌اند -->
     <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,NOUN,NUM,PRON,PROPN,PUNCT,SCONJ,VERB">223964</feat><!-- است, کرد, کرده, بود, او, آن, ش, خواهد, من, م -->
