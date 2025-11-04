@@ -76,13 +76,13 @@
     <dep name="goeswith">2</dep>
     <dep name="iobj">6</dep>
     <dep name="mark">11982</dep>
-    <dep name="nmod">61062</dep>
+    <dep name="nmod">62980</dep>
     <dep name="nsubj">27181</dep>
     <dep name="nsubj:pass">533</dep>
     <dep name="nummod">5459</dep>
     <dep name="obj">19999</dep>
-    <dep name="obl">30737</dep>
-    <dep name="obl:arg">21510</dep>
+    <dep name="obl">28996</dep>
+    <dep name="obl:arg">21333</dep>
     <dep name="parataxis">82</dep>
     <dep name="punct">44336</dep>
     <dep name="root">29107</dep>

@@ -53,7 +53,7 @@
 1	امام	امام	PROPN	N_ANM	Number=Sing	7	obj	_	LTranslit=āmām|Translit=āmām
 2	صادق	صادق	PROPN	N_ANM	Number=Sing	1	flat:name	_	LTranslit=ṣādq|Translit=ṣādq
 3	(	(	PUNCT	PUNC	_	4	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-4	ع	ع	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+4	ع	ع	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 5	)	)	PUNCT	PUNC	_	4	punct	_	LTranslit=)|Translit=)
 6	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 7	دیدم	دید	VERB	V_ACT	Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	LTranslit=dīd|OrigLemma=دید#بین|Translit=dīdm
@@ -1193,7 +1193,7 @@
 9	صوتی	صوتی	ADJ	ADJ_AJP	_	8	amod	_	LTranslit=ṣūtī|Translit=ṣūtī
 10	در	در	ADP	PREP	_	11	case	_	LTranslit=dr|Translit=dr
 11	بین	بین	NOUN	N_IANM	Number=Sing	22	obl:arg	_	LTranslit=bīn|Translit=bīn
-12	کارشناسان	کارشناس	NOUN	N_ANM	Number=Plur	11	obl:arg	_	LTranslit=kāršnās|Translit=kāršnāsān
+12	کارشناسان	کارشناس	NOUN	N_ANM	Number=Plur	11	nmod	_	LTranslit=kāršnās|Translit=kāršnāsān
 13	شهرداری	شهرداری	NOUN	N_IANM	Number=Sing	12	nmod	_	LTranslit=šhrdārī|Translit=šhrdārī
 14	و	و	CCONJ	CONJ	_	15	cc	_	LTranslit=ū|Translit=ū
 15	محیط	محیط	NOUN	N_IANM	Number=Sing	13	conj	_	LTranslit=mḥīṭ|Translit=mḥīṭ
@@ -1242,7 +1242,7 @@
 8	روش	روش	NOUN	N_IANM	Number=Sing	15	obl	_	LTranslit=rūš|Translit=rūš
 9	Fdisk	Fdisk	PROPN	N_IANM	Number=Sing	8	nmod	_	LTranslit=Fdisk|Translit=Fdisk
 10	یا	یا	CCONJ	CONJ	_	8	case	_	LTranslit=īā|Translit=īā
-11	هنگام	هنگام	NOUN	N_IANM	Number=Sing	8	obl	_	LTranslit=hngām|Translit=hngām
+11	هنگام	هنگام	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=hngām|Translit=hngām
 12	نصب	نصب	NOUN	N_IANM	Number=Sing	11	nmod	_	LTranslit=nṣb|Translit=nṣb
 13	ویندوز	ویندوز	PROPN	N_IANM	Number=Sing	12	nmod	_	LTranslit=ūīndūz|Translit=ūīndūz
 14	پارتیشن‌بندی	پارتیشن‌بندی	NOUN	N_IANM	Number=Sing	15	compound:lvc	_	LTranslit=pārtīšnbndī|Translit=pārtīšnbndī
@@ -2943,7 +2943,7 @@
 23	پیامبر	پیامبر	PROPN	N_ANM	Number=Sing	22	nmod	_	LTranslit=pīāmbr|Translit=pīāmbr
 24	اکرم	اکرم	PROPN	ADJ_AJP	_	23	flat:name	_	LTranslit=ākrm|Translit=ākrm
 25	(	(	PUNCT	PUNC	_	26	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-26	ص	ص	NOUN	N_IANM	Number=Sing	23	obl	_	LTranslit=ṣ|SpaceAfter=No|Translit=ṣ
+26	ص	ص	NOUN	N_IANM	Number=Sing	23	nmod	_	LTranslit=ṣ|SpaceAfter=No|Translit=ṣ
 27	)	)	PUNCT	PUNC	_	26	punct	_	LTranslit=)|Translit=)
 28	کاشته	کاشت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	29	xcomp	_	LTranslit=kāšt|OrigLemma=کاشت#کار|Translit=kāšth
 29	شده	شد	VERB	AUX	Number=Sing|Person=3|Tense=Past	17	acl	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šdh
@@ -3710,7 +3710,7 @@
 11	دلیلی	دلیل	NOUN	N_IANM	Number=Sing	19	obl	_	LTranslit=dlīl|Translit=dlīlī
 12	و	و	CCONJ	CONJ	_	11	case	_	LTranslit=ū|Translit=ū
 13	به	به	ADP	PREP	_	14	case	_	LTranslit=bh|Translit=bh
-14	اشتباه	اشتباه	NOUN	N_IANM	Number=Sing	11	obl	_	LTranslit=āštbāh|Translit=āštbāh
+14	اشتباه	اشتباه	NOUN	N_IANM	Number=Sing	11	nmod	_	LTranslit=āštbāh|Translit=āštbāh
 15	از	از	ADP	PREP	_	17	case	_	LTranslit=āz|Translit=āz
 16	این	این	DET	PREM_DEMAJ	_	17	det	_	LTranslit=āīn|Translit=āīn
 17	زمانه	زمانه	NOUN	N_IANM	Number=Sing	19	obl:arg	_	LTranslit=zmānh|Translit=zmānh
@@ -4162,7 +4162,7 @@
 5	با	با	ADP	PREP	_	6	case	_	LTranslit=bā|Translit=bā
 6	جایگاه	جایگاه	NOUN	N_IANM	Number=Sing	10	obl:arg	_	LTranslit=jāīgāh|Translit=jāīgāh
 7	روان	روان	NOUN	N_IANM	Number=Sing	6	nmod	_	LTranslit=rūān|Translit=rūān
-8	درمانگر	درمانگر	NOUN	N_IANM	Number=Sing	7	obl	_	LTranslit=drmāngr|Translit=drmāngr
+8	درمانگر	درمانگر	NOUN	N_IANM	Number=Sing	7	nmod	_	LTranslit=drmāngr|Translit=drmāngr
 9	همذات‌پنداری	همذات‌پنداری	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	LTranslit=hmḏātpndārī|Translit=hmḏātpndārī
 10	می‌کردم	کرد	VERB	V_ACT	Number=Sing|Person=1|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=mīkrdm
 11	.	.	PUNCT	PUNC	_	10	punct	_	LTranslit=.|Translit=.
@@ -4729,11 +4729,11 @@
 # translit = pīāmbr aslām ṣlī allh ʿlīh w Ālh mʿjzhāī jz qrĀn ndāšt w tnhā bā qrĀn tḥdī mīkrd.
 1	پیامبر	پیامبر	PROPN	N_ANM	Number=Sing	11	nsubj	_	LTranslit=pīāmbr|Translit=pīāmbr
 2	اسلام	اسلام	PROPN	N_IANM	Number=Sing	1	flat:name	_	LTranslit=āslām|Translit=āslām
-3	صلی	صلی	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=ṣlī|Translit=ṣlī
-4	الله	الله	NOUN	N_ANM	Number=Sing	3	obl	_	LTranslit=āllh|Translit=āllh
-5	علیه	علیه	NOUN	N_IANM	Number=Sing	4	obl	_	LTranslit=ʿlīh|Translit=ʿlīh
+3	صلی	صلی	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=ṣlī|Translit=ṣlī
+4	الله	الله	NOUN	N_ANM	Number=Sing	3	nmod	_	LTranslit=āllh|Translit=āllh
+5	علیه	علیه	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=ʿlīh|Translit=ʿlīh
 6	و	و	CCONJ	CONJ	_	5	cc	_	LTranslit=ū|Translit=ū
-7	آله	آله	NOUN	N_IANM	Number=Sing	5	obl	_	LTranslit=Ālh|Translit=Ālh
+7	آله	آله	NOUN	N_IANM	Number=Sing	5	nmod	_	LTranslit=Ālh|Translit=Ālh
 8	معجزه‌ای	معجزه	NOUN	N_IANM	Number=Sing	11	obj	_	LTranslit=mʿjzh|Translit=mʿjzhāī
 9	جز	جز	ADP	PREP	_	10	case	_	LTranslit=jz|Translit=jz
 10	قرآن	قرآن	PROPN	N_IANM	Number=Sing	8	nmod	_	LTranslit=qrĀn|Translit=qrĀn
@@ -4917,7 +4917,7 @@
 6	یم	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	5	nmod	_	LTranslit=mn|Translit=īm
 7	و	و	CCONJ	CONJ	_	4	case	_	LTranslit=ū|Translit=ū
 8	با	با	ADP	PREP	_	9	case	_	LTranslit=bā|Translit=bā
-9	تکیه	تکیه	NOUN	N_IANM	Number=Sing	4	obl	_	LTranslit=tkīh|Translit=tkīh
+9	تکیه	تکیه	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=tkīh|Translit=tkīh
 10	بر	بر	ADP	PREP	_	11	case	_	LTranslit=br|Translit=br
 11-13	عقلم،	_	_	_	_	_	_	_	Translit=ʿqlm,
 11	عقل	عقل	NOUN	N_IANM	Number=Sing	9	nmod	_	LTranslit=ʿql|Translit=ʿql
@@ -5022,7 +5022,7 @@
 2	سال‌های	سال	NOUN	N_IANM	Number=Plur	11	obl	_	LTranslit=sāl|Translit=sālhāī
 3	60	60	NOUN	N_IANM	Number=Sing	2	nmod	_	LTranslit=60|Translit=60
 4	تا	تا	ADP	PREP	_	5	case	_	LTranslit=tā|Translit=tā
-5	65	65	NOUN	N_IANM	Number=Sing	3	obl	_	LTranslit=65|Translit=65
+5	65	65	NOUN	N_IANM	Number=Sing	3	nmod	_	LTranslit=65|Translit=65
 6	بیماران	بیمار	NOUN	N_ANM	Number=Plur	11	obj	_	LTranslit=bīmār|Translit=bīmārān
 7	کلیوی	کلیوی	ADJ	ADJ_AJP	_	6	amod	_	LTranslit=klīūī|Translit=klīūī
 8	را	را	ADP	POSTP	_	6	case	_	LTranslit=rā|Translit=rā
@@ -5123,13 +5123,13 @@
 4	ائمهٔ	امام	NOUN	N_ANM	Number=Plur	13	obl:arg	_	LTranslit=āmām|Translit=āʾimhٔ
 5	اطهار	اطهار	ADJ	ADJ_AJP	_	4	amod	_	LTranslit=āṭhār|Translit=āṭhār
 6	(	(	PUNCT	PUNC	_	7	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-7	ع	ع	NOUN	N_IANM	Number=Sing	4	obl:arg	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+7	ع	ع	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 8	)	)	PUNCT	PUNC	_	7	punct	_	LTranslit=)|Translit=)
 9	یا	یا	CCONJ	CONJ	_	10	cc	_	LTranslit=īā|Translit=īā
 10	بزرگان	بزرگ	NOUN	N_ANM	Number=Plur	4	conj	_	LTranslit=bzrg|Translit=bzrgān
 11	دین	دین	NOUN	N_IANM	Number=Sing	10	nmod	_	LTranslit=dīn|Translit=dīn
 12	فکر	فکر	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	LTranslit=fkr|Translit=fkr
-13	می‌کنم	کرد	VERB	V_ACT	Number=Sing|Person=1|Tense=Pres|Voice=Act	2	obl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=mīknm
+13	می‌کنم	کرد	VERB	V_ACT	Number=Sing|Person=1|Tense=Pres|Voice=Act	2	nmod	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=mīknm
 14	یا	یا	CCONJ	CONJ	_	18	cc	_	LTranslit=īā|Translit=īā
 15	به	به	ADP	PREP	_	16	case	_	LTranslit=bh|Translit=bh
 16-17	ذهنم	_	_	_	_	_	_	_	Translit=ḏhnm
@@ -5450,7 +5450,7 @@
 16	وداع	وداع	NOUN	N_IANM	Number=Sing	17	compound:lvc	_	LTranslit=ūdāʿ|Translit=ūdāʿ
 17	گفت	گفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LTranslit=gft|OrigLemma=گفت#گو|Translit=gft
 18	حال	حال	NOUN	N_IANM	Number=Sing	17	obl	_	LTranslit=ḥāl|Translit=ḥāl
-19	آن	آن	PRON	PR_DEMON	Number=Sing	18	obl	_	LTranslit=Ān|Translit=Ān
+19	آن	آن	PRON	PR_DEMON	Number=Sing	18	nmod	_	LTranslit=Ān|Translit=Ān
 20	که	که	SCONJ	SUBR	_	31	mark	_	LTranslit=kh|Translit=kh
 21	جامعهٔ	جامعه	NOUN	N_ANM	Number=Plur	31	nsubj	_	LTranslit=jāmʿh|Translit=jāmʿhٔ
 22	موسیقی	موسیقی	NOUN	N_IANM	Number=Sing	21	nmod	_	LTranslit=mūsīqī|Translit=mūsīqī
@@ -6114,7 +6114,7 @@
 16	وسیع	وسیع	PROPN	ADJ_AJP	_	15	flat:name	_	LTranslit=ūsīʿ|Translit=ūsīʿ
 17	مرودشت	مرودشت	PROPN	N_IANM	Number=Sing	15	flat:name	_	LTranslit=mrūdšt|Translit=mrūdšt
 18	و	و	CCONJ	CONJ	_	15	case	_	LTranslit=ū|Translit=ū
-19	مغرب	مغرب	NOUN	N_IANM	Number=Sing	15	obl	_	LTranslit=mġrb|Translit=mġrb
+19	مغرب	مغرب	NOUN	N_IANM	Number=Sing	15	nmod	_	LTranslit=mġrb|Translit=mġrb
 20	تخت	تخت	PROPN	N_IANM	Number=Sing	19	nmod	_	LTranslit=tḫt|Translit=tḫt
 21	جمشید	جمشید	PROPN	N_IANM	Number=Sing	20	flat:name	_	LTranslit=jmšīd|Translit=jmšīd
 22	قرار	قرار	NOUN	N_IANM	Number=Sing	23	compound:lvc	_	LTranslit=qrār|Translit=qrār
@@ -6348,7 +6348,7 @@
 13	14	14	NUM	PRENUM	_	14	nummod	_	LTranslit=14|Translit=14
 14	تن	تن	NOUN	N_IANM	Number=Sing	20	obl:arg	_	LTranslit=tn|Translit=tn
 15	(	(	PUNCT	PUNC	_	16	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-16	علیهم‌السلام	علیهم‌السلام	NOUN	N_IANM	Number=Sing	14	obl:arg	_	LTranslit=ʿlīhmālslām|Translit=ʿlīhmālslām
+16	علیهم‌السلام	علیهم‌السلام	NOUN	N_IANM	Number=Sing	14	nmod	_	LTranslit=ʿlīhmālslām|Translit=ʿlīhmālslām
 17	جمیعاً	جمیعاً	ADV	ADV_SADV	_	16	advmod	_	LTranslit=jmīʿāan|SpaceAfter=No|Translit=jmīʿāan
 18	)	)	PUNCT	PUNC	_	16	punct	_	LTranslit=)|Translit=)
 19	تفریط	تفریط	NOUN	N_IANM	Number=Sing	20	compound:lvc	_	LTranslit=tfrīṭ|Translit=tfrīṭ
@@ -6996,7 +6996,7 @@
 2	گاه	گاه	NOUN	N_IANM	Number=Sing	19	obl	_	LTranslit=gāh|Translit=gāh
 3	امام	امام	NOUN	N_ANM	Number=Sing	11	nsubj	_	LTranslit=āmām|Translit=āmām
 4	(	(	PUNCT	PUNC	_	5	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-5	ع	ع	NOUN	N_IANM	Number=Sing	3	obl	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+5	ع	ع	NOUN	N_IANM	Number=Sing	3	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 6	)	)	PUNCT	PUNC	_	5	punct	_	LTranslit=)|Translit=)
 7	حکمرانی	حکمرانی	NOUN	N_IANM	Number=Sing	11	obj	_	LTranslit=ḥkmrānī|Translit=ḥkmrānī
 8	معاویه	معاویه	PROPN	N_ANM	Number=Sing	7	nmod	_	LTranslit=mʿāūīh|Translit=mʿāūīh
@@ -7037,7 +7037,7 @@
 7	چند	چند	DET	PREM_AMBAJ	_	8	det	_	LTranslit=čnd|Translit=čnd
 8	روزی	روز	NOUN	N_IANM	Number=Sing	12	obl	_	LTranslit=rūz|Translit=rūzī
 9	یک	یک	NUM	PRENUM	_	10	nummod	_	LTranslit=īk|Translit=īk
-10	بار	بار	NOUN	N_IANM	Number=Sing	8	obl	_	LTranslit=bār|Translit=bār
+10	بار	بار	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=bār|Translit=bār
 11	تنقیه	تنقیه	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	LTranslit=tnqīh|Translit=tnqīh
 12	کنیم	کرد	VERB	V_ACT	Number=Plur|Person=1|Voice=Act	3	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=knīm
 13	.	.	PUNCT	PUNC	_	3	punct	_	LTranslit=.|Translit=.
@@ -7304,7 +7304,7 @@
 1	آجرها	آجر	NOUN	N_IANM	Number=Plur	5	obj	_	LTranslit=Ājr|Translit=Ājrhā
 2	را	را	ADP	POSTP	_	1	case	_	LTranslit=rā|Translit=rā
 3	یکی	یکی	NOUN	N_IANM	Number=Sing	5	obl	_	LTranslit=īkī|Translit=īkī
-4	یکی	یکی	NOUN	N_IANM	Number=Sing	3	obl	_	LTranslit=īkī|Translit=īkī
+4	یکی	یکی	NOUN	N_IANM	Number=Sing	3	nmod	_	LTranslit=īkī|Translit=īkī
 5	برمی‌داشت	داشت	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	LTranslit=dāšt|OrigLemma=بر#داشت|SpaceAfter=No|Translit=brmīdāšt
 6	،	،	PUNCT	PUNC	_	8	punct	_	LTranslit=,|Translit=,
 7	گل‌اندود	گل‌اندود	ADJ	ADJ_AJP	_	8	xcomp	_	LTranslit=glāndūd|Translit=glāndūd
@@ -7430,7 +7430,7 @@
 # text = با هر که دوستی می‌کنید، در راه خدا دوستی کنید و با هر که دشمنی می‌کنید، در راه خدا دشمنی کنید.
 # translit = bā hr kh dūstī mīknīd, dr rāh ḫdā dūstī knīd w bā hr kh dšmnī mīknīd, dr rāh ḫdā dšmnī knīd.
 1	با	با	ADP	PREP	_	3	case	_	LTranslit=bā|Translit=bā
-2	هر	هر	DET	PREM_AMBAJ	_	3	obl:arg	_	LTranslit=hr|Translit=hr
+2	هر	هر	DET	PREM_AMBAJ	_	3	nmod	_	LTranslit=hr|Translit=hr
 3	که	که	NOUN	N_ANM	Number=Sing	11	obl:arg	_	LTranslit=kh|Translit=kh
 4	دوستی	دوستی	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	LTranslit=dūstī|Translit=dūstī
 5	می‌کنید	کرد	VERB	V_ACT	Number=Plur|Person=2|Tense=Pres|Voice=Act	3	acl	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=mīknīd
@@ -7460,7 +7460,7 @@
 1	یعنی	یعنی	INTJ	PSUS	_	0	root	_	LTranslit=īʿnī|Translit=īʿnī
 2	امام	امام	NOUN	N_ANM	Number=Sing	12	nsubj	_	LTranslit=āmām|Translit=āmām
 3	(	(	PUNCT	PUNC	_	4	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-4	ع	ع	NOUN	N_IANM	Number=Sing	2	obl	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+4	ع	ع	NOUN	N_IANM	Number=Sing	2	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 5	)	)	PUNCT	PUNC	_	4	punct	_	LTranslit=)|Translit=)
 6	از	از	ADP	PREP	_	7	case	_	LTranslit=āz|Translit=āz
 7	جانب	جانب	NOUN	N_IANM	Number=Sing	12	obl	_	LTranslit=jānb|Translit=jānb
@@ -7753,7 +7753,7 @@
 # translit = črā ʿlī ʿlīhālslām dr qbūl ḫlāft drng krd?
 1	چرا	چرا	ADV	ADV_SADV	_	8	advmod	_	LTranslit=črā|Translit=črā
 2	علی	علی	PROPN	N_ANM	Number=Sing	8	nsubj	_	LTranslit=ʿlī|Translit=ʿlī
-3	علیه‌السلام	علیه‌السلام	NOUN	N_IANM	Number=Sing	2	obl	_	LTranslit=ʿlīhālslām|Translit=ʿlīhālslām
+3	علیه‌السلام	علیه‌السلام	NOUN	N_IANM	Number=Sing	2	nmod	_	LTranslit=ʿlīhālslām|Translit=ʿlīhālslām
 4	در	در	ADP	PREP	_	5	case	_	LTranslit=dr|Translit=dr
 5	قبول	قبول	NOUN	N_IANM	Number=Sing	8	obl:arg	_	LTranslit=qbūl|Translit=qbūl
 6	خلافت	خلافت	NOUN	N_IANM	Number=Sing	5	nmod	_	LTranslit=ḫlāft|Translit=ḫlāft
@@ -8001,7 +8001,7 @@
 10	دینی	دینی	ADJ	ADJ_AJP	_	9	amod	_	LTranslit=dīnī|Translit=dīnī
 11	و	و	CCONJ	CONJ	_	5	case	_	LTranslit=ū|Translit=ū
 12	در	در	ADP	PREP	_	13	case	_	LTranslit=dr|Translit=dr
-13	وهلهٔ	وهله	NOUN	N_IANM	Number=Sing	5	obl	_	LTranslit=ūhlh|Translit=ūhlhٔ
+13	وهلهٔ	وهله	NOUN	N_IANM	Number=Sing	5	nmod	_	LTranslit=ūhlh|Translit=ūhlhٔ
 14	دوم	دوم	ADJ	POSNUM	_	13	amod	_	LTranslit=dūm|SpaceAfter=No|Translit=dūm
 15	،	،	PUNCT	PUNC	_	14	punct	_	LTranslit=,|Translit=,
 16	از	از	ADP	PREP	_	17	case	_	LTranslit=āz|Translit=āz
@@ -8214,7 +8214,7 @@
 4	شجاعت	شجاعت	NOUN	N_IANM	Number=Sing	2	conj	_	LTranslit=šjāʿt|Translit=šjāʿt
 5	و	و	CCONJ	CONJ	_	2	case	_	LTranslit=ū|Translit=ū
 6	برای	برای	ADP	PREP	_	7	case	_	LTranslit=brāī|Translit=brāī
-7	آزادی	آزادی	NOUN	N_IANM	Number=Sing	2	obl	_	LTranslit=Āzādī|Translit=Āzādī
+7	آزادی	آزادی	NOUN	N_IANM	Number=Sing	2	nmod	_	LTranslit=Āzādī|Translit=Āzādī
 8	جان‌فشانی	جان‌فشانی	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	LTranslit=jānfšānī|Translit=jānfšānī
 9	بکنید	کرد	VERB	V_ACT	Number=Plur|Person=2|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=bknīd
 10	.	.	PUNCT	PUNC	_	9	punct	_	LTranslit=.|Translit=.
@@ -9337,9 +9337,9 @@
 1	حضرت	حضرت	PROPN	N_ANM	Number=Sing	11	nsubj	_	LTranslit=ḥḍrt|Translit=ḥḍrt
 2	خدیجه	خدیجه	PROPN	N_ANM	Number=Sing	1	flat:name	_	LTranslit=ḫdījh|SpaceAfter=No|Translit=ḫdījh
 3	-	-	PUNCT	PUNC	_	4	punct	_	LTranslit=-|Translit=-
-4	سلام	سلام	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=slām|Translit=slām
-5	الله	الله	NOUN	N_IANM	Number=Sing	4	obl	_	LTranslit=āllh|Translit=āllh
-6	علیها	علیها	NOUN	N_IANM	Number=Sing	5	obl	_	LTranslit=ʿlīhā|SpaceAfter=No|Translit=ʿlīhā
+4	سلام	سلام	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=slām|Translit=slām
+5	الله	الله	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=āllh|Translit=āllh
+6	علیها	علیها	NOUN	N_IANM	Number=Sing	5	nmod	_	LTranslit=ʿlīhā|SpaceAfter=No|Translit=ʿlīhā
 7	-	-	PUNCT	PUNC	_	4	punct	_	LTranslit=-|Translit=-
 8	در	در	ADP	PREP	_	9	case	_	LTranslit=dr|Translit=dr
 9	دم	دم	NOUN	N_IANM	Number=Sing	11	obl	_	LTranslit=dm|Translit=dm
@@ -9464,7 +9464,7 @@
 # text = پشت دیوار کمین گرفتم.
 # translit = pšt dīūār kmīn grftm.
 1	پشت	پشت	NOUN	N_IANM	_	4	obl:arg	_	LTranslit=pšt|Translit=pšt
-2	دیوار	دیوار	NOUN	N_IANM	Number=Sing	1	obl:arg	_	LTranslit=dīūār|Translit=dīūār
+2	دیوار	دیوار	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=dīūār|Translit=dīūār
 3	کمین	کمین	NOUN	N_IANM	Number=Sing	4	compound:lvc	_	LTranslit=kmīn|Translit=kmīn
 4	گرفتم	گرفت	VERB	V_ACT	Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	LTranslit=grft|OrigLemma=گرفت#گیر|SpaceAfter=No|Translit=grftm
 5	.	.	PUNCT	PUNC	_	4	punct	_	LTranslit=.|Translit=.
@@ -9550,7 +9550,7 @@
 11	امام	امام	PROPN	IDEN	Number=Sing	8	flat:name	_	LTranslit=āmām|Translit=āmām
 12	علی	علی	PROPN	N_ANM	Number=Sing	8	flat:name	_	LTranslit=ʿlī|Translit=ʿlī
 13	(	(	PUNCT	PUNC	_	14	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-14	ع	ع	NOUN	N_IANM	Number=Sing	8	obl	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+14	ع	ع	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 15	)	)	PUNCT	PUNC	_	14	punct	_	LTranslit=)|Translit=)
 16	به	به	ADP	PREP	_	17	case	_	LTranslit=bh|Translit=bh
 17	مناسبت	مناسبت	NOUN	N_IANM	Number=Sing	26	obl	_	LTranslit=mnāsbt|Translit=mnāsbt
@@ -10050,7 +10050,7 @@
 1	امام	امام	PROPN	IDEN	Number=Sing	37	nsubj	_	LTranslit=āmām|Translit=āmām
 2	حسین	حسین	PROPN	N_ANM	Number=Sing	1	flat:name	_	LTranslit=ḥsīn|Translit=ḥsīn
 3	(	(	PUNCT	PUNC	_	4	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-4	ع	ع	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+4	ع	ع	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 5	)	)	PUNCT	PUNC	_	4	punct	_	LTranslit=)|Translit=)
 6	که	که	SCONJ	SUBR	_	1	acl	_	LTranslit=kh|Translit=kh
 7	هرگز	هرگز	ADV	ADV_SADV	_	14	advmod	_	LTranslit=hrgz|Translit=hrgz
@@ -10132,7 +10132,7 @@
 1	امام	امام	PROPN	IDEN	Number=Sing	13	nsubj	_	LTranslit=āmām|Translit=āmām
 2	حسین	حسین	PROPN	N_ANM	Number=Sing	1	flat:name	_	LTranslit=ḥsīn|Translit=ḥsīn
 3	(	(	PUNCT	PUNC	_	4	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-4	ع	ع	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+4	ع	ع	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 5	)	)	PUNCT	PUNC	_	4	punct	_	LTranslit=)|Translit=)
 6	300	300	NUM	PRENUM	_	7	nummod	_	LTranslit=300|Translit=300
 7	سال	سال	NOUN	N_IANM	Number=Sing	13	obl	_	LTranslit=sāl|Translit=sāl
@@ -10311,9 +10311,9 @@
 1	هر	هر	DET	PREM_AMBAJ	_	2	det	_	LTranslit=hr|Translit=hr
 2	کس	کس	NOUN	N_ANM	Number=Sing	18	nsubj	_	LTranslit=ks|Translit=ks
 3	بسم	بسم	NOUN	N_IANM	Number=Sing	14	obj	_	LTranslit=bsm|Translit=bsm
-4	الله	الله	NOUN	N_ANM	Number=Sing	3	obl	_	LTranslit=āllh|Translit=āllh
-5	الرحمن	الرحمن	NOUN	N_IANM	Number=Sing	4	obl	_	LTranslit=ālrḥmn|Translit=ālrḥmn
-6	الرحیم	الرحیم	NOUN	N_IANM	Number=Sing	5	obl	_	LTranslit=ālrḥīm|Translit=ālrḥīm
+4	الله	الله	NOUN	N_ANM	Number=Sing	3	nmod	_	LTranslit=āllh|Translit=āllh
+5	الرحمن	الرحمن	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=ālrḥmn|Translit=ālrḥmn
+6	الرحیم	الرحیم	NOUN	N_IANM	Number=Sing	5	nmod	_	LTranslit=ālrḥīm|Translit=ālrḥīm
 7	را	را	ADP	POSTP	_	3	case	_	LTranslit=rā|Translit=rā
 8	به	به	ADP	PREP	_	9	case	_	LTranslit=bh|Translit=bh
 9	طرز	طرز	NOUN	N_IANM	Number=Sing	14	obl	_	LTranslit=ṭrz|Translit=ṭrz
@@ -11154,7 +11154,7 @@
 4	روستا	روستا	NOUN	N_IANM	Number=Sing	3	nmod	_	LTranslit=rūstā|Translit=rūstā
 5	و	و	CCONJ	CONJ	_	3	case	_	LTranslit=ū|Translit=ū
 6	به	به	ADP	PREP	_	7	case	_	LTranslit=bh|Translit=bh
-7	حمایت	حمایت	NOUN	N_IANM	Number=Sing	3	obl	_	LTranslit=ḥmāīt|Translit=ḥmāīt
+7	حمایت	حمایت	NOUN	N_IANM	Number=Sing	3	nmod	_	LTranslit=ḥmāīt|Translit=ḥmāīt
 8	از	از	ADP	PREP	_	9	case	_	LTranslit=āz|Translit=āz
 9	روستاییان	روستایی	NOUN	N_ANM	Number=Plur	7	nmod	_	LTranslit=rūstāīī|Translit=rūstāīīān
 10	و	و	CCONJ	CONJ	_	11	cc	_	LTranslit=ū|Translit=ū
@@ -11246,7 +11246,7 @@
 2	از	از	ADP	PREP	_	3	case	_	LTranslit=āz|Translit=āz
 3	ساعت	ساعت	NOUN	N_IANM	Number=Sing	14	obl	_	LTranslit=sāʿt|Translit=sāʿt
 4	3	3	NOUN	N_IANM	Number=Sing	3	nmod	_	LTranslit=3|Translit=3
-5	تا	تا	SCONJ	SUBR	_	4	obl	_	LTranslit=tā|Translit=tā
+5	تا	تا	SCONJ	SUBR	_	4	nmod	_	LTranslit=tā|Translit=tā
 6	6	6	NOUN	N_IANM	Number=Sing	5	obl	_	LTranslit=6|Translit=6
 7	بعد	بعد	ADP	PREP	_	9	case	_	LTranslit=bʿd|Translit=bʿd
 8	از	از	ADP	PREP	_	9	case	_	LTranslit=āz|Translit=āz
@@ -11342,7 +11342,7 @@
 # text = نقطه نقطه و حرف به حرف کلمات را با دلبستگی خاصی بر روی پرچم‌ها گلدوزی می‌کنند.
 # translit = nqṭh nqṭh w ḥrf bh ḥrf klmāt rā bā dlbstgī ḫāṣī br rūī prčmhā gldūzī mīknnd.
 1	نقطه	نقطه	NOUN	N_IANM	Number=Sing	16	obj	_	LTranslit=nqṭh|Translit=nqṭh
-2	نقطه	نقطه	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=nqṭh|Translit=nqṭh
+2	نقطه	نقطه	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=nqṭh|Translit=nqṭh
 3	و	و	CCONJ	CONJ	_	4	cc	_	LTranslit=ū|Translit=ū
 4	حرف	حرف	NOUN	N_IANM	Number=Sing	2	conj	_	LTranslit=ḥrf|Translit=ḥrf
 5	به	به	ADP	PREP	_	6	case	_	LTranslit=bh|Translit=bh
@@ -12010,7 +12010,7 @@
 6	زیرا	زیرا	SCONJ	SUBR	_	25	mark	_	LTranslit=zīrā|Translit=zīrā
 7	اگر	اگر	SCONJ	SUBR	_	13	mark	_	LTranslit=āgr|Translit=āgr
 8	قسمتی	قسمت	NOUN	N_IANM	Number=Sing	18	obj	_	LTranslit=qsmt|Translit=qsmtī
-9	را	را	ADP	PART	_	8	obl	_	LTranslit=rā|Translit=rā
+9	را	را	ADP	PART	_	8	nmod	_	LTranslit=rā|Translit=rā
 10	که	که	SCONJ	SUBR	_	12	mark	_	LTranslit=kh|Translit=kh
 11	رنگ	رنگ	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	LTranslit=rng|Translit=rng
 12	زده‌اید	زد	VERB	V_ACT	Number=Plur|Person=2|VerbForm=Part|Voice=Act	8	acl	_	LTranslit=zd|OrigLemma=زد#زن|Translit=zdhāīd
@@ -12093,7 +12093,7 @@
 4	امام	امام	PROPN	IDEN	Number=Sing	3	nmod	_	LTranslit=āmām|Translit=āmām
 5	حسین	حسین	PROPN	N_ANM	Number=Sing	4	flat:name	_	LTranslit=ḥsīn|Translit=ḥsīn
 6	(	(	PUNCT	PUNC	_	7	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-7	ع	ع	NOUN	N_IANM	Number=Sing	4	obl	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+7	ع	ع	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 8	)	)	PUNCT	PUNC	_	7	punct	_	LTranslit=)|Translit=)
 9	را	را	ADP	POSTP	_	3	case	_	LTranslit=rā|Translit=rā
 10	خراب	خراب	ADJ	ADJ_AJP	_	19	xcomp	_	LTranslit=ḫrāb|Translit=ḫrāb
@@ -12141,7 +12141,7 @@
 11	بیعت	بیعت	NOUN	N_IANM	Number=Sing	18	obl:arg	_	LTranslit=bīʿt|Translit=bīʿt
 12	امام	امام	PROPN	N_ANM	Number=Sing	11	nmod	_	LTranslit=āmām|Translit=āmām
 13	(	(	PUNCT	PUNC	_	14	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-14	ره	ره	NOUN	N_IANM	Number=Sing	12	obl	_	LTranslit=rh|SpaceAfter=No|Translit=rh
+14	ره	ره	NOUN	N_IANM	Number=Sing	12	nmod	_	LTranslit=rh|SpaceAfter=No|Translit=rh
 15	)	)	PUNCT	PUNC	_	14	punct	_	LTranslit=)|Translit=)
 16	با	با	ADP	PREP	_	17	case	_	LTranslit=bā|Translit=bā
 17	همافران	همافر	NOUN	N_ANM	Number=Plur	11	nmod	_	LTranslit=hmāfr|Translit=hmāfrān
@@ -12300,7 +12300,7 @@
 19	هوای	هوا	NOUN	N_IANM	Number=Sing	18	nmod	_	LTranslit=hūā|Translit=hūāī
 20	موجود	موجود	ADJ	ADJ_AJP	_	19	amod	_	LTranslit=mūjūd|Translit=mūjūd
 21	در	در	ADP	PREP	_	22	case	_	LTranslit=dr|Translit=dr
-22	پره‌های	پره	NOUN	N_IANM	Number=Plur	19	obl:arg	_	LTranslit=prh|Translit=prhhāī
+22	پره‌های	پره	NOUN	N_IANM	Number=Plur	19	nmod	_	LTranslit=prh|Translit=prhhāī
 23	رادیاتور	رادیاتور	NOUN	N_IANM	Number=Sing	22	nmod	_	LTranslit=rādīātūr|Translit=rādīātūr
 24	ریشه‌یابی	ریشه‌یابی	NOUN	N_IANM	Number=Sing	25	compound:lvc	_	LTranslit=rīšhīābī|Translit=rīšhīābī
 25	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	11	conj	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
@@ -12862,7 +12862,7 @@
 1	حضرت	حضرت	PROPN	N_ANM	Number=Sing	14	nsubj	_	LTranslit=ḥḍrt|Translit=ḥḍrt
 2	علی	علی	PROPN	N_ANM	Number=Sing	1	flat:name	_	LTranslit=ʿlī|Translit=ʿlī
 3	(	(	PUNCT	PUNC	_	4	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-4	ع	ع	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+4	ع	ع	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 5	)	)	PUNCT	PUNC	_	4	punct	_	LTranslit=)|Translit=)
 6	هنگامی	هنگام	NOUN	N_IANM	Number=Sing	14	obl	_	LTranslit=hngām|Translit=hngāmī
 7	که	که	SCONJ	SUBR	_	13	mark	_	LTranslit=kh|Translit=kh
@@ -13417,7 +13417,7 @@
 6	حوزهٔ	حوزه	NOUN	N_IANM	Number=Sing	3	nmod	_	LTranslit=ḥūzh|Translit=ḥūzhٔ
 7	فرهنگ	فرهنگ	NOUN	N_IANM	Number=Sing	6	nmod	_	LTranslit=frhng|Translit=frhng
 8	مرتفع	مرتفع	ADJ	ADJ_AJP	_	9	xcomp	_	LTranslit=mrtfʿ|Translit=mrtfʿ
-9	شود	شد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	2	obl	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šūd
+9	شود	شد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	2	nmod	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šūd
 10	و	و	CCONJ	CONJ	_	13	cc	_	LTranslit=ū|Translit=ū
 11	سیر	سیر	NOUN	N_IANM	Number=Sing	13	obj	_	LTranslit=sīr|Translit=sīr
 12	صعودی	صعودی	ADJ	ADJ_AJP	_	11	amod	_	LTranslit=ṣʿūdī|Translit=ṣʿūdī
@@ -13898,7 +13898,7 @@
 8	شام	شام	PROPN	N_IANM	Number=Sing	6	conj	_	LTranslit=šām|SpaceAfter=No|Translit=šām
 9	،	،	PUNCT	PUNC	_	8	punct	_	LTranslit=,|Translit=,
 10	در	در	ADP	PREP	_	2	case	_	LTranslit=dr|Translit=dr
-11	زمان	زمان	NOUN	N_IANM	Number=Sing	2	obl	_	LTranslit=zmān|Translit=zmān
+11	زمان	زمان	NOUN	N_IANM	Number=Sing	2	nmod	_	LTranslit=zmān|Translit=zmān
 12	خلیفهٔ	خلیفه	PROPN	N_ANM	Number=Sing	11	nmod	_	LTranslit=ḫlīfh|Translit=ḫlīfhٔ
 13	دوم	دوم	ADJ	POSNUM	_	12	amod	_	LTranslit=dūm|Translit=dūm
 14	به	به	ADP	PREP	_	15	case	_	LTranslit=bh|Translit=bh
@@ -13926,7 +13926,7 @@
 1	امام	امام	PROPN	IDEN	Number=Sing	15	nsubj	_	LTranslit=āmām|Translit=āmām
 2	نقی	نقی	PROPN	N_ANM	Number=Sing	1	flat:name	_	LTranslit=nqī|Translit=nqī
 3	(	(	PUNCT	PUNC	_	4	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-4	ع	ع	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+4	ع	ع	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 5	)	)	PUNCT	PUNC	_	4	punct	_	LTranslit=)|Translit=)
 6	با	با	ADP	PREP	_	7	case	_	LTranslit=bā|Translit=bā
 7	صدور	صدور	NOUN	N_IANM	Number=Sing	15	obl	_	LTranslit=ṣdūr|Translit=ṣdūr
@@ -14470,7 +14470,7 @@
 8	نواخته	نواخت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	9	xcomp	_	LTranslit=nūāḫt|OrigLemma=نواخت#نواز|Translit=nūāḫth
 9	شد	شد	VERB	AUX	Number=Sing|Person=3|Tense=Past	3	acl	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šd
 10	سر	سر	NOUN	N_IANM	_	12	obl:arg	_	LTranslit=sr|Translit=sr
-11	حال	حال	NOUN	N_IANM	Number=Sing	10	obl:arg	_	LTranslit=ḥāl|Translit=ḥāl
+11	حال	حال	NOUN	N_IANM	Number=Sing	10	nmod	_	LTranslit=ḥāl|Translit=ḥāl
 12	نیامده‌ایم	آمد	VERB	V_ACT	Number=Plur|Person=1|Polarity=Neg|VerbForm=Part|Voice=Act	0	root	_	LTranslit=Āmd|OrigLemma=آمد#آ|Translit=nīāmdhāīm
 13	و	و	CCONJ	CONJ	_	15	cc	_	LTranslit=ū|Translit=ū
 14	گیج	گیج	ADJ	ADJ_AJP	_	15	compound:lvc	_	LTranslit=gīj|Translit=gīj
@@ -15470,7 +15470,7 @@
 1	امام	امام	PROPN	IDEN	Number=Sing	6	nsubj	_	LTranslit=āmām|Translit=āmām
 2	خمینی	خمینی	PROPN	N_ANM	Number=Sing	1	flat:name	_	LTranslit=ḫmīnī|Translit=ḫmīnī
 3	(	(	PUNCT	PUNC	_	4	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-4	ره	ره	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=rh|SpaceAfter=No|Translit=rh
+4	ره	ره	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=rh|SpaceAfter=No|Translit=rh
 5	)	)	PUNCT	PUNC	_	4	punct	_	LTranslit=)|Translit=)
 6	عاشق	عاشق	ADJ	ADJ_AJP	_	0	root	_	LTranslit=ʿāšq|Translit=ʿāšq
 7	جوانان	جوان	NOUN	N_ANM	Number=Plur	6	obl:arg	_	LTranslit=jūān|Translit=jūānān
@@ -16004,7 +16004,7 @@
 # text = معظم له در این دیدار با تقدیر و تشکر از نمایندگان محترم فرمودند: امیدوارم در سنگری که قرار دارید موجبات رضایت حضرت بقیةالله الاعظم ارواح العالمین له الفدا را فراهم کنید و به دنبال حفظ استقلال نظام جمهوری اسلامی ایران باشید و در این خصوص نقش‌آفرینی کنید.
 # translit = mʿẓm lh dr aīn dīdār bā tqdīr w tškr az nmāīndgān mḥtrm frmūdnd: amīdūārm dr sngrī kh qrār dārīd mūjbāt rḍāīt ḥḍrt bqīâtāllh alāʿẓm arūāḥ alʿālmīn lh alfdā rā frāhm knīd w bh dnbāl ḥfẓ astqlāl nẓām jmhūrī aslāmī aīrān bāšīd w dr aīn ḫṣūṣ nqšĀfrīnī knīd.
 1	معظم	معظم	NOUN	N_ANM	Number=Sing	13	nsubj	_	LTranslit=mʿẓm|Translit=mʿẓm
-2	له	له	NOUN	N_ANM	Number=Sing	1	obl	_	LTranslit=lh|Translit=lh
+2	له	له	NOUN	N_ANM	Number=Sing	1	nmod	_	LTranslit=lh|Translit=lh
 3	در	در	ADP	PREP	_	5	case	_	LTranslit=dr|Translit=dr
 4	این	این	DET	PREM_DEMAJ	_	5	det	_	LTranslit=āīn|Translit=āīn
 5	دیدار	دیدار	NOUN	N_IANM	Number=Sing	13	obl	_	LTranslit=dīdār|Translit=dīdār
@@ -16030,10 +16030,10 @@
 24	حضرت	حضرت	NOUN	N_ANM	Number=Sing	23	nmod	_	LTranslit=ḥḍrt|Translit=ḥḍrt
 25	بقیةالله	بقیةالله	PROPN	N_ANM	Number=Sing	24	nmod	_	LTranslit=bqīâtāllh|Translit=bqīâtāllh
 26	الاعظم	الاعظم	PROPN	N_ANM	Number=Sing	25	flat:name	_	LTranslit=ālāʿẓm|Translit=ālāʿẓm
-27	ارواح	ارواح	NOUN	N_IANM	Number=Sing	24	obl	_	LTranslit=ārūāḥ|Translit=ārūāḥ
-28	العالمین	العالمین	NOUN	N_IANM	Number=Sing	27	obl	_	LTranslit=ālʿālmīn|Translit=ālʿālmīn
-29	له	له	NOUN	N_IANM	Number=Sing	28	obl	_	LTranslit=lh|Translit=lh
-30	الفدا	الفدا	NOUN	N_IANM	Number=Sing	29	obl	_	LTranslit=ālfdā|Translit=ālfdā
+27	ارواح	ارواح	NOUN	N_IANM	Number=Sing	24	nmod	_	LTranslit=ārūāḥ|Translit=ārūāḥ
+28	العالمین	العالمین	NOUN	N_IANM	Number=Sing	27	nmod	_	LTranslit=ālʿālmīn|Translit=ālʿālmīn
+29	له	له	NOUN	N_IANM	Number=Sing	28	nmod	_	LTranslit=lh|Translit=lh
+30	الفدا	الفدا	NOUN	N_IANM	Number=Sing	29	nmod	_	LTranslit=ālfdā|Translit=ālfdā
 31	را	را	ADP	POSTP	_	22	case	_	LTranslit=rā|Translit=rā
 32	فراهم	فراهم	ADJ	ADJ_AJP	_	33	xcomp	_	LTranslit=frāhm|Translit=frāhm
 33	کنید	کرد	VERB	V_ACT	Number=Plur|Person=2|Voice=Act	15	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knīd
@@ -16212,7 +16212,7 @@
 3	استالین	استالین	PROPN	N_ANM	Number=Sing	1	flat:name	_	LTranslit=āstālīn|Translit=āstālīn
 4	از	از	ADP	PREP	_	5	case	_	LTranslit=āz|Translit=āz
 5	این	این	PRON	PR_DEMON	Number=Sing	11	obl	_	LTranslit=āīn|Translit=āīn
-6	پس	پس	NOUN	N_IANM	Number=Sing	5	obl	_	LTranslit=ps|Translit=ps
+6	پس	پس	NOUN	N_IANM	Number=Sing	5	nmod	_	LTranslit=ps|Translit=ps
 7	دیکتاتور	دیکتاتور	NOUN	N_ANM	Number=Sing	11	obj	_	LTranslit=dīktātūr|Translit=dīktātūr
 8	را	را	ADP	POSTP	_	7	case	_	LTranslit=rā|Translit=rā
 9	نکوهش	نکوهش	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	LTranslit=nkūhš|Translit=nkūhš
@@ -16544,7 +16544,7 @@
 12	فرمایش‌های	فرمایش	NOUN	N_IANM	Number=Plur	10	nmod	_	LTranslit=frmāīš|Translit=frmāīšhāī
 13	ائمه	امام	NOUN	N_ANM	Number=Plur	12	nmod	_	LTranslit=āmām|Translit=āʾimh
 14	(	(	PUNCT	PUNC	_	15	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-15	علیهم‌السلام	علیهم‌السلام	NOUN	N_IANM	Number=Sing	13	obl	_	LTranslit=ʿlīhmālslām|SpaceAfter=No|Translit=ʿlīhmālslām
+15	علیهم‌السلام	علیهم‌السلام	NOUN	N_IANM	Number=Sing	13	nmod	_	LTranslit=ʿlīhmālslām|SpaceAfter=No|Translit=ʿlīhmālslām
 16	)	)	PUNCT	PUNC	_	15	punct	_	LTranslit=)|Translit=)
 17	و	و	CCONJ	CONJ	_	18	cc	_	LTranslit=ū|Translit=ū
 18	برداشت‌های	برداشت	NOUN	N_IANM	Number=Plur	9	conj	_	LTranslit=brdāšt|Translit=brdāšthāī
@@ -17267,7 +17267,7 @@
 # translit = ḥḍrt amām rh gāhī nūhhāī ḫūd rā srgrm krdh w az aīn rāh bā Ānhā mṭāībh mīkrdnd.
 1	حضرت	حضرت	PROPN	N_ANM	Number=Sing	9	nsubj	_	LTranslit=ḥḍrt|Translit=ḥḍrt
 2	امام	امام	PROPN	N_ANM	Number=Sing	1	flat:name	_	LTranslit=āmām|Translit=āmām
-3	ره	ره	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=rh|Translit=rh
+3	ره	ره	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=rh|Translit=rh
 4	گاهی	گاه	NOUN	N_IANM	Number=Sing	9	obl	_	LTranslit=gāh|Translit=gāhī
 5	نوه‌های	نوه	NOUN	N_IANM	Number=Plur	9	obj	_	LTranslit=nūh|Translit=nūhhāī
 6	خود	خود	PRON	PR_CREFX	_	5	nmod	_	LTranslit=ḫūd|Translit=ḫūd
@@ -18193,7 +18193,7 @@
 2	که	که	SCONJ	SUBR	_	10	mark	_	LTranslit=kh|Translit=kh
 3	محبت	محبت	NOUN	N_IANM	Number=Sing	10	nsubj	_	LTranslit=mḥbt|Translit=mḥbt
 4	علی	علی	PROPN	N_ANM	Number=Sing	3	nmod	_	LTranslit=ʿlī|Translit=ʿlī
-5	علیه‌السلام	علیه‌السلام	NOUN	N_IANM	Number=Sing	4	obl	_	LTranslit=ʿlīhālslām|Translit=ʿlīhālslām
+5	علیه‌السلام	علیه‌السلام	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=ʿlīhālslām|Translit=ʿlīhālslām
 6	در	در	ADP	PREP	_	7	case	_	LTranslit=dr|Translit=dr
 7	دل	دل	NOUN	N_IANM	Number=Sing	10	obl:arg	_	LTranslit=dl|Translit=dl
 8	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	7	nmod	_	LTranslit=āū|Translit=āū
@@ -18398,8 +18398,8 @@
 22	صحابی	صحابی	NOUN	N_ANM	Number=Sing	20	nmod	_	LTranslit=ṣḥābī|Translit=ṣḥābī
 23	پیامبر	پیامبر	PROPN	N_ANM	Number=Sing	22	nmod	_	LTranslit=pīāmbr|Translit=pīāmbr
 24	اکرم	اکرم	ADJ	ADJ_AJP	_	23	amod	_	LTranslit=ākrm|Translit=ākrm
-25	صلی‌الله	صلی‌الله	NOUN	N_IANM	Number=Sing	23	obl	_	LTranslit=ṣlīāllh|Translit=ṣlīāllh
-26	علیه	علیه	NOUN	N_IANM	Number=Sing	25	obl	_	LTranslit=ʿlīh|Translit=ʿlīh
+25	صلی‌الله	صلی‌الله	NOUN	N_IANM	Number=Sing	23	nmod	_	LTranslit=ṣlīāllh|Translit=ṣlīāllh
+26	علیه	علیه	NOUN	N_IANM	Number=Sing	25	nmod	_	LTranslit=ʿlīh|Translit=ʿlīh
 27	و	و	CCONJ	CONJ	_	28	cc	_	LTranslit=ū|Translit=ū
 28	آله	آله	NOUN	N_IANM	Number=Sing	26	conj	_	LTranslit=Ālh|Translit=Ālh
 29	مباشرت	مباشرت	NOUN	N_IANM	Number=Sing	30	compound:lvc	_	LTranslit=mbāšrt|Translit=mbāšrt
@@ -18573,7 +18573,7 @@
 9	اهل	اهل	NOUN	N_ANM	Number=Sing	8	nmod	_	LTranslit=āhl|Translit=āhl
 10	بیت	بیت	NOUN	N_IANM	Number=Sing	9	nmod	_	LTranslit=bīt|Translit=bīt
 11	(	(	PUNCT	PUNC	_	12	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-12	ع	ع	NOUN	N_IANM	Number=Sing	9	obl	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+12	ع	ع	NOUN	N_IANM	Number=Sing	9	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 13	)	)	PUNCT	PUNC	_	12	punct	_	LTranslit=)|Translit=)
 14	مدیحه‌سرایی	مدیحه‌سرایی	NOUN	N_IANM	Number=Sing	16	compound:lvc	_	LTranslit=mdīḥhsrāīī|Translit=mdīḥhsrāīī
 15	خواهند	خواست	AUX	AUX	Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	LTranslit=ḫūāst|OrigLemma=خواست#خواه|Translit=ḫūāhnd
@@ -18642,13 +18642,13 @@
 2	آن	آن	DET	PREM_DEMAJ	_	3	det	_	LTranslit=Ān|Translit=Ān
 3	روایت	روایت	NOUN	N_IANM	Number=Sing	24	obl	_	LTranslit=rūāīt|Translit=rūāīt
 4	امام	امام	PROPN	N_ANM	Number=Sing	24	nsubj	_	LTranslit=āmām|Translit=āmām
-5	علیه‌السلام	علیه‌السلام	NOUN	N_IANM	Number=Sing	4	obl	_	LTranslit=ʿlīhālslām|SpaceAfter=No|Translit=ʿlīhālslām
+5	علیه‌السلام	علیه‌السلام	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=ʿlīhālslām|SpaceAfter=No|Translit=ʿlīhālslām
 6	،	،	PUNCT	PUNC	_	5	punct	_	LTranslit=,|Translit=,
 7	ابان	ابان	NOUN	N_ANM	Number=Sing	24	obj	_	LTranslit=ābān|Translit=ābān
 8	را	را	ADP	POSTP	_	7	case	_	LTranslit=rā|Translit=rā
 9	به	به	ADP	PREP	_	10	case	_	LTranslit=bh|Translit=bh
 10	جهت	جهت	NOUN	N_IANM	Number=Sing	24	obl	_	LTranslit=jht|Translit=jht
-11	اینکه	اینکه	NOUN	N_IANM	Number=Sing	10	obl	_	LTranslit=āīnkh|Translit=āīnkh
+11	اینکه	اینکه	NOUN	N_IANM	Number=Sing	10	nmod	_	LTranslit=āīnkh|Translit=āīnkh
 12	فهم	فهم	NOUN	N_IANM	Number=Sing	19	obj	_	LTranslit=fhm|Translit=fhm
 13	حکم	حکم	NOUN	N_IANM	Number=Sing	12	nmod	_	LTranslit=ḥkm|Translit=ḥkm
 14	شرعی	شرعی	ADJ	ADJ_AJP	_	13	amod	_	LTranslit=šrʿī|Translit=šrʿī
@@ -18718,7 +18718,7 @@
 4	درخت	درخت	NOUN	N_ANM	Number=Sing	9	obl	_	LTranslit=drḫt|Translit=drḫt
 5	بیدی	بید	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=bīd|Translit=bīdī
 6	کنار	کنار	NOUN	N_IANM	_	9	obl	_	LTranslit=knār|Translit=knār
-7	چشمه	چشمه	PROPN	N_IANM	Number=Sing	6	obl	_	LTranslit=čšmh|Translit=čšmh
+7	چشمه	چشمه	PROPN	N_IANM	Number=Sing	6	nmod	_	LTranslit=čšmh|Translit=čšmh
 8	جیک‌جیک	جیک‌جیک	PROPN	N_IANM	Number=Sing	9	compound:lvc	_	LTranslit=jīkjīk|Translit=jīkjīk
 9	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=krd
 10	.	.	PUNCT	PUNC	_	9	punct	_	LTranslit=.|Translit=.
@@ -19083,7 +19083,7 @@
 4	از	از	ADP	PREP	_	5	case	_	LTranslit=āz|Translit=āz
 5	یاد	یاد	NOUN	N_IANM	Number=Sing	7	obl:arg	_	LTranslit=īād|Translit=īād
 6	انسان	انسان	NOUN	N_ANM	Number=Sing	5	nmod	_	LTranslit=ānsān|Translit=ānsān
-7	برود	رفت	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	2	obl	_	LTranslit=rft|OrigLemma=رفت#رو|Translit=brūd
+7	برود	رفت	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	2	nmod	_	LTranslit=rft|OrigLemma=رفت#رو|Translit=brūd
 8	و	و	CCONJ	CONJ	_	13	cc	_	LTranslit=ū|Translit=ū
 9	آدمی	آدمی	NOUN	N_ANM	Number=Sing	13	nsubj	_	LTranslit=Ādmī|Translit=Ādmī
 10	آن	آن	PRON	PR_DEMON	Number=Sing	13	obj	_	LTranslit=Ān|Translit=Ān
@@ -19148,7 +19148,7 @@
 # translit = fāṭmh (s) az ḥq amāmt ḥḍrt ʿlī (ʿ) dfāʿ mīkrd w bā Ānhāīī kh ḥkūmt ḥq Ānhā nbūd, mḫālft mīkrd.
 1	فاطمه	فاطمه	PROPN	N_ANM	Number=Sing	14	nsubj	_	LTranslit=fāṭmh|Translit=fāṭmh
 2	(	(	PUNCT	PUNC	_	3	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-3	س	س	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=s|SpaceAfter=No|Translit=s
+3	س	س	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=s|SpaceAfter=No|Translit=s
 4	)	)	PUNCT	PUNC	_	3	punct	_	LTranslit=)|Translit=)
 5	از	از	ADP	PREP	_	6	case	_	LTranslit=āz|Translit=āz
 6	حق	حق	NOUN	N_IANM	Number=Sing	14	obl:arg	_	LTranslit=ḥq|Translit=ḥq
@@ -19156,7 +19156,7 @@
 8	حضرت	حضرت	PROPN	N_ANM	Number=Sing	7	nmod	_	LTranslit=ḥḍrt|Translit=ḥḍrt
 9	علی	علی	PROPN	N_ANM	Number=Sing	8	flat:name	_	LTranslit=ʿlī|Translit=ʿlī
 10	(	(	PUNCT	PUNC	_	11	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-11	ع	ع	NOUN	N_IANM	Number=Sing	8	obl	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+11	ع	ع	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 12	)	)	PUNCT	PUNC	_	11	punct	_	LTranslit=)|Translit=)
 13	دفاع	دفاع	NOUN	N_IANM	Number=Sing	14	compound:lvc	_	LTranslit=dfāʿ|Translit=dfāʿ
 14	می‌کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=mīkrd
@@ -19744,7 +19744,7 @@
 10	بدون	بدون	ADP	PREP	_	13	case	_	LTranslit=bdūn|Translit=bdūn
 11	بر	بر	ADP	PREP	_	12	case	_	LTranslit=br|Translit=br
 12	زبان	زبان	NOUN	N_IANM	Number=Sing	13	nmod	_	LTranslit=zbān|Translit=zbān
-13	راندن	راندن	NOUN	N_IANM	Number=Sing	6	obl	_	LTranslit=rāndn|Translit=rāndn
+13	راندن	راندن	NOUN	N_IANM	Number=Sing	6	nmod	_	LTranslit=rāndn|Translit=rāndn
 14	آن	آن	PRON	PR_DEMON	Number=Sing	13	nmod	_	LTranslit=Ān|Translit=Ān
 15	نیت	نیت	NOUN	N_IANM	Number=Sing	16	compound:lvc	_	LTranslit=nīt|Translit=nīt
 16	می‌کند	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=mīknd
@@ -19755,7 +19755,7 @@
 # translit = āmām ṣādq ʿlīhālslām mīfrmāīnd: pīāmbr aslām hr gāh mīḫūāst spāhīānī rā bh jng aʿzām knd, bh Ānhā mīfrmūd: nīrng nknīd.
 1	امام	امام	PROPN	IDEN	Number=Sing	4	nsubj	_	LTranslit=āmām|Translit=āmām
 2	صادق	صادق	PROPN	N_ANM	Number=Sing	1	flat:name	_	LTranslit=ṣādq|Translit=ṣādq
-3	علیه‌السلام	علیه‌السلام	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=ʿlīhālslām|Translit=ʿlīhālslām
+3	علیه‌السلام	علیه‌السلام	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=ʿlīhālslām|Translit=ʿlīhālslām
 4	می‌فرمایند	فرمود	VERB	V_ACT	Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	LTranslit=frmūd|OrigLemma=فرمود#فرما|SpaceAfter=No|Translit=mīfrmāīnd
 5	:	:	PUNCT	PUNC	_	20	punct	_	LTranslit=:|Translit=:
 6	پیامبر	پیامبر	PROPN	N_ANM	Number=Sing	20	nsubj	_	LTranslit=pīāmbr|Translit=pīāmbr
@@ -19962,7 +19962,7 @@
 3	طور	طور	NOUN	N_IANM	Number=Sing	20	obl	_	LTranslit=ṭūr|Translit=ṭūr
 4	که	که	SCONJ	SUBR	_	7	mark	_	LTranslit=kh|Translit=kh
 5	کنار	کنار	NOUN	N_IANM	_	7	obl:arg	_	LTranslit=knār|Translit=knār
-6	خیابان	خیابان	NOUN	N_IANM	Number=Sing	5	obl:arg	_	LTranslit=ḫīābān|Translit=ḫīābān
+6	خیابان	خیابان	NOUN	N_IANM	Number=Sing	5	nmod	_	LTranslit=ḫīābān|Translit=ḫīābān
 7	نشسته	نشست	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl	_	LTranslit=nšst|OrigLemma=نشست#نشین|Translit=nšsth
 8	بود	بود	AUX	AUX	Number=Sing|Person=3|Tense=Past	7	aux	_	LTranslit=būd|OrigLemma=بود#باش|Translit=būd
 9	با	با	ADP	PREP	_	10	case	_	LTranslit=bā|Translit=bā
@@ -20151,7 +20151,7 @@
 # translit = bā tū ykī mzāḥ krdm.
 1	با	با	ADP	PREP	_	2	case	_	LTranslit=bā|Translit=bā
 2	تو	تو	PRON	PR_SEPER	Number=Sing|Person=2|PronType=Prs	5	obl:arg	_	LTranslit=tū|Translit=tū
-3	یکی	یکی	NOUN	N_ANM	Number=Sing	2	obl:arg	_	LTranslit=īkī|Translit=īkī
+3	یکی	یکی	NOUN	N_ANM	Number=Sing	2	nmod	_	LTranslit=īkī|Translit=īkī
 4	مزاح	مزاح	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	LTranslit=mzāḥ|Translit=mzāḥ
 5	کردم	کرد	VERB	V_ACT	Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=krdm
 6	.	.	PUNCT	PUNC	_	5	punct	_	LTranslit=.|Translit=.
@@ -20420,7 +20420,7 @@
 # text = ما که موفق نشدیم او را به هوش بیاوریم، آیا تو علت بی‌هوشی او را می‌دانی؟
 # translit = mā kh mūfq nšdīm aū rā bh hūš bīāūrīm, Āīā tū ʿlt bīhūšī aū rā mīdānī?
 1	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	LTranslit=mā|Translit=mā
-2	که	که	PART	PART	_	1	obl	_	LTranslit=kh|Translit=kh
+2	که	که	PART	PART	_	1	nmod	_	LTranslit=kh|Translit=kh
 3	موفق	موفق	ADJ	ADJ_AJP	_	4	xcomp	_	LTranslit=mūfq|Translit=mūfq
 4	نشدیم	شد	VERB	V_ACT	Number=Plur|Person=1|Polarity=Neg|Tense=Past|Voice=Act	0	root	_	LTranslit=šd|OrigLemma=شد#شو|Translit=nšdīm
 5	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	9	obj	_	LTranslit=āū|Translit=āū
@@ -21284,7 +21284,7 @@
 27	،	،	PUNCT	PUNC	_	26	punct	_	LTranslit=,|Translit=,
 28	و	و	CCONJ	CONJ	_	15	case	_	LTranslit=ū|Translit=ū
 29	با	با	ADP	PREP	_	30	case	_	LTranslit=bā|Translit=bā
-30	نویسنده‌ای	نویسنده	NOUN	N_ANM	Number=Sing	15	obl	_	LTranslit=nūīsndh|Translit=nūīsndhāī
+30	نویسنده‌ای	نویسنده	NOUN	N_ANM	Number=Sing	15	nmod	_	LTranslit=nūīsndh|Translit=nūīsndhāī
 31	که	که	SCONJ	SUBR	_	30	acl	_	LTranslit=kh|Translit=kh
 32	انقلاب	انقلاب	NOUN	N_IANM	Number=Sing	41	obj	_	LTranslit=ānqlāb|Translit=ānqlāb
 33	اسلامی	اسلامی	ADJ	ADJ_AJP	_	32	amod	_	LTranslit=āslāmī|Translit=āslāmī
@@ -21405,7 +21405,7 @@
 18	عمامه‌های	عمامه	NOUN	N_IANM	Number=Plur	16	nmod	_	LTranslit=ʿmāmh|Translit=ʿmāmhhāī
 19	امام	امام	NOUN	N_ANM	Number=Sing	18	nmod	_	LTranslit=āmām|Translit=āmām
 20	(	(	PUNCT	PUNC	_	21	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-21	ره	ره	NOUN	N_IANM	Number=Sing	19	obl	_	LTranslit=rh|SpaceAfter=No|Translit=rh
+21	ره	ره	NOUN	N_IANM	Number=Sing	19	nmod	_	LTranslit=rh|SpaceAfter=No|Translit=rh
 22	)	)	PUNCT	PUNC	_	21	punct	_	LTranslit=)|Translit=)
 23	را	را	ADP	POSTP	_	16	case	_	LTranslit=rā|Translit=rā
 24	به	به	ADP	PREP	_	25	case	_	LTranslit=bh|Translit=bh
@@ -21446,7 +21446,7 @@
 25	را	را	ADP	POSTP	_	21	case	_	LTranslit=rā|Translit=rā
 26	در	در	ADP	PREP	_	27	case	_	LTranslit=dr|Translit=dr
 27	بین	بین	NOUN	N_IANM	Number=Sing	30	obl	_	LTranslit=bīn|Translit=bīn
-28	مردم	مردم	NOUN	N_ANM	Number=Plur	27	obl	_	LTranslit=mrdm|Translit=mrdm
+28	مردم	مردم	NOUN	N_ANM	Number=Plur	27	nmod	_	LTranslit=mrdm|Translit=mrdm
 29	حفظ	حفظ	NOUN	N_IANM	Number=Sing	30	compound:lvc	_	LTranslit=ḥfẓ|Translit=ḥfẓ
 30	نموده	نمود	VERB	V_ACT	Number=Sing|Person=3|VerbForm=Part|Voice=Act	18	acl	_	LTranslit=nmūd|OrigLemma=نمود#نما|Translit=nmūdh
 31	و	و	CCONJ	CONJ	_	57	cc	_	LTranslit=ū|Translit=ū
@@ -21548,7 +21548,7 @@
 1	امام	امام	PROPN	IDEN	Number=Sing	12	nsubj	_	LTranslit=āmām|Translit=āmām
 2	حسین	حسین	PROPN	N_ANM	Number=Sing	1	flat:name	_	LTranslit=ḥsīn|Translit=ḥsīn
 3	(	(	PUNCT	PUNC	_	4	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-4	ع	ع	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+4	ع	ع	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 5	)	)	PUNCT	PUNC	_	4	punct	_	LTranslit=)|Translit=)
 6	نام	نام	NOUN	N_IANM	Number=Sing	12	obj	_	LTranslit=nām|Translit=nām
 7	علی	علی	PROPN	N_ANM	Number=Sing	6	nmod	_	LTranslit=ʿlī|Translit=ʿlī
@@ -21600,7 +21600,7 @@
 8	حضرت	حضرت	PROPN	N_ANM	Number=Sing	6	obl:arg	_	LTranslit=ḥḍrt|Translit=ḥḍrt
 9	زهرا	زهرا	PROPN	N_ANM	Number=Sing	8	flat:name	_	LTranslit=zhrā|Translit=zhrā
 10	(	(	PUNCT	PUNC	_	11	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-11	س	س	NOUN	N_IANM	Number=Sing	8	obl	_	LTranslit=s|SpaceAfter=No|Translit=s
+11	س	س	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=s|SpaceAfter=No|Translit=s
 12	)	)	PUNCT	PUNC	_	11	punct	_	LTranslit=)|Translit=)
 13	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	LTranslit=āst|OrigLemma=#است|SpaceAfter=No|Translit=āst
 14	.	.	PUNCT	PUNC	_	3	punct	_	LTranslit=.|Translit=.
@@ -21644,7 +21644,7 @@
 2	زمان	زمان	NOUN	N_IANM	Number=Sing	10	obl	_	LTranslit=zmān|Translit=zmān
 3	پیامبر	پیامبر	PROPN	N_ANM	Number=Sing	2	nmod	_	LTranslit=pīāmbr|Translit=pīāmbr
 4	(	(	PUNCT	PUNC	_	5	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-5	ص	ص	NOUN	N_IANM	Number=Sing	3	obl	_	LTranslit=ṣ|SpaceAfter=No|Translit=ṣ
+5	ص	ص	NOUN	N_IANM	Number=Sing	3	nmod	_	LTranslit=ṣ|SpaceAfter=No|Translit=ṣ
 6	)	)	PUNCT	PUNC	_	5	punct	_	LTranslit=)|Translit=)
 7	قیمت	قیمت	NOUN	N_IANM	Number=Sing	10	nsubj	_	LTranslit=qīmt|Translit=qīmt
 8	اجناس	جنس	NOUN	N_IANM	Number=Plur	7	nmod	_	LTranslit=jns|Translit=ājnās
@@ -21655,7 +21655,7 @@
 13	به	به	ADP	PREP	_	14	case	_	LTranslit=bh|Translit=bh
 14	پیامبر	پیامبر	PROPN	N_ANM	Number=Sing	19	obl:arg	_	LTranslit=pīāmbr|Translit=pīāmbr
 15	(	(	PUNCT	PUNC	_	16	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-16	ص	ص	NOUN	N_IANM	Number=Sing	14	obl:arg	_	LTranslit=ṣ|SpaceAfter=No|Translit=ṣ
+16	ص	ص	NOUN	N_IANM	Number=Sing	14	nmod	_	LTranslit=ṣ|SpaceAfter=No|Translit=ṣ
 17	)	)	PUNCT	PUNC	_	16	punct	_	LTranslit=)|Translit=)
 18	عرض	عرض	NOUN	N_IANM	Number=Sing	19	compound:lvc	_	LTranslit=ʿrḍ|Translit=ʿrḍ
 19	کردند	کرد	VERB	V_ACT	Number=Plur|Person=3|Tense=Past|Voice=Act	10	conj	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=krdnd
@@ -21678,7 +21678,7 @@
 6	موارد	مورد	NOUN	N_IANM	Number=Plur	5	nmod	_	LTranslit=mūrd|Translit=mūārd
 7	از	از	ADP	PREP	_	8	case	_	LTranslit=āz|Translit=āz
 8	روی	رو	NOUN	N_IANM	Number=Sing	14	obl	_	LTranslit=rū|Translit=rūī
-9	قیاس	قیاس	NOUN	N_IANM	Number=Sing	8	obl	_	LTranslit=qīās|Translit=qīās
+9	قیاس	قیاس	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=qīās|Translit=qīās
 10	و	و	CCONJ	CONJ	_	11	cc	_	LTranslit=ū|Translit=ū
 11	قانون	قانون	NOUN	N_IANM	Number=Sing	9	conj	_	LTranslit=qānūn|Translit=qānūn
 12	خاص	خاص	ADJ	ADJ_AJP	_	11	amod	_	LTranslit=ḫāṣ|Translit=ḫāṣ
@@ -22523,7 +22523,7 @@
 19	ولنتاین	ولنتاین	PROPN	N_ANM	Number=Sing	18	flat:name	_	LTranslit=ūlntāīn|Translit=ūlntāīn
 20	و	و	CCONJ	CONJ	_	16	case	_	LTranslit=ū|Translit=ū
 21	به	به	ADP	PREP	_	22	case	_	LTranslit=bh|Translit=bh
-22	اندازهٔ	اندازه	NOUN	N_IANM	Number=Sing	16	obl	_	LTranslit=āndāzh|Translit=āndāzhٔ
+22	اندازهٔ	اندازه	NOUN	N_IANM	Number=Sing	16	nmod	_	LTranslit=āndāzh|Translit=āndāzhٔ
 23	اهمیت	اهمیت	NOUN	N_IANM	Number=Sing	22	nmod	_	LTranslit=āhmīt|Translit=āhmīt
 24	بقای	بقا	NOUN	N_IANM	Number=Sing	23	nmod	_	LTranslit=bqā|Translit=bqāī
 25	عشق	عشق	NOUN	N_IANM	Number=Sing	24	nmod	_	LTranslit=ʿšq|Translit=ʿšq
@@ -22575,7 +22575,7 @@
 11	شهر	شهر	NOUN	N_IANM	Number=Sing	10	nmod	_	LTranslit=šhr|Translit=šhr
 12	و	و	CCONJ	CONJ	_	9	case	_	LTranslit=ū|Translit=ū
 13	به	به	ADP	PREP	_	14	case	_	LTranslit=bh|Translit=bh
-14	طور	طور	NOUN	N_IANM	Number=Sing	9	obl	_	LTranslit=ṭūr|Translit=ṭūr
+14	طور	طور	NOUN	N_IANM	Number=Sing	9	nmod	_	LTranslit=ṭūr|Translit=ṭūr
 15	شبانه‌روزی	شبانه‌روزی	ADJ	ADJ_AJP	_	14	amod	_	LTranslit=šbānhrūzī|Translit=šbānhrūzī
 16	حضور	حضور	NOUN	N_IANM	Number=Sing	17	obj	_	LTranslit=ḥḍūr|Translit=ḥḍūr
 17	دارند	داشت	VERB	V_ACT	Number=Plur|Person=3|Tense=Pres|Voice=Act	5	acl	_	LTranslit=dāšt|OrigLemma=داشت#دار|SpaceAfter=No|Translit=dārnd
@@ -22900,7 +22900,7 @@
 10	برای	برای	ADP	PREP	_	11	case	_	LTranslit=brāī|Translit=brāī
 11	شان	آنها	PRON	PR_JOPER	Number=Plur|Person=3|PronType=Prs	13	obl	_	LTranslit=Ānhā|Translit=šān
 12	پیدا	پیدا	ADJ	ADJ_AJP	_	13	xcomp	_	LTranslit=pīdā|Translit=pīdā
-13	می‌شد	شد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	8	obl	_	LTranslit=šd|OrigLemma=شد#شو|Translit=mīšd
+13	می‌شد	شد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	8	nmod	_	LTranslit=šd|OrigLemma=شد#شو|Translit=mīšd
 14	یا	یا	CCONJ	CONJ	_	16	cc	_	LTranslit=īā|Translit=īā
 15	سؤالی	سؤال	NOUN	N_IANM	Number=Sing	16	obj	_	LTranslit=sŪāl|Translit=sŪālī
 16	داشتند	داشت	VERB	V_ACT	Number=Plur|Person=3|Tense=Past|Voice=Act	13	conj	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dāštnd
@@ -23424,7 +23424,7 @@
 # translit = pīāmbr (ṣ) mīfrmāīd: hr kh bā ḥsīn bjngd bā mn jngīdh w hr ks bā aū msālmt knd bā mn msālmt krdh ast.
 1	پیامبر	پیامبر	PROPN	N_ANM	Number=Sing	5	nsubj	_	LTranslit=pīāmbr|Translit=pīāmbr
 2	(	(	PUNCT	PUNC	_	3	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-3	ص	ص	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=ṣ|SpaceAfter=No|Translit=ṣ
+3	ص	ص	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=ṣ|SpaceAfter=No|Translit=ṣ
 4	)	)	PUNCT	PUNC	_	3	punct	_	LTranslit=)|Translit=)
 5	می‌فرماید	فرمود	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LTranslit=frmūd|OrigLemma=فرمود#فرما|SpaceAfter=No|Translit=mīfrmāīd
 6	:	:	PUNCT	PUNC	_	14	punct	_	LTranslit=:|Translit=:
@@ -23496,7 +23496,7 @@
 21	فرهنگی	فرهنگی	ADJ	ADJ_AJP	_	20	amod	_	LTranslit=frhngī|Translit=frhngī
 22	و	و	CCONJ	CONJ	_	20	case	_	LTranslit=ū|Translit=ū
 23	در	در	ADP	PREP	_	24	case	_	LTranslit=dr|Translit=dr
-24	مسائل	مسئله	NOUN	N_IANM	Number=Plur	20	obl	_	LTranslit=msʾilh|Translit=msāʾil
+24	مسائل	مسئله	NOUN	N_IANM	Number=Plur	20	nmod	_	LTranslit=msʾilh|Translit=msāʾil
 25	حقوقی	حقوقی	ADJ	ADJ_AJP	_	24	amod	_	LTranslit=ḥqūqī|Translit=ḥqūqī
 26	هم	هم	ADV	ADV_SADV	_	20	dep	_	LTranslit=hm|Translit=hm
 27	سلطه	سلطه	NOUN	N_IANM	Number=Sing	28	compound:lvc	_	LTranslit=slṭh|Translit=slṭh
@@ -23944,7 +23944,7 @@
 11	آرامی	آرامی	NOUN	N_IANM	Number=Sing	22	obl	_	LTranslit=Ārāmī|Translit=Ārāmī
 12	و	و	CCONJ	CONJ	_	11	case	_	LTranslit=ū|Translit=ū
 13	با	با	ADP	PREP	_	14	case	_	LTranslit=bā|Translit=bā
-14	صرف	صرف	NOUN	N_IANM	Number=Sing	11	obl	_	LTranslit=ṣrf|Translit=ṣrf
+14	صرف	صرف	NOUN	N_IANM	Number=Sing	11	nmod	_	LTranslit=ṣrf|Translit=ṣrf
 15	زمان	زمان	NOUN	N_IANM	Number=Sing	14	nmod	_	LTranslit=zmān|Translit=zmān
 16	و	و	CCONJ	CONJ	_	17	cc	_	LTranslit=ū|Translit=ū
 17	دقت	دقت	NOUN	N_IANM	Number=Sing	15	conj	_	LTranslit=dqt|Translit=dqt
@@ -24640,7 +24640,7 @@
 1	پیامبر	پیامبر	PROPN	N_ANM	Number=Sing	12	nsubj	_	LTranslit=pīāmbr|Translit=pīāmbr
 2	اکرم	اکرم	PROPN	ADJ_AJP	_	1	flat:name	_	LTranslit=ākrm|Translit=ākrm
 3	(	(	PUNCT	PUNC	_	4	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-4	ص	ص	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=ṣ|SpaceAfter=No|Translit=ṣ
+4	ص	ص	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=ṣ|SpaceAfter=No|Translit=ṣ
 5	)	)	PUNCT	PUNC	_	4	punct	_	LTranslit=)|Translit=)
 6	برخی	برخی	NOUN	N_ANM	Number=Plur	12	obj	_	LTranslit=brḫī|Translit=brḫī
 7	از	از	ADP	PREP	_	8	case	_	LTranslit=āz|Translit=āz
@@ -25222,7 +25222,7 @@
 7	امتیاز	امتیاز	NOUN	N_IANM	Number=Sing	13	obl:arg	_	LTranslit=āmtīāz|Translit=āmtīāz
 8	به	به	ADP	PREP	_	10	case	_	LTranslit=bh|Translit=bh
 9	20	20	NUM	PRENUM	_	10	nummod	_	LTranslit=20|Translit=20
-10	امتیاز	امتیاز	NOUN	N_IANM	Number=Sing	7	obl:arg	_	LTranslit=āmtīāz|Translit=āmtīāz
+10	امتیاز	امتیاز	NOUN	N_IANM	Number=Sing	7	nmod	_	LTranslit=āmtīāz|Translit=āmtīāz
 11	افزایش	افزایش	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	LTranslit=āfzāīš|Translit=āfzāīš
 12	خواهد	خواست	AUX	AUX	Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	LTranslit=ḫūāst|OrigLemma=خواست#خواه|Translit=ḫūāhd
 13	یافت	یافت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LTranslit=īāft|OrigLemma=یافت#یاب|Translit=īāft
@@ -25257,7 +25257,7 @@
 12	صدیقهٔ	صدیقه	NOUN	N_ANM	Number=Sing	8	nmod	_	LTranslit=ṣdīqh|Translit=ṣdīqhٔ
 13	طاهره	طاهره	PROPN	ADJ_AJP	_	12	amod	_	LTranslit=ṭāhrh|Translit=ṭāhrh
 14	(	(	PUNCT	PUNC	_	15	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-15	س	س	NOUN	N_IANM	Number=Sing	12	obl	_	LTranslit=s|SpaceAfter=No|Translit=s
+15	س	س	NOUN	N_IANM	Number=Sing	12	nmod	_	LTranslit=s|SpaceAfter=No|Translit=s
 16	)	)	PUNCT	PUNC	_	15	punct	_	LTranslit=)|Translit=)
 17	پرداخته	پرداخت	VERB	V_ACT	Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	LTranslit=prdāḫt|OrigLemma=پرداخت#پرداز|Translit=prdāḫth
 18	و	و	CCONJ	CONJ	_	23	cc	_	LTranslit=ū|Translit=ū
@@ -26365,7 +26365,7 @@
 4	قانون	قانون	NOUN	N_IANM	Number=Sing	11	obj	_	LTranslit=qānūn|Translit=qānūn
 5	امنیت	امنیت	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=āmnīt|Translit=āmnīt
 6	رئیس	رئیس	PROPN	IDEN	Number=Sing	8	nmod	_	LTranslit=rʾiīs|Translit=rʾiīs
-7	جمهور	جمهور	NOUN	N_IANM	Number=Sing	6	obl	_	LTranslit=jmhūr|Translit=jmhūr
+7	جمهور	جمهور	NOUN	N_IANM	Number=Sing	6	nmod	_	LTranslit=jmhūr|Translit=jmhūr
 8	اوباما	اوباما	PROPN	N_ANM	Number=Sing	4	nmod	_	LTranslit=āūbāmā|Translit=āūbāmā
 9	را	را	ADP	POSTP	_	4	case	_	LTranslit=rā|Translit=rā
 10	تصویب	تصویب	NOUN	N_IANM	Number=Sing	11	compound:lvc	_	LTranslit=tṣūīb|Translit=tṣūīb
@@ -26428,7 +26428,7 @@
 16	رسول	رسول	PROPN	N_ANM	Number=Sing	15	nmod	_	LTranslit=rsūl|Translit=rsūl
 17	خدا	خدا	PROPN	N_ANM	Number=Sing	16	flat:name	_	LTranslit=ḫdā|Translit=ḫdā
 18	(	(	PUNCT	PUNC	_	19	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-19	ص	ص	NOUN	N_IANM	Number=Sing	16	obl	_	LTranslit=ṣ|SpaceAfter=No|Translit=ṣ
+19	ص	ص	NOUN	N_IANM	Number=Sing	16	nmod	_	LTranslit=ṣ|SpaceAfter=No|Translit=ṣ
 20	)	)	PUNCT	PUNC	_	19	punct	_	LTranslit=)|Translit=)
 21	کارزار	کارزار	NOUN	N_IANM	Number=Sing	22	compound:lvc	_	LTranslit=kārzār|Translit=kārzār
 22	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	12	acl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=krdh
@@ -26485,7 +26485,7 @@
 4	از	از	ADP	PREP	_	5	case	_	LTranslit=āz|Translit=āz
 5	امیرالمؤمنین	امیرالمؤمنین	PROPN	N_ANM	Number=Sing	3	nmod	_	LTranslit=āmīrālmŪmnīn|Translit=āmīrālmŪmnīn
 6	(	(	PUNCT	PUNC	_	7	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
-7	ع	ع	NOUN	N_IANM	Number=Sing	5	obl	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+7	ع	ع	NOUN	N_IANM	Number=Sing	5	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
 8	)	)	PUNCT	PUNC	_	7	punct	_	LTranslit=)|Translit=)
 9	فردی	فرد	NOUN	N_ANM	Number=Sing	0	root	_	LTranslit=frd|Translit=frdī
 10	است	است	AUX	AUX	Number=Sing|Person=3	9	cop	_	LTranslit=āst|OrigLemma=#است|Translit=āst
@@ -26654,8 +26654,8 @@
 11	با	با	ADP	PREP	_	12	case	_	LTranslit=bā|Translit=bā
 12	وفات	وفات	NOUN	N_IANM	Number=Sing	10	obl:arg	_	LTranslit=ūfāt|Translit=ūfāt
 13	رسول‌الله	رسول‌الله	PROPN	N_ANM	Number=Sing	12	nmod	_	LTranslit=rsūlāllh|Translit=rsūlāllh
-14	صلی‌الله	صلی‌الله	NOUN	N_IANM	Number=Sing	13	obl	_	LTranslit=ṣlīāllh|Translit=ṣlīāllh
-15	علیه	علیه	NOUN	N_IANM	Number=Sing	14	obl	_	LTranslit=ʿlīh|Translit=ʿlīh
+14	صلی‌الله	صلی‌الله	NOUN	N_IANM	Number=Sing	13	nmod	_	LTranslit=ṣlīāllh|Translit=ṣlīāllh
+15	علیه	علیه	NOUN	N_IANM	Number=Sing	14	nmod	_	LTranslit=ʿlīh|Translit=ʿlīh
 16	و	و	CCONJ	CONJ	_	17	cc	_	LTranslit=ū|Translit=ū
 17	سلم	سلم	NOUN	N_IANM	Number=Sing	15	conj	_	LTranslit=slm|Translit=slm
 18	زوال	زوال	NOUN	N_IANM	Number=Sing	20	compound:lvc	_	LTranslit=zūāl|Translit=zūāl
@@ -26913,7 +26913,7 @@
 1	این	این	DET	PREM_DEMAJ	_	2	det	_	LTranslit=āīn|Translit=āīn
 2	یکی	یکی	NOUN	N_ANM	Number=Sing	9	nsubj	_	LTranslit=īkī|Translit=īkī
 3	هم	هم	ADV	ADV_SADV	_	2	dep	_	LTranslit=hm|Translit=hm
-4	که	که	PART	PART	_	2	obl	_	LTranslit=kh|Translit=kh
+4	که	که	PART	PART	_	2	nmod	_	LTranslit=kh|Translit=kh
 5-6	پیشانی‌اش	_	_	_	_	_	_	_	Translit=pīšānīāš
 5	پیشانی‌	پیشانی	NOUN	N_IANM	Number=Sing	9	obj	_	LTranslit=pīšānī|Translit=pīšānī
 6	اش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	5	nmod	_	LTranslit=āū|Translit=āš
@@ -27105,7 +27105,7 @@
 13	)	)	PUNCT	PUNC	_	12	punct	_	LTranslit=)|Translit=)
 14	و	و	CCONJ	CONJ	_	6	case	_	LTranslit=ū|Translit=ū
 15	به	به	ADP	PREP	_	16	case	_	LTranslit=bh|Translit=bh
-16	تعداد	تعداد	NOUN	N_IANM	Number=Sing	6	obl	_	LTranslit=tʿdād|Translit=tʿdād
+16	تعداد	تعداد	NOUN	N_IANM	Number=Sing	6	nmod	_	LTranslit=tʿdād|Translit=tʿdād
 17	اقساط	قسط	NOUN	N_IANM	Number=Plur	16	nmod	_	LTranslit=qsṭ|Translit=āqsāṭ
 18	12	12	NUM	PRENUM	_	19	nummod	_	LTranslit=12|Translit=12
 19	ماه	ماه	NOUN	N_IANM	Number=Sing	17	nmod	_	LTranslit=māh|Translit=māh
@@ -27476,7 +27476,7 @@
 # translit = pī dr pī mīnūšīm w mst mīknīm tā šbhā br mā sprī šūnd.
 1	پی	پی	NOUN	N_IANM	Number=Sing	4	obl	_	LTranslit=pī|Translit=pī
 2	در	در	ADP	PREP	_	3	case	_	LTranslit=dr|Translit=dr
-3	پی	پی	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=pī|Translit=pī
+3	پی	پی	NOUN	N_IANM	Number=Sing	1	nmod	_	LTranslit=pī|Translit=pī
 4	می‌نوشیم	نوشید	VERB	V_ACT	Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	LTranslit=nūšīd|OrigLemma=نوشید#نوش|Translit=mīnūšīm
 5	و	و	CCONJ	CONJ	_	7	cc	_	LTranslit=ū|Translit=ū
 6	مست	مست	ADJ	ADJ_AJP	_	7	compound:lvc	_	LTranslit=mst|Translit=mst
@@ -27650,7 +27650,7 @@
 1	تا	تا	SCONJ	SUBR	_	2	mark	_	LTranslit=tā|Translit=tā
 2	نشستم	نشست	VERB	V_ACT	Number=Sing|Person=1|Tense=Past|Voice=Act	7	advcl	_	LTranslit=nšst|OrigLemma=نشست#نشین|Translit=nšstm
 3	کنار	کنار	NOUN	N_IANM	_	2	obl:arg	_	LTranslit=knār|Translit=knār
-4	جدول	جدول	NOUN	N_IANM	Number=Sing	3	obl:arg	_	LTranslit=jdūl|SpaceAfter=No|Translit=jdūl
+4	جدول	جدول	NOUN	N_IANM	Number=Sing	3	nmod	_	LTranslit=jdūl|SpaceAfter=No|Translit=jdūl
 5	،	،	PUNCT	PUNC	_	4	punct	_	LTranslit=,|Translit=,
 6	بالا	بالا	ADJ	ADJ_AJP	_	7	compound:lvc	_	LTranslit=bālā|Translit=bālā
 7	آوردم	آورد	VERB	V_ACT	Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	LTranslit=Āūrd|OrigLemma=آورد#آور|SpaceAfter=No|Translit=Āūrdm
@@ -27686,7 +27686,7 @@
 # text = ما که حسابی لپ‌هایش رو بادکش کردیم.
 # translit = mā kh ḥsābī lphāīš rū bādkš krdīm.
 1	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	LTranslit=mā|Translit=mā
-2	که	که	PART	PART	_	1	obl	_	LTranslit=kh|Translit=kh
+2	که	که	PART	PART	_	1	nmod	_	LTranslit=kh|Translit=kh
 3	حسابی	حسابی	ADJ	ADJ_AJP	_	8	advmod	_	LTranslit=ḥsābī|Translit=ḥsābī
 4-5	لپ‌هایش	_	_	_	_	_	_	_	Translit=lphāīš
 4	لپ‌های	لپ	NOUN	N_IANM	Number=Plur	8	obj	_	LTranslit=lp|Translit=lphāī
@@ -28736,7 +28736,7 @@
 6	هم	هم	ADV	ADV_SADV	_	5	dep	_	LTranslit=hm|Translit=hm
 7	در	در	ADP	PREP	_	8	case	_	LTranslit=dr|Translit=dr
 8	بین	بین	NOUN	N_IANM	Number=Sing	16	obl	_	LTranslit=bīn|Translit=bīn
-9	اهالی	اهل	NOUN	N_ANM	Number=Plur	8	obl	_	LTranslit=āhl|Translit=āhālī
+9	اهالی	اهل	NOUN	N_ANM	Number=Plur	8	nmod	_	LTranslit=āhl|Translit=āhālī
 10	سینما	سینما	NOUN	N_IANM	Number=Sing	9	nmod	_	LTranslit=sīnmā|Translit=sīnmā
 11	به	به	ADP	PREP	_	12	case	_	LTranslit=bh|Translit=bh
 12	صورت	صورت	NOUN	N_IANM	Number=Sing	16	obl	_	LTranslit=ṣūrt|Translit=ṣūrt
@@ -29096,7 +29096,7 @@
 6	ولیعصر	ولیعصر	PROPN	N_IANM	Number=Sing	5	flat:name	_	LTranslit=ūlīʿṣr|Translit=ūlīʿṣr
 7	یا	یا	CCONJ	CONJ	_	5	case	_	LTranslit=īā|Translit=īā
 8	در	در	ADP	PREP	_	9	case	_	LTranslit=dr|Translit=dr
-9	پارک	پارک	PROPN	N_IANM	Number=Sing	5	obl	_	LTranslit=pārk|Translit=pārk
+9	پارک	پارک	PROPN	N_IANM	Number=Sing	5	nmod	_	LTranslit=pārk|Translit=pārk
 10	ملت	ملت	PROPN	N_ANM	Number=Sing	9	flat:name	_	LTranslit=mlt|Translit=mlt
 11	یا	یا	CCONJ	CONJ	_	12	cc	_	LTranslit=īā|Translit=īā
 12	میدان	میدان	PROPN	N_IANM	Number=Sing	9	conj	_	LTranslit=mīdān|Translit=mīdān
@@ -29621,8 +29621,8 @@
 18	پیامبری	پیامبری	NOUN	N_IANM	Number=Sing	17	nmod	_	LTranslit=pīāmbrī|Translit=pīāmbrī
 19	پیامبر	پیامبر	PROPN	N_ANM	Number=Sing	18	nmod	_	LTranslit=pīāmbr|Translit=pīāmbr
 20	اسلام	اسلام	PROPN	N_IANM	Number=Sing	19	flat:name	_	LTranslit=āslām|Translit=āslām
-21	صلی‌الله	صلی‌الله	NOUN	N_IANM	Number=Sing	19	obl	_	LTranslit=ṣlīāllh|Translit=ṣlīāllh
-22	علیه	علیه	NOUN	N_IANM	Number=Sing	21	obl	_	LTranslit=ʿlīh|Translit=ʿlīh
+21	صلی‌الله	صلی‌الله	NOUN	N_IANM	Number=Sing	19	nmod	_	LTranslit=ṣlīāllh|Translit=ṣlīāllh
+22	علیه	علیه	NOUN	N_IANM	Number=Sing	21	nmod	_	LTranslit=ʿlīh|Translit=ʿlīh
 23	و	و	CCONJ	CONJ	_	24	cc	_	LTranslit=ū|Translit=ū
 24	آله	آله	NOUN	N_IANM	Number=Sing	22	conj	_	LTranslit=Ālh|Translit=Ālh
 25	و	و	CCONJ	CONJ	_	26	cc	_	LTranslit=ū|Translit=ū
@@ -30013,7 +30013,7 @@
 # translit = dīgr blk mtāl mnḥṣr bh kšūrhāī askāndīnāūī nbūd w ʿmlāan dr srāsr dnīā ašāʿh pīdā krdh būd.
 1	دیگر	دیگر	ADV	ADV_SADV	_	4	advmod	_	LTranslit=dīgr|Translit=dīgr
 2	بلک	بلک	NOUN	N_IANM	Number=Sing	4	nsubj	_	LTranslit=blk|Translit=blk
-3	متال	متال	NOUN	N_IANM	Number=Sing	2	obl	_	LTranslit=mtāl|Translit=mtāl
+3	متال	متال	NOUN	N_IANM	Number=Sing	2	nmod	_	LTranslit=mtāl|Translit=mtāl
 4	منحصر	منحصر	ADJ	ADJ_AJP	_	0	root	_	LTranslit=mnḥṣr|Translit=mnḥṣr
 5	به	به	ADP	PREP	_	6	case	_	LTranslit=bh|Translit=bh
 6	کشورهای	کشور	NOUN	N_IANM	Number=Plur	4	obl:arg	_	LTranslit=kšūr|Translit=kšūrhāī
