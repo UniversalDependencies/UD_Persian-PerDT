@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Persian-PerDT:
-commit 392dc662438352769149e8b45bf702f0bfe2510d
-Merge: 35a389a 1184f07
+commit ae068d7ffafd5e26a8f88ccb2f7887cb88ab1e42
+Merge: d728a98 18153f5
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'fa_perdt'
+Language code (from CoNLL-U file name) = 'fa'
+Found the following data files: fa_perdt-ud-dev.conllu, fa_perdt-ud-test.conllu, fa_perdt-ud-train.conllu
 Size: counted 501776 of 501776 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.4363076099374.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,71 +23,98 @@ Features: 282104 out of 501776 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.9.
-Udapi:
-               TOTAL      88518
-Udapi: found 88518 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 501776 words.
 Genres: found 6 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-dev.conllu
-[Line 1538 Sent dev-s44 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 9505 Sent dev-s437 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [1, 9] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 14381 Sent dev-s705 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 14742 Sent dev-s720 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 19122 Sent dev-s962 Node 38]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 19386 Sent dev-s975 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 20073 Sent dev-s1010 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 22282 Sent dev-s1124 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 24238 Sent dev-s1227 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 27971 Sent dev-s1376 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-Syntax errors: 1
-Warnings: 9
-*** FAILED *** with 1 errors
+[Line 17 Sent dev-s1]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 31 Sent dev-s1]: [L3 Warning pron-det-without-prontype] The word 'چند čnd' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 50 Sent dev-s2]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 114 Sent dev-s4]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 119 Sent dev-s4]: [L3 Warning pron-det-without-prontype] The word 'هم hm' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 129 Sent dev-s5]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 170 Sent dev-s6]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 185 Sent dev-s7]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 187 Sent dev-s7]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 267 Sent dev-s9]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+[Line 5156 Sent dev-s199]: [L3 Syntax too-many-objects] Multiple direct objects [2, 8] ('جیب\u200cهای jībhāī', 'روی rūī') under the predicate 'گشت gšt'.
+[Line 5446 Sent dev-s213]: [L3 Syntax too-many-objects] Multiple direct objects [3, 9] ('تعهدنامه tʿhdnāmh', 'جواب jūāb') under the predicate 'داد dād'.
+[Line 7316 Sent dev-s304]: [L3 Syntax too-many-objects] Multiple direct objects [9, 15] ('اسم āsm', 'روز rūz') under the predicate 'بگذارند bgḏārnd'.
+[Line 9350 Sent dev-s403]: [L3 Syntax too-many-objects] Multiple direct objects [6, 15] ('زمین zmīn', 'آسمان Āsmān') under the predicate 'داد dād'.
+[Line 9753 Sent dev-s427]: [L3 Syntax too-many-objects] Multiple direct objects [20, 27] ('حضرت ḥḍrt', 'آزار Āzār') under the predicate 'دهد dhd'.
+[Line 9942 Sent dev-s437]: [L3 Syntax too-many-subjects] Multiple subjects [1, 9] ('معلوماتی mʿlūmātī', 'معلوماتی mʿlūmātī') under the predicate 'می‌شود mīšūd' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 10734 Sent dev-s473]: [L3 Syntax too-many-objects] Multiple direct objects [4, 8, 12] ('صورت ṣūrt', 'خلق ḫlq', 'انسان ānsān') under the predicate 'می‌گرداند mīgrdānd'.
+[Line 10743 Sent dev-s473]: [L3 Syntax too-many-objects] Multiple direct objects [17, 21] ('رزق rzq', 'قرض qrḍ') under the predicate 'می‌کند mīknd'.
+[Line 15610 Sent dev-s730]: [L3 Syntax too-many-objects] Multiple direct objects [7, 16] ('موجودی mūjūdī', 'ارزش\u200cهای ārzšhāī') under the predicate 'می‌شناسید mīšnāsīd'.
+[Line 27749 Sent dev-s1308]: [L3 Syntax too-many-objects] Multiple direct objects [3, 16] ('متفکران mtfkrān', 'برخورد brḫūrd') under the predicate 'دارند dārnd'.
+Syntax errors: 10
+Warnings: 929
+*** FAILED *** with 10 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-test.conllu
-[Line 1743 Sent test-s90 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 8816 Sent test-s471 Node 17]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 19377 Sent test-s1006 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 21684 Sent test-s1111 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 24143 Sent test-s1233 Node 30]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 28402 Sent test-s1438 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-Warnings: 6
-*** PASSED ***
-/net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-train.conllu
-[Line 2659 Sent train-s80 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 6007 Sent train-s175 Node 36]: [L3 Warning fixed-without-extpos] Fixed expression 'کمتر از' does not have the 'ExtPos' feature
-[Line 20802 Sent train-s647 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 31508 Sent train-s1191 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 57733 Sent train-s2478 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 57886 Sent train-s2483 Node 16]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 72019 Sent train-s3182 Node 7]: [L3 Syntax leaf-det] 'det' not expected to have children (7:چنان:det --> 23:کشاند:acl)
-[Line 74891 Sent train-s3340 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:چنان:det --> 21:بازمی‌ماندیم:acl)
-[Line 78322 Sent train-s3530 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 78605 Sent train-s3546 Node 16]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 80209 Sent train-s3625 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
-[Line 103066 Sent train-s4928 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 4 Sent test-s1]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 17 Sent test-s1]: [L3 Warning pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 35 Sent test-s2]: [L3 Warning pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 63 Sent test-s3]: [L3 Warning pron-det-without-prontype] The word 'خویش ḫūīš' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 143 Sent test-s8]: [L3 Warning pron-det-without-prontype] The word 'هر hr' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 169 Sent test-s10]: [L3 Warning pron-det-without-prontype] The word 'چه čh' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 231 Sent test-s11]: [L3 Warning pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 240 Sent test-s12]: [L3 Warning pron-det-without-prontype] The word 'آن Ān' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 294 Sent test-s16]: [L3 Warning pron-det-without-prontype] The word 'همین hmīn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 307 Sent test-s16]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
 ...suppressing further errors regarding Warning
-[Line 118708 Sent train-s5711 Node 15]: [L3 Syntax leaf-det] 'det' not expected to have children (15:آن:det --> 14:شد:nmod)
-[Line 190702 Sent train-s9507 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:چنین:det --> 9:یک:nummod)
-[Line 275193 Sent train-s13417 Node 16]: [L3 Syntax leaf-det] 'det' not expected to have children (16:چنان:det --> 15:آن:nmod)
-[Line 294318 Sent train-s14362 Node 1]: [L3 Syntax leaf-det] 'det' not expected to have children (1:مقداری:det --> 2:هم:dep)
-[Line 433087 Sent train-s21182 Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [5, 14] not subtyped as ':outer'.
-[Line 466208 Sent train-s22745 Node 25]: [L3 Syntax leaf-det] 'det' not expected to have children (25:برخی:det --> 24:نیز:dep)
-[Line 473631 Sent train-s23095 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [2, 10] not subtyped as ':outer'.
-[Line 495524 Sent train-s24160 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [5, 16] not subtyped as ':outer'.
+[Line 5684 Sent test-s292]: [L3 Syntax too-many-objects] Multiple direct objects [19, 28] ('کدام kdām', 'نسخه\u200cای nsḫhāī') under the predicate 'می‌فرمود mīfrmūd'.
+[Line 12588 Sent test-s620]: [L3 Syntax too-many-objects] Multiple direct objects [10, 14] ('شادی\u200cها šādīhā', 'کینه\u200cها kīnhhā') under the predicate 'کرد krd'.
+[Line 13435 Sent test-s661]: [L3 Syntax too-many-objects] Multiple direct objects [15, 20] ('حوزه\u200cها ḥūzhhā', 'رشد ršd') under the predicate 'داشت dāšt'.
+[Line 16527 Sent test-s818]: [L3 Syntax too-many-objects] Multiple direct objects [6, 23] ('تجهیزات tjhīzāt', 'تجهیزات tjhīzāt') under the predicate 'کرد krd'.
+[Line 17775 Sent test-s880]: [L3 Syntax too-many-objects] Multiple direct objects [11, 15] ('خداوند ḫdāūnd', 'عبادت ʿbādt') under the predicate 'می‌کند mīknd'.
+[Line 18635 Sent test-s923]: [L3 Syntax too-many-objects] Multiple direct objects [2, 10] ('تمام tmām', 'احیا āḥīā') under the predicate 'می‌دارد mīdārd'.
+[Line 18802 Sent test-s932]: [L3 Syntax too-many-objects] Multiple direct objects [19, 22] ('آن Ān', 'قداست qdāst') under the predicate 'بخشد bḫšd'.
+[Line 20489 Sent test-s1010]: [L3 Syntax too-many-objects] Multiple direct objects [15, 19] ('مردم mrdm', 'خود ḫūd') under the predicate 'می‌دانست mīdānst'.
+[Line 21299 Sent test-s1044]: [L3 Syntax too-many-objects] Multiple direct objects [17, 22, 32, 37] ('انقلاب ānqlāb', 'معماری mʿmārī', 'انقلاب ānqlāb', 'تجربه\u200c tjrbh') under the predicate 'می‌نامد mīnāmd'.
+[Line 21587 Sent test-s1054]: [L3 Syntax too-many-objects] Multiple direct objects [24, 34] ('همهٔ hmhٔ', 'همگی hmgī') under the predicate 'گذارد gḏārd'.
 ...suppressing further errors regarding Syntax
-Syntax errors: 11
-Warnings: 129
-*** FAILED *** with 11 errors
+Syntax errors: 15
+Warnings: 848
+*** FAILED *** with 15 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-train.conllu
+[Line 6 Sent train-s1]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 48 Sent train-s2]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 61 Sent train-s2]: [L3 Warning pron-det-without-prontype] The word 'همین hmīn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 72 Sent train-s2]: [L3 Warning pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 89 Sent train-s3]: [L3 Warning pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 146 Sent train-s5]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 154 Sent train-s5]: [L3 Warning pron-det-without-prontype] The word 'هم hm' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 169 Sent train-s6]: [L3 Warning pron-det-without-prontype] The word 'آن Ān' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 186 Sent train-s7]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 232 Sent train-s8]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+[Line 457 Sent train-s15]: [L3 Syntax too-many-objects] Multiple direct objects [12, 18] ('ضایعه ḍāīʿh', 'تسلیت tslīt') under the predicate 'گفته gfth'.
+[Line 2920 Sent train-s84]: [L3 Syntax too-many-objects] Multiple direct objects [30, 40] ('خودروی ḫūdrūī', 'کیوسک kīūsk') under the predicate 'کرد krd'.
+[Line 7199 Sent train-s204]: [L3 Syntax too-many-objects] Multiple direct objects [8, 26] ('تمامی tmāmī', 'سند snd') under the predicate 'کنند knnd'.
+[Line 10530 Sent train-s303]: [L3 Syntax too-many-objects] Multiple direct objects [33, 47] ('گزینه gzīnh', 'وی ūī') under the predicate 'کنیم knīm'.
+[Line 10795 Sent train-s311]: [L3 Syntax too-many-objects] Multiple direct objects [35, 50] ('بیمه\u200cنامهٔ bīmhnāmhٔ', 'مشخصات mšḫṣāt') under the predicate 'کنند knnd'.
+[Line 42522 Sent train-s1696]: [L3 Syntax too-many-objects] Multiple direct objects [10, 18] ('پیمانکار pīmānkār', 'دم dm') under the predicate 'ببینم bbīnm'.
+[Line 53657 Sent train-s2211]: [L3 Syntax too-many-objects] Multiple direct objects [2, 11] ('سیاوش sīāūš', 'یک īk') under the predicate 'بازمی‌آفرینی bāzmīĀfrīnī'.
+[Line 60148 Sent train-s2474]: [L3 Syntax too-many-objects] Multiple direct objects [14, 22] ('خدا ḫdā', 'عصمت ʿṣmt') under the predicate 'دارند dārnd'.
+[Line 60668 Sent train-s2495]: [L3 Syntax too-many-objects] Multiple direct objects [46, 52] ('زندگی zndgī', 'روشنایی rūšnāīī') under the predicate 'یافته īāfth'.
+[Line 65791 Sent train-s2736]: [L3 Syntax too-many-objects] Multiple direct objects [1, 8, 15] ('سکوت skūt', 'چشمان čšmān', 'سینه\u200c sīnh') under the predicate 'آکندم Ākndm'.
+...suppressing further errors regarding Syntax
+Syntax errors: 142
+Warnings: 16092
+*** FAILED *** with 142 errors
 Exit code: 1
 Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
-(weight=0.0769230769230769) * (score{genres}=0.333333333333333) = 0.0256410256410256
-(weight=0.0769230769230769) * (score{lemmas}=0.9) = 0.0692307692307692
-(weight=0.256410256410256) * (score{size}=0.90016996170787) = 0.230812810694326
-(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.72972972972973) = 0.0561330561330561
-(TOTAL score=0.563325957325119) * (availability=1) * (validity=0.01) = 0.00563325957325119
+(weight=0.111111111111111) * (score{features}=0.9) = 0.1
+(weight=0.111111111111111) * (score{genres}=0.333333333333333) = 0.037037037037037
+(weight=0.111111111111111) * (score{lemmas}=0.9) = 0.1
+(weight=0.37037037037037) * (score{size}=0.90016996170787) = 0.333396282114026
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
+(weight=0.111111111111111) * (score{udeprels}=0.72972972972973) = 0.0810810810810811
+(TOTAL score=0.809248605025172) * (availability=1) * (validity=0.01) = 0.00809248605025172
 STARS = 0
-UD_Persian-PerDT	0.00563325957325119	0
+UD_Persian-PerDT	0.00809248605025172	0
