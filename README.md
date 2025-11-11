@@ -64,6 +64,7 @@ For feedback and bug reports, please contact rasooli@seas.upenn.edu and pegh.saf
 Data available since: UD v2.7
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: news fiction nonfiction academic web blog
 Lemmas: converted with corrections
 UPOS: converted from manual
