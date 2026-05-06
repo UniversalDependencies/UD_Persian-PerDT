@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Persian-PerDT:
-commit ae068d7ffafd5e26a8f88ccb2f7887cb88ab1e42
-Merge: d728a98 18153f5
+commit befd2a07b9bdf72e06fc62c7536023d235631e80
+Merge: 3d83a13 fa1bc56
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'fa_perdt'
@@ -19,92 +19,118 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.9.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 282104 out of 501776 total words have one or more features.
+Features: 289371 out of 501776 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.9.
 Genres: found 6 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-dev.conllu
-[Line 17 Sent dev-s1]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 31 Sent dev-s1]: [L3 Warning pron-det-without-prontype] The word 'چند čnd' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 50 Sent dev-s2]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 114 Sent dev-s4]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 119 Sent dev-s4]: [L3 Warning pron-det-without-prontype] The word 'هم hm' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 129 Sent dev-s5]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 170 Sent dev-s6]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 185 Sent dev-s7]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 187 Sent dev-s7]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 267 Sent dev-s9]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 5156 Sent dev-s199]: [L3 Syntax too-many-objects] Multiple direct objects [2, 8] ('جیب\u200cهای jībhāī', 'روی rūī') under the predicate 'گشت gšt'.
-[Line 5446 Sent dev-s213]: [L3 Syntax too-many-objects] Multiple direct objects [3, 9] ('تعهدنامه tʿhdnāmh', 'جواب jūāb') under the predicate 'داد dād'.
-[Line 7316 Sent dev-s304]: [L3 Syntax too-many-objects] Multiple direct objects [9, 15] ('اسم āsm', 'روز rūz') under the predicate 'بگذارند bgḏārnd'.
-[Line 9350 Sent dev-s403]: [L3 Syntax too-many-objects] Multiple direct objects [6, 15] ('زمین zmīn', 'آسمان Āsmān') under the predicate 'داد dād'.
-[Line 9753 Sent dev-s427]: [L3 Syntax too-many-objects] Multiple direct objects [20, 27] ('حضرت ḥḍrt', 'آزار Āzār') under the predicate 'دهد dhd'.
-[Line 9942 Sent dev-s437]: [L3 Syntax too-many-subjects] Multiple subjects [1, 9] ('معلوماتی mʿlūmātī', 'معلوماتی mʿlūmātī') under the predicate 'می‌شود mīšūd' not subtyped as ':outer'.
+[Line 31 Sent dev-s1]: [L3 WARNING pron-det-without-prontype] The word 'چند čnd' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 119 Sent dev-s4]: [L3 WARNING pron-det-without-prontype] The word 'هم hm' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 187 Sent dev-s7]: [L3 WARNING pron-det-without-prontype] The word 'این āīn' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 443 Sent dev-s13]: [L3 WARNING pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 538 Sent dev-s16]: [L3 WARNING pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 547 Sent dev-s16]: [L3 WARNING pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 597 Sent dev-s17]: [L3 WARNING pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 649 Sent dev-s18]: [L3 WARNING pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 678 Sent dev-s19]: [L3 WARNING pron-det-without-prontype] The word 'هزاران hzārān' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 744 Sent dev-s21]: [L3 WARNING pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 1582 Sent dev-s44]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 5156 Sent dev-s199]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 8] ('جیب\u200cهای jībhāī', 'روی rūī') under the predicate 'گشت gšt'.
+[Line 5446 Sent dev-s213]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 9] ('تعهدنامه tʿhdnāmh', 'جواب jūāb') under the predicate 'داد dād'.
+[Line 7316 Sent dev-s304]: [L3 SYNTAX too-many-objects] Multiple direct objects [9, 15] ('اسم āsm', 'روز rūz') under the predicate 'بگذارند bgḏārnd'.
+[Line 9350 Sent dev-s403]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 15] ('زمین zmīn', 'آسمان Āsmān') under the predicate 'داد dād'.
+[Line 9753 Sent dev-s427]: [L3 SYNTAX too-many-objects] Multiple direct objects [20, 27] ('حضرت ḥḍrt', 'آزار Āzār') under the predicate 'دهد dhd'.
+[Line 9942 Sent dev-s437]: [L3 SYNTAX too-many-subjects] Multiple subjects [1, 9] ('معلوماتی mʿlūmātī', 'معلوماتی mʿlūmātī') under the predicate 'می‌شود mīšūd' not subtyped as ':outer'.
 
 Outer subjects are allowed if a clause acts as the predicate of another clause.
 
-[Line 10734 Sent dev-s473]: [L3 Syntax too-many-objects] Multiple direct objects [4, 8, 12] ('صورت ṣūrt', 'خلق ḫlq', 'انسان ānsān') under the predicate 'می‌گرداند mīgrdānd'.
-[Line 10743 Sent dev-s473]: [L3 Syntax too-many-objects] Multiple direct objects [17, 21] ('رزق rzq', 'قرض qrḍ') under the predicate 'می‌کند mīknd'.
-[Line 15610 Sent dev-s730]: [L3 Syntax too-many-objects] Multiple direct objects [7, 16] ('موجودی mūjūdī', 'ارزش\u200cهای ārzšhāī') under the predicate 'می‌شناسید mīšnāsīd'.
-[Line 27749 Sent dev-s1308]: [L3 Syntax too-many-objects] Multiple direct objects [3, 16] ('متفکران mtfkrān', 'برخورد brḫūrd') under the predicate 'دارند dārnd'.
-Syntax errors: 10
-Warnings: 929
+[Line 10734 Sent dev-s473]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 8, 12] ('صورت ṣūrt', 'خلق ḫlq', 'انسان ānsān') under the predicate 'می‌گرداند mīgrdānd'.
+[Line 10743 Sent dev-s473]: [L3 SYNTAX too-many-objects] Multiple direct objects [17, 21] ('رزق rzq', 'قرض qrḍ') under the predicate 'می‌کند mīknd'.
+[Line 15086 Sent dev-s705]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 15462 Sent dev-s720]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 15610 Sent dev-s730]: [L3 SYNTAX too-many-objects] Multiple direct objects [7, 16] ('موجودی mūjūdī', 'ارزش\u200cهای ārzšhāī') under the predicate 'می‌شناسید mīšnāsīd'.
+[Line 20084 Sent dev-s962]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 20361 Sent dev-s975]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 21083 Sent dev-s1010]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 23406 Sent dev-s1124]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 25465 Sent dev-s1227]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 27749 Sent dev-s1308]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 16] ('متفکران mtfkrān', 'برخورد brḫūrd') under the predicate 'دارند dārnd'.
+[Line 29347 Sent dev-s1376]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+Warnings: 554
+SYNTAX errors: 10
 *** FAILED *** with 10 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-test.conllu
-[Line 4 Sent test-s1]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 17 Sent test-s1]: [L3 Warning pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 35 Sent test-s2]: [L3 Warning pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 63 Sent test-s3]: [L3 Warning pron-det-without-prontype] The word 'خویش ḫūīš' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 143 Sent test-s8]: [L3 Warning pron-det-without-prontype] The word 'هر hr' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 169 Sent test-s10]: [L3 Warning pron-det-without-prontype] The word 'چه čh' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 231 Sent test-s11]: [L3 Warning pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 240 Sent test-s12]: [L3 Warning pron-det-without-prontype] The word 'آن Ān' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 294 Sent test-s16]: [L3 Warning pron-det-without-prontype] The word 'همین hmīn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 307 Sent test-s16]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 5684 Sent test-s292]: [L3 Syntax too-many-objects] Multiple direct objects [19, 28] ('کدام kdām', 'نسخه\u200cای nsḫhāī') under the predicate 'می‌فرمود mīfrmūd'.
-[Line 12588 Sent test-s620]: [L3 Syntax too-many-objects] Multiple direct objects [10, 14] ('شادی\u200cها šādīhā', 'کینه\u200cها kīnhhā') under the predicate 'کرد krd'.
-[Line 13435 Sent test-s661]: [L3 Syntax too-many-objects] Multiple direct objects [15, 20] ('حوزه\u200cها ḥūzhhā', 'رشد ršd') under the predicate 'داشت dāšt'.
-[Line 16527 Sent test-s818]: [L3 Syntax too-many-objects] Multiple direct objects [6, 23] ('تجهیزات tjhīzāt', 'تجهیزات tjhīzāt') under the predicate 'کرد krd'.
-[Line 17775 Sent test-s880]: [L3 Syntax too-many-objects] Multiple direct objects [11, 15] ('خداوند ḫdāūnd', 'عبادت ʿbādt') under the predicate 'می‌کند mīknd'.
-[Line 18635 Sent test-s923]: [L3 Syntax too-many-objects] Multiple direct objects [2, 10] ('تمام tmām', 'احیا āḥīā') under the predicate 'می‌دارد mīdārd'.
-[Line 18802 Sent test-s932]: [L3 Syntax too-many-objects] Multiple direct objects [19, 22] ('آن Ān', 'قداست qdāst') under the predicate 'بخشد bḫšd'.
-[Line 20489 Sent test-s1010]: [L3 Syntax too-many-objects] Multiple direct objects [15, 19] ('مردم mrdm', 'خود ḫūd') under the predicate 'می‌دانست mīdānst'.
-[Line 21299 Sent test-s1044]: [L3 Syntax too-many-objects] Multiple direct objects [17, 22, 32, 37] ('انقلاب ānqlāb', 'معماری mʿmārī', 'انقلاب ānqlāb', 'تجربه\u200c tjrbh') under the predicate 'می‌نامد mīnāmd'.
-[Line 21587 Sent test-s1054]: [L3 Syntax too-many-objects] Multiple direct objects [24, 34] ('همهٔ hmhٔ', 'همگی hmgī') under the predicate 'گذارد gḏārd'.
-...suppressing further errors regarding Syntax
-Syntax errors: 15
-Warnings: 848
+[Line 17 Sent test-s1]: [L3 WARNING pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 35 Sent test-s2]: [L3 WARNING pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 63 Sent test-s3]: [L3 WARNING pron-det-without-prontype] The word 'خویش ḫūīš' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 143 Sent test-s8]: [L3 WARNING pron-det-without-prontype] The word 'هر hr' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 231 Sent test-s11]: [L3 WARNING pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 316 Sent test-s16]: [L3 WARNING pron-det-without-prontype] The word 'هر hr' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 351 Sent test-s17]: [L3 WARNING pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 437 Sent test-s21]: [L3 WARNING pron-det-without-prontype] The word 'هم hm' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 546 Sent test-s26]: [L3 WARNING pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 647 Sent test-s32]: [L3 WARNING pron-det-without-prontype] The word 'این āīn' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 1833 Sent test-s90]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 5684 Sent test-s292]: [L3 SYNTAX too-many-objects] Multiple direct objects [19, 28] ('کدام kdām', 'نسخه\u200cای nsḫhāī') under the predicate 'می‌فرمود mīfrmūd'.
+[Line 9287 Sent test-s471]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 12588 Sent test-s620]: [L3 SYNTAX too-many-objects] Multiple direct objects [10, 14] ('شادی\u200cها šādīhā', 'کینه\u200cها kīnhhā') under the predicate 'کرد krd'.
+[Line 13435 Sent test-s661]: [L3 SYNTAX too-many-objects] Multiple direct objects [15, 20] ('حوزه\u200cها ḥūzhhā', 'رشد ršd') under the predicate 'داشت dāšt'.
+[Line 16527 Sent test-s818]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 23] ('تجهیزات tjhīzāt', 'تجهیزات tjhīzāt') under the predicate 'کرد krd'.
+[Line 17775 Sent test-s880]: [L3 SYNTAX too-many-objects] Multiple direct objects [11, 15] ('خداوند ḫdāūnd', 'عبادت ʿbādt') under the predicate 'می‌کند mīknd'.
+[Line 18635 Sent test-s923]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 10] ('تمام tmām', 'احیا āḥīā') under the predicate 'می‌دارد mīdārd'.
+[Line 18802 Sent test-s932]: [L3 SYNTAX too-many-objects] Multiple direct objects [19, 22] ('آن Ān', 'قداست qdāst') under the predicate 'بخشد bḫšd'.
+[Line 20383 Sent test-s1006]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 20489 Sent test-s1010]: [L3 SYNTAX too-many-objects] Multiple direct objects [15, 19] ('مردم mrdm', 'خود ḫūd') under the predicate 'می‌دانست mīdānst'.
+[Line 21299 Sent test-s1044]: [L3 SYNTAX too-many-objects] Multiple direct objects [17, 22, 32, 37] ('انقلاب ānqlāb', 'معماری mʿmārī', 'انقلاب ānqlāb', 'تجربه\u200c tjrbh') under the predicate 'می‌نامد mīnāmd'.
+[Line 21587 Sent test-s1054]: [L3 SYNTAX too-many-objects] Multiple direct objects [24, 34] ('همهٔ hmhٔ', 'همگی hmgī') under the predicate 'گذارد gḏārd'.
+[Line 22795 Sent test-s1111]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 25376 Sent test-s1233]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 29840 Sent test-s1438]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+Warnings: 521
+SYNTAX errors: 15
 *** FAILED *** with 15 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-train.conllu
-[Line 6 Sent train-s1]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 48 Sent train-s2]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 61 Sent train-s2]: [L3 Warning pron-det-without-prontype] The word 'همین hmīn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 72 Sent train-s2]: [L3 Warning pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 89 Sent train-s3]: [L3 Warning pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 146 Sent train-s5]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 154 Sent train-s5]: [L3 Warning pron-det-without-prontype] The word 'هم hm' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 169 Sent train-s6]: [L3 Warning pron-det-without-prontype] The word 'آن Ān' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 186 Sent train-s7]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 232 Sent train-s8]: [L3 Warning pron-det-without-prontype] The word 'این āīn' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 457 Sent train-s15]: [L3 Syntax too-many-objects] Multiple direct objects [12, 18] ('ضایعه ḍāīʿh', 'تسلیت tslīt') under the predicate 'گفته gfth'.
-[Line 2920 Sent train-s84]: [L3 Syntax too-many-objects] Multiple direct objects [30, 40] ('خودروی ḫūdrūī', 'کیوسک kīūsk') under the predicate 'کرد krd'.
-[Line 7199 Sent train-s204]: [L3 Syntax too-many-objects] Multiple direct objects [8, 26] ('تمامی tmāmī', 'سند snd') under the predicate 'کنند knnd'.
-[Line 10530 Sent train-s303]: [L3 Syntax too-many-objects] Multiple direct objects [33, 47] ('گزینه gzīnh', 'وی ūī') under the predicate 'کنیم knīm'.
-[Line 10795 Sent train-s311]: [L3 Syntax too-many-objects] Multiple direct objects [35, 50] ('بیمه\u200cنامهٔ bīmhnāmhٔ', 'مشخصات mšḫṣāt') under the predicate 'کنند knnd'.
-[Line 42522 Sent train-s1696]: [L3 Syntax too-many-objects] Multiple direct objects [10, 18] ('پیمانکار pīmānkār', 'دم dm') under the predicate 'ببینم bbīnm'.
-[Line 53657 Sent train-s2211]: [L3 Syntax too-many-objects] Multiple direct objects [2, 11] ('سیاوش sīāūš', 'یک īk') under the predicate 'بازمی‌آفرینی bāzmīĀfrīnī'.
-[Line 60148 Sent train-s2474]: [L3 Syntax too-many-objects] Multiple direct objects [14, 22] ('خدا ḫdā', 'عصمت ʿṣmt') under the predicate 'دارند dārnd'.
-[Line 60668 Sent train-s2495]: [L3 Syntax too-many-objects] Multiple direct objects [46, 52] ('زندگی zndgī', 'روشنایی rūšnāīī') under the predicate 'یافته īāfth'.
-[Line 65791 Sent train-s2736]: [L3 Syntax too-many-objects] Multiple direct objects [1, 8, 15] ('سکوت skūt', 'چشمان čšmān', 'سینه\u200c sīnh') under the predicate 'آکندم Ākndm'.
-...suppressing further errors regarding Syntax
-Syntax errors: 142
-Warnings: 16092
+[Line 72 Sent train-s2]: [L3 WARNING pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 89 Sent train-s3]: [L3 WARNING pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 154 Sent train-s5]: [L3 WARNING pron-det-without-prontype] The word 'هم hm' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 325 Sent train-s11]: [L3 WARNING pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 383 Sent train-s13]: [L3 WARNING pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 398 Sent train-s13]: [L3 WARNING pron-det-without-prontype] The word 'خود ḫūd' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 416 Sent train-s14]: [L3 WARNING pron-det-without-prontype] The word 'این āīn' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 457 Sent train-s15]: [L3 SYNTAX too-many-objects] Multiple direct objects [12, 18] ('ضایعه ḍāīʿh', 'تسلیت tslīt') under the predicate 'گفته gfth'.
+[Line 596 Sent train-s18]: [L3 WARNING pron-det-without-prontype] The word 'این āīn' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 657 Sent train-s20]: [L3 WARNING pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 718 Sent train-s23]: [L3 WARNING pron-det-without-prontype] The word 'این āīn' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 2739 Sent train-s80]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 2920 Sent train-s84]: [L3 SYNTAX too-many-objects] Multiple direct objects [30, 40] ('خودروی ḫūdrūī', 'کیوسک kīūsk') under the predicate 'کرد krd'.
+[Line 6182 Sent train-s175]: [L3 WARNING fixed-without-extpos] Fixed expression 'کمتر از' does not have the 'ExtPos' feature
+[Line 7199 Sent train-s204]: [L3 SYNTAX too-many-objects] Multiple direct objects [8, 26] ('تمامی tmāmī', 'سند snd') under the predicate 'کنند knnd'.
+[Line 10530 Sent train-s303]: [L3 SYNTAX too-many-objects] Multiple direct objects [33, 47] ('گزینه gzīnh', 'وی ūī') under the predicate 'کنیم knīm'.
+[Line 10795 Sent train-s311]: [L3 SYNTAX too-many-objects] Multiple direct objects [35, 50] ('بیمه\u200cنامهٔ bīmhnāmhٔ', 'مشخصات mšḫṣāt') under the predicate 'کنند knnd'.
+[Line 21449 Sent train-s647]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 32699 Sent train-s1191]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 42522 Sent train-s1696]: [L3 SYNTAX too-many-objects] Multiple direct objects [10, 18] ('پیمانکار pīmānkār', 'دم dm') under the predicate 'ببینم bbīnm'.
+[Line 53657 Sent train-s2211]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 11] ('سیاوش sīāūš', 'یک īk') under the predicate 'بازمی‌آفرینی bāzmīĀfrīnī'.
+[Line 60148 Sent train-s2474]: [L3 SYNTAX too-many-objects] Multiple direct objects [14, 22] ('خدا ḫdā', 'عصمت ʿṣmt') under the predicate 'دارند dārnd'.
+[Line 60211 Sent train-s2478]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 60369 Sent train-s2483]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 60668 Sent train-s2495]: [L3 SYNTAX too-many-objects] Multiple direct objects [46, 52] ('زندگی zndgī', 'روشنایی rūšnāīī') under the predicate 'یافته īāfth'.
+[Line 65791 Sent train-s2736]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 8, 15] ('سکوت skūt', 'چشمان čšmān', 'سینه\u200c sīnh') under the predicate 'آکندم Ākndm'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 81852 Sent train-s3530]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 82151 Sent train-s3546]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 83834 Sent train-s3625]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+[Line 107994 Sent train-s4928]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 9527
+SYNTAX errors: 142
 *** FAILED *** with 142 errors
 Exit code: 1
 Validity: 0.01
