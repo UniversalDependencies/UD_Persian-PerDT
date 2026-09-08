@@ -9924,13 +9924,13 @@
 # sent_id = dev-s437
 # text = معلوماتی که دربارهٔ انجام دادن است فرض و معلوماتی که باید اجتناب ورزید حرام گفته می‌شود.
 # translit = mʿlūmātī kh drbārhٔ anjām dādn ast frḍ w mʿlūmātī kh bāīd ajtnāb wrzīd ḥrām gfth mīšūd.
-1	معلوماتی	معلومات	NOUN	N_IANM	Number=Plur	16	nsubj:pass	_	LTranslit=mʿlūmāt|Translit=mʿlūmātī
+1	معلوماتی	معلومات	NOUN	N_IANM	Number=Plur	7	nsubj:pass	_	LTranslit=mʿlūmāt|Translit=mʿlūmātī
 2	که	که	SCONJ	SUBR	_	5	mark	_	LTranslit=kh|Translit=kh
 3	دربارهٔ	درباره	ADP	PREP	_	5	case	_	LTranslit=drbārh|Translit=drbārhٔ
 4	انجام	انجام	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	LTranslit=ānjām|Translit=ānjām
 5	دادن	دادن	NOUN	N_IANM	Number=Sing	1	acl	_	LTranslit=dādn|Translit=dādn
 6	است	است	AUX	AUX	Number=Sing|Person=3	5	cop	_	LTranslit=āst|OrigLemma=#است|Translit=āst
-7	فرض	فرض	NOUN	N_IANM	Number=Sing	15	xcomp	_	LTranslit=frḍ|Translit=frḍ
+7	فرض	فرض	NOUN	N_IANM	Number=Sing	0	root	_	LTranslit=frḍ|Translit=frḍ
 8	و	و	CCONJ	CONJ	_	16	cc	_	LTranslit=ū|Translit=ū
 9	معلوماتی	معلومات	NOUN	N_IANM	Number=Plur	16	nsubj:pass	_	LTranslit=mʿlūmāt|Translit=mʿlūmātī
 10	که	که	SCONJ	SUBR	_	13	mark	_	LTranslit=kh|Translit=kh
@@ -9939,8 +9939,8 @@
 13	ورزید	ورزید	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl	_	LTranslit=ūrzīd|OrigLemma=ورزید#ورز|Translit=ūrzīd
 14	حرام	حرام	ADJ	ADJ_AJP	_	15	xcomp	_	LTranslit=ḥrām|Translit=ḥrām
 15	گفته	گفت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	16	xcomp	_	LTranslit=gft|OrigLemma=گفت#گو|Translit=gfth
-16	می‌شود	شد	VERB	AUX	Number=Sing|Person=3|Tense=Pres	0	root	_	LTranslit=šd|OrigLemma=شد#شو|SpaceAfter=No|Translit=mīšūd
-17	.	.	PUNCT	PUNC	_	16	punct	_	LTranslit=.|Translit=.
+16	می‌شود	شد	VERB	AUX	Number=Sing|Person=3|Tense=Pres	7	conj	_	LTranslit=šd|OrigLemma=شد#شو|SpaceAfter=No|Translit=mīšūd
+17	.	.	PUNCT	PUNC	_	7	punct	_	LTranslit=.|Translit=.
 
 # sent_id = dev-s438
 # text = این طرح دارای اشکالاتی بود، چراکه بر اساس این طرح می‌بایستی هواپیمای ما در ریاض (سعودی) سوخت‌گیری می‌کرد و این یک ریسک کامل بود.
