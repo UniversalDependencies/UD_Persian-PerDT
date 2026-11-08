@@ -57,8 +57,8 @@
     <feat name="Voice" value="Pass" upos="VERB">1081</feat><!-- داده, شده, زده, گرفته, دیده, گفته, گذاشته, ساخته, کشیده, برده -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="34">
-    <dep name="acl">10034</dep>
+  <deps unique="35">
+    <dep name="acl">10035</dep>
     <dep name="advcl">4229</dep>
     <dep name="advmod">9157</dep>
     <dep name="amod">22576</dep>
@@ -66,12 +66,12 @@
     <dep name="aux">12868</dep>
     <dep name="case">71118</dep>
     <dep name="cc">21300</dep>
-    <dep name="ccomp">6945</dep>
+    <dep name="ccomp">6944</dep>
     <dep name="compound">42</dep>
     <dep name="compound:lvc">32778</dep>
-    <dep name="conj">23739</dep>
+    <dep name="conj">23742</dep>
     <dep name="cop">5126</dep>
-    <dep name="csubj">682</dep>
+    <dep name="csubj">680</dep>
     <dep name="dep">2035</dep>
     <dep name="det">10273</dep>
     <dep name="fixed">144</dep>
@@ -79,18 +79,19 @@
     <dep name="flat:num">607</dep>
     <dep name="goeswith">2</dep>
     <dep name="iobj">6</dep>
-    <dep name="mark">11982</dep>
+    <dep name="mark">11984</dep>
     <dep name="nmod">62980</dep>
     <dep name="nsubj">27181</dep>
-    <dep name="nsubj:pass">533</dep>
+    <dep name="nsubj:pass">531</dep>
     <dep name="nummod">5459</dep>
     <dep name="obj">19999</dep>
-    <dep name="obl">28996</dep>
-    <dep name="obl:arg">21333</dep>
+    <dep name="obl">28995</dep>
+    <dep name="obl:arg">21332</dep>
+    <dep name="orphan">3</dep>
     <dep name="parataxis">82</dep>
     <dep name="punct">44336</dep>
     <dep name="root">29107</dep>
     <dep name="vocative">174</dep>
-    <dep name="xcomp">6998</dep>
+    <dep name="xcomp">6996</dep>
   </deps>
 </treebank>
