@@ -454268,11 +454268,11 @@
 1	البته	البته	ADV	ADV_SADV	_	2	advmod	_	LTranslit=ālbth|Translit=ālbth
 2	معلوم	معلوم	ADJ	ADJ_AJP	_	0	root	_	LTranslit=mʿlūm|Translit=mʿlūm
 3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	LTranslit=āst|OrigLemma=#است|Translit=āst
-4	انسان	انسان	NOUN	N_ANM	Number=Sing	8	nsubj	_	LTranslit=ānsān|Translit=ānsān
-5	که	که	SCONJ	SUBR	_	2	csubj	_	LTranslit=kh|Translit=kh
+4	انسان	انسان	NOUN	N_ANM	Number=Sing	14	nsubj	_	LTranslit=ānsān|Translit=ānsān
+5	که	که	SCONJ	SUBR	_	8	mark	_	LTranslit=kh|Translit=kh
 6	در	در	ADP	PREP	_	7	case	_	LTranslit=dr|Translit=dr
 7	آتش	آتش	NOUN	N_IANM	Number=Sing	8	obl:arg	_	LTranslit=Ātš|Translit=Ātš
-8	می‌رود	رفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	5	ccomp	_	LTranslit=rft|OrigLemma=رفت#رو|Translit=mīrūd
+8	می‌رود	رفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	4	acl	_	LTranslit=rft|OrigLemma=رفت#رو|Translit=mīrūd
 9	و	و	CCONJ	CONJ	_	12	cc	_	LTranslit=ū|Translit=ū
 10	به	به	ADP	PREP	_	11	case	_	LTranslit=bh|Translit=bh
 11	جهنم	جهنم	NOUN	N_IANM	Number=Sing	12	obl:arg	_	LTranslit=jhnm|Translit=jhnm
@@ -496708,13 +496708,13 @@
 # sent_id = train-s23095
 # text = اگر آسمان‌ها و زمین در یک کفهٔ ترازو و ایمان علی در کفهٔ دیگر گذاشته شوند به طور حتم ایمان علی بر آن‌ها فزونی می‌کند.
 # translit = āgr Āsmānhā w zmīn dr yk kfhٔ trāzū w aīmān ʿlī dr kfhٔ dīgr gḏāšth šūnd bh ṭūr ḥtm aīmān ʿlī br Ānhā fzūnī mīknd.
-1	اگر	اگر	SCONJ	SUBR	_	16	mark	_	LTranslit=āgr|Translit=āgr
-2	آسمان‌ها	آسمان	NOUN	N_IANM	Number=Plur	16	nsubj:pass	_	LTranslit=Āsmān|Translit=Āsmānhā
+1	اگر	اگر	SCONJ	SUBR	_	2	mark	_	LTranslit=āgr|Translit=āgr
+2	آسمان‌ها	آسمان	NOUN	N_IANM	Number=Plur	25	advcl	_	LTranslit=Āsmān|Translit=Āsmānhā
 3	و	و	CCONJ	CONJ	_	4	cc	_	LTranslit=ū|Translit=ū
 4	زمین	زمین	NOUN	N_IANM	Number=Sing	2	conj	_	LTranslit=zmīn|Translit=zmīn
 5	در	در	ADP	PREP	_	7	case	_	LTranslit=dr|Translit=dr
 6	یک	یک	NUM	PRENUM	_	7	nummod	_	LTranslit=īk|Translit=īk
-7	کفهٔ	کفه	NOUN	N_IANM	Number=Sing	16	obl:arg	_	LTranslit=kfh|Translit=kfhٔ
+7	کفهٔ	کفه	NOUN	N_IANM	Number=Sing	2	orphan	_	LTranslit=kfh|Translit=kfhٔ
 8	ترازو	ترازو	NOUN	N_IANM	Number=Sing	7	nmod	_	LTranslit=trāzū|Translit=trāzū
 9	و	و	CCONJ	CONJ	_	16	cc	_	LTranslit=ū|Translit=ū
 10	ایمان	ایمان	NOUN	N_IANM	Number=Sing	16	nsubj:pass	_	LTranslit=āīmān|Translit=āīmān
@@ -496723,7 +496723,7 @@
 13	کفهٔ	کفه	NOUN	N_IANM	Number=Sing	16	obl:arg	_	LTranslit=kfh|Translit=kfhٔ
 14	دیگر	دیگر	ADJ	ADJ_AJP	_	13	amod	_	LTranslit=dīgr|Translit=dīgr
 15	گذاشته	گذاشت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	16	xcomp	_	LTranslit=gḏāšt|OrigLemma=گذاشت#گذار|Translit=gḏāšth
-16	شوند	شد	VERB	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	advcl	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šūnd
+16	شوند	شد	VERB	AUX	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šūnd
 17	به	به	ADP	PREP	_	18	case	_	LTranslit=bh|Translit=bh
 18	طور	طور	NOUN	N_IANM	Number=Sing	25	obl	_	LTranslit=ṭūr|Translit=ṭūr
 19	حتم	حتم	ADJ	ADJ_AJP	_	18	amod	_	LTranslit=ḥtm|Translit=ḥtm
@@ -519683,13 +519683,13 @@
 13	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2|PronType=Prs	14	obl	_	LTranslit=šmā|Translit=šmā
 14	بهتر	به	ADJ	ADJ_AJCM	_	0	root	_	LTranslit=bh|Translit=bhtr
 15	است	است	AUX	AUX	Number=Sing|Person=3	14	cop	_	LTranslit=āst|OrigLemma=#است|Translit=āst
-16	که	که	SCONJ	SUBR	_	14	csubj	_	LTranslit=kh|Translit=kh
+16	که	که	SCONJ	SUBR	_	22	mark	_	LTranslit=kh|Translit=kh
 17	به	به	ADP	PREP	_	18	case	_	LTranslit=bh|Translit=bh
 18	خوبی	خوبی	NOUN	N_IANM	Number=Sing	22	obl	_	LTranslit=ḫūbī|Translit=ḫūbī
 19	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	22	obj	_	LTranslit=āū|Translit=āū
 20	را	را	ADP	POSTP	_	19	case	_	LTranslit=rā|Translit=rā
 21	بدرقه	بدرقه	NOUN	N_IANM	Number=Sing	22	compound:lvc	_	LTranslit=bdrqh|Translit=bdrqh
-22	نمایید	نمود	VERB	V_ACT	Number=Plur|Person=2|Voice=Act	16	ccomp	_	LTranslit=nmūd|OrigLemma=نمود#نما|SpaceAfter=No|Translit=nmāīīd
+22	نمایید	نمود	VERB	V_ACT	Number=Plur|Person=2|Voice=Act	14	ccomp	_	LTranslit=nmūd|OrigLemma=نمود#نما|SpaceAfter=No|Translit=nmāīīd
 23	.	.	PUNCT	PUNC	_	14	punct	_	LTranslit=.|Translit=.
 
 # sent_id = train-s24161
@@ -540956,15 +540956,15 @@
 5	"	"	PUNCT	PUNC	_	3	punct	_	LTranslit="|Translit="
 6	خاطرنشان	خاطرنشان	ADJ	ADJ_AJP	_	7	compound:lvc	_	LTranslit=ḫāṭrnšān|Translit=ḫāṭrnšān
 7	می‌سازد	ساخت	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LTranslit=sāḫt|OrigLemma=ساخت#ساز|Translit=mīsāzd
-8	قیمت	قیمت	NOUN	N_IANM	Number=Sing	25	nsubj:pass	_	LTranslit=qīmt|Translit=qīmt
+8	قیمت	قیمت	NOUN	N_IANM	Number=Sing	7	ccomp	_	LTranslit=qīmt|Translit=qīmt
 9	نفت	نفت	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=nft|Translit=nft
 10	در	در	ADP	PREP	_	11	case	_	LTranslit=dr|Translit=dr
-11	بودجهٔ	بودجه	NOUN	N_IANM	Number=Sing	25	obl	_	LTranslit=būdjh|Translit=būdjhٔ
+11	بودجهٔ	بودجه	NOUN	N_IANM	Number=Sing	8	orphan	_	LTranslit=būdjh|Translit=būdjhٔ
 12	سال	سال	NOUN	N_IANM	Number=Sing	11	nmod	_	LTranslit=sāl|Translit=sāl
 13	آیندهٔ	آینده	ADJ	ADJ_AJP	_	12	amod	_	LTranslit=Āīndh|Translit=Āīndhٔ
 14	ایران	ایران	PROPN	N_IANM	Number=Sing	11	nmod	_	LTranslit=āīrān|Translit=āīrān
 15	85	85	NUM	PRENUM	_	16	nummod	_	LTranslit=85|Translit=85
-16	دلار	دلار	NOUN	N_IANM	Number=Sing	24	xcomp	_	LTranslit=dlār|Translit=dlār
+16	دلار	دلار	NOUN	N_IANM	Number=Sing	8	orphan	_	LTranslit=dlār|Translit=dlār
 17	و	و	CCONJ	CONJ	_	25	cc	_	LTranslit=ū|Translit=ū
 18	قیمت	قیمت	NOUN	N_IANM	Number=Sing	25	nsubj:pass	_	LTranslit=qīmt|Translit=qīmt
 19	دلار	دلار	NOUN	N_IANM	Number=Sing	18	nmod	_	LTranslit=dlār|Translit=dlār
@@ -540973,7 +540973,7 @@
 22	در	در	ADP	PREP	_	23	case	_	LTranslit=dr|Translit=dr
 23	نظر	نظر	NOUN	N_IANM	Number=Sing	24	compound:lvc	_	LTranslit=nẓr|Translit=nẓr
 24	گرفته	گرفت	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	25	xcomp	_	LTranslit=grft|OrigLemma=گرفت#گیر|Translit=grfth
-25	شده	شد	VERB	AUX	Number=Sing|Person=3|Tense=Past	7	ccomp	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šdh
+25	شده	شد	VERB	AUX	Number=Sing|Person=3|Tense=Past	8	conj	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šdh
 26	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	25	aux	_	LTranslit=āst|OrigLemma=#است|SpaceAfter=No|Translit=āst
 27	.	.	PUNCT	PUNC	_	7	punct	_	LTranslit=.|Translit=.
 
