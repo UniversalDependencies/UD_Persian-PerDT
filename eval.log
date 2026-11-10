@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Persian-PerDT:
-commit befd2a07b9bdf72e06fc62c7536023d235631e80
-Merge: 3d83a13 fa1bc56
+commit 08c7bc103e55530089470e3e7bd73c6b6ab72347
+Merge: a920904 8b1b058
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'fa_perdt'
@@ -21,7 +21,7 @@ Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
 Features: 289371 out of 501776 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
-Universal relations: 30 out of 37 found in the corpus.
+Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.9.
 Genres: found 6 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-dev.conllu
@@ -42,10 +42,6 @@ Genres: found 6 out of 18 known.
 [Line 7316 Sent dev-s304]: [L3 SYNTAX too-many-objects] Multiple direct objects [9, 15] ('اسم āsm', 'روز rūz') under the predicate 'بگذارند bgḏārnd'.
 [Line 9350 Sent dev-s403]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 15] ('زمین zmīn', 'آسمان Āsmān') under the predicate 'داد dād'.
 [Line 9753 Sent dev-s427]: [L3 SYNTAX too-many-objects] Multiple direct objects [20, 27] ('حضرت ḥḍrt', 'آزار Āzār') under the predicate 'دهد dhd'.
-[Line 9942 Sent dev-s437]: [L3 SYNTAX too-many-subjects] Multiple subjects [1, 9] ('معلوماتی mʿlūmātī', 'معلوماتی mʿlūmātī') under the predicate 'می‌شود mīšūd' not subtyped as ':outer'.
-
-Outer subjects are allowed if a clause acts as the predicate of another clause.
-
 [Line 10734 Sent dev-s473]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 8, 12] ('صورت ṣūrt', 'خلق ḫlq', 'انسان ānsān') under the predicate 'می‌گرداند mīgrdānd'.
 [Line 10743 Sent dev-s473]: [L3 SYNTAX too-many-objects] Multiple direct objects [17, 21] ('رزق rzq', 'قرض qrḍ') under the predicate 'می‌کند mīknd'.
 [Line 15086 Sent dev-s705]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
@@ -59,8 +55,8 @@ Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 27749 Sent dev-s1308]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 16] ('متفکران mtfkrān', 'برخورد brḫūrd') under the predicate 'دارند dārnd'.
 [Line 29347 Sent dev-s1376]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
 Warnings: 554
-SYNTAX errors: 10
-*** FAILED *** with 10 errors
+SYNTAX errors: 9
+*** FAILED *** with 9 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang fa --max-err=10 UD_Persian-PerDT/fa_perdt-ud-test.conllu
 [Line 17 Sent test-s1]: [L3 WARNING pron-det-without-prontype] The word 'آن Ān' is tagged 'PRON' but it lacks the 'PronType' feature
@@ -130,8 +126,8 @@ Exit code: 1
 [Line 107994 Sent train-s4928]: [L3 WARNING fixed-without-extpos] Fixed expression 'بیش از' does not have the 'ExtPos' feature
 ...suppressing further messages regarding WARNING/SYNTAX
 Warnings: 9527
-SYNTAX errors: 142
-*** FAILED *** with 142 errors
+SYNTAX errors: 138
+*** FAILED *** with 138 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.9) = 0.1
@@ -140,7 +136,7 @@ Validity: 0.01
 (weight=0.37037037037037) * (score{size}=0.90016996170787) = 0.333396282114026
 (weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
 (weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
-(weight=0.111111111111111) * (score{udeprels}=0.72972972972973) = 0.0810810810810811
-(TOTAL score=0.809248605025172) * (availability=1) * (validity=0.01) = 0.00809248605025172
+(weight=0.111111111111111) * (score{udeprels}=0.754054054054054) = 0.0837837837837838
+(TOTAL score=0.811951307727875) * (availability=1) * (validity=0.01) = 0.00811951307727875
 STARS = 0
-UD_Persian-PerDT	0.00809248605025172	0
+UD_Persian-PerDT	0.00811951307727875	0
